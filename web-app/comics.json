@@ -1,0 +1,68 @@
+{
+  "site": {
+    "title": "Random Comics",
+    "description": "Standalone comics, strange experiments, one-shot adventures, and spontaneous comic ideas.",
+    "baseUrl": "https://jetblackrlsh.github.io/Random-Comics/web-app",
+    "supportUrl": "https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602",
+    "generatedAt": "2026-05-10T18:24:24.787Z"
+  },
+  "comics": [
+    {
+      "slug": "deca-form-island-retirement",
+      "title": "Deca-Form: Island Retirement",
+      "publishedDate": "2026-05-10",
+      "summary": "After a supernatural storm destroys his cruise ship, Deca Form must stop treating survival as a rescue mission and use his alien transformations to build a new life on an empty island.",
+      "cover": "../deca-form-island-retirement/assets/comic-pages/page-01-cover.png",
+      "pdf": "../deca-form-island-retirement/output/pdf/deca-form-island-retirement.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../deca-form-island-retirement/assets/comic-pages/page-01-cover.png",
+          "alt": "Deca Form Island Retirement page 1"
+        },
+        {
+          "number": 2,
+          "path": "../deca-form-island-retirement/assets/comic-pages/page-02.png",
+          "alt": "Deca Form Island Retirement page 2"
+        },
+        {
+          "number": 3,
+          "path": "../deca-form-island-retirement/assets/comic-pages/page-03.png",
+          "alt": "Deca Form Island Retirement page 3"
+        },
+        {
+          "number": 4,
+          "path": "../deca-form-island-retirement/assets/comic-pages/page-04.png",
+          "alt": "Deca Form Island Retirement page 4"
+        },
+        {
+          "number": 5,
+          "path": "../deca-form-island-retirement/assets/comic-pages/page-05.png",
+          "alt": "Deca Form Island Retirement page 5"
+        },
+        {
+          "number": 6,
+          "path": "../deca-form-island-retirement/assets/comic-pages/page-06.png",
+          "alt": "Deca Form Island Retirement page 6"
+        },
+        {
+          "number": 7,
+          "path": "../deca-form-island-retirement/assets/comic-pages/page-07.png",
+          "alt": "Deca Form Island Retirement page 7"
+        },
+        {
+          "number": 8,
+          "path": "../deca-form-island-retirement/assets/comic-pages/page-08.png",
+          "alt": "Deca Form Island Retirement page 8"
+        },
+        {
+          "number": 9,
+          "path": "../deca-form-island-retirement/assets/comic-pages/page-09.png",
+          "alt": "Deca Form Island Retirement page 9"
+        }
+      ],
+      "pageCount": 9,
+      "url": "comics/deca-form-island-retirement/"
+    }
+  ]
+}
