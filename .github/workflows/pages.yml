@@ -25,6 +25,8 @@ jobs:
 
       - name: Set up Pages
         uses: actions/configure-pages@v5
+        with:
+          enablement: true
 
       - name: Build static catalog and share pages
         run: |

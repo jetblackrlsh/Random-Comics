@@ -139,14 +139,12 @@ function discoverComics() {
 }
 
 const comics = discoverComics();
-const generatedAt = new Date().toISOString();
 const catalog = {
   site: {
     title: "Random Comics",
     description: "Standalone comics, strange experiments, one-shot adventures, and spontaneous comic ideas.",
     baseUrl: canonicalBaseUrl(),
     supportUrl: "https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602",
-    generatedAt,
   },
   comics,
 };
