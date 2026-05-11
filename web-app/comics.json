@@ -62,6 +62,58 @@
       ],
       "pageCount": 9,
       "url": "comics/deca-form-island-retirement/"
+    },
+    {
+      "slug": "particle-patriot-time-displacement",
+      "title": "Particle Patriot: Time Displacement",
+      "publishedDate": "2026-05-11",
+      "summary": "On an early government mission, a quantum superhero made of red, white, and blue atoms must escape the Jurassic past and a ruined future to stop Clocktor before one stolen moment becomes a permanent empire.",
+      "cover": "../particle-patriot-time-displacement/assets/comic-pages/page-01-cover.png",
+      "pdf": "../particle-patriot-time-displacement/output/pdf/particle-patriot-time-displacement.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../particle-patriot-time-displacement/assets/comic-pages/page-01-cover.png",
+          "alt": "Particle Patriot Time Displacement page 1"
+        },
+        {
+          "number": 2,
+          "path": "../particle-patriot-time-displacement/assets/comic-pages/page-02.png",
+          "alt": "Particle Patriot Time Displacement page 2"
+        },
+        {
+          "number": 3,
+          "path": "../particle-patriot-time-displacement/assets/comic-pages/page-03.png",
+          "alt": "Particle Patriot Time Displacement page 3"
+        },
+        {
+          "number": 4,
+          "path": "../particle-patriot-time-displacement/assets/comic-pages/page-04.png",
+          "alt": "Particle Patriot Time Displacement page 4"
+        },
+        {
+          "number": 5,
+          "path": "../particle-patriot-time-displacement/assets/comic-pages/page-05.png",
+          "alt": "Particle Patriot Time Displacement page 5"
+        },
+        {
+          "number": 6,
+          "path": "../particle-patriot-time-displacement/assets/comic-pages/page-06.png",
+          "alt": "Particle Patriot Time Displacement page 6"
+        },
+        {
+          "number": 7,
+          "path": "../particle-patriot-time-displacement/assets/comic-pages/page-07.png",
+          "alt": "Particle Patriot Time Displacement page 7"
+        },
+        {
+          "number": 8,
+          "path": "../particle-patriot-time-displacement/assets/comic-pages/page-08.png",
+          "alt": "Particle Patriot Time Displacement page 8"
+        }
+      ],
+      "pageCount": 8,
+      "url": "comics/particle-patriot-time-displacement/"
     }
   ]
 }

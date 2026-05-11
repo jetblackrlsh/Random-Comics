@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="../../">
+    <!-- APP_META_START -->
+    <title>Particle Patriot: Time Displacement | Random Comics</title>
+    <meta name="description" content="On an early government mission, a quantum superhero made of red, white, and blue atoms must escape the Jurassic past and a ruined future to stop Clocktor before one stolen moment becomes a permanent empire.">
+    <link rel="canonical" href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/particle-patriot-time-displacement/">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Random Comics">
+    <meta property="og:title" content="Particle Patriot: Time Displacement | Random Comics">
+    <meta property="og:description" content="On an early government mission, a quantum superhero made of red, white, and blue atoms must escape the Jurassic past and a ruined future to stop Clocktor before one stolen moment becomes a permanent empire.">
+    <meta property="og:url" content="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/particle-patriot-time-displacement/">
+    <meta property="og:image" content="https://jetblackrlsh.github.io/Random-Comics/particle-patriot-time-displacement/assets/comic-pages/page-01-cover.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Particle Patriot: Time Displacement | Random Comics">
+    <meta name="twitter:description" content="On an early government mission, a quantum superhero made of red, white, and blue atoms must escape the Jurassic past and a ruined future to stop Clocktor before one stolen moment becomes a permanent empire.">
+    <meta name="twitter:image" content="https://jetblackrlsh.github.io/Random-Comics/particle-patriot-time-displacement/assets/comic-pages/page-01-cover.png">
+    <!-- APP_META_END -->
+    <link rel="preload" href="assets/site-background.png" as="image">
+    <link rel="icon" href="assets/random-comics-logo.png">
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body data-initial-route="comic:particle-patriot-time-displacement">
+    <div class="background-art" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="brand" href="./" data-route="home" aria-label="Random Comics home">
+        <img src="assets/random-comics-logo.png" alt="Random Comics">
+      </a>
+      <nav class="top-nav" aria-label="Primary navigation">
+        <a href="./" data-route="home">Read</a>
+        <a href="about/" data-route="about">About</a>
+        <a class="support-link" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="reader-layout" id="readerView">
+        <aside class="control-panel" aria-label="Comic controls">
+          <div class="intro-copy">
+            <h1>Random Comics</h1>
+            <p>Browse standalone stories, read vertically, share a favorite issue, or download it for later.</p>
+          </div>
+
+          <label class="search-wrap" for="comicSearch">
+            <span>Search by title or date</span>
+            <input id="comicSearch" type="search" autocomplete="off" placeholder="Try 2026 or Deca-Form">
+          </label>
+
+          <div class="jump-actions" aria-label="Jump to comic">
+            <button type="button" id="earliestButton">Earliest</button>
+            <button type="button" id="latestButton">Latest</button>
+          </div>
+
+          <div class="comic-list" id="comicList" aria-label="Comics"></div>
+        </aside>
+
+        <article class="reader-panel" aria-live="polite">
+          <div class="reader-toolbar">
+            <div>
+              <p class="publish-date" id="comicDate"></p>
+              <h2 id="comicTitle">Loading comics...</h2>
+            </div>
+            <div class="reader-actions" aria-label="Selected comic actions">
+              <a class="icon-button" id="downloadButton" href="#" download>Download</a>
+              <button class="icon-button" type="button" id="shareButton">Share</button>
+              <a class="icon-button support" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+            </div>
+          </div>
+          <p class="comic-summary" id="comicSummary"></p>
+          <div class="page-strip" id="pageStrip"></div>
+        </article>
+      </section>
+
+      <section class="about-view" id="aboutView" hidden>
+        <div class="about-copy">
+          <h1>About Random Comics</h1>
+          <p>Random Comics is a home for standalone stories, strange experiments, one-shot adventures, and comic ideas that do not necessarily belong to a larger series.</p>
+          <p>Some comics are based on dreams. Some come from sudden shower thoughts, weird news, superhero concepts, game-inspired ideas, or random sparks of imagination that demanded to become something real. Instead of waiting for every idea to fit neatly into a full continuity, this site gives those ideas their own place to live.</p>
+          <p>The comics collected here may vary in tone, style, length, format, and genre. You might find superhero action, sci-fi weirdness, dream logic, horror, comedy, mythic strangeness, or something that only makes sense in the moment it was created.</p>
+          <p>Think of this as a creative sketchbook turned into a comic archive: a place where spontaneous ideas can become finished stories, even if they only exist for a single issue.</p>
+          <p>Not every comic needs a universe.</p>
+          <p>Sometimes one strange little story is enough.</p>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
