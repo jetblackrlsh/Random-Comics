@@ -64,6 +64,58 @@
       "url": "comics/deca-form-island-retirement/"
     },
     {
+      "slug": "bun-bun-lightless-god",
+      "title": "Bun-Bun and the Lightless God",
+      "publishedDate": "2026-05-11",
+      "summary": "When ash from a volcanic eruption starves a stranded Valordian crew of sunlight, their youngest explorer steals sacred ore from a cave god's shrine and survives only by turning her flight field into a desperate act of escape.",
+      "cover": "../bun-bun-lightless-god/assets/comic-pages/page-01-cover.png",
+      "pdf": "../bun-bun-lightless-god/output/pdf/bun-bun-lightless-god.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../bun-bun-lightless-god/assets/comic-pages/page-01-cover.png",
+          "alt": "Bun Bun Lightless God page 1"
+        },
+        {
+          "number": 2,
+          "path": "../bun-bun-lightless-god/assets/comic-pages/page-02.png",
+          "alt": "Bun Bun Lightless God page 2"
+        },
+        {
+          "number": 3,
+          "path": "../bun-bun-lightless-god/assets/comic-pages/page-03.png",
+          "alt": "Bun Bun Lightless God page 3"
+        },
+        {
+          "number": 4,
+          "path": "../bun-bun-lightless-god/assets/comic-pages/page-04.png",
+          "alt": "Bun Bun Lightless God page 4"
+        },
+        {
+          "number": 5,
+          "path": "../bun-bun-lightless-god/assets/comic-pages/page-05.png",
+          "alt": "Bun Bun Lightless God page 5"
+        },
+        {
+          "number": 6,
+          "path": "../bun-bun-lightless-god/assets/comic-pages/page-06.png",
+          "alt": "Bun Bun Lightless God page 6"
+        },
+        {
+          "number": 7,
+          "path": "../bun-bun-lightless-god/assets/comic-pages/page-07.png",
+          "alt": "Bun Bun Lightless God page 7"
+        },
+        {
+          "number": 8,
+          "path": "../bun-bun-lightless-god/assets/comic-pages/page-08.png",
+          "alt": "Bun Bun Lightless God page 8"
+        }
+      ],
+      "pageCount": 8,
+      "url": "comics/bun-bun-lightless-god/"
+    },
+    {
       "slug": "particle-patriot-time-displacement",
       "title": "Particle Patriot: Time Displacement",
       "publishedDate": "2026-05-11",
