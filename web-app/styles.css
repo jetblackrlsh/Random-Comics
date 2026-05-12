@@ -90,7 +90,10 @@ a {
 .brand img {
   display: block;
   width: min(230px, 44vw);
+  max-height: 72px;
   height: auto;
+  object-fit: contain;
+  object-position: left center;
   filter: drop-shadow(0 10px 18px rgba(13, 22, 89, 0.18));
 }
 
@@ -162,13 +165,13 @@ main {
 
 .control-panel {
   position: sticky;
-  top: 112px;
+  top: 104px;
   display: grid;
   grid-template-rows: auto auto auto minmax(0, 1fr);
-  gap: 18px;
-  max-height: calc(100dvh - 200px);
+  gap: 14px;
+  max-height: calc(100dvh - 152px);
   overflow: hidden;
-  padding: clamp(18px, 3vw, 28px);
+  padding: clamp(16px, 2vw, 22px);
 }
 
 .intro-copy h1,
@@ -182,6 +185,13 @@ main {
   text-shadow: 4px 4px 0 var(--yellow), 8px 8px 0 rgba(255, 42, 157, 0.24);
 }
 
+.control-panel .intro-copy h1 {
+  max-width: none;
+  font-size: clamp(2rem, 3vw, 2.7rem);
+  line-height: 0.95;
+  text-shadow: 3px 3px 0 var(--yellow), 6px 6px 0 rgba(255, 42, 157, 0.2);
+}
+
 .intro-copy p,
 .comic-summary,
 .about-copy p {
@@ -189,6 +199,11 @@ main {
   color: var(--muted);
   font-size: 1rem;
   line-height: 1.65;
+}
+
+.control-panel .intro-copy p {
+  font-size: 0.94rem;
+  line-height: 1.45;
 }
 
 .search-wrap {
@@ -229,7 +244,9 @@ main {
   gap: 10px;
   min-height: 0;
   overflow: auto;
-  padding-right: 4px;
+  overscroll-behavior: contain;
+  padding: 0 6px 6px 0;
+  scrollbar-gutter: stable;
 }
 
 .comic-card {
