@@ -4,6 +4,7 @@ const state = {
   selectedSlug: null,
   query: "",
   view: "home",
+  hasComicRoute: false,
 };
 
 const els = {
@@ -131,7 +132,7 @@ function renderReader() {
     return;
   }
 
-  document.title = `${comic.title} | Random Comics`;
+  document.title = state.hasComicRoute ? `${comic.title} | Random Comics` : state.catalog.site.title;
   els.comicDate.textContent = `Published ${formatDate(comic.publishedDate)}`;
   els.comicTitle.textContent = comic.title;
   els.comicSummary.textContent = comic.summary || "A standalone Random Comics issue.";
@@ -171,6 +172,7 @@ function selectComic(slug, { replace = false } = {}) {
   if (!state.comics.some((comic) => comic.slug === slug)) return;
   state.view = "home";
   state.selectedSlug = slug;
+  state.hasComicRoute = true;
   renderView();
   updateUrl({ replace });
   window.scrollTo({ top: 0, behavior: "smooth" });
@@ -221,6 +223,7 @@ function bindEvents() {
     if (!routeLink) return;
     event.preventDefault();
     state.view = routeLink.dataset.route === "about" ? "about" : "home";
+    state.hasComicRoute = false;
     renderView();
     updateUrl();
   });
@@ -231,6 +234,7 @@ function bindEvents() {
     state.selectedSlug = route.slug && state.comics.some((comic) => comic.slug === route.slug)
       ? route.slug
       : state.comics.at(-1)?.slug || null;
+    state.hasComicRoute = Boolean(route.slug && state.comics.some((comic) => comic.slug === route.slug));
     renderView();
   });
 }
@@ -246,9 +250,10 @@ async function init() {
 
   state.view = route.view;
   state.selectedSlug = requestedSlug || state.comics.at(-1)?.slug || null;
+  state.hasComicRoute = Boolean(requestedSlug);
   bindEvents();
   renderView();
-  if (state.view !== "about") updateUrl({ replace: true });
+  if (state.view !== "about" && requestedSlug) updateUrl({ replace: true });
 }
 
 init().catch((error) => {

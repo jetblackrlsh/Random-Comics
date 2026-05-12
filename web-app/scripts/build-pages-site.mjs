@@ -19,6 +19,8 @@ rmSync(siteDir, { recursive: true, force: true });
 mkdirSync(siteDir, { recursive: true });
 
 cpSync(webAppDir, path.join(siteDir, "web-app"), { recursive: true });
+copyIfExists(path.join(webAppDir, "robots.txt"), path.join(siteDir, "robots.txt"));
+copyIfExists(path.join(webAppDir, "sitemap.xml"), path.join(siteDir, "sitemap.xml"));
 
 for (const comic of catalog.comics) {
   const comicRoot = path.join(siteDir, comic.slug);

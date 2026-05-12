@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jetblackrlsh.github.io/Random-Comics/web-app/sitemap.xml

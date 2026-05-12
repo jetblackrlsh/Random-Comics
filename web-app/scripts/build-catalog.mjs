@@ -70,7 +70,7 @@ function pagesForComic(relativeDir) {
     .map((file, index) => ({
       number: index + 1,
       path: `../${relativeDir}/assets/comic-pages/${file}`,
-      alt: `${slugToTitle(relativeDir)} page ${index + 1}`,
+      alt: `${slugToTitle(relativeDir)} comic page ${index + 1}`,
     }));
 }
 
