@@ -1,0 +1,16 @@
+Adapt the attached UFO case file image and N-7 subject reference image into a realistic photo-comic.
+
+The comic presents itself as a leak released by Anonymous, a hacker organization that specializes in finding and releasing information that powerful institutions want buried. The leaked file is 94_NTTR-011294_N7_ENTITY_CONTACT_REPORT, an alleged U.S. Army contact report from the Nevada Test and Training Range on January 12, 1994 at approximately 23:17.
+
+The public line is that the N-7 case file is a hoax. The Anonymous frame insists that the hoax label is the cover story, and that the real truth was hidden in transfer logs, medical notes, witness statements, and a quiet release date decades later.
+
+Core case details from the reference:
+- Subject designation: N-7.
+- Incident location: Nevada Test and Training Range.
+- Incident date: January 12, 1994.
+- Release date shown in leak interface: May 8, 2026.
+- Subject: non-terrestrial feline lifeform humanoid, apparent female presentation, estimated age 25-28 Earth years, height around 162 cm / 5 feet 4 inches, weight around 49 kg.
+- Visible identifiers: silver-blonde hair, gray-silver eyes, mobile feline ears, long feline tail, pale utilitarian test suit with N-7 arm patch, barefoot during medical processing.
+- Behavioral notes: non-hostile, intelligent, communicates in English, unusual balance and agility, possible telepathic ability.
+
+Tone: paranoid leak documentary, found file, forensic evidence, military secrecy, Anonymous counter-narration. The story should never read like a neutral government report; it should feel like a comic released to break a cover-up.
