@@ -270,6 +270,58 @@
       ],
       "pageCount": 8,
       "url": "comics/n7-hoax-file/"
+    },
+    {
+      "slug": "section-10-files",
+      "title": "The Section 10 Files",
+      "publishedDate": "2026-05-12",
+      "summary": "After UFO disclosure files coincide with a wave of vanished scientists, an Anonymous cell digs through nearly 200 releases and discovers the disappearances point to shapeshifting \"Dark Clothed Creatures,\" forcing the hackers to seek psychic contact with Master Kalen-Li and the hidden Korrendorian guardians of Earth.",
+      "cover": "../section-10-files/assets/comic-pages/page-01-cover.png",
+      "pdf": "../section-10-files/output/pdf/section-10-files.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../section-10-files/assets/comic-pages/page-01-cover.png",
+          "alt": "Section 10 Files page 1"
+        },
+        {
+          "number": 2,
+          "path": "../section-10-files/assets/comic-pages/page-02.png",
+          "alt": "Section 10 Files page 2"
+        },
+        {
+          "number": 3,
+          "path": "../section-10-files/assets/comic-pages/page-03.png",
+          "alt": "Section 10 Files page 3"
+        },
+        {
+          "number": 4,
+          "path": "../section-10-files/assets/comic-pages/page-04.png",
+          "alt": "Section 10 Files page 4"
+        },
+        {
+          "number": 5,
+          "path": "../section-10-files/assets/comic-pages/page-05.png",
+          "alt": "Section 10 Files page 5"
+        },
+        {
+          "number": 6,
+          "path": "../section-10-files/assets/comic-pages/page-06.png",
+          "alt": "Section 10 Files page 6"
+        },
+        {
+          "number": 7,
+          "path": "../section-10-files/assets/comic-pages/page-07.png",
+          "alt": "Section 10 Files page 7"
+        },
+        {
+          "number": 8,
+          "path": "../section-10-files/assets/comic-pages/page-08.png",
+          "alt": "Section 10 Files page 8"
+        }
+      ],
+      "pageCount": 8,
+      "url": "comics/section-10-files/"
     }
   ]
 }
