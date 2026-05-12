@@ -164,7 +164,10 @@ main {
   position: sticky;
   top: 112px;
   display: grid;
+  grid-template-rows: auto auto auto minmax(0, 1fr);
   gap: 18px;
+  max-height: calc(100dvh - 200px);
+  overflow: hidden;
   padding: clamp(18px, 3vw, 28px);
 }
 
@@ -224,7 +227,7 @@ main {
 .comic-list {
   display: grid;
   gap: 10px;
-  max-height: min(54vh, 560px);
+  min-height: 0;
   overflow: auto;
   padding-right: 4px;
 }
@@ -375,11 +378,14 @@ main {
 
   .control-panel {
     position: static;
+    grid-template-rows: none;
+    max-height: none;
+    overflow: visible;
   }
 
   .comic-list {
     grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
-    max-height: none;
+    min-height: auto;
     overflow: visible;
   }
 }

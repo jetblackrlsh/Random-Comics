@@ -116,6 +116,58 @@
       "url": "comics/bun-bun-lightless-god/"
     },
     {
+      "slug": "figure-fiddler-dust-demon",
+      "title": "Figure Fiddler: Dust Demon",
+      "publishedDate": "2026-05-11",
+      "summary": "A blocked writer named Toby slips into an action figure daydream where his cluttered office becomes a besieged toy city, and only a holy hoverbike built from a handheld vacuum can save his corrupted collection from a Dust Demon.",
+      "cover": "../figure-fiddler-dust-demon/assets/comic-pages/page-01-cover.png",
+      "pdf": "../figure-fiddler-dust-demon/output/pdf/figure-fiddler-dust-demon.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../figure-fiddler-dust-demon/assets/comic-pages/page-01-cover.png",
+          "alt": "Figure Fiddler Dust Demon page 1"
+        },
+        {
+          "number": 2,
+          "path": "../figure-fiddler-dust-demon/assets/comic-pages/page-02.png",
+          "alt": "Figure Fiddler Dust Demon page 2"
+        },
+        {
+          "number": 3,
+          "path": "../figure-fiddler-dust-demon/assets/comic-pages/page-03.png",
+          "alt": "Figure Fiddler Dust Demon page 3"
+        },
+        {
+          "number": 4,
+          "path": "../figure-fiddler-dust-demon/assets/comic-pages/page-04.png",
+          "alt": "Figure Fiddler Dust Demon page 4"
+        },
+        {
+          "number": 5,
+          "path": "../figure-fiddler-dust-demon/assets/comic-pages/page-05.png",
+          "alt": "Figure Fiddler Dust Demon page 5"
+        },
+        {
+          "number": 6,
+          "path": "../figure-fiddler-dust-demon/assets/comic-pages/page-06.png",
+          "alt": "Figure Fiddler Dust Demon page 6"
+        },
+        {
+          "number": 7,
+          "path": "../figure-fiddler-dust-demon/assets/comic-pages/page-07.png",
+          "alt": "Figure Fiddler Dust Demon page 7"
+        },
+        {
+          "number": 8,
+          "path": "../figure-fiddler-dust-demon/assets/comic-pages/page-08.png",
+          "alt": "Figure Fiddler Dust Demon page 8"
+        }
+      ],
+      "pageCount": 8,
+      "url": "comics/figure-fiddler-dust-demon/"
+    },
+    {
       "slug": "particle-patriot-time-displacement",
       "title": "Particle Patriot: Time Displacement",
       "publishedDate": "2026-05-11",
@@ -166,6 +218,58 @@
       ],
       "pageCount": 8,
       "url": "comics/particle-patriot-time-displacement/"
+    },
+    {
+      "slug": "n7-hoax-file",
+      "title": "N-7: The Hoax File",
+      "publishedDate": "2026-05-12",
+      "summary": "When Anonymous releases a buried 1994 contact file about N 7, a non human feline humanoid recovered at the Nevada Test and Training Range, the world calls it a hoax. The leak argues that the hoax story was built to hide the only witness who",
+      "cover": "../n7-hoax-file/assets/comic-pages/page-01-cover.png",
+      "pdf": "../n7-hoax-file/output/pdf/n7-hoax-file.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../n7-hoax-file/assets/comic-pages/page-01-cover.png",
+          "alt": "N7 Hoax File page 1"
+        },
+        {
+          "number": 2,
+          "path": "../n7-hoax-file/assets/comic-pages/page-02.png",
+          "alt": "N7 Hoax File page 2"
+        },
+        {
+          "number": 3,
+          "path": "../n7-hoax-file/assets/comic-pages/page-03.png",
+          "alt": "N7 Hoax File page 3"
+        },
+        {
+          "number": 4,
+          "path": "../n7-hoax-file/assets/comic-pages/page-04.png",
+          "alt": "N7 Hoax File page 4"
+        },
+        {
+          "number": 5,
+          "path": "../n7-hoax-file/assets/comic-pages/page-05.png",
+          "alt": "N7 Hoax File page 5"
+        },
+        {
+          "number": 6,
+          "path": "../n7-hoax-file/assets/comic-pages/page-06.png",
+          "alt": "N7 Hoax File page 6"
+        },
+        {
+          "number": 7,
+          "path": "../n7-hoax-file/assets/comic-pages/page-07.png",
+          "alt": "N7 Hoax File page 7"
+        },
+        {
+          "number": 8,
+          "path": "../n7-hoax-file/assets/comic-pages/page-08.png",
+          "alt": "N7 Hoax File page 8"
+        }
+      ],
+      "pageCount": 8,
+      "url": "comics/n7-hoax-file/"
     }
   ]
 }
