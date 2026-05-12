@@ -36,10 +36,9 @@ function markdownSummary(filePath) {
   const logline = content.match(/##\s+Logline\s+([\s\S]*?)(?:\n##\s+|$)/i)?.[1];
   const source = logline || content.replace(/^#\s+.+$/m, "");
   return source
-    .replace(/[#*_>`-]/g, " ")
+    .replace(/[#*_>`]/g, " ")
     .replace(/\s+/g, " ")
-    .trim()
-    .slice(0, 240);
+    .trim();
 }
 
 function gitFirstCommitDate(relativeDir) {
