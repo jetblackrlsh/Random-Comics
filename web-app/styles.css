@@ -291,6 +291,13 @@ main {
   font-weight: 800;
 }
 
+.comic-card .comic-card-series {
+  color: var(--blue);
+  font-size: 0.78rem;
+  font-weight: 950;
+  text-transform: uppercase;
+}
+
 .reader-panel {
   min-width: 0;
   padding: clamp(14px, 2.5vw, 28px);

@@ -1,10 +1,13 @@
 const state = {
   catalog: null,
   comics: [],
+  series: [],
   selectedSlug: null,
+  selectedSeriesSlug: null,
   query: "",
   view: "home",
   hasComicRoute: false,
+  hasSeriesRoute: false,
 };
 
 const els = {
@@ -37,18 +40,25 @@ function currentComic() {
   return state.comics.find((comic) => comic.slug === state.selectedSlug) || state.comics.at(-1) || null;
 }
 
+function currentSeries() {
+  return state.series.find((series) => series.slug === state.selectedSeriesSlug) || null;
+}
+
 function routeFromLocation() {
   const initialRoute = document.body.dataset.initialRoute;
   if (initialRoute?.startsWith("comic:")) return { view: "home", slug: initialRoute.slice(6) };
+  if (initialRoute?.startsWith("series:")) return { view: "home", slug: null, seriesSlug: initialRoute.slice(7) };
   if (initialRoute === "about") return { view: "about", slug: null };
 
   const path = window.location.pathname.replace(/\/+$/, "");
   const comicMatch = path.match(/\/comics\/([^/]+)$/);
   if (comicMatch) return { view: "home", slug: decodeURIComponent(comicMatch[1]) };
+  const seriesMatch = path.match(/\/series\/([^/]+)$/);
+  if (seriesMatch) return { view: "home", slug: null, seriesSlug: decodeURIComponent(seriesMatch[1]) };
   if (/\/about$/.test(path)) return { view: "about", slug: null };
 
   const params = new URLSearchParams(window.location.hash.replace(/^#/, ""));
-  return { view: "home", slug: params.get("comic") };
+  return { view: "home", slug: params.get("comic"), seriesSlug: params.get("series") };
 }
 
 function appRootPath() {
@@ -56,11 +66,15 @@ function appRootPath() {
   const marker = "/web-app/";
   const markerIndex = path.indexOf(marker);
   if (markerIndex >= 0) return `${path.slice(0, markerIndex)}${marker}`;
-  return path.replace(/(?:comics\/[^/]+\/?|about\/?)$/, "");
+  return path.replace(/(?:(?:comics|series)\/[^/]+\/?|about\/?)$/, "");
 }
 
 function comicUrl(comic) {
   return new URL(`comics/${comic.slug}/`, `${window.location.origin}${appRootPath()}`).href;
+}
+
+function seriesUrl(series) {
+  return new URL(`series/${series.slug}/`, `${window.location.origin}${appRootPath()}`).href;
 }
 
 function homeUrl() {
@@ -74,21 +88,54 @@ function aboutUrl() {
 function updateUrl({ replace = false } = {}) {
   if (!state.catalog) return;
   const comic = currentComic();
-  const target = state.view === "about" ? aboutUrl() : comic ? comicUrl(comic) : homeUrl();
+  const series = currentSeries();
+  const target = state.view === "about"
+    ? aboutUrl()
+    : state.hasSeriesRoute && series
+      ? seriesUrl(series)
+      : state.hasComicRoute && comic
+        ? comicUrl(comic)
+        : homeUrl();
   const method = replace ? "replaceState" : "pushState";
   if (window.location.href !== target) {
     window.history[method]({}, "", target);
   }
 }
 
+function issueLabel(comic) {
+  if (comic.issueLabel) return comic.issueLabel;
+  if (comic.series?.title && comic.issueNumber) return `Issue #${comic.issueNumber} of ${comic.series.title}`;
+  if (comic.series?.title) return `Part of ${comic.series.title}`;
+  return "Standalone issue";
+}
+
+function searchableText(comic) {
+  const series = comic.series?.slug
+    ? state.series.find((item) => item.slug === comic.series.slug)
+    : null;
+  return [
+    comic.title,
+    comic.publishedDate,
+    formatDate(comic.publishedDate),
+    comic.summary,
+    issueLabel(comic),
+    comic.series?.title,
+    comic.series?.summary,
+    series?.summary,
+    series?.characterDescriptions,
+    series?.settingDescriptions,
+    series?.keyItemDescriptions,
+    series?.issueSummaries,
+  ].filter(Boolean).join(" ").toLowerCase();
+}
+
 function filteredComics() {
   const query = state.query.trim().toLowerCase();
-  if (!query) return state.comics;
+  const seriesSlug = state.selectedSeriesSlug;
   return state.comics.filter((comic) => {
-    return [comic.title, comic.publishedDate, formatDate(comic.publishedDate)]
-      .join(" ")
-      .toLowerCase()
-      .includes(query);
+    const matchesSeries = !seriesSlug || comic.series?.slug === seriesSlug;
+    const matchesQuery = !query || searchableText(comic).includes(query);
+    return matchesSeries && matchesQuery;
   });
 }
 
@@ -114,6 +161,7 @@ function renderList() {
       <span>
         <strong>${comic.title}</strong>
         <span>${formatDate(comic.publishedDate)} · ${comic.pageCount} pages</span>
+        <span class="comic-card-series">${issueLabel(comic)}</span>
       </span>
     `;
     button.addEventListener("click", () => selectComic(comic.slug));
@@ -132,8 +180,13 @@ function renderReader() {
     return;
   }
 
-  document.title = state.hasComicRoute ? `${comic.title} | Random Comics` : state.catalog.site.title;
-  els.comicDate.textContent = `Published ${formatDate(comic.publishedDate)}`;
+  const series = currentSeries();
+  document.title = state.hasComicRoute
+    ? `${comic.title} | Random Comics`
+    : state.hasSeriesRoute && series
+      ? `${series.title} | Random Comics`
+      : state.catalog.site.title;
+  els.comicDate.textContent = `Published ${formatDate(comic.publishedDate)} · ${issueLabel(comic)}`;
   els.comicTitle.textContent = comic.title;
   els.comicSummary.textContent = comic.summary || "A standalone Random Comics issue.";
   els.downloadButton.hidden = !comic.pdf;
@@ -172,7 +225,9 @@ function selectComic(slug, { replace = false } = {}) {
   if (!state.comics.some((comic) => comic.slug === slug)) return;
   state.view = "home";
   state.selectedSlug = slug;
+  state.selectedSeriesSlug = state.comics.find((comic) => comic.slug === slug)?.series?.slug || null;
   state.hasComicRoute = true;
+  state.hasSeriesRoute = false;
   renderView();
   updateUrl({ replace });
   window.scrollTo({ top: 0, behavior: "smooth" });
@@ -223,7 +278,11 @@ function bindEvents() {
     if (!routeLink) return;
     event.preventDefault();
     state.view = routeLink.dataset.route === "about" ? "about" : "home";
+    state.query = "";
+    state.selectedSeriesSlug = null;
     state.hasComicRoute = false;
+    state.hasSeriesRoute = false;
+    els.comicSearch.value = "";
     renderView();
     updateUrl();
   });
@@ -231,10 +290,18 @@ function bindEvents() {
   window.addEventListener("popstate", () => {
     const route = routeFromLocation();
     state.view = route.view;
+    const requestedSeriesSlug = route.seriesSlug && state.series.some((series) => series.slug === route.seriesSlug)
+      ? route.seriesSlug
+      : null;
+    const seriesComic = requestedSeriesSlug
+      ? state.comics.find((comic) => comic.series?.slug === requestedSeriesSlug)
+      : null;
+    state.selectedSeriesSlug = requestedSeriesSlug;
     state.selectedSlug = route.slug && state.comics.some((comic) => comic.slug === route.slug)
       ? route.slug
-      : state.comics.at(-1)?.slug || null;
+      : seriesComic?.slug || state.comics.at(-1)?.slug || null;
     state.hasComicRoute = Boolean(route.slug && state.comics.some((comic) => comic.slug === route.slug));
+    state.hasSeriesRoute = Boolean(requestedSeriesSlug);
     renderView();
   });
 }
@@ -243,17 +310,26 @@ async function init() {
   const response = await fetch("comics.json", { cache: "no-store" });
   state.catalog = await response.json();
   state.comics = state.catalog.comics;
+  state.series = state.catalog.series || [];
   const route = routeFromLocation();
   const requestedSlug = route.slug && state.comics.some((comic) => comic.slug === route.slug)
     ? route.slug
     : null;
+  const requestedSeriesSlug = route.seriesSlug && state.series.some((series) => series.slug === route.seriesSlug)
+    ? route.seriesSlug
+    : null;
+  const seriesComic = requestedSeriesSlug
+    ? state.comics.find((comic) => comic.series?.slug === requestedSeriesSlug)
+    : null;
 
   state.view = route.view;
-  state.selectedSlug = requestedSlug || state.comics.at(-1)?.slug || null;
+  state.selectedSeriesSlug = requestedSeriesSlug;
+  state.selectedSlug = requestedSlug || seriesComic?.slug || state.comics.at(-1)?.slug || null;
   state.hasComicRoute = Boolean(requestedSlug);
+  state.hasSeriesRoute = Boolean(requestedSeriesSlug);
   bindEvents();
   renderView();
-  if (state.view !== "about" && requestedSlug) updateUrl({ replace: true });
+  if (state.view !== "about" && (requestedSlug || requestedSeriesSlug)) updateUrl({ replace: true });
 }
 
 init().catch((error) => {

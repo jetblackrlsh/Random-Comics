@@ -1,13 +1,15 @@
 {
   "site": {
     "title": "Random Comics",
-    "description": "Standalone comics, strange experiments, one-shot adventures, and spontaneous comic ideas.",
+    "description": "Standalone comics, strange experiments, one-shot adventures, spontaneous comic ideas, and future comic series.",
     "baseUrl": "https://jetblackrlsh.github.io/Random-Comics/web-app",
     "supportUrl": "https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602"
   },
+  "series": [],
   "comics": [
     {
       "slug": "deca-form-island-retirement",
+      "folder": "deca-form-island-retirement",
       "title": "Deca-Form: Island Retirement",
       "publishedDate": "2026-05-10",
       "summary": "After a supernatural storm destroys his cruise ship, Deca-Form must stop treating survival as a rescue mission and use his alien transformations to build a new life on an empty island.",
@@ -17,54 +19,58 @@
         {
           "number": 1,
           "path": "../deca-form-island-retirement/assets/comic-pages/page-01-cover.png",
-          "alt": "Deca Form Island Retirement comic page 1"
+          "alt": "Deca-Form: Island Retirement comic page 1"
         },
         {
           "number": 2,
           "path": "../deca-form-island-retirement/assets/comic-pages/page-02.png",
-          "alt": "Deca Form Island Retirement comic page 2"
+          "alt": "Deca-Form: Island Retirement comic page 2"
         },
         {
           "number": 3,
           "path": "../deca-form-island-retirement/assets/comic-pages/page-03.png",
-          "alt": "Deca Form Island Retirement comic page 3"
+          "alt": "Deca-Form: Island Retirement comic page 3"
         },
         {
           "number": 4,
           "path": "../deca-form-island-retirement/assets/comic-pages/page-04.png",
-          "alt": "Deca Form Island Retirement comic page 4"
+          "alt": "Deca-Form: Island Retirement comic page 4"
         },
         {
           "number": 5,
           "path": "../deca-form-island-retirement/assets/comic-pages/page-05.png",
-          "alt": "Deca Form Island Retirement comic page 5"
+          "alt": "Deca-Form: Island Retirement comic page 5"
         },
         {
           "number": 6,
           "path": "../deca-form-island-retirement/assets/comic-pages/page-06.png",
-          "alt": "Deca Form Island Retirement comic page 6"
+          "alt": "Deca-Form: Island Retirement comic page 6"
         },
         {
           "number": 7,
           "path": "../deca-form-island-retirement/assets/comic-pages/page-07.png",
-          "alt": "Deca Form Island Retirement comic page 7"
+          "alt": "Deca-Form: Island Retirement comic page 7"
         },
         {
           "number": 8,
           "path": "../deca-form-island-retirement/assets/comic-pages/page-08.png",
-          "alt": "Deca Form Island Retirement comic page 8"
+          "alt": "Deca-Form: Island Retirement comic page 8"
         },
         {
           "number": 9,
           "path": "../deca-form-island-retirement/assets/comic-pages/page-09.png",
-          "alt": "Deca Form Island Retirement comic page 9"
+          "alt": "Deca-Form: Island Retirement comic page 9"
         }
       ],
       "pageCount": 9,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
       "url": "comics/deca-form-island-retirement/"
     },
     {
       "slug": "bun-bun-lightless-god",
+      "folder": "bun-bun-lightless-god",
       "title": "Bun-Bun and the Lightless God",
       "publishedDate": "2026-05-11",
       "summary": "When ash from a volcanic eruption starves a stranded Valordian crew of sunlight, their youngest explorer steals sacred ore from a cave god's shrine and survives only by turning her flight field into a desperate act of escape.",
@@ -74,49 +80,53 @@
         {
           "number": 1,
           "path": "../bun-bun-lightless-god/assets/comic-pages/page-01-cover.png",
-          "alt": "Bun Bun Lightless God comic page 1"
+          "alt": "Bun-Bun and the Lightless God comic page 1"
         },
         {
           "number": 2,
           "path": "../bun-bun-lightless-god/assets/comic-pages/page-02.png",
-          "alt": "Bun Bun Lightless God comic page 2"
+          "alt": "Bun-Bun and the Lightless God comic page 2"
         },
         {
           "number": 3,
           "path": "../bun-bun-lightless-god/assets/comic-pages/page-03.png",
-          "alt": "Bun Bun Lightless God comic page 3"
+          "alt": "Bun-Bun and the Lightless God comic page 3"
         },
         {
           "number": 4,
           "path": "../bun-bun-lightless-god/assets/comic-pages/page-04.png",
-          "alt": "Bun Bun Lightless God comic page 4"
+          "alt": "Bun-Bun and the Lightless God comic page 4"
         },
         {
           "number": 5,
           "path": "../bun-bun-lightless-god/assets/comic-pages/page-05.png",
-          "alt": "Bun Bun Lightless God comic page 5"
+          "alt": "Bun-Bun and the Lightless God comic page 5"
         },
         {
           "number": 6,
           "path": "../bun-bun-lightless-god/assets/comic-pages/page-06.png",
-          "alt": "Bun Bun Lightless God comic page 6"
+          "alt": "Bun-Bun and the Lightless God comic page 6"
         },
         {
           "number": 7,
           "path": "../bun-bun-lightless-god/assets/comic-pages/page-07.png",
-          "alt": "Bun Bun Lightless God comic page 7"
+          "alt": "Bun-Bun and the Lightless God comic page 7"
         },
         {
           "number": 8,
           "path": "../bun-bun-lightless-god/assets/comic-pages/page-08.png",
-          "alt": "Bun Bun Lightless God comic page 8"
+          "alt": "Bun-Bun and the Lightless God comic page 8"
         }
       ],
       "pageCount": 8,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
       "url": "comics/bun-bun-lightless-god/"
     },
     {
       "slug": "figure-fiddler-dust-demon",
+      "folder": "figure-fiddler-dust-demon",
       "title": "Figure Fiddler: Dust Demon",
       "publishedDate": "2026-05-11",
       "summary": "A blocked writer named Toby slips into an action-figure daydream where his cluttered office becomes a besieged toy city, and only a holy hoverbike built from a handheld vacuum can save his corrupted collection from a Dust Demon.",
@@ -126,49 +136,53 @@
         {
           "number": 1,
           "path": "../figure-fiddler-dust-demon/assets/comic-pages/page-01-cover.png",
-          "alt": "Figure Fiddler Dust Demon comic page 1"
+          "alt": "Figure Fiddler: Dust Demon comic page 1"
         },
         {
           "number": 2,
           "path": "../figure-fiddler-dust-demon/assets/comic-pages/page-02.png",
-          "alt": "Figure Fiddler Dust Demon comic page 2"
+          "alt": "Figure Fiddler: Dust Demon comic page 2"
         },
         {
           "number": 3,
           "path": "../figure-fiddler-dust-demon/assets/comic-pages/page-03.png",
-          "alt": "Figure Fiddler Dust Demon comic page 3"
+          "alt": "Figure Fiddler: Dust Demon comic page 3"
         },
         {
           "number": 4,
           "path": "../figure-fiddler-dust-demon/assets/comic-pages/page-04.png",
-          "alt": "Figure Fiddler Dust Demon comic page 4"
+          "alt": "Figure Fiddler: Dust Demon comic page 4"
         },
         {
           "number": 5,
           "path": "../figure-fiddler-dust-demon/assets/comic-pages/page-05.png",
-          "alt": "Figure Fiddler Dust Demon comic page 5"
+          "alt": "Figure Fiddler: Dust Demon comic page 5"
         },
         {
           "number": 6,
           "path": "../figure-fiddler-dust-demon/assets/comic-pages/page-06.png",
-          "alt": "Figure Fiddler Dust Demon comic page 6"
+          "alt": "Figure Fiddler: Dust Demon comic page 6"
         },
         {
           "number": 7,
           "path": "../figure-fiddler-dust-demon/assets/comic-pages/page-07.png",
-          "alt": "Figure Fiddler Dust Demon comic page 7"
+          "alt": "Figure Fiddler: Dust Demon comic page 7"
         },
         {
           "number": 8,
           "path": "../figure-fiddler-dust-demon/assets/comic-pages/page-08.png",
-          "alt": "Figure Fiddler Dust Demon comic page 8"
+          "alt": "Figure Fiddler: Dust Demon comic page 8"
         }
       ],
       "pageCount": 8,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
       "url": "comics/figure-fiddler-dust-demon/"
     },
     {
       "slug": "particle-patriot-time-displacement",
+      "folder": "particle-patriot-time-displacement",
       "title": "Particle Patriot: Time Displacement",
       "publishedDate": "2026-05-11",
       "summary": "On an early government mission, a quantum superhero made of red, white, and blue atoms must escape the Jurassic past and a ruined future to stop Clocktor before one stolen moment becomes a permanent empire.",
@@ -178,49 +192,53 @@
         {
           "number": 1,
           "path": "../particle-patriot-time-displacement/assets/comic-pages/page-01-cover.png",
-          "alt": "Particle Patriot Time Displacement comic page 1"
+          "alt": "Particle Patriot: Time Displacement comic page 1"
         },
         {
           "number": 2,
           "path": "../particle-patriot-time-displacement/assets/comic-pages/page-02.png",
-          "alt": "Particle Patriot Time Displacement comic page 2"
+          "alt": "Particle Patriot: Time Displacement comic page 2"
         },
         {
           "number": 3,
           "path": "../particle-patriot-time-displacement/assets/comic-pages/page-03.png",
-          "alt": "Particle Patriot Time Displacement comic page 3"
+          "alt": "Particle Patriot: Time Displacement comic page 3"
         },
         {
           "number": 4,
           "path": "../particle-patriot-time-displacement/assets/comic-pages/page-04.png",
-          "alt": "Particle Patriot Time Displacement comic page 4"
+          "alt": "Particle Patriot: Time Displacement comic page 4"
         },
         {
           "number": 5,
           "path": "../particle-patriot-time-displacement/assets/comic-pages/page-05.png",
-          "alt": "Particle Patriot Time Displacement comic page 5"
+          "alt": "Particle Patriot: Time Displacement comic page 5"
         },
         {
           "number": 6,
           "path": "../particle-patriot-time-displacement/assets/comic-pages/page-06.png",
-          "alt": "Particle Patriot Time Displacement comic page 6"
+          "alt": "Particle Patriot: Time Displacement comic page 6"
         },
         {
           "number": 7,
           "path": "../particle-patriot-time-displacement/assets/comic-pages/page-07.png",
-          "alt": "Particle Patriot Time Displacement comic page 7"
+          "alt": "Particle Patriot: Time Displacement comic page 7"
         },
         {
           "number": 8,
           "path": "../particle-patriot-time-displacement/assets/comic-pages/page-08.png",
-          "alt": "Particle Patriot Time Displacement comic page 8"
+          "alt": "Particle Patriot: Time Displacement comic page 8"
         }
       ],
       "pageCount": 8,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
       "url": "comics/particle-patriot-time-displacement/"
     },
     {
       "slug": "n7-hoax-file",
+      "folder": "n7-hoax-file",
       "title": "N-7: The Hoax File",
       "publishedDate": "2026-05-12",
       "summary": "When Anonymous releases a buried 1994 contact file about N-7, a non-human feline humanoid recovered at the Nevada Test and Training Range, the world calls it a hoax. The leak argues that the hoax story was built to hide the only witness who told the truth.",
@@ -230,49 +248,53 @@
         {
           "number": 1,
           "path": "../n7-hoax-file/assets/comic-pages/page-01-cover.png",
-          "alt": "N7 Hoax File comic page 1"
+          "alt": "N-7: The Hoax File comic page 1"
         },
         {
           "number": 2,
           "path": "../n7-hoax-file/assets/comic-pages/page-02.png",
-          "alt": "N7 Hoax File comic page 2"
+          "alt": "N-7: The Hoax File comic page 2"
         },
         {
           "number": 3,
           "path": "../n7-hoax-file/assets/comic-pages/page-03.png",
-          "alt": "N7 Hoax File comic page 3"
+          "alt": "N-7: The Hoax File comic page 3"
         },
         {
           "number": 4,
           "path": "../n7-hoax-file/assets/comic-pages/page-04.png",
-          "alt": "N7 Hoax File comic page 4"
+          "alt": "N-7: The Hoax File comic page 4"
         },
         {
           "number": 5,
           "path": "../n7-hoax-file/assets/comic-pages/page-05.png",
-          "alt": "N7 Hoax File comic page 5"
+          "alt": "N-7: The Hoax File comic page 5"
         },
         {
           "number": 6,
           "path": "../n7-hoax-file/assets/comic-pages/page-06.png",
-          "alt": "N7 Hoax File comic page 6"
+          "alt": "N-7: The Hoax File comic page 6"
         },
         {
           "number": 7,
           "path": "../n7-hoax-file/assets/comic-pages/page-07.png",
-          "alt": "N7 Hoax File comic page 7"
+          "alt": "N-7: The Hoax File comic page 7"
         },
         {
           "number": 8,
           "path": "../n7-hoax-file/assets/comic-pages/page-08.png",
-          "alt": "N7 Hoax File comic page 8"
+          "alt": "N-7: The Hoax File comic page 8"
         }
       ],
       "pageCount": 8,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
       "url": "comics/n7-hoax-file/"
     },
     {
       "slug": "the-dark-above",
+      "folder": "the-dark-above",
       "title": "The Dark Above",
       "publishedDate": "2026-05-12",
       "summary": "After a late superhero movie, a wealthy family's shortcut through a neglected alley becomes an origin story for something predatory when their young son discovers flight, fangs, and a hunger that spreads.",
@@ -321,10 +343,14 @@
         }
       ],
       "pageCount": 8,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
       "url": "comics/the-dark-above/"
     },
     {
       "slug": "section-10-files",
+      "folder": "section-10-files",
       "title": "The Section 10 Files",
       "publishedDate": "2026-05-12",
       "summary": "After UFO disclosure files coincide with a wave of vanished scientists, an Anonymous cell digs through nearly 200 releases and discovers the disappearances point to shapeshifting \"Dark Clothed Creatures,\" forcing the hackers to seek psychic contact with Master Kalen-Li and the hidden Korrendorian guardians of Earth.",
@@ -334,49 +360,53 @@
         {
           "number": 1,
           "path": "../section-10-files/assets/comic-pages/page-01-cover.png",
-          "alt": "Section 10 Files comic page 1"
+          "alt": "The Section 10 Files comic page 1"
         },
         {
           "number": 2,
           "path": "../section-10-files/assets/comic-pages/page-02.png",
-          "alt": "Section 10 Files comic page 2"
+          "alt": "The Section 10 Files comic page 2"
         },
         {
           "number": 3,
           "path": "../section-10-files/assets/comic-pages/page-03.png",
-          "alt": "Section 10 Files comic page 3"
+          "alt": "The Section 10 Files comic page 3"
         },
         {
           "number": 4,
           "path": "../section-10-files/assets/comic-pages/page-04.png",
-          "alt": "Section 10 Files comic page 4"
+          "alt": "The Section 10 Files comic page 4"
         },
         {
           "number": 5,
           "path": "../section-10-files/assets/comic-pages/page-05.png",
-          "alt": "Section 10 Files comic page 5"
+          "alt": "The Section 10 Files comic page 5"
         },
         {
           "number": 6,
           "path": "../section-10-files/assets/comic-pages/page-06.png",
-          "alt": "Section 10 Files comic page 6"
+          "alt": "The Section 10 Files comic page 6"
         },
         {
           "number": 7,
           "path": "../section-10-files/assets/comic-pages/page-07.png",
-          "alt": "Section 10 Files comic page 7"
+          "alt": "The Section 10 Files comic page 7"
         },
         {
           "number": 8,
           "path": "../section-10-files/assets/comic-pages/page-08.png",
-          "alt": "Section 10 Files comic page 8"
+          "alt": "The Section 10 Files comic page 8"
         }
       ],
       "pageCount": 8,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
       "url": "comics/section-10-files/"
     },
     {
       "slug": "anamorphis-uap",
+      "folder": "anamorphis-uap",
       "title": "Anamorphis UAP",
       "publishedDate": "2026-05-13",
       "summary": "A drained comic-book creator sees a blurry leaked military video of a luminous faceless being and chooses to turn that disputed evidence into art that helps people look for wonder again.",
@@ -386,45 +416,48 @@
         {
           "number": 1,
           "path": "../anamorphis-uap/assets/comic-pages/page-01-cover.png",
-          "alt": "Anamorphis Uap comic page 1"
+          "alt": "Anamorphis UAP comic page 1"
         },
         {
           "number": 2,
           "path": "../anamorphis-uap/assets/comic-pages/page-02.png",
-          "alt": "Anamorphis Uap comic page 2"
+          "alt": "Anamorphis UAP comic page 2"
         },
         {
           "number": 3,
           "path": "../anamorphis-uap/assets/comic-pages/page-03.png",
-          "alt": "Anamorphis Uap comic page 3"
+          "alt": "Anamorphis UAP comic page 3"
         },
         {
           "number": 4,
           "path": "../anamorphis-uap/assets/comic-pages/page-04.png",
-          "alt": "Anamorphis Uap comic page 4"
+          "alt": "Anamorphis UAP comic page 4"
         },
         {
           "number": 5,
           "path": "../anamorphis-uap/assets/comic-pages/page-05.png",
-          "alt": "Anamorphis Uap comic page 5"
+          "alt": "Anamorphis UAP comic page 5"
         },
         {
           "number": 6,
           "path": "../anamorphis-uap/assets/comic-pages/page-06.png",
-          "alt": "Anamorphis Uap comic page 6"
+          "alt": "Anamorphis UAP comic page 6"
         },
         {
           "number": 7,
           "path": "../anamorphis-uap/assets/comic-pages/page-07.png",
-          "alt": "Anamorphis Uap comic page 7"
+          "alt": "Anamorphis UAP comic page 7"
         },
         {
           "number": 8,
           "path": "../anamorphis-uap/assets/comic-pages/page-08.png",
-          "alt": "Anamorphis Uap comic page 8"
+          "alt": "Anamorphis UAP comic page 8"
         }
       ],
       "pageCount": 8,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
       "url": "comics/anamorphis-uap/"
     }
   ]

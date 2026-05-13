@@ -64,6 +64,17 @@ Before each prompt, copy forward:
 - Any story changes that should persist, such as a torn sleeve, glowing mark, dust, injury, recovered object, or changed location.
 - Whether text visible on clothing or props is only a visual detail or is meant to be a name/title.
 
+For series issues, also copy forward:
+
+- Relevant entries from `series/<series-folder>/source/character-descriptions.md`.
+- Relevant entries from `series/<series-folder>/source/setting-descriptions.md`.
+- Relevant entries from `series/<series-folder>/source/key-item-descriptions.md`.
+- The matching filenames from `series/<series-folder>/reference-images/`.
+
+If a series issue introduces a new recurring character, setting, or key item, create its written series description and reference image before generating final comic pages that use it.
+
+Create those required reference images with the built-in chat AI image generation capability, `image_gen`, not an API-key-dependent image workflow or external image service. Keep them in realistic candid photo-comic style so they can preserve continuity across later issues.
+
 ## Story Checklist
 
 Each story page should have a clear job:

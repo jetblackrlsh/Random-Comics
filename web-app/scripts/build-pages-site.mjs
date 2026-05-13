@@ -23,15 +23,33 @@ copyIfExists(path.join(webAppDir, "robots.txt"), path.join(siteDir, "robots.txt"
 copyIfExists(path.join(webAppDir, "sitemap.xml"), path.join(siteDir, "sitemap.xml"));
 
 for (const comic of catalog.comics) {
-  const comicRoot = path.join(siteDir, comic.slug);
+  const sourceRoot = comic.folder || comic.slug;
+  const comicRoot = path.join(siteDir, sourceRoot);
   mkdirSync(comicRoot, { recursive: true });
   copyIfExists(
-    path.join(repoRoot, comic.slug, "assets", "comic-pages"),
+    path.join(repoRoot, sourceRoot, "assets", "comic-pages"),
     path.join(comicRoot, "assets", "comic-pages"),
   );
   copyIfExists(
-    path.join(repoRoot, comic.slug, "output", "pdf"),
+    path.join(repoRoot, sourceRoot, "output", "pdf"),
     path.join(comicRoot, "output", "pdf"),
+  );
+}
+
+for (const series of catalog.series || []) {
+  const seriesRoot = path.join(siteDir, "series", series.slug);
+  mkdirSync(seriesRoot, { recursive: true });
+  copyIfExists(
+    path.join(repoRoot, "series", series.slug, "reference-images"),
+    path.join(seriesRoot, "reference-images"),
+  );
+  copyIfExists(
+    path.join(repoRoot, "series", series.slug, "Reference Images"),
+    path.join(seriesRoot, "Reference Images"),
+  );
+  copyIfExists(
+    path.join(repoRoot, "series", series.slug, "references"),
+    path.join(seriesRoot, "references"),
   );
 }
 

@@ -28,6 +28,7 @@ This is a style variant of `comic-book-pdf`. Keep the original skill's comic-boo
 
 1. Ground the story.
    - Use the story, idea, or reference images from chat as the source.
+   - If the comic belongs to a series, follow the "Series Issue Mode" section before writing issue files or prompts.
    - If the idea is vague, make one reasonable interpretation and state it before generating.
    - Choose 4-8 pages based on scope; default to 8 for a full short comic unless the user asks for quick output.
    - Preserve exact names and identity details from the user. If text appears on clothing or props, treat it as a visual detail unless the user says it is a name or title.
@@ -68,6 +69,52 @@ This is a style variant of `comic-book-pdf`. Keep the original skill's comic-boo
    - Inspect the contact sheet and at least the cover, first story page, middle story page, and final page.
    - Check for correct page count, 4:5 portrait pages, caption boxes instead of bubbles, text not dominating the art, no obvious character redesigns, realistic candid-photo styling, and a complete narrative.
    - If a page fails core requirements, regenerate that page before assembling the final PDF.
+
+## Series Issue Mode
+
+Use this mode when the target comic is part of a Random Comics series under `series/<series-folder>/`.
+
+Before writing the issue:
+
+- Read `series/SERIES_WORKFLOW.md`.
+- Read the series source files under `series/<series-folder>/source/`, especially `series.md`, `issue-summaries.md`, `character-descriptions.md`, `setting-descriptions.md`, and `key-item-descriptions.md`.
+- Inspect the existing `series/<series-folder>/reference-images/` set.
+- Decide the issue number from existing issue folders and `issue-summaries.md`.
+- Create the issue under `series/<series-folder>/issues/<issue-folder>/`, not as a top-level standalone comic.
+- Add `## Issue Number` to the issue treatment.
+
+While developing the issue:
+
+- Treat existing series descriptions and reference images as binding continuity.
+- Reuse established character, setting, and key-item visual identifiers in every page prompt where they appear.
+- Do not redesign recurring elements unless the story explicitly changes them, and then record that continuity change.
+- In the issue's `source/character-bible.md`, cite the series descriptions and reference image filenames used for recurring elements.
+
+When introducing a new recurring character, setting, or key item:
+
+- Add a written entry to the matching series file:
+  - characters: `series/<series-folder>/source/character-descriptions.md`
+  - settings: `series/<series-folder>/source/setting-descriptions.md`
+  - key items: `series/<series-folder>/source/key-item-descriptions.md`
+- Generate a reference image for each new element with the built-in chat AI image generation capability, `image_gen`; do not use an API-key-dependent image workflow, external image API, CLI image generator, stock asset, or manual asset service.
+- Make every new series reference image in realistic candid photo-comic style: documentary phone-photo or handheld photojournalism feel, natural imperfect framing, believable real-world lighting, and photoreal character, setting, or object detail.
+- Save each reference image under `series/<series-folder>/reference-images/` with a stable descriptive filename.
+- Reference the new description and image filename in the issue's `source/character-bible.md` or `source/page-script.md`.
+- Use the new reference image in every page prompt where that element appears.
+
+After completing the issue:
+
+- Append an entry to `series/<series-folder>/source/issue-summaries.md`.
+- List new characters, settings, key items, continuity changes, and reference image filenames added for the issue.
+- Run the web app generators from the repo root:
+
+```bash
+node web-app/scripts/build-catalog.mjs
+node web-app/scripts/build-share-pages.mjs
+node web-app/scripts/build-pages-site.mjs
+```
+
+- Verify `web-app/comics.json` has the correct `series`, `issueNumber`, and `issueLabel` for the issue.
 
 ## Suggested Layout
 
