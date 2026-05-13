@@ -322,6 +322,58 @@
       ],
       "pageCount": 8,
       "url": "comics/section-10-files/"
+    },
+    {
+      "slug": "the-dark-above",
+      "title": "The Dark Above",
+      "publishedDate": "2026-05-13",
+      "summary": "After a late superhero movie, a wealthy family's shortcut through a neglected alley becomes an origin story for something predatory when their young son discovers flight, fangs, and a hunger that spreads.",
+      "cover": "../the-dark-above/assets/comic-pages/page-01-cover.png",
+      "pdf": "../the-dark-above/output/pdf/the-dark-above.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../the-dark-above/assets/comic-pages/page-01-cover.png",
+          "alt": "The Dark Above comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../the-dark-above/assets/comic-pages/page-02.png",
+          "alt": "The Dark Above comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../the-dark-above/assets/comic-pages/page-03.png",
+          "alt": "The Dark Above comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../the-dark-above/assets/comic-pages/page-04.png",
+          "alt": "The Dark Above comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../the-dark-above/assets/comic-pages/page-05.png",
+          "alt": "The Dark Above comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../the-dark-above/assets/comic-pages/page-06.png",
+          "alt": "The Dark Above comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../the-dark-above/assets/comic-pages/page-07.png",
+          "alt": "The Dark Above comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../the-dark-above/assets/comic-pages/page-08.png",
+          "alt": "The Dark Above comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "url": "comics/the-dark-above/"
     }
   ]
 }
