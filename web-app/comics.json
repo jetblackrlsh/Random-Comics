@@ -272,6 +272,58 @@
       "url": "comics/n7-hoax-file/"
     },
     {
+      "slug": "the-dark-above",
+      "title": "The Dark Above",
+      "publishedDate": "2026-05-12",
+      "summary": "After a late superhero movie, a wealthy family's shortcut through a neglected alley becomes an origin story for something predatory when their young son discovers flight, fangs, and a hunger that spreads.",
+      "cover": "../the-dark-above/assets/comic-pages/page-01-cover.png",
+      "pdf": "../the-dark-above/output/pdf/the-dark-above.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../the-dark-above/assets/comic-pages/page-01-cover.png",
+          "alt": "The Dark Above comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../the-dark-above/assets/comic-pages/page-02.png",
+          "alt": "The Dark Above comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../the-dark-above/assets/comic-pages/page-03.png",
+          "alt": "The Dark Above comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../the-dark-above/assets/comic-pages/page-04.png",
+          "alt": "The Dark Above comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../the-dark-above/assets/comic-pages/page-05.png",
+          "alt": "The Dark Above comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../the-dark-above/assets/comic-pages/page-06.png",
+          "alt": "The Dark Above comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../the-dark-above/assets/comic-pages/page-07.png",
+          "alt": "The Dark Above comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../the-dark-above/assets/comic-pages/page-08.png",
+          "alt": "The Dark Above comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "url": "comics/the-dark-above/"
+    },
+    {
       "slug": "section-10-files",
       "title": "The Section 10 Files",
       "publishedDate": "2026-05-12",
@@ -324,56 +376,56 @@
       "url": "comics/section-10-files/"
     },
     {
-      "slug": "the-dark-above",
-      "title": "The Dark Above",
+      "slug": "anamorphis-uap",
+      "title": "Anamorphis UAP",
       "publishedDate": "2026-05-13",
-      "summary": "After a late superhero movie, a wealthy family's shortcut through a neglected alley becomes an origin story for something predatory when their young son discovers flight, fangs, and a hunger that spreads.",
-      "cover": "../the-dark-above/assets/comic-pages/page-01-cover.png",
-      "pdf": "../the-dark-above/output/pdf/the-dark-above.pdf",
+      "summary": "A drained comic-book creator sees a blurry leaked military video of a luminous faceless being and chooses to turn that disputed evidence into art that helps people look for wonder again.",
+      "cover": "../anamorphis-uap/assets/comic-pages/page-01-cover.png",
+      "pdf": "../anamorphis-uap/output/pdf/anamorphis-uap.pdf",
       "pages": [
         {
           "number": 1,
-          "path": "../the-dark-above/assets/comic-pages/page-01-cover.png",
-          "alt": "The Dark Above comic page 1"
+          "path": "../anamorphis-uap/assets/comic-pages/page-01-cover.png",
+          "alt": "Anamorphis Uap comic page 1"
         },
         {
           "number": 2,
-          "path": "../the-dark-above/assets/comic-pages/page-02.png",
-          "alt": "The Dark Above comic page 2"
+          "path": "../anamorphis-uap/assets/comic-pages/page-02.png",
+          "alt": "Anamorphis Uap comic page 2"
         },
         {
           "number": 3,
-          "path": "../the-dark-above/assets/comic-pages/page-03.png",
-          "alt": "The Dark Above comic page 3"
+          "path": "../anamorphis-uap/assets/comic-pages/page-03.png",
+          "alt": "Anamorphis Uap comic page 3"
         },
         {
           "number": 4,
-          "path": "../the-dark-above/assets/comic-pages/page-04.png",
-          "alt": "The Dark Above comic page 4"
+          "path": "../anamorphis-uap/assets/comic-pages/page-04.png",
+          "alt": "Anamorphis Uap comic page 4"
         },
         {
           "number": 5,
-          "path": "../the-dark-above/assets/comic-pages/page-05.png",
-          "alt": "The Dark Above comic page 5"
+          "path": "../anamorphis-uap/assets/comic-pages/page-05.png",
+          "alt": "Anamorphis Uap comic page 5"
         },
         {
           "number": 6,
-          "path": "../the-dark-above/assets/comic-pages/page-06.png",
-          "alt": "The Dark Above comic page 6"
+          "path": "../anamorphis-uap/assets/comic-pages/page-06.png",
+          "alt": "Anamorphis Uap comic page 6"
         },
         {
           "number": 7,
-          "path": "../the-dark-above/assets/comic-pages/page-07.png",
-          "alt": "The Dark Above comic page 7"
+          "path": "../anamorphis-uap/assets/comic-pages/page-07.png",
+          "alt": "Anamorphis Uap comic page 7"
         },
         {
           "number": 8,
-          "path": "../the-dark-above/assets/comic-pages/page-08.png",
-          "alt": "The Dark Above comic page 8"
+          "path": "../anamorphis-uap/assets/comic-pages/page-08.png",
+          "alt": "Anamorphis Uap comic page 8"
         }
       ],
       "pageCount": 8,
-      "url": "comics/the-dark-above/"
+      "url": "comics/anamorphis-uap/"
     }
   ]
 }

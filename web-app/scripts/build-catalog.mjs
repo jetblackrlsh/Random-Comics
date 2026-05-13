@@ -30,10 +30,27 @@ function firstHeading(filePath) {
   return match?.[1]?.trim() || null;
 }
 
+function markdownSection(filePath, heading) {
+  if (!existsSync(filePath)) return "";
+  const content = readFileSync(filePath, "utf8");
+  return content.match(new RegExp(`##\\s+${heading}\\s+([\\s\\S]*?)(?:\\n##\\s+|$)`, "i"))?.[1] || "";
+}
+
+function treatmentTitle(filePath) {
+  const explicitTitle = markdownSection(filePath, "Title")
+    .replace(/[#*_>`]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+  if (explicitTitle) return explicitTitle;
+
+  const heading = firstHeading(filePath);
+  return heading && heading.toLowerCase() !== "treatment" ? heading : null;
+}
+
 function markdownSummary(filePath) {
   if (!existsSync(filePath)) return "";
   const content = readFileSync(filePath, "utf8");
-  const logline = content.match(/##\s+Logline\s+([\s\S]*?)(?:\n##\s+|$)/i)?.[1];
+  const logline = markdownSection(filePath, "Logline");
   const source = logline || content.replace(/^#\s+.+$/m, "");
   return source
     .replace(/[#*_>`]/g, " ")
@@ -121,7 +138,7 @@ function discoverComics() {
 
       return {
         slug,
-        title: firstHeading(treatment) || slugToTitle(slug),
+        title: treatmentTitle(treatment) || slugToTitle(slug),
         publishedDate,
         summary: markdownSummary(treatment),
         cover: cover?.path || null,
