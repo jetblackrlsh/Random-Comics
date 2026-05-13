@@ -13,7 +13,7 @@
 - First appears: Issue #1, "The Promise of Lucid Light"
 - Role: cosmic peacemaker, healer, messenger, former opponent of Dark Light.
 - Visual identifiers: Humanoid being made of glittering purple Lucid Light, translucent cosmic body, calm faceless or softly glowing face, futuristic crystal rainbow sword, golden energy tether coiled at one hand.
-- Continuity notes: Immune to Kaine's influence because he is made of Lucid Light. His sword heals instead of harms. His tether cleanses Kaine's corruption, but even he could not cleanse Dark Light.
+- Continuity notes: Immune to Kaine's influence because he is made of Lucid Light. Unlike most Anamorphis, his whole body is composed of Lucid Light, giving him rare control over the Dream Realm. His sword heals instead of harms. His tether cleanses Kaine's corruption, but even he could not cleanse Dark Light. Lucid Light cannot alter stories that have already become rigid.
 - Reference image: `../reference-images/lucid-lord-character.png`
 
 ## Character: Dark Light
@@ -21,7 +21,7 @@
 - First appears: Issue #1, "The Promise of Lucid Light"
 - Role: main antagonist, corrupted ruler of the Anamorphis.
 - Visual identifiers: Tall faceless humanoid made of rainbow luminous energy, smooth alien silhouette, crackling black corruptive aura shrouding the body, analytical stillness, no visible eyes or mouth.
-- Continuity notes: Dark Light wants Kaine's Lucid Light so he can rule the Storyverse. His corruption is part of his narrative and cannot be cleansed by the Lucid Lord.
+- Continuity notes: Dark Light rules the Lucid Lord's rigid homeworld and wants Kaine's Lucid Light so he can rule the Storyverse. His craving for power radiates like a corruptive force, but that corruption is oddly pure in its narrative nature and cannot be cleansed by the Lucid Lord.
 - Reference image: `../reference-images/dark-light-character.png`
 
 ## Character: Anamorphis Soldier

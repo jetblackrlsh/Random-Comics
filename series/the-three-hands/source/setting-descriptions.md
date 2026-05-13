@@ -20,3 +20,10 @@
 - Visual identifiers: Cosmic space of translucent bubble universes, purple nebula mist, floating story-world reflections, luminous paths between worlds, distant islands and stars suspended inside glassy spheres.
 - Continuity notes: The Storyverse exists within this Dream Realm structure. Dark Light's threat extends beyond the island city to the Storyverse itself.
 - Reference image: `../reference-images/dream-realm-boundary-setting.png`
+
+## Setting: Rigid Anamorphis Homeworld
+
+- First appears: Issue #2, "The Limits of Lucid Light"
+- Visual identifiers: Monumental crystalline city of faceless luminous Anamorphis, pale glass towers locked in symmetrical grids, hard white light, black-rainbow banners, rigid geometric streets, a central palace platform where Dark Light commands soldiers.
+- Continuity notes: The Lucid Lord was born here, but the world's story is too rigid for Lucid Light to meaningfully change. Dark Light rules it as a warlord, making this homeworld the source of the Anamorphis expansion into the Storyverse.
+- Reference image: `../reference-images/rigid-anamorphis-homeworld-setting.png`

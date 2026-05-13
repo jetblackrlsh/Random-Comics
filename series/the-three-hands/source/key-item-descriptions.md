@@ -20,3 +20,10 @@
 - Visual identifiers: Flexible golden light cord, braided energy strands, halo-like loops, anchored to the Lucid Lord's hand.
 - Continuity notes: The tether can bind corruption and guide cleansing. It cleanses Kaine but cannot cleanse Dark Light.
 - Reference image: `../reference-images/golden-energy-tether-key-item.png`
+
+## Key Item: Anamorphis Storyverse Gateway
+
+- First appears: Issue #2, "The Limits of Lucid Light"
+- Visual identifiers: Tall ring-shaped portal made of white crystalline ribs and black-rainbow energy seams, bubble-universe reflections inside the opening, faceless Anamorphis soldiers stepping through in streaks of light.
+- Continuity notes: Developed by the Anamorphis after Dark Light's failed attempt to siphon Lucid Lord's power directly. The gateway lets Dark Light dispatch soldiers across the Storyverse, widening the conflict beyond Kaine's island city.
+- Reference image: `../reference-images/anamorphis-storyverse-gateway-key-item.png`

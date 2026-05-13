@@ -10,3 +10,14 @@
 - New settings: Storyverse Tropical Island City; Kaine's Royal Terrace; Dream Realm Boundary.
 - New key items: Lucid Light; Crystal Rainbow Sword; Golden Energy Tether.
 - Reference images added: `kaine-chester-character.png`; `lucid-lord-character.png`; `dark-light-character.png`; `anamorphis-soldier-character.png`; `blake-hollister-black-hand-character.png`; `buster-green-hand-character.png`; `amani-rory-red-hand-character.png`; `storyverse-tropical-island-city-setting.png`; `kaines-royal-terrace-setting.png`; `dream-realm-boundary-setting.png`; `lucid-light-key-item.png`; `crystal-rainbow-sword-key-item.png`; `golden-energy-tether-key-item.png`.
+
+## Issue #2: The Limits of Lucid Light
+
+- Folder: `series/the-three-hands/issues/issue-02/`
+- Logline: Before warning Kaine's island city, the Lucid Lord returns to his rigid homeworld to prove his worth, only to discover that even Lucid Light cannot rewrite a story already locked under Dark Light's rule.
+- Plot summary: The Lucid Lord studies the Storyverse as a multiverse of bubble universes and learns that Lucid Light can guide fluid stories but cannot move rigid ones. On his own Anamorphis homeworld, his power is dismissed as useless, so he leaves to prove himself across more flexible worlds and returns with the crystal rainbow sword of healing and the golden energy tether of connection. Dark Light sees only the value of Lucid Lord's power and attacks the tether to siphon it. The Lucid Lord tries to heal Dark Light with the sword, but the black aura repels mercy, revealing that the homeworld's story has already chosen its warlord. The Lucid Lord escapes into the Storyverse to warn other Lucid Light wielders while Dark Light's forces activate a gateway network and begin dispatching soldiers across bubble universes.
+- Continuity changes: Lucid Light's major limit is established: it cannot alter rigid stories that have already been written. Dark Light is confirmed as ruler of the Lucid Lord's homeworld, and the Anamorphis now have a gateway system for Storyverse-wide invasion.
+- New characters: None.
+- New settings: Rigid Anamorphis Homeworld.
+- New key items: Anamorphis Storyverse Gateway.
+- Reference images added: `rigid-anamorphis-homeworld-setting.png`; `anamorphis-storyverse-gateway-key-item.png`.
