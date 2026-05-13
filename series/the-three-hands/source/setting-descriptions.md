@@ -1,0 +1,22 @@
+# Setting Descriptions
+
+## Setting: Storyverse Tropical Island City
+
+- First appears: Issue #1, "The Promise of Lucid Light"
+- Visual identifiers: Tropical island city inside the Dream Realm, turquoise ocean, palm-lined avenues, volcanic stone terraces, white-and-gold futuristic towers, royal purple banners, citizens in colorful battle suits, bright humid sunlight.
+- Continuity notes: The city was once controlled by Kaine's corrupted Lucid Light. After Issue #1, its people are wary but willing to let Kaine rebuild trust.
+- Reference image: `../reference-images/storyverse-tropical-island-city-setting.png`
+
+## Setting: Kaine's Royal Terrace
+
+- First appears: Issue #1, "The Promise of Lucid Light"
+- Visual identifiers: Open-air palace terrace above the island city, gold-inlaid stone, purple crystal braziers, ocean horizon behind the throne, ceremonial steps where Kaine addresses the public.
+- Continuity notes: The terrace is the public seat of Kaine's rule and the place where he renounces control by Lucid Light.
+- Reference image: `../reference-images/kaines-royal-terrace-setting.png`
+
+## Setting: Dream Realm Boundary
+
+- First appears: Issue #1, "The Promise of Lucid Light"
+- Visual identifiers: Cosmic space of translucent bubble universes, purple nebula mist, floating story-world reflections, luminous paths between worlds, distant islands and stars suspended inside glassy spheres.
+- Continuity notes: The Storyverse exists within this Dream Realm structure. Dark Light's threat extends beyond the island city to the Storyverse itself.
+- Reference image: `../reference-images/dream-realm-boundary-setting.png`

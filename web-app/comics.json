@@ -5,7 +5,76 @@
     "baseUrl": "https://jetblackrlsh.github.io/Random-Comics/web-app",
     "supportUrl": "https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602"
   },
-  "series": [],
+  "series": [
+    {
+      "slug": "the-three-hands",
+      "title": "The Three Hands",
+      "summary": "In a tropical island city inside the Storyverse, a redeemed king who once abused Lucid Light appoints three elite defenders to protect his people from Dark Light and the Anamorphis invaders hunting his power.",
+      "characterDescriptions": "Character Descriptions Character: King Kaine Chester - First appears: Issue 1, \"The Promise of Lucid Light\" - Role: redeemed king, guardian of Lucid Light, former corrupted ruler. - Visual identifiers: Black man, early 30s to early 40s, black buzzcut haircut, strong regal posture, crimson battle suit with gold accents, purple regal cheetah-print cape, controlled but haunted expression after his cleansing. - Continuity notes: Possesses Lucid Light but swears never again to use it to control his people. His redemption and public vow create the need for the King's Three Hands. - Reference image: ../reference-images/kaine-chester-character.png Character: The Lucid Lord - First appears: Issue 1, \"The Promise of Lucid Light\" - Role: cosmic peacemaker, healer, messenger, former opponent of Dark Light. - Visual identifiers: Humanoid being made of glittering purple Lucid Light, translucent cosmic body, calm faceless or softly glowing face, futuristic crystal rainbow sword, golden energy tether coiled at one hand. - Continuity notes: Immune to Kaine's influence because he is made of Lucid Light. His sword heals instead of harms. His tether cleanses Kaine's corruption, but even he could not cleanse Dark Light. - Reference image: ../reference-images/lucid-lord-character.png Character: Dark Light - First appears: Issue 1, \"The Promise of Lucid Light\" - Role: main antagonist, corrupted ruler of the Anamorphis. - Visual identifiers: Tall faceless humanoid made of rainbow luminous energy, smooth alien silhouette, crackling black corruptive aura shrouding the body, analytical stillness, no visible eyes or mouth. - Continuity notes: Dark Light wants Kaine's Lucid Light so he can rule the Storyverse. His corruption is part of his narrative and cannot be cleansed by the Lucid Lord. - Reference image: ../reference-images/dark-light-character.png Character: Anamorphis Soldier - First appears: Issue 1, \"The Promise of Lucid Light\" - Role: extraterrestrial invader type, future episodic threat. - Visual identifiers: Faceless luminous humanoid, smooth bright energy body, featureless head, shapeshifting limbs, fast motion trails, colored light rim glow. - Continuity notes: All Anamorphis can shapeshift, fly, and move at incredible speeds. Each soldier has a unique technique related to shapeshifting, force projection, or luminosity control. - Reference image: ../reference-images/anamorphis-soldier-character.png Character: Blake Hollister, the Black Hand - First appears: Not introduced in Issue 1. - Role: future member of the King's Three Hands. - Visual identifiers: Bald man in a black battle suit, disciplined close-combat stance, restrained expression, compact defensive posture. - Continuity notes: Can summon black holes, but avoids using that dangerous power unless absolutely necessary. Specializes in hand-to-hand combat. - Reference image: ../reference-images/blake-hollister-black-hand-character.png Character: Buster Green, the Green Hand - First appears: Not introduced in Issue 1. - Role: future member of the King's Three Hands. - Visual identifiers: Man with spiky brown hair in a green battle suit, restless posture, bright green life-energy glow around his hands. - Continuity notes: Can summon and manipulate green life energy. A hot-head who practices meditation to control his temper and power. - Reference image: ../reference-images/buster-green-hand-character.png Character: Amani Rory, the Red Hand - First appears: Not introduced in Issue 1. - Role: future member of the King's Three Hands. - Visual identifiers: Man with spiky black hair in a red battle suit, relaxed or sleepy posture, red armored gloves that can become melee weapons. - Continuity notes: Lazy and prefers quick battles. Studies weak-point combat so he can end fights as fast as possible. - Reference image: ../reference-images/amani-rory-red-hand-character.png",
+      "settingDescriptions": "Setting Descriptions Setting: Storyverse Tropical Island City - First appears: Issue 1, \"The Promise of Lucid Light\" - Visual identifiers: Tropical island city inside the Dream Realm, turquoise ocean, palm-lined avenues, volcanic stone terraces, white-and-gold futuristic towers, royal purple banners, citizens in colorful battle suits, bright humid sunlight. - Continuity notes: The city was once controlled by Kaine's corrupted Lucid Light. After Issue 1, its people are wary but willing to let Kaine rebuild trust. - Reference image: ../reference-images/storyverse-tropical-island-city-setting.png Setting: Kaine's Royal Terrace - First appears: Issue 1, \"The Promise of Lucid Light\" - Visual identifiers: Open-air palace terrace above the island city, gold-inlaid stone, purple crystal braziers, ocean horizon behind the throne, ceremonial steps where Kaine addresses the public. - Continuity notes: The terrace is the public seat of Kaine's rule and the place where he renounces control by Lucid Light. - Reference image: ../reference-images/kaines-royal-terrace-setting.png Setting: Dream Realm Boundary - First appears: Issue 1, \"The Promise of Lucid Light\" - Visual identifiers: Cosmic space of translucent bubble universes, purple nebula mist, floating story-world reflections, luminous paths between worlds, distant islands and stars suspended inside glassy spheres. - Continuity notes: The Storyverse exists within this Dream Realm structure. Dark Light's threat extends beyond the island city to the Storyverse itself. - Reference image: ../reference-images/dream-realm-boundary-setting.png",
+      "keyItemDescriptions": "Key Item Descriptions Key Item: Lucid Light - First appears: Issue 1, \"The Promise of Lucid Light\" - Visual identifiers: Glittering purple cosmic energy, star motes, crystalline ribbons, dreamlike lensing around hands and eyes, precise geometric arcs that can bend reality. - Continuity notes: Kaine possesses Lucid Light, the most coveted power in the Storyverse. It can manipulate the Dream Realm with godlike precision, but Kaine swears never again to use it to control his people. - Reference image: ../reference-images/lucid-light-key-item.png Key Item: Crystal Rainbow Sword - First appears: Issue 1, \"The Promise of Lucid Light\" - Visual identifiers: Futuristic crystalline sword with rainbow refractions, clean luminous edges, translucent blade, held by the Lucid Lord. - Continuity notes: The sword heals instead of harms and helps the Lucid Lord cut through corruption without killing. - Reference image: ../reference-images/crystal-rainbow-sword-key-item.png Key Item: Golden Energy Tether - First appears: Issue 1, \"The Promise of Lucid Light\" - Visual identifiers: Flexible golden light cord, braided energy strands, halo-like loops, anchored to the Lucid Lord's hand. - Continuity notes: The tether can bind corruption and guide cleansing. It cleanses Kaine but cannot cleanse Dark Light. - Reference image: ../reference-images/golden-energy-tether-key-item.png",
+      "issueSummaries": "Issue Summaries Issue 1: The Promise of Lucid Light - Folder: series/the-three-hands/issues/issue-01/ - Logline: King Kaine Chester's corrupted rule nearly breaks his island city until the Lucid Lord cleanses him and warns him that Dark Light is coming for Lucid Light. - Plot summary: Kaine rules the tropical island city through Lucid Light, puppeting superhuman citizens in colorful battle suits until unrest rises toward rebellion. The Lucid Lord descends from the Dream Realm and confronts Kaine, resisting every attempt to control him. Their battle becomes a cleansing ritual as the Lucid Lord's healing sword and golden tether pull the corruption from Kaine's soul. After warning Kaine about the Anamorphis ruler Dark Light, the Lucid Lord leaves Kaine to repair the damage he caused. Kaine publicly vows never again to use Lucid Light to control his people and announces that he will form a team to defend the city and protect Lucid Light from invaders. - Continuity changes: Kaine is cleansed, renounces coercive use of Lucid Light, and begins the path toward creating the King's Three Hands. - New characters: King Kaine Chester; the Lucid Lord; Dark Light; Anamorphis Soldier; Blake Hollister; Buster Green; Amani Rory. - New settings: Storyverse Tropical Island City; Kaine's Royal Terrace; Dream Realm Boundary. - New key items: Lucid Light; Crystal Rainbow Sword; Golden Energy Tether. - Reference images added: kaine-chester-character.png ; lucid-lord-character.png ; dark-light-character.png ; anamorphis-soldier-character.png ; blake-hollister-black-hand-character.png ; buster-green-hand-character.png ; amani-rory-red-hand-character.png ; storyverse-tropical-island-city-setting.png ; kaines-royal-terrace-setting.png ; dream-realm-boundary-setting.png ; lucid-light-key-item.png ; crystal-rainbow-sword-key-item.png ; golden-energy-tether-key-item.png .",
+      "referenceImages": [
+        {
+          "path": "../series/the-three-hands/reference-images/amani-rory-red-hand-character.png",
+          "alt": "The Three Hands reference image"
+        },
+        {
+          "path": "../series/the-three-hands/reference-images/anamorphis-soldier-character.png",
+          "alt": "The Three Hands reference image"
+        },
+        {
+          "path": "../series/the-three-hands/reference-images/blake-hollister-black-hand-character.png",
+          "alt": "The Three Hands reference image"
+        },
+        {
+          "path": "../series/the-three-hands/reference-images/buster-green-hand-character.png",
+          "alt": "The Three Hands reference image"
+        },
+        {
+          "path": "../series/the-three-hands/reference-images/crystal-rainbow-sword-key-item.png",
+          "alt": "The Three Hands reference image"
+        },
+        {
+          "path": "../series/the-three-hands/reference-images/dark-light-character.png",
+          "alt": "The Three Hands reference image"
+        },
+        {
+          "path": "../series/the-three-hands/reference-images/dream-realm-boundary-setting.png",
+          "alt": "The Three Hands reference image"
+        },
+        {
+          "path": "../series/the-three-hands/reference-images/golden-energy-tether-key-item.png",
+          "alt": "The Three Hands reference image"
+        },
+        {
+          "path": "../series/the-three-hands/reference-images/kaine-chester-character.png",
+          "alt": "The Three Hands reference image"
+        },
+        {
+          "path": "../series/the-three-hands/reference-images/kaines-royal-terrace-setting.png",
+          "alt": "The Three Hands reference image"
+        },
+        {
+          "path": "../series/the-three-hands/reference-images/lucid-light-key-item.png",
+          "alt": "The Three Hands reference image"
+        },
+        {
+          "path": "../series/the-three-hands/reference-images/lucid-lord-character.png",
+          "alt": "The Three Hands reference image"
+        },
+        {
+          "path": "../series/the-three-hands/reference-images/storyverse-tropical-island-city-setting.png",
+          "alt": "The Three Hands reference image"
+        }
+      ],
+      "url": "series/the-three-hands/",
+      "issueCount": 1,
+      "issues": [
+        "the-three-hands-issue-01"
+      ]
+    }
+  ],
   "comics": [
     {
       "slug": "deca-form-island-retirement",
@@ -459,6 +528,67 @@
       "issueNumber": null,
       "issueLabel": "Standalone issue",
       "url": "comics/anamorphis-uap/"
+    },
+    {
+      "slug": "the-three-hands-issue-01",
+      "folder": "series/the-three-hands/issues/issue-01",
+      "title": "The Promise of Lucid Light",
+      "publishedDate": "2026-05-13",
+      "summary": "King Kaine Chester's island city nears rebellion under his corrupted Lucid Light rule until the Lucid Lord cleanses him and warns that a greater darkness is coming for his power.",
+      "cover": "../series/the-three-hands/issues/issue-01/assets/comic-pages/page-01-cover.png",
+      "pdf": "../series/the-three-hands/issues/issue-01/output/pdf/the-three-hands-issue-01-the-promise-of-lucid-light.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../series/the-three-hands/issues/issue-01/assets/comic-pages/page-01-cover.png",
+          "alt": "The Promise of Lucid Light comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../series/the-three-hands/issues/issue-01/assets/comic-pages/page-02.png",
+          "alt": "The Promise of Lucid Light comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../series/the-three-hands/issues/issue-01/assets/comic-pages/page-03.png",
+          "alt": "The Promise of Lucid Light comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../series/the-three-hands/issues/issue-01/assets/comic-pages/page-04.png",
+          "alt": "The Promise of Lucid Light comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../series/the-three-hands/issues/issue-01/assets/comic-pages/page-05.png",
+          "alt": "The Promise of Lucid Light comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../series/the-three-hands/issues/issue-01/assets/comic-pages/page-06.png",
+          "alt": "The Promise of Lucid Light comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../series/the-three-hands/issues/issue-01/assets/comic-pages/page-07.png",
+          "alt": "The Promise of Lucid Light comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../series/the-three-hands/issues/issue-01/assets/comic-pages/page-08.png",
+          "alt": "The Promise of Lucid Light comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "series": {
+        "slug": "the-three-hands",
+        "title": "The Three Hands",
+        "summary": "In a tropical island city inside the Storyverse, a redeemed king who once abused Lucid Light appoints three elite defenders to protect his people from Dark Light and the Anamorphis invaders hunting his power.",
+        "url": "series/the-three-hands/"
+      },
+      "issueNumber": 1,
+      "issueLabel": "Issue #1 of The Three Hands",
+      "url": "comics/the-three-hands-issue-01/"
     }
   ]
 }
