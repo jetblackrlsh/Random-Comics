@@ -977,6 +977,62 @@
       "issueNumber": 1,
       "issueLabel": "Issue #1 of Generic Man",
       "url": "comics/generic-man-issue-01/"
+    },
+    {
+      "slug": "spark-of-lucid-light",
+      "folder": "spark-of-lucid-light",
+      "title": "Spark of Lucid Light",
+      "publishedDate": "2026-05-14",
+      "summary": "After a global event called the Spark gives some people fantastic abilities and makes them targets, Jet Black discovers his dream power is real when a government capture robot tears him from his apartment and forces him to choose between hiding and joining the resistance.",
+      "cover": "../spark-of-lucid-light/assets/comic-pages/page-01-cover.png",
+      "pdf": "../spark-of-lucid-light/output/pdf/spark-of-lucid-light.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../spark-of-lucid-light/assets/comic-pages/page-01-cover.png",
+          "alt": "Spark of Lucid Light comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../spark-of-lucid-light/assets/comic-pages/page-02.png",
+          "alt": "Spark of Lucid Light comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../spark-of-lucid-light/assets/comic-pages/page-03.png",
+          "alt": "Spark of Lucid Light comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../spark-of-lucid-light/assets/comic-pages/page-04.png",
+          "alt": "Spark of Lucid Light comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../spark-of-lucid-light/assets/comic-pages/page-05.png",
+          "alt": "Spark of Lucid Light comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../spark-of-lucid-light/assets/comic-pages/page-06.png",
+          "alt": "Spark of Lucid Light comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../spark-of-lucid-light/assets/comic-pages/page-07.png",
+          "alt": "Spark of Lucid Light comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../spark-of-lucid-light/assets/comic-pages/page-08.png",
+          "alt": "Spark of Lucid Light comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
+      "url": "comics/spark-of-lucid-light/"
     }
   ]
 }
