@@ -32,3 +32,14 @@
 - New settings: None.
 - New key items: Lucid Conduit.
 - Reference images added: `lucid-dreamer-character.png`; `lucid-conduit-key-item.png`.
+
+## Issue #4: The King's Three Hands
+
+- Folder: `series/the-three-hands/issues/issue-04/`
+- Logline: Kaine tests his kingdom's strongest defenders against hardlight Anamorphis simulations and learns that the right Three Hands must be knights who can harm light, keep choosing the fight, and still trust the king he once was.
+- Plot summary: Kaine tries to form the King's Three Hands to protect the Lucid Light within him from Dark Light's Anamorphis forces, but the city's many superhumans make the choice overwhelming. He creates three criteria: candidates must already be knights, their powers must be able to affect beings made of light, and they must trust him enough to serve after his past coercion. In the Royal Hardlight Simulation Room, many candidates fail because raw power cannot touch light or because they no longer choose soldiering. Blake Hollister proves that disciplined close combat and black-hole control can bend light; Buster Green channels his temper through green light that can meet luminous enemies; and Amani Rory uses hardlight weapons from his gauntlets with lazy but decisive efficiency. Kaine promotes them as Blake the Black Hand, Buster the Green Hand, and Amani the Red Hand.
+- Continuity changes: The King's Three Hands are formally created as Kaine's chosen anti-Anamorphis defenders. The selection process establishes that Kaine now values consent and trust over command, and that hardlight simulation training is useful but weaker than true Anamorphis combat.
+- New characters: None.
+- New settings: Royal Hardlight Simulation Room.
+- New key items: Hardlight Training Simulators.
+- Reference images added: `royal-hardlight-simulation-room-setting.png`; `hardlight-training-simulators-key-item.png`.

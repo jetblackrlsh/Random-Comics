@@ -27,3 +27,10 @@
 - Visual identifiers: Monumental crystalline city of faceless luminous Anamorphis, pale glass towers locked in symmetrical grids, hard white light, black-rainbow banners, rigid geometric streets, a central palace platform where Dark Light commands soldiers.
 - Continuity notes: The Lucid Lord was born here, but the world's story is too rigid for Lucid Light to meaningfully change. Dark Light rules it as a warlord, making this homeworld the source of the Anamorphis expansion into the Storyverse.
 - Reference image: `../reference-images/rigid-anamorphis-homeworld-setting.png`
+
+## Setting: Royal Hardlight Simulation Room
+
+- First appears: Issue #4, "The King's Three Hands"
+- Visual identifiers: Palace training chamber beneath Kaine's royal terrace, dark volcanic stone walls, white-and-gold projector pylons, transparent safety shields, purple command consoles, hardlight grid floor, palm-shadowed skylights, artificial Anamorphis silhouettes made from geometric white-blue light.
+- Continuity notes: Used for candidate testing and combat training after Kaine's vow not to control his people. The room can imitate basic Anamorphis movement and light-body targets, but the simulations are limited and obviously weaker than real Anamorphis soldiers.
+- Reference image: `../reference-images/royal-hardlight-simulation-room-setting.png`

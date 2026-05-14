@@ -34,3 +34,10 @@
 - Visual identifiers: A native Storyverse being or object radiating stable glittering purple Lucid Light from within, with rooted star motes, precise geometric arcs, crystalline lensing, and a steady glow that does not flicker like a dream visitor's temporary power.
 - Continuity notes: Lucid Conduits are rare native sources of Lucid Light, including Lucid Lord and King Kaine Chester. Unlike Lucid Dreamers, they cannot escape Dark Light's siphoning by waking up, making them the only viable targets for Dark Light's hunger. Once Dark Light discovers a Lucid Conduit, he refuses to abandon the hunt.
 - Reference image: `../reference-images/lucid-conduit-key-item.png`
+
+## Key Item: Hardlight Training Simulators
+
+- First appears: Issue #4, "The King's Three Hands"
+- Visual identifiers: White-and-gold projector pylons with purple crystal lenses, transparent safety rails, floating diagnostic panes, controlled white-blue hardlight constructs shaped like simplified Anamorphis soldiers, visible warning markers that show training intensity.
+- Continuity notes: The simulators create candidate-testing and combat-training targets that can mimic light-bodied opponents, but they cannot reproduce the full intelligence, strength, adaptability, or unique techniques of real Anamorphis soldiers.
+- Reference image: `../reference-images/hardlight-training-simulators-key-item.png`

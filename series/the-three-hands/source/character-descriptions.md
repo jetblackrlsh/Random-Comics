@@ -44,7 +44,7 @@
 
 - First appears: Not introduced in Issue #1.
 - Role: future member of the King's Three Hands.
-- Visual identifiers: Bald man in a black battle suit, disciplined close-combat stance, restrained expression, compact defensive posture.
+- Visual identifiers: Black man, bald, black battle suit, disciplined close-combat stance, restrained expression, compact defensive posture.
 - Continuity notes: Can summon black holes, but avoids using that dangerous power unless absolutely necessary. Specializes in hand-to-hand combat.
 - Reference image: `../reference-images/blake-hollister-black-hand-character.png`
 
@@ -52,7 +52,7 @@
 
 - First appears: Not introduced in Issue #1.
 - Role: future member of the King's Three Hands.
-- Visual identifiers: Man with spiky brown hair in a green battle suit, restless posture, bright green life-energy glow around his hands.
+- Visual identifiers: Black man with spiky brown hair in a green battle suit, restless posture, bright green life-energy glow around his hands.
 - Continuity notes: Can summon and manipulate green life energy. A hot-head who practices meditation to control his temper and power.
 - Reference image: `../reference-images/buster-green-hand-character.png`
 
