@@ -70,6 +70,29 @@ This is a style variant of `comic-book-pdf`. Keep the original skill's comic-boo
    - Check for correct page count, 4:5 portrait pages, caption boxes instead of bubbles, text not dominating the art, no obvious character redesigns, realistic candid-photo styling, and a complete narrative.
    - If a page fails core requirements, regenerate that page before assembling the final PDF.
 
+## Extending An Existing Comic
+
+Use this workflow when the user asks to add pages to an existing standalone comic or series issue.
+
+1. Read the existing comic before writing anything:
+   - `source/treatment.md`
+   - `source/character-bible.md`
+   - `source/page-script.md`
+   - current `assets/comic-pages/` filenames
+   - existing `output/pdf/` and `tmp/photo-comic-book-pdf/` outputs when present
+2. If the target is a series issue, also read `series/SERIES_WORKFLOW.md`, the parent series source files, and the relevant `reference-images/` set.
+3. Count the existing pages and confirm the requested expansion will fit this skill's 8-page total limit. If it would exceed 8 total pages, stop and explain the limit unless the user explicitly asks to revise the workflow.
+4. Preserve existing page image filenames and story order unless the user explicitly asks for a restructure.
+5. Add new pages after the current last page using the next sequential `page-##.png` filename. Keep `page-01-cover.png` as the cover filename.
+6. Update `source/treatment.md` and `source/page-script.md` so the expanded page count reads as one coherent comic, not detached bonus material.
+7. Reuse the existing character and reference bible in every new page prompt. Do not redesign recurring characters, settings, or key items unless the added story explicitly changes them.
+8. Generate each added page with `image_gen` as a complete realistic candid photo-comic page, 4:5 portrait aspect ratio, with all readable story text generated directly inside the page art.
+9. Reassemble the PDF and previews from the full updated `assets/comic-pages/` set, not only the new pages.
+10. Inspect the updated contact sheet and the new pages. Regenerate any added page that breaks the output contract before finalizing.
+11. If the target is a series issue, update the parent series issue summary when the added pages change plot, continuity, recurring elements, or reference image usage.
+
+Never add new narration, dialogue, titles, labels, captions, or page text afterward with PDF tooling, image editing, canvas drawing, HTML/CSS, or another typesetting step.
+
 ## Series Issue Mode
 
 Use this mode when the target comic is part of a Random Comics series under `series/<series-folder>/`.

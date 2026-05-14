@@ -62,6 +62,22 @@ When the issue introduces a new character, setting, or key item that may recur, 
 
 Reference images are required for all newly introduced recurring characters, settings, and key items in a series issue. Do not leave a recurring element as text-only continuity.
 
+## Promoting A Standalone One-Shot To Issue #1
+
+Use this checklist when a user asks to turn an existing top-level one-shot into the first issue of a new series:
+
+1. Read the one-shot's `source/treatment.md`, `source/character-bible.md`, `source/page-script.md`, `assets/comic-pages/`, `output/pdf/`, and any existing catalog metadata.
+2. Choose the new `series/<series-folder>/` slug from the requested series name, then create the standard series folder layout.
+3. Move the complete one-shot folder contents into `series/<series-folder>/issues/issue-01/`. Preserve existing generated page images and PDFs unless the user asks for revisions.
+4. Create `source/series.md` with the series title, logline, premise, tone, recurring visual language, and continuity notes inferred from the one-shot plus the user's requested series premise.
+5. Create `source/character-descriptions.md`, `source/setting-descriptions.md`, and `source/key-item-descriptions.md` from the one-shot's recurring elements.
+6. Generate `image_gen` reference images under `reference-images/` for recurring characters, settings, and key items that should persist beyond issue #1.
+7. Create `source/issue-summaries.md` with an Issue #1 entry that names the moved one-shot, summarizes its plot, and records introduced continuity elements and reference images.
+8. Add `## Issue Number` with value `1` to `issues/issue-01/source/treatment.md` if it is missing.
+9. Rebuild the web app so the standalone catalog entry is replaced by the new series issue entry and generated series page.
+
+Do not duplicate the same comic as both a standalone top-level comic and a series issue unless the user explicitly asks for an archival copy.
+
 ## Reference Image Style
 
 All series reference images must use realistic candid photo-comic styling:
