@@ -9,6 +9,14 @@ These instructions apply to the whole Random Comics repository.
 - Series issues live under `series/<series-folder>/issues/<issue-folder>/`.
 - The static reader is generated from `web-app/scripts/build-catalog.mjs` and `web-app/scripts/build-share-pages.mjs`.
 
+## Image Generation Requirement
+
+- All comic page art, cover art, reference images, and replacement/regenerated comic images must be created with the built-in chat AI image generation capability, using `image_gen`.
+- Do not use an API-key-dependent image workflow, external image API, CLI image generator, local drawing/rendering script, placeholder art generator, stock asset service, or manual asset service for required comic imagery.
+- If `image_gen` is unavailable or blocked, stop and report that the comic imagery cannot be completed under this repo's workflow instead of substituting another generation method.
+- PDF assembly and preview generation may normalize, resize, package, or contact-sheet the completed generated page images, but must not create the comic art, caption text, title text, or page content as a substitute for `image_gen`.
+- All readable story text in comic pages must be generated directly inside the page art by `image_gen`; do not add narration, dialogue, titles, labels, or caption text afterward with code, image editing, canvas drawing, HTML/CSS, or PDF tooling.
+
 ## Before Creating Or Editing A Comic
 
 1. Determine whether the comic is standalone or part of a series.

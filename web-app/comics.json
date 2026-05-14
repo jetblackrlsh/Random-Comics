@@ -857,6 +857,67 @@
       "url": "comics/the-three-hands-issue-01/"
     },
     {
+      "slug": "backrooms-lucid-light",
+      "folder": "backrooms-lucid-light",
+      "title": "Backrooms Lucid Light",
+      "publishedDate": "2026-05-14",
+      "summary": "Lucid dreamer Jet Black falls through his own couch into the Backrooms, loses access to his purple Lucid Light, and survives a hunting mimic crate by turning the Backrooms' no-clipping logic against itself.",
+      "cover": "../backrooms-lucid-light/assets/comic-pages/page-01-cover.png",
+      "pdf": "../backrooms-lucid-light/output/pdf/backrooms-lucid-light.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../backrooms-lucid-light/assets/comic-pages/page-01-cover.png",
+          "alt": "Backrooms Lucid Light comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../backrooms-lucid-light/assets/comic-pages/page-02.png",
+          "alt": "Backrooms Lucid Light comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../backrooms-lucid-light/assets/comic-pages/page-03.png",
+          "alt": "Backrooms Lucid Light comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../backrooms-lucid-light/assets/comic-pages/page-04.png",
+          "alt": "Backrooms Lucid Light comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../backrooms-lucid-light/assets/comic-pages/page-05.png",
+          "alt": "Backrooms Lucid Light comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../backrooms-lucid-light/assets/comic-pages/page-06.png",
+          "alt": "Backrooms Lucid Light comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../backrooms-lucid-light/assets/comic-pages/page-07.png",
+          "alt": "Backrooms Lucid Light comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../backrooms-lucid-light/assets/comic-pages/page-08.png",
+          "alt": "Backrooms Lucid Light comic page 8"
+        },
+        {
+          "number": 9,
+          "path": "../backrooms-lucid-light/assets/comic-pages/page-09.png",
+          "alt": "Backrooms Lucid Light comic page 9"
+        }
+      ],
+      "pageCount": 9,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
+      "url": "comics/backrooms-lucid-light/"
+    },
+    {
       "slug": "generic-man-issue-01",
       "folder": "series/generic-man/issues/issue-01",
       "title": "Nothing Special",
