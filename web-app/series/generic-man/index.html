@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="../../">
+    <!-- APP_META_START -->
+    <title>Generic Man | Random Comics</title>
+    <meta name="description" content="In Super World, where everyone has force projection and almost everyone has flashy extra powers called Hacks, the world's greatest force projection user is dismissed as ordinary...">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://jetblackrlsh.github.io/Random-Comics/web-app/series/generic-man/">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Random Comics">
+    <meta property="og:title" content="Generic Man | Random Comics">
+    <meta property="og:description" content="In Super World, where everyone has force projection and almost everyone has flashy extra powers called Hacks, the world's greatest force projection user is dismissed as ordinary...">
+    <meta property="og:url" content="https://jetblackrlsh.github.io/Random-Comics/web-app/series/generic-man/">
+    <meta property="og:image" content="https://jetblackrlsh.github.io/Random-Comics/web-app/assets/site-background.png">
+    <meta property="og:image:alt" content="Generic Man | Random Comics cover art">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Generic Man | Random Comics">
+    <meta name="twitter:description" content="In Super World, where everyone has force projection and almost everyone has flashy extra powers called Hacks, the world's greatest force projection user is dismissed as ordinary...">
+    <meta name="twitter:image" content="https://jetblackrlsh.github.io/Random-Comics/web-app/assets/site-background.png">
+    <meta name="twitter:image:alt" content="Generic Man | Random Comics cover art">
+    <!-- APP_META_END -->
+    <!-- STRUCTURED_DATA_START -->
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"CreativeWorkSeries","name":"Generic Man","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/series/generic-man/","description":"In Super World, where everyone has force projection and almost everyone has flashy extra powers called Hacks, the world's greatest force projection user is dismissed as ordinary because he has no Hacks at all.","hasPart":[{"@type":"ComicIssue","name":"Nothing Special","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/comics/generic-man-issue-01/","issueNumber":1,"position":1,"datePublished":"2026-05-14","image":"https://jetblackrlsh.github.io/Random-Comics/series/generic-man/issues/issue-01/assets/comic-pages/page-01-cover.png"}],"isPartOf":{"@type":"WebSite","name":"Random Comics","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/"}}</script>
+    <!-- STRUCTURED_DATA_END -->
+    <link rel="preload" href="assets/site-background.png" as="image">
+    <link rel="icon" href="assets/random-comics-logo.png">
+    <link rel="sitemap" type="application/xml" href="sitemap.xml">
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body data-initial-route="series:generic-man">
+    <div class="background-art" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="brand" href="./" data-route="home" aria-label="Random Comics home">
+        <img src="assets/random-comics-logo.png" alt="Random Comics">
+      </a>
+      <nav class="top-nav" aria-label="Primary navigation">
+        <a href="./" data-route="home">Read</a>
+        <a href="about/" data-route="about">About</a>
+        <a class="support-link" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="reader-layout" id="readerView">
+        <aside class="control-panel" aria-label="Comic controls">
+          <div class="intro-copy">
+            <h1>Random Comics</h1>
+            <p>Browse standalone stories and series issues, read vertically, share a favorite issue, or download it for later.</p>
+          </div>
+
+          <label class="search-wrap" for="comicSearch">
+            <span>Search by title, date, or series</span>
+            <input id="comicSearch" type="search" autocomplete="off" placeholder="Try 2026, Deca-Form, or a series">
+          </label>
+
+          <div class="jump-actions" aria-label="Jump to comic">
+            <button type="button" id="earliestButton">Earliest</button>
+            <button type="button" id="latestButton">Latest</button>
+          </div>
+
+          <div class="comic-list" id="comicList" aria-label="Comics"></div>
+        </aside>
+
+        <article class="reader-panel" aria-live="polite">
+          <div class="reader-toolbar">
+            <div>
+              <p class="publish-date" id="comicDate"></p>
+              <h2 id="comicTitle">Loading comics...</h2>
+            </div>
+            <div class="reader-actions" aria-label="Selected comic actions">
+              <a class="icon-button" id="downloadButton" href="#" download>Download</a>
+              <button class="icon-button" type="button" id="shareButton">Share</button>
+              <a class="icon-button support" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+            </div>
+          </div>
+          <p class="comic-summary" id="comicSummary"></p>
+          <div class="page-strip" id="pageStrip"></div>
+        </article>
+      </section>
+
+      <section class="about-view" id="aboutView" hidden>
+        <div class="about-copy">
+          <h1>About Random Comics</h1>
+          <p>Random Comics is a home for standalone one-shots, strange experiments, and comic series that grow beyond a single issue.</p>
+          <p>Some comics are based on dreams. Some come from sudden shower thoughts, weird news, superhero concepts, game-inspired ideas, or random sparks of imagination that demanded to become something real. Some ideas only need one finished comic. Others may build into recurring characters, settings, and issue-to-issue continuity.</p>
+          <p>The comics collected here may vary in tone, style, length, format, and genre. You might find superhero action, sci-fi weirdness, dream logic, horror, comedy, mythic strangeness, standalone stories, or the beginning of a larger series.</p>
+          <p>Think of this as a creative sketchbook turned into a comic archive: a place where spontaneous ideas can become finished stories, whether they stand alone or keep expanding.</p>
+          <p>Not every comic needs a universe.</p>
+          <p>But when a strange little story grows into one, Random Comics has room for that too.</p>
+        </div>
+      </section>
+
+      <!-- SEO_CONTENT_START -->
+      <section class="seo-content" aria-label="Generic Man series details">
+        <h2>Generic Man</h2>
+        <p>In Super World, where everyone has force projection and almost everyone has flashy extra powers called Hacks, the world's greatest force projection user is dismissed as ordinary because he has no Hacks at all.</p>
+        <h3>Characters</h3><p>Character Descriptions Character: Genny Manson / Generic Man - First appears: Issue 1, &quot;Nothing Special&quot; - Role: protagonist, future masked vigilante, master force projection user. - Visual identifiers: Young man with tan brown skin, lean athletic build, black hair worn in a distinct cowlick, blue eyes, infectious smile that he uses to power through pain, open and kind facial expressions. As a child he wears plain foster-system clothes with scuffed sneakers. As Generic Man he wears an entirely white bodysuit with a white cape, no logos, no color accents, and a fully obscuring blank white mask. - Continuity notes: Born without any Hacks, making him an anomaly in Super World. He is rejected by his high-society parents, moved through foster homes, bullied by children with Hacks, and inspired by helper robots who serve everyone without needing special powers. He masters force projection through daily training and eventually claims the insult &quot;generic&quot; as a badge of honor. - Reference image: ../reference-images/genny-manson-generic-man-character.png Character: Helper Robots - First appears: Issue 1, &quot;Nothing Special&quot; - Role: recurring social backdrop, Genny's early model of helpfulness. - Visual identifiers: Humanoid civic-service robots with smooth white ceramic shells, soft blue sensor strips, utility hands, gentle posture, practical tool panels, visible scuffs from public service, no facial expression beyond simple light indicators. - Continuity notes: Robots handle most traditional labor in Super World and do not have Hacks. Genny admires them because they help everyone consistently without needing social status, a flashy power, or public praise. - Reference image: ../reference-images/helper-robots-character.png Character: Genny's Birth Parents - First appears: Issue 1, &quot;Nothing Special&quot; - Role: origin-story antagonists, high-society parents who abandon Genny. - Visual identifiers: Wealthy Super World couple in elegant custom Hacks suits, polished armor panels, expensive fabric layers, controlled public smiles, anxious status-conscious posture. - Continuity notes: They reject Genny immediately after his Hack scan returns negative. They represent the social cruelty of a world that mistakes a missing Hack for a missing future. - Reference image: None; treated as issue-specific unless they return in later stories. Character: Foster-Home Bullies - First appears: Issue 1, &quot;Nothing Special&quot; - Role: childhood antagonists who define Genny by what he lacks. - Visual identifiers: Children and teens in mismatched hand-me-down Hacks suits, each with different small personalized power effects, aggressive group posture, flashy intimidation instead of discipline. - Continuity notes: They use their Hacks to beat Genny down when he is young. After he trains, they become the first people to see what disciplined force projection can do. Their insult &quot;generic&quot; becomes the seed of his heroic identity. - Reference image: None; treated as issue-specific unless they return in later stories.</p>
+        <h3>Settings</h3><p>Setting Descriptions Setting: Super World City - First appears: Issue 1, &quot;Nothing Special&quot; - Visual identifiers: Bright futuristic city in a bubble universe, clean civic towers, Hero Association transit hubs, automated walkways, humanoid robots at work, colorful Hacks suits in public plazas, drones above the streets, subtle force-field ripples around ordinary people moving objects. - Continuity notes: Super World is inside the Storyverse and Dream Realm. Everyone has force projection, almost everyone has Hacks, and social value is built around the uniqueness and utility of those Hacks. - Reference image: ../reference-images/super-world-city-setting.png Setting: Hero Association Hack Scan Nursery - First appears: Issue 1, &quot;Nothing Special&quot; - Visual identifiers: Sterile high-society medical chamber with white walls, glass diagnostic crib, floating holographic Hack signature displays, Hero Association insignia, soft blue clinical light, anxious parents in expensive Hacks suits. - Continuity notes: Newborn Hack scans help categorize a child's expected future. Genny's negative result labels him as an anomaly and starts his social abandonment. - Reference image: ../reference-images/hero-association-hack-scan-nursery-setting.png Setting: Foster Block Courtyard - First appears: Issue 1, &quot;Nothing Special&quot; - Visual identifiers: Public foster-housing courtyard beneath polished city towers, worn play equipment, service robots carrying supplies, patched concrete, drone traffic overhead, children in colorful secondhand Hacks suits, pockets of neglect hidden inside a high-tech society. - Continuity notes: Genny grows up moving through foster placements like this, watching helper robots treat people more kindly than many adults do. - Reference image: ../reference-images/foster-block-courtyard-setting.png Setting: Utility Training Yard - First appears: Issue 1, &quot;Nothing Special&quot; - Visual identifiers: Back-lot training space behind foster housing and robot maintenance bays, stacked construction materials, weight blocks, drone lanes, pressure-scarred pavement, safety cones, practical industrial lighting. - Continuity notes: Genny teaches himself force projection here by copying construction robots and drones, turning ignored utility practice into genuine heroic mastery. - Reference image: ../reference-images/utility-training-yard-setting.png</p>
+        <h3>Key Items</h3><p>Key Item Descriptions Key Item: Hacks Suit - First appears: Issue 1, &quot;Nothing Special&quot; - Visual identifiers: Colorful armored suit customized to regulate a person's Hacks, bright power-channel lines, modular armor plates, personalized vents or emitters, visible signature effects matched to the wearer. - Continuity notes: Hacks suits dominate Super World fashion and status. They make Hacks legible to the public and reinforce the idea that a person's extra powers are their identity. - Reference image: ../reference-images/hacks-suit-key-item.png Key Item: Hack Scan Crib - First appears: Issue 1, &quot;Nothing Special&quot; - Visual identifiers: Transparent diagnostic newborn crib with white medical frame, floating scan rings, holographic Hack signature readouts, Hero Association data panels, sterile blue light. - Continuity notes: The crib returns a negative Hacks result for Genny, marking him as an anomaly and triggering his parents' rejection. - Reference image: ../reference-images/hack-scan-crib-key-item.png Key Item: Generic Man's Blank White Suit - First appears: Issue 1, &quot;Nothing Special&quot; - Visual identifiers: All-white body suit, white cape, smooth blank white mask that fully obscures the face, no logo, no color accents, no visible tech decoration, clean silhouette. - Continuity notes: The suit rejects Hacks fashion and turns the word &quot;generic&quot; into Genny's chosen symbol. It should stay visually blank even when damaged or dirtied. - Reference image: ../reference-images/generic-man-blank-white-suit-key-item.png Key Item: Force Projection - First appears: Issue 1, &quot;Nothing Special&quot; - Visual identifiers: Mostly invisible fields shown through air-pressure ripples, lensing distortions, dust halos, bent raindrops, impact rings, floating objects, and skin-tight shimmer during defensive use. - Continuity notes: Everyone on Super World has force projection, but Genny is the world's greatest user because he trains it as a complete discipline instead of treating it as basic utility. - Reference image: ../reference-images/force-projection-key-item.png</p>
+        <h3>Issue Summaries</h3><p>Issue Summaries Issue 1: Nothing Special - Folder: series/generic-man/issues/issue-01/ - Logline: Rejected at birth for having no Hacks, Genny Manson turns the world's most ignored power into the first proof that he can become a hero. - Plot summary: Genny is born into high society and scanned for his Hack signature, but the Hero Association diagnostic returns negative. His parents abandon him to the foster system, where he grows up shamed, shuffled between homes, and bullied by children who use their Hacks as status and weapons. Genny finds comfort in helper robots because they serve everyone without needing special powers. By copying robots, construction machines, and drones, he trains force projection until he can harden his skin with a field, lift heavy objects, and clumsily launch himself into flight. When the bullies attack again, Genny protects himself, dodges with unstable flight, and knocks them back with disciplined force. They call him generic as they run, but Genny accepts the word as a badge of honor and imagines a future as a blank white hero who helps people whether the world notices or not. - Continuity changes: Genny's no-Hacks status, abandonment, foster upbringing, robot-inspired ethics, early force-projection training, and eventual Generic Man identity are established. - New characters: Genny Manson / Generic Man; Helper Robots; Genny's Birth Parents; Foster-Home Bullies. - New settings: Super World City; Hero Association Hack Scan Nursery; Foster Block Courtyard; Utility Training Yard. - New key items: Hacks Suit; Hack Scan Crib; Generic Man's Blank White Suit; Force Projection. - Reference images added: genny-manson-generic-man-character.png ; helper-robots-character.png ; super-world-city-setting.png ; hero-association-hack-scan-nursery-setting.png ; foster-block-courtyard-setting.png ; utility-training-yard-setting.png ; hacks-suit-key-item.png ; hack-scan-crib-key-item.png ; generic-man-blank-white-suit-key-item.png ; force-projection-key-item.png .</p>
+        <h3>Issues</h3>
+        <ul>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/generic-man-issue-01/">Nothing Special</a> <span>2026-05-14 · 8 pages · Issue #1 of Generic Man</span></li>
+        </ul>
+      </section>
+      <!-- SEO_CONTENT_END -->
+    </main>
+  </body>
+</html>

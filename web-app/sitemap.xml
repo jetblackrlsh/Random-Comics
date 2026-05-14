@@ -11,6 +11,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://jetblackrlsh.github.io/Random-Comics/web-app/series/generic-man/</loc>
+    <lastmod>2026-05-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://jetblackrlsh.github.io/Random-Comics/web-app/series/the-three-hands/</loc>
     <lastmod>2026-05-14</lastmod>
     <priority>0.8</priority>
@@ -61,6 +66,11 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://jetblackrlsh.github.io/Random-Comics/web-app/comics/the-three-hands-issue-04/</loc>
+    <lastmod>2026-05-13</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://jetblackrlsh.github.io/Random-Comics/web-app/comics/the-three-hands-issue-02/</loc>
     <lastmod>2026-05-13</lastmod>
     <priority>0.9</priority>
@@ -71,7 +81,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://jetblackrlsh.github.io/Random-Comics/web-app/comics/the-three-hands-issue-04/</loc>
+    <loc>https://jetblackrlsh.github.io/Random-Comics/web-app/comics/generic-man-issue-01/</loc>
     <lastmod>2026-05-14</lastmod>
     <priority>0.9</priority>
   </url>
