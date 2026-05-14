@@ -21,3 +21,14 @@
 - New settings: Rigid Anamorphis Homeworld.
 - New key items: Anamorphis Storyverse Gateway.
 - Reference images added: `rigid-anamorphis-homeworld-setting.png`; `anamorphis-storyverse-gateway-key-item.png`.
+
+## Issue #3: The Battery Problem
+
+- Folder: `series/the-three-hands/issues/issue-03/`
+- Logline: Dark Light's one-soldier-at-a-time hunt across the Storyverse exposes the difference between temporary Lucid Dreamers and rare native Lucid Conduits, turning King Kaine Chester into an unavoidable target.
+- Plot summary: Dark Light deploys Anamorphis soldiers methodically across bubble universes, sending one soldier per world and studying each failure before choosing the next. The issue defines the shared Anamorphis power set--force projection, glow control, shapeshifting, and super speed--while showing how individual soldiers turn those powers into unique techniques. Many deployments find no Lucid Lord, but some soldiers encounter Lucid Dreamers whose temporary Lucid Light makes them appear useful as batteries. The soldiers battle both docile and combat-ready Lucid Dreamers across strange story worlds, yet Dark Light's siphoning attempts fail because pain wakes the dreamers and removes them from the Storyverse. His researchers prove that only native Lucid Conduits can feed him, making Lucid Lord and Kaine the real prizes.
+- Continuity changes: Lucid Dreamers are established as foreign dream visitors whose Lucid Light vanishes when they wake. Lucid Conduits are established as rare native Storyverse beings or objects that radiate stable Lucid Light. Kaine is explicitly confirmed as a Lucid Conduit, explaining why Dark Light will refuse to abandon the hunt for his world.
+- New characters: Lucid Dreamers.
+- New settings: None.
+- New key items: Lucid Conduit.
+- Reference images added: `lucid-dreamer-character.png`; `lucid-conduit-key-item.png`.

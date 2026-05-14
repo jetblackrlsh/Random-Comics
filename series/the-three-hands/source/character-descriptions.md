@@ -5,7 +5,7 @@
 - First appears: Issue #1, "The Promise of Lucid Light"
 - Role: redeemed king, guardian of Lucid Light, former corrupted ruler.
 - Visual identifiers: Black man, early 30s to early 40s, black buzzcut haircut, strong regal posture, crimson battle suit with gold accents, purple regal cheetah-print cape, controlled but haunted expression after his cleansing.
-- Continuity notes: Possesses Lucid Light but swears never again to use it to control his people. His redemption and public vow create the need for the King's Three Hands.
+- Continuity notes: Possesses Lucid Light because he is a Lucid Conduit, a native Storyverse being whose power radiates from within and cannot simply vanish by waking. He swears never again to use Lucid Light to control his people. His redemption and public vow create the need for the King's Three Hands.
 - Reference image: `../reference-images/kaine-chester-character.png`
 
 ## Character: The Lucid Lord
@@ -13,7 +13,7 @@
 - First appears: Issue #1, "The Promise of Lucid Light"
 - Role: cosmic peacemaker, healer, messenger, former opponent of Dark Light.
 - Visual identifiers: Humanoid being made of glittering purple Lucid Light, translucent cosmic body, calm faceless or softly glowing face, futuristic crystal rainbow sword, golden energy tether coiled at one hand.
-- Continuity notes: Immune to Kaine's influence because he is made of Lucid Light. Unlike most Anamorphis, his whole body is composed of Lucid Light, giving him rare control over the Dream Realm. His sword heals instead of harms. His tether cleanses Kaine's corruption, but even he could not cleanse Dark Light. Lucid Light cannot alter stories that have already become rigid.
+- Continuity notes: Immune to Kaine's influence because he is made of Lucid Light. Unlike most Anamorphis, his whole body is composed of Lucid Light, making him a Lucid Conduit with rare control over the Dream Realm. His sword heals instead of harms. His tether cleanses Kaine's corruption, but even he could not cleanse Dark Light. Lucid Light cannot alter stories that have already become rigid.
 - Reference image: `../reference-images/lucid-lord-character.png`
 
 ## Character: Dark Light
@@ -29,8 +29,16 @@
 - First appears: Issue #1, "The Promise of Lucid Light"
 - Role: extraterrestrial invader type, future episodic threat.
 - Visual identifiers: Faceless luminous humanoid, smooth bright energy body, featureless head, shapeshifting limbs, fast motion trails, colored light rim glow.
-- Continuity notes: All Anamorphis can shapeshift, fly, and move at incredible speeds. Each soldier has a unique technique related to shapeshifting, force projection, or luminosity control.
+- Continuity notes: All Anamorphis possess the same core powers: force projection that can launch them through the air or strike at range, glow control that changes intensity and visibility, shapeshifting, and super speed. Each soldier has a unique special technique that uses those shared powers in a personalized way. Dark Light deploys them methodically, one soldier per world, then studies every failure before sending a better-matched replacement.
 - Reference image: `../reference-images/anamorphis-soldier-character.png`
+
+## Character: Lucid Dreamers
+
+- First appears: Issue #3, "The Battery Problem"
+- Role: dream visitors, false solution to Dark Light's hunger, occasional combatants in Storyverse worlds.
+- Visual identifiers: Ordinary human dreamers or humanoid visitors wearing real-world sleepwear, street clothes, or improvised dream outfits, surrounded by temporary glittering purple Lucid Light, unstable translucent body edges, startled or focused expressions, hands bright with dream-shaped power.
+- Continuity notes: Lucid Dreamers enter the Storyverse from outside when they dream and can wield Lucid Light while asleep. Some are docile and easily captured by Anamorphis soldiers; others thrive in dream combat and can challenge battle-tested Anamorphis. Dark Light cannot feed on them because pain wakes them, making them vanish from the Storyverse before he can consume meaningful energy.
+- Reference image: `../reference-images/lucid-dreamer-character.png`
 
 ## Character: Blake Hollister, the Black Hand
 

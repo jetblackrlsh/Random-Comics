@@ -4,7 +4,7 @@
 
 - First appears: Issue #1, "The Promise of Lucid Light"
 - Visual identifiers: Glittering purple cosmic energy, star motes, crystalline ribbons, dreamlike lensing around hands and eyes, precise geometric arcs that can bend reality.
-- Continuity notes: Kaine possesses Lucid Light, the most coveted power in the Storyverse. It can manipulate the Dream Realm with godlike precision, but Kaine swears never again to use it to control his people.
+- Continuity notes: Kaine possesses Lucid Light, the most coveted power in the Storyverse. It can manipulate the Dream Realm with godlike precision, but Kaine swears never again to use it to control his people. Temporary Lucid Light can be wielded by Lucid Dreamers while they sleep; stable native Lucid Light radiates from rare Lucid Conduits.
 - Reference image: `../reference-images/lucid-light-key-item.png`
 
 ## Key Item: Crystal Rainbow Sword
@@ -27,3 +27,10 @@
 - Visual identifiers: Tall ring-shaped portal made of white crystalline ribs and black-rainbow energy seams, bubble-universe reflections inside the opening, faceless Anamorphis soldiers stepping through in streaks of light.
 - Continuity notes: Developed by the Anamorphis after Dark Light's failed attempt to siphon Lucid Lord's power directly. The gateway lets Dark Light dispatch soldiers across the Storyverse, widening the conflict beyond Kaine's island city.
 - Reference image: `../reference-images/anamorphis-storyverse-gateway-key-item.png`
+
+## Key Item: Lucid Conduit
+
+- First appears: Issue #3, "The Battery Problem"
+- Visual identifiers: A native Storyverse being or object radiating stable glittering purple Lucid Light from within, with rooted star motes, precise geometric arcs, crystalline lensing, and a steady glow that does not flicker like a dream visitor's temporary power.
+- Continuity notes: Lucid Conduits are rare native sources of Lucid Light, including Lucid Lord and King Kaine Chester. Unlike Lucid Dreamers, they cannot escape Dark Light's siphoning by waking up, making them the only viable targets for Dark Light's hunger. Once Dark Light discovers a Lucid Conduit, he refuses to abandon the hunt.
+- Reference image: `../reference-images/lucid-conduit-key-item.png`
