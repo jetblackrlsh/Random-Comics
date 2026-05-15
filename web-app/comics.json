@@ -1033,6 +1033,62 @@
       "issueNumber": null,
       "issueLabel": "Standalone issue",
       "url": "comics/spark-of-lucid-light/"
+    },
+    {
+      "slug": "captain-galaxy-living-castle",
+      "folder": "captain-galaxy-living-castle",
+      "title": "Captain Galaxy: The Living Castle",
+      "publishedDate": "2026-05-15",
+      "summary": "When the living Cosmic Castle reveals that Captain Galaxy has only ever been its disposable host, the frightened hero must decide whether to accept the doomed Storyverse or prove his courage by shielding every story from a universe-ending flood.",
+      "cover": "../captain-galaxy-living-castle/assets/comic-pages/page-01-cover.png",
+      "pdf": "../captain-galaxy-living-castle/output/pdf/captain-galaxy-living-castle.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../captain-galaxy-living-castle/assets/comic-pages/page-01-cover.png",
+          "alt": "Captain Galaxy: The Living Castle comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../captain-galaxy-living-castle/assets/comic-pages/page-02.png",
+          "alt": "Captain Galaxy: The Living Castle comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../captain-galaxy-living-castle/assets/comic-pages/page-03.png",
+          "alt": "Captain Galaxy: The Living Castle comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../captain-galaxy-living-castle/assets/comic-pages/page-04.png",
+          "alt": "Captain Galaxy: The Living Castle comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../captain-galaxy-living-castle/assets/comic-pages/page-05.png",
+          "alt": "Captain Galaxy: The Living Castle comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../captain-galaxy-living-castle/assets/comic-pages/page-06.png",
+          "alt": "Captain Galaxy: The Living Castle comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../captain-galaxy-living-castle/assets/comic-pages/page-07.png",
+          "alt": "Captain Galaxy: The Living Castle comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../captain-galaxy-living-castle/assets/comic-pages/page-08.png",
+          "alt": "Captain Galaxy: The Living Castle comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
+      "url": "comics/captain-galaxy-living-castle/"
     }
   ]
 }
