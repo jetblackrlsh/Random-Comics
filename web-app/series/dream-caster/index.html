@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="../../">
+    <!-- APP_META_START -->
+    <title>Dream Caster | Random Comics</title>
+    <meta name="description" content="A tired local access technician becomes the wielder of a cosmic TV remote that can broadcast forgotten story-forms into reality, forcing him to defend Earth and the Dream Realm...">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://jetblackrlsh.github.io/Random-Comics/web-app/series/dream-caster/">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Random Comics">
+    <meta property="og:title" content="Dream Caster | Random Comics">
+    <meta property="og:description" content="A tired local access technician becomes the wielder of a cosmic TV remote that can broadcast forgotten story-forms into reality, forcing him to defend Earth and the Dream Realm...">
+    <meta property="og:url" content="https://jetblackrlsh.github.io/Random-Comics/web-app/series/dream-caster/">
+    <meta property="og:image" content="https://jetblackrlsh.github.io/Random-Comics/web-app/assets/site-background.png">
+    <meta property="og:image:alt" content="Dream Caster | Random Comics cover art">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Dream Caster | Random Comics">
+    <meta name="twitter:description" content="A tired local access technician becomes the wielder of a cosmic TV remote that can broadcast forgotten story-forms into reality, forcing him to defend Earth and the Dream Realm...">
+    <meta name="twitter:image" content="https://jetblackrlsh.github.io/Random-Comics/web-app/assets/site-background.png">
+    <meta name="twitter:image:alt" content="Dream Caster | Random Comics cover art">
+    <!-- APP_META_END -->
+    <!-- STRUCTURED_DATA_START -->
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"CreativeWorkSeries","name":"Dream Caster","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/series/dream-caster/","description":"A tired local access technician becomes the wielder of a cosmic TV remote that can broadcast forgotten story-forms into reality, forcing him to defend Earth and the Dream Realm from Nightmare incursions.","hasPart":[{"@type":"ComicIssue","name":"Channel Zero","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-caster-issue-01/","issueNumber":1,"position":1,"datePublished":"2026-05-15","image":"https://jetblackrlsh.github.io/Random-Comics/series/dream-caster/issues/issue-01/assets/comic-pages/page-01-cover.png"}],"isPartOf":{"@type":"WebSite","name":"Random Comics","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/"}}</script>
+    <!-- STRUCTURED_DATA_END -->
+    <link rel="preload" href="assets/site-background.png" as="image">
+    <link rel="icon" href="assets/random-comics-logo.png">
+    <link rel="sitemap" type="application/xml" href="sitemap.xml">
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body data-initial-route="series:dream-caster">
+    <div class="background-art" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="brand" href="./" data-route="home" aria-label="Random Comics home">
+        <img src="assets/random-comics-logo.png" alt="Random Comics">
+      </a>
+      <nav class="top-nav" aria-label="Primary navigation">
+        <a href="./" data-route="home">Read</a>
+        <a href="about/" data-route="about">About</a>
+        <a class="support-link" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="reader-layout" id="readerView">
+        <aside class="control-panel" aria-label="Comic controls">
+          <div class="intro-copy">
+            <h1>Random Comics</h1>
+            <p>Browse standalone stories and series issues, read vertically, share a favorite issue, or download it for later.</p>
+          </div>
+
+          <label class="search-wrap" for="comicSearch">
+            <span>Search by title, date, or series</span>
+            <input id="comicSearch" type="search" autocomplete="off" placeholder="Try 2026, Deca-Form, or a series">
+          </label>
+
+          <div class="jump-actions" aria-label="Jump to comic">
+            <button type="button" id="earliestButton">Earliest</button>
+            <button type="button" id="latestButton">Latest</button>
+          </div>
+
+          <div class="comic-list" id="comicList" aria-label="Comics"></div>
+        </aside>
+
+        <article class="reader-panel" aria-live="polite">
+          <div class="reader-toolbar">
+            <div>
+              <p class="publish-date" id="comicDate"></p>
+              <h2 id="comicTitle">Loading comics...</h2>
+            </div>
+            <div class="reader-actions" aria-label="Selected comic actions">
+              <a class="icon-button" id="downloadButton" href="#" download>Download</a>
+              <button class="icon-button" type="button" id="shareButton">Share</button>
+              <a class="icon-button support" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+            </div>
+          </div>
+          <p class="comic-summary" id="comicSummary"></p>
+          <div class="page-strip" id="pageStrip"></div>
+        </article>
+      </section>
+
+      <section class="about-view" id="aboutView" hidden>
+        <div class="about-copy">
+          <h1>About Random Comics</h1>
+          <p>Random Comics is a home for standalone one-shots, strange experiments, and comic series that grow beyond a single issue.</p>
+          <p>Some comics are based on dreams. Some come from sudden shower thoughts, weird news, superhero concepts, game-inspired ideas, or random sparks of imagination that demanded to become something real. Some ideas only need one finished comic. Others may build into recurring characters, settings, and issue-to-issue continuity.</p>
+          <p>The comics collected here may vary in tone, style, length, format, and genre. You might find superhero action, sci-fi weirdness, dream logic, horror, comedy, mythic strangeness, standalone stories, or the beginning of a larger series.</p>
+          <p>Think of this as a creative sketchbook turned into a comic archive: a place where spontaneous ideas can become finished stories, whether they stand alone or keep expanding.</p>
+          <p>Not every comic needs a universe.</p>
+          <p>But when a strange little story grows into one, Random Comics has room for that too.</p>
+        </div>
+      </section>
+
+      <!-- SEO_CONTENT_START -->
+      <section class="seo-content" aria-label="Dream Caster series details">
+        <h2>Dream Caster</h2>
+        <p>A tired local access technician becomes the wielder of a cosmic TV remote that can broadcast forgotten story-forms into reality, forcing him to defend Earth and the Dream Realm from Nightmare incursions.</p>
+        <h3>Characters</h3><p>Character Descriptions Character: Bob Carlson / Dream Caster - First appears: Issue 1, &quot;Channel Zero&quot; - Role: protagonist, local access technician, reluctant superhero, wielder of the Dream Caster remote. - Visual identifiers: Tired middle-aged white man in his late 40s or early 50s, average build, pale skin, short thinning brown hair with gray at the temples, tired blue-gray eyes, stubble, soft tired face, practical khaki work jacket over a faded station T-shirt, dark jeans, worn sneakers, lanyard ID badge, and a heavy key ring. After the storm his eyes sometimes fill with TV static and purple light reflects across his face. As Dream Caster he keeps Bob's human posture and exhaustion beneath whatever story-form he casts. - Continuity notes: Bob believes public broadcasting is sacred because it gives ordinary people a way to bring imagined worlds to life. The Channel Zero storm bonds him to Lucid Light and the Dream Caster remote, giving him instinctive access to story-form transformations. - Reference image: ../reference-images/bob-carlson-dream-caster-character.png Character: Nightmare Static Kaiju - First appears: Issue 1, &quot;Channel Zero&quot; - Role: first Nightmare incursion, corrupted story-beast, physical proof that the Storyverse war has reached Earth. - Visual identifiers: Massive city-scale kaiju with a hunched silhouette, muscular reptilian limbs, jagged antenna-like spines, glitching TV static crawling across charcoal skin, bright white-noise eyes, torn bands of dead-channel snow across its body, and laser-breath glow in its throat. - Continuity notes: The kaiju is connected to the same cosmic broadcast event as Bob, but through Nightmare corruption rather than Lucid Light. It represents what happens when stories are twisted into fear and destruction. - Reference image: ../reference-images/nightmare-static-kaiju-character.png Character: Dream Guardians - First appears: Issue 1, &quot;Channel Zero&quot; - Role: off-page cosmic faction protecting imagination, creativity, heroic possibility, and living stories. - Visual identifiers: Not fully seen in Issue 1. When glimpsed later, they should feel like protective silhouettes made of starlight, broadcast halos, handmade costume textures, and warm dream energy rather than sterile gods. - Continuity notes: The Dream Guardians are at war with the Nightmares across the Storyverse. Bob's Lucid Light connection aligns him with their side even before he understands them. - Reference image: None in Issue 1; introduced as a faction through visions. Character: Nightmares - First appears: Issue 1, &quot;Channel Zero&quot; - Role: hostile cosmic faction corrupting stories with fear, despair, static, and destructive imagination. - Visual identifiers: Black static silhouettes, glitch scars, warped monster forms, dead-channel snow, corrupted masks, and broken story imagery. - Continuity notes: The Nightmares weaponize bubble universes and send corrupted characters or monsters into reality. The Static Kaiju is the first Earth-side manifestation Bob encounters. - Reference image: ../reference-images/nightmare-static-kaiju-character.png</p>
+        <h3>Settings</h3><p>Setting Descriptions Setting: WRCB Local Access Broadcast Station - First appears: Issue 1, &quot;Channel Zero&quot; - Visual identifiers: Modest local public access station on the edge of a small city, brick-and-concrete building, parking lot puddles, a large rooftop satellite dish, old vans, metal side door, rack-mounted monitors, cable nests, edit bays, fluorescent lights, bulletin boards for community shows, and a cramped control room. - Continuity notes: Bob works long hours here because he believes public broadcasting gives ordinary people a signal. The Channel Zero lightning strike turns the station into Earth's first connection point to the Storyverse. - Reference image: ../reference-images/local-access-broadcast-station-setting.png Setting: Storyverse Bubble Universes - First appears: Issue 1, &quot;Channel Zero&quot; - Visual identifiers: Cosmic space inside the Dream Realm filled with floating translucent bubble universes, each bubble containing a different possible story world. Some bubbles show forgotten cartoons, cosmic heroes, puppet stages, canceled pilots, or blank worlds waiting for a signal. Purple Lucid Light streams between some bubbles while black static corrodes others. - Continuity notes: Every possible story exists somewhere in the Storyverse. The war between Dream Guardians and Nightmares is fought across these bubbles, and rogue channels can leak parts of them into Earth. - Reference image: ../reference-images/storyverse-bubble-universes-setting.png Setting: Storm-Struck City - First appears: Issue 1, &quot;Channel Zero&quot; - Visual identifiers: Rain-soaked city at midnight, wet streets reflecting neon storefronts and emergency lights, low apartment blocks and broadcast towers, windblown debris, lightning overhead, purple signal arcs in the clouds, and citizens filming impossible events on phones. - Continuity notes: The city becomes the first battlefield where Bob uses Dream Caster powers. Damage from Nightmare incursions should feel real even when the cause is surreal. - Reference image: ../reference-images/storm-struck-city-setting.png</p>
+        <h3>Key Items</h3><p>Key Item Descriptions Key Item: Dream Caster Remote - First appears: Issue 1, &quot;Channel Zero&quot; - Visual identifiers: Futuristic TV remote sized for one hand, brushed black metal and translucent glass, purple cosmic core under the buttons, old channel up/down symbols mixed with impossible glowing glyphs, worn enough to feel like a real object, with Lucid Light spilling from its seams. - Continuity notes: The remote materializes in Bob's hand after the Channel Zero lightning strike. It channels Lucid Light, tunes into Storyverse bubbles, and lets Bob cast temporary story-forms into reality. - Reference image: ../reference-images/dream-caster-remote-key-item.png Key Item: Lucid Light - First appears: Issue 1, &quot;Channel Zero&quot; - Visual identifiers: Cosmic purple dream energy with star-specks, broadcast signal rings, lensing waves, glowing arcs, and soft violet highlights across real objects. It should look empowering, clean, and alive rather than poisonous. - Continuity notes: Lucid Light empowers dreamers and lets Bob fight for living stories. It is opposite in feel and effect to Nightmare static. - Reference image: ../reference-images/lucid-light-key-item.png Key Item: Nightmare Static Corruption - First appears: Issue 1, &quot;Channel Zero&quot; - Visual identifiers: Black-and-white TV snow, pixel blocks, warped scanlines, dead-channel frost, shadowy signal tears, glitch halos, and broken-image fragments crawling across matter. - Continuity notes: Nightmare static corrupts stories with fear and despair. It can turn a story-form or bubble universe into a weapon, as shown by the Static Kaiju. - Reference image: ../reference-images/nightmare-static-corruption-key-item.png Key Item: Story-Form Casting - First appears: Issue 1, &quot;Channel Zero&quot; - Visual identifiers: Bob's body wrapped in purple signal rings while a genre archetype overlays him like a live broadcast: anime cosmic hero with starlight aura, giant robot puppet with strings and wooden-mechanical limbs, rubber hose cartoon spring with elastic black-and-white limbs. - Continuity notes: Story-form casting is temporary and instinctive in Issue 1. Bob can access forgotten, abandoned, canceled, or never-created story worlds through the remote, but each form has strengths and vulnerabilities. - Reference image: ../reference-images/lucid-light-key-item.png</p>
+        <h3>Issue Summaries</h3><p>Issue Summaries Issue 1: Channel Zero - Folder: series/dream-caster/issues/issue-01/ - Logline: A midnight lightning strike bonds local access technician Bob Carlson to a cosmic remote, forcing him to cast forgotten story-forms against a Nightmare static kaiju. - Plot summary: Bob Carlson is called to the local access station after a rogue channel appears during a violent thunderstorm. At midnight, lightning strikes the station's satellite dish and floods the building with supernatural broadcast energy. Bob sees the Storyverse: bubble universes holding canceled cartoons, forgotten cosmic heroes, puppet shows, and every possible story. A futuristic remote materializes in his hand as a Nightmare static kaiju tears into the city outside. Bob senses that he and the beast are linked to the same war on opposite sides. He instinctively uses the remote to transform into an anime cosmic hero, then a giant robot puppet, and finally a rubber hose cartoon spring. After nearly being crushed, Bob springs the kaiju into outer space and saves the city for now. - Continuity changes: Bob becomes Dream Caster, the Dream Caster remote chooses him, Earth is linked to the Storyverse through the station, Lucid Light and Nightmare static are established as opposing powers, and the Dream Guardians versus Nightmares war reaches Earth. - New characters: Bob Carlson / Dream Caster; Nightmare Static Kaiju; Dream Guardians; Nightmares. - New settings: WRCB Local Access Broadcast Station; Storyverse Bubble Universes; Storm-Struck City. - New key items: Dream Caster Remote; Lucid Light; Nightmare Static Corruption; Story-Form Casting. - Reference images added: bob-carlson-dream-caster-character.png ; nightmare-static-kaiju-character.png ; local-access-broadcast-station-setting.png ; storyverse-bubble-universes-setting.png ; storm-struck-city-setting.png ; dream-caster-remote-key-item.png ; lucid-light-key-item.png ; nightmare-static-corruption-key-item.png .</p>
+        <h3>Issues</h3>
+        <ul>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-caster-issue-01/">Channel Zero</a> <span>2026-05-15 · 8 pages · Issue #1 of Dream Caster</span></li>
+        </ul>
+      </section>
+      <!-- SEO_CONTENT_END -->
+    </main>
+  </body>
+</html>
