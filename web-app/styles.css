@@ -408,11 +408,24 @@ main {
 }
 
 .follow-copy {
+  position: relative;
+  overflow: hidden;
   border: 3px solid rgba(17, 18, 43, 0.13);
   border-radius: 8px;
-  background: var(--panel);
+  background:
+    linear-gradient(135deg, rgba(255, 215, 46, 0.18), transparent 34%),
+    linear-gradient(315deg, rgba(3, 191, 245, 0.14), transparent 42%),
+    var(--panel);
   box-shadow: var(--shadow);
   backdrop-filter: blur(14px) saturate(1.1);
+}
+
+.follow-copy::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto;
+  height: 8px;
+  background: linear-gradient(90deg, var(--pink), var(--yellow), var(--cyan), var(--blue));
 }
 
 .follow-copy h1 {
@@ -436,13 +449,15 @@ main {
   display: flex !important;
   flex-direction: column !important;
   justify-content: center !important;
+  gap: 12px !important;
   margin-top: 30px !important;
-  padding: clamp(17px, 5%, 40px) clamp(17px, 7%, 50px) !important;
-  max-width: none !important;
-  border: 1px solid #ccc !important;
-  border-radius: 6px !important;
-  background-color: #fff !important;
-  box-shadow: 0 5px 25px rgba(34, 60, 47, 0.25) !important;
+  padding: clamp(20px, 5vw, 36px) !important;
+  max-width: 680px !important;
+  border: 3px solid rgba(17, 18, 43, 0.16) !important;
+  border-radius: 8px !important;
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.98), rgba(255, 215, 46, 0.22)) !important;
+  box-shadow: 10px 10px 0 rgba(255, 42, 157, 0.24), 0 18px 46px rgba(17, 18, 43, 0.14) !important;
 }
 
 .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview,
@@ -457,11 +472,11 @@ main {
 .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-heading h5 {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
-  color: #000 !important;
-  font-family: Arial, sans-serif !important;
-  font-size: 16px !important;
-  font-weight: 700 !important;
-  line-height: 1.25 !important;
+  color: var(--ink) !important;
+  font-family: inherit !important;
+  font-size: clamp(1.2rem, 3vw, 1.8rem) !important;
+  font-weight: 950 !important;
+  line-height: 1 !important;
   text-align: center !important;
   text-transform: none !important;
 }
@@ -473,47 +488,54 @@ main {
 
 .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field input {
   width: 100% !important;
-  height: 40px !important;
-  border: 2px solid #e9e8e8 !important;
-  border-radius: 6px !important;
+  height: 52px !important;
+  border: 2px solid rgba(37, 53, 232, 0.22) !important;
+  border-radius: 8px !important;
   background-color: #fff !important;
-  color: #000 !important;
-  font-family: Arial, sans-serif !important;
-  font-size: 14px !important;
-  font-weight: 400 !important;
-  line-height: 20px !important;
+  color: var(--ink) !important;
+  font-family: inherit !important;
+  font-size: 1rem !important;
+  font-weight: 750 !important;
+  line-height: 1.2 !important;
   text-align: center !important;
   text-transform: none !important;
   outline: none !important;
 }
 
+.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field input:focus {
+  border-color: var(--cyan) !important;
+  box-shadow: 0 0 0 4px rgba(3, 191, 245, 0.18) !important;
+}
+
 .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field input::placeholder {
-  color: #000 !important;
-  opacity: 1 !important;
+  color: var(--muted) !important;
+  opacity: 0.82 !important;
 }
 
 .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-submit-button {
-  margin-top: 10px !important;
+  margin-top: 0 !important;
   width: 100% !important;
 }
 
 .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-submit-button button {
   width: 100% !important;
-  height: 40px !important;
-  border: 0 !important;
-  border-radius: 6px !important;
-  background-color: #000 !important;
-  color: #fff !important;
-  font-family: Arial, sans-serif !important;
+  height: 52px !important;
+  border: 2px solid rgba(17, 18, 43, 0.16) !important;
+  border-radius: 8px !important;
+  background: linear-gradient(135deg, var(--yellow), #ff9e1d) !important;
+  color: var(--ink) !important;
+  font-family: inherit !important;
   font-size: 16px !important;
-  font-weight: 700 !important;
-  line-height: 0 !important;
+  font-weight: 950 !important;
+  line-height: 1 !important;
   text-align: center !important;
-  text-transform: none !important;
+  text-transform: uppercase !important;
+  box-shadow: 0 8px 18px rgba(37, 53, 232, 0.1) !important;
 }
 
 .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-submit-button button:hover {
   cursor: pointer !important;
+  transform: translateY(-1px) !important;
 }
 
 .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .powered-by-line {
@@ -521,11 +543,12 @@ main {
   align-items: center !important;
   justify-content: center !important;
   width: 100% !important;
-  margin-top: 10px !important;
-  color: #231f20 !important;
-  font-family: Arial, sans-serif !important;
+  max-width: 680px !important;
+  margin-top: 14px !important;
+  color: var(--muted) !important;
+  font-family: inherit !important;
   font-size: 13px !important;
-  font-weight: 400 !important;
+  font-weight: 750 !important;
   line-height: 25px !important;
   text-align: center !important;
   text-decoration: none !important;
