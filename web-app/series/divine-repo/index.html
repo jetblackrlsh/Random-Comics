@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="../../">
+    <!-- APP_META_START -->
+    <title>Divine Repo | Random Comics</title>
+    <meta name="description" content="Adam Frankenstein becomes God's repo man, reclaiming stolen Lucid Light from miracle thieves before the adaptive Immortal Curse finally ends the Frankenstein line.">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://jetblackrlsh.github.io/Random-Comics/web-app/series/divine-repo/">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Random Comics">
+    <meta property="og:title" content="Divine Repo | Random Comics">
+    <meta property="og:description" content="Adam Frankenstein becomes God's repo man, reclaiming stolen Lucid Light from miracle thieves before the adaptive Immortal Curse finally ends the Frankenstein line.">
+    <meta property="og:url" content="https://jetblackrlsh.github.io/Random-Comics/web-app/series/divine-repo/">
+    <meta property="og:image" content="https://jetblackrlsh.github.io/Random-Comics/web-app/assets/site-background.png">
+    <meta property="og:image:alt" content="Divine Repo | Random Comics cover art">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Divine Repo | Random Comics">
+    <meta name="twitter:description" content="Adam Frankenstein becomes God's repo man, reclaiming stolen Lucid Light from miracle thieves before the adaptive Immortal Curse finally ends the Frankenstein line.">
+    <meta name="twitter:image" content="https://jetblackrlsh.github.io/Random-Comics/web-app/assets/site-background.png">
+    <meta name="twitter:image:alt" content="Divine Repo | Random Comics cover art">
+    <!-- APP_META_END -->
+    <!-- STRUCTURED_DATA_START -->
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"CreativeWorkSeries","name":"Divine Repo","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/series/divine-repo/","description":"Adam Frankenstein becomes God's repo man, reclaiming stolen Lucid Light from miracle thieves before the adaptive Immortal Curse finally ends the Frankenstein line.","hasPart":[{"@type":"ComicIssue","name":"Past Due Miracle","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/comics/divine-repo-issue-01/","issueNumber":1,"position":1,"datePublished":"2026-05-16","image":"https://jetblackrlsh.github.io/Random-Comics/series/divine-repo/issues/issue-01/assets/comic-pages/page-01-cover.png"}],"isPartOf":{"@type":"WebSite","name":"Random Comics","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/"}}</script>
+    <!-- STRUCTURED_DATA_END -->
+    <link rel="preload" href="assets/site-background.png" as="image">
+    <link rel="icon" href="assets/random-comics-logo.png">
+    <link rel="sitemap" type="application/xml" href="sitemap.xml">
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body data-initial-route="series:divine-repo">
+    <div class="background-art" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="brand" href="./" data-route="home" aria-label="Random Comics home">
+        <img src="assets/random-comics-logo.png" alt="Random Comics">
+      </a>
+      <nav class="top-nav" aria-label="Primary navigation">
+        <a href="./" data-route="home">Read</a>
+        <a href="about/" data-route="about">About</a>
+        <a class="review-link" href="https://docs.google.com/forms/d/e/1FAIpQLSftkXOkOSMjwOXjS4pFpF81lE4lF02NcWHECy4tesJy9V-9Dg/viewform?usp=publish-editor" target="_blank" rel="noopener">Review</a>
+        <a class="support-link" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="reader-layout" id="readerView">
+        <aside class="control-panel" aria-label="Comic controls">
+          <div class="intro-copy">
+            <h1>Random Comics</h1>
+            <p>Browse standalone stories and series issues, read vertically, share a favorite issue, or download it for later.</p>
+          </div>
+
+          <label class="search-wrap" for="comicSearch">
+            <span>Search by title, date, or series</span>
+            <input id="comicSearch" type="search" autocomplete="off" placeholder="Try 2026, Deca-Form, or a series">
+          </label>
+
+          <div class="jump-actions" aria-label="Jump to comic">
+            <button type="button" id="earliestButton">Earliest</button>
+            <button type="button" id="latestButton">Latest</button>
+          </div>
+
+          <div class="comic-list" id="comicList" aria-label="Comics"></div>
+        </aside>
+
+        <article class="reader-panel" aria-live="polite">
+          <div class="reader-toolbar">
+            <div>
+              <p class="publish-date" id="comicDate"></p>
+              <h2 id="comicTitle">Loading comics...</h2>
+            </div>
+            <div class="reader-actions" aria-label="Selected comic actions">
+              <a class="icon-button" id="downloadButton" href="#" download>Download</a>
+              <button class="icon-button" type="button" id="shareButton">Share</button>
+              <a class="icon-button review" href="https://docs.google.com/forms/d/e/1FAIpQLSftkXOkOSMjwOXjS4pFpF81lE4lF02NcWHECy4tesJy9V-9Dg/viewform?usp=publish-editor" target="_blank" rel="noopener">Review</a>
+              <a class="icon-button support" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+            </div>
+          </div>
+          <p class="comic-summary" id="comicSummary"></p>
+          <div class="page-strip" id="pageStrip"></div>
+        </article>
+      </section>
+
+      <section class="about-view" id="aboutView" hidden>
+        <div class="about-copy">
+          <h1>About Random Comics</h1>
+          <p>Random Comics is a home for standalone one-shots, strange experiments, and comic series that grow beyond a single issue.</p>
+          <p>Some comics are based on dreams. Some come from sudden shower thoughts, weird news, superhero concepts, game-inspired ideas, or random sparks of imagination that demanded to become something real. Some ideas only need one finished comic. Others may build into recurring characters, settings, and issue-to-issue continuity.</p>
+          <p>The comics collected here may vary in tone, style, length, format, and genre. You might find superhero action, sci-fi weirdness, dream logic, horror, comedy, mythic strangeness, standalone stories, or the beginning of a larger series.</p>
+          <p>Think of this as a creative sketchbook turned into a comic archive: a place where spontaneous ideas can become finished stories, whether they stand alone or keep expanding.</p>
+          <p>Not every comic needs a universe.</p>
+          <p>But when a strange little story grows into one, Random Comics has room for that too.</p>
+        </div>
+      </section>
+
+      <!-- SEO_CONTENT_START -->
+      <section class="seo-content" aria-label="Divine Repo series details">
+        <h2>Divine Repo</h2>
+        <p>Adam Frankenstein becomes God's repo man, reclaiming stolen Lucid Light from miracle thieves before the adaptive Immortal Curse finally ends the Frankenstein line.</p>
+        <h3>Characters</h3><p>Character Descriptions Character: Adam Frankenstein - First appears: Issue 1, &quot;Past Due Miracle&quot; - Role: protagonist, cursed scientist, reluctant divine repo man. - Visual identifiers: Man in his early 30s with pale olive skin, lean exhausted build, sharp cheekbones, gray-green eyes, messy black hair with a white streak at the temple, stubble, faint old burn scars on his hands and neck, dark work clothes under a damaged black symbiote suit. His posture is tense and practical, like someone who sleeps near exits. - Continuity notes: Raised to become a mad scientist because invention is how the Frankenstein line survives. He built Second Skin as the ultimate weapon against the Immortal Curse, but the Curse adapted to it. He accepts God's repo work because Lucid Light may be the only remaining untested weapon. - Reference image: ../reference-images/adam-frankenstein-character.png Character: Second Skin - First appears: Issue 1, &quot;Past Due Miracle&quot; - Role: Adam's AI symbiote suit, partner, weapon, anxious conscience. - Visual identifiers: Damaged black biomechanical suit bonded over Adam's body, matte polymer surfaces, liquid silver seams, violet diagnostic cracks, thin matter-shaping tendrils that unfold from the forearms and spine, collar-like neck interface, half-helmet that can retract or form around Adam's face. When speaking through visual cues, it flickers between confident clean blue indicators and unstable amber error lights. - Continuity notes: Thought-reactive and capable of atomic matter manipulation, but no longer able to defeat the Immortal Curse. Its AI alternates between overconfident encouragement and despair about its failure. - Reference image: ../reference-images/second-skin-character.png Character: God - First appears: Issue 1, &quot;Past Due Miracle&quot; - Role: confused dream god, former rich man, lender of Lucid Light. - Visual identifiers: Heavyset older man with warm brown skin, silver hair, trimmed silver beard, expensive silk robe over hospital monitors and IV lines, gold jewelry, bare feet, tired eyes, and a smile that cannot decide whether it is generous or calculating. In dream form he appears inside purple cosmic casino light with floating account books and medical cables fading into clouds. - Continuity notes: Once a very rich thrill seeker. He entered a medically induced lucid coma to enjoy the ultimate extreme, forgot he was dreaming, and began loaning Lucid Light for a percentage of other people's earnings. Almost every borrower stole the power and vanished. - Reference image: ../reference-images/god-lucid-dreamer-character.png Character: Immortal Curse - First appears: Issue 1, &quot;Past Due Miracle&quot; - Role: adaptive immortal killer, generational antagonist. - Visual identifiers: Tall amorphous humanoid mass of translucent pale-gray slime, uneven shoulders, half-formed skull shape under wet membrane, black sensory pits where eyes should be, bone-white nodules embedded like failed teeth, long arms that reshape into hooks, blades, and blunt clubs, constant dripping trail, skin texture like living protoplasm over scar tissue. - Continuity notes: Created by Victor Frankenstein, rejected immediately, and conditioned by violence. It exists to kill Frankenstein. It cannot be permanently stopped by the same method twice and has already adapted to Second Skin's matter manipulation. - Reference image: ../reference-images/immortal-curse-character.png</p>
+        <h3>Settings</h3><p>Setting Descriptions Setting: Frankenstein Bunker Lab - First appears: Issue 1, &quot;Past Due Miracle&quot; - Visual identifiers: Underground concrete laboratory beneath a ruined family estate, wet stone walls, hanging surgical lights, old brass Frankenstein instruments mixed with modern servers, scorched containment rings, handwritten family kill-ledgers pinned beside monitors, emergency red lighting, narrow exits reinforced with steel shutters. - Continuity notes: Adam's inherited workshop and survival shelter. The room carries generations of failed anti-Curse inventions and becomes Adam's staging ground for divine repo work. - Reference image: ../reference-images/frankenstein-bunker-lab-setting.png Setting: God's Lucid Coma Penthouse - First appears: Issue 1, &quot;Past Due Miracle&quot; - Visual identifiers: Dreamlike penthouse hospital suite floating inside purple cosmic clouds, luxury casino carpet, gold fixtures, medical coma bed, IV lines, heart monitor, stacks of ledgers, floating contract pages, windows looking into impossible stars, money motifs warped by dream logic. - Continuity notes: God's mind presents his coma as a luxury penthouse and casino office. It is both a hospital room and a divine lending office where unpaid miracle accounts appear as glowing records. - Reference image: ../reference-images/gods-lucid-coma-penthouse-setting.png</p>
+        <h3>Key Items</h3><p>Key Item Descriptions Key Item: Lucid Light - First appears: Issue 1, &quot;Past Due Miracle&quot; - Visual identifiers: Purple cosmic energy that looks like liquid starlight, dream dust, glassy refraction, and faint rectangular contract sigils. It glows through skin, machines, money, weapons, and architecture when misused by debtors. - Continuity notes: God's dream-born power. Borrowers use it to rewrite their lives and reality, but Adam needs to collect enough of it to attempt a final weapon against the Immortal Curse. - Reference image: ../reference-images/lucid-light-key-item.png Key Item: Divine Ledger - First appears: Issue 1, &quot;Past Due Miracle&quot; - Visual identifiers: Heavy black account book with cracked leather cover, gold-edged pages, purple glowing balance columns, impossible moving ink, divine contract tabs, and fingerprints burned into the margins like audit marks. - Continuity notes: God's record of Lucid Light debtors. It identifies who stole divine power, how much they owe, and where Adam can collect. The ledger becomes Adam's roadmap for the series. - Reference image: ../reference-images/divine-ledger-key-item.png</p>
+        <h3>Issue Summaries</h3><p>Issue Summaries Issue 1: Past Due Miracle - Folder: series/divine-repo/issues/issue-01/ - Logline: After Second Skin fails against the Immortal Curse, Adam Frankenstein takes God's first repo job and reclaims stolen Lucid Light from a fake miracle preacher. - Plot summary: A Who's Who dossier introduces Adam Frankenstein, Second Skin, God, and the Immortal Curse. Adam survives another attack by the Immortal Curse and learns that his best invention, Second Skin, can no longer destroy it. In God's lucid coma penthouse, a confused dream god explains that the purple Lucid Light capable of ending the Curse has been loaned to thieves and frauds who skipped out on repayment. Adam tracks Brother Prosper Vale, a prosperity-cult preacher who uses stolen Lucid Light to multiply donations and stage miracles. Adam repossesses the miracle without killing the crowd, blinds the approaching Immortal Curse with the recovered spark, and accepts that he must collect every unpaid miracle before the Curse adapts again. - Continuity changes: Adam becomes God's repo man. Second Skin remains damaged but recommits to helping Adam. God gives Adam the Divine Ledger. Adam recovers the first small spark of Lucid Light, proving the work can buy time but not yet victory. - New characters: Adam Frankenstein, Second Skin, God, Immortal Curse. - New settings: Frankenstein Bunker Lab, God's Lucid Coma Penthouse. - New key items: Lucid Light, Divine Ledger. - Reference images added: adam-frankenstein-character.png , second-skin-character.png , god-lucid-dreamer-character.png , immortal-curse-character.png , frankenstein-bunker-lab-setting.png , gods-lucid-coma-penthouse-setting.png , lucid-light-key-item.png , divine-ledger-key-item.png .</p>
+        <h3>Issues</h3>
+        <ul>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/divine-repo-issue-01/">Past Due Miracle</a> <span>2026-05-16 · 9 pages · Issue #1 of Divine Repo</span></li>
+        </ul>
+      </section>
+      <!-- SEO_CONTENT_END -->
+    </main>
+  </body>
+</html>
