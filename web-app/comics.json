@@ -160,6 +160,78 @@
       ]
     },
     {
+      "slug": "storyverse-comics",
+      "title": "Storyverse Comics",
+      "summary": "An anthology of dreamers, Dream Guardians, fantastic bubble worlds, and shapeshifting Nightmares where each standalone issue turns a new fear into a strategic battle for the soul of a story.",
+      "characterDescriptions": "Character Descriptions Character: Mister Sandman - First appears: Issue 1, \"The Map That Feared the Ending\" - Role: leader of the Dream Guardians, distant commander, symbol of the Storyverse's defense. - Visual identifiers: Tall older Black man with calm eyes, silver-white close-cropped hair, neatly trimmed white beard, long midnight-blue coat over Lucid Light Conduit armor, sand-like golden starlight drifting from his cuffs, and a quiet commander presence. His armor glows purple at the seams and looks practical rather than ornamental. - Continuity notes: Mister Sandman leads the Dream Guardians across the Storyverse. In Issue 1 he appears briefly through a Lucid Light signal to define the larger war and send help, but he does not solve the problem for the dreamer. - Reference image: ../reference-images/mister-sandman-character.png Character: Lena Ortiz - First appears: Issue 1, \"The Map That Feared the Ending\" - Role: issue protagonist, anxious dreamer, young mapmaker, possible Lucid Dreamer. - Visual identifiers: Latina girl around 13, slim build, warm brown skin, dark brown eyes, round face, thick black curly hair tied back with loose curls escaping, yellow rain jacket over a blue hoodie, black leggings, worn red sneakers, and a small sketchbook with map doodles. Her expressions shift from tense perfectionism to focused courage. - Continuity notes: Lena dreams into the Storyverse during a night of school anxiety and learns that a perfect plan is less important than adapting honestly. Her Lucid Light is unstable but genuine. - Reference image: ../reference-images/lena-ortiz-character.png Character: Captain Quill - First appears: Issue 1, \"The Map That Feared the Ending\" - Role: Dream Guardian of Inkfall Reef, mentor, tactical ally. - Visual identifiers: Amphibious humanoid Dream Guardian with teal-blue skin, gold-flecked eyes, subtle gill marks along the neck, short swept-back sea-green hair, lean athletic build, weathered copper-and-purple Lucid Light Conduit armor, ink-stained gloves, and a long feather-like cartographer spear that can draw glowing map lines in the air. - Continuity notes: Captain Quill protects Inkfall Reef and teaches Lena that maps are promises to revise, not proof that the traveler cannot get lost. - Reference image: ../reference-images/captain-quill-character.png Character: The Eraser - First appears: Issue 1, \"The Map That Feared the Ending\" - Role: Nightmare antagonist, fear beast, predator of unfinished stories. - Visual identifiers: Tall shapeshifting monster made of wet black paper, bone-white eraser dust, ink-smeared claws, a long faceless head that can split into false friendly faces, and glowing red pencil-scratch eyes. Its body constantly sheds scraps of half-erased maps and failed endings. - Continuity notes: The Eraser feeds on fear of mistakes and unfinished work. It can sense fear and shapeshift into the image of a ruined future, but it can be lured by deliberately planted false fears. - Reference image: ../reference-images/the-eraser-nightmare-character.png Character: Dream Guardians - First appears: Issue 1, \"The Map That Feared the Ending\" - Role: recurring faction defending dreamers and bubble universes from Nightmares. - Visual identifiers: Diverse warriors, scouts, healers, and guides in battle-worn Lucid Light Conduit armor. Each Guardian's armor reflects their home world, but all share purple conduit seams, practical protection, and a calm readiness under impossible pressure. - Continuity notes: Dream Guardians are not invincible. They win through planning, sacrifice, and cooperation with dreamers. - Reference image: ../reference-images/dream-guardians-character.png Character: Nightmares - First appears: Issue 1, \"The Map That Feared the Ending\" - Role: recurring monstrous fear beasts and primary threat across the Storyverse. - Visual identifiers: Predatory shapeshifters that combine animal menace, emotional symbolism, and physical corruption. Each Nightmare should look unique, but all should feel like fear made hungry and alive. - Continuity notes: Nightmares feed on fear, sense fear, and shapeshift. They are dangerous because they understand what their prey wants to avoid. - Reference image: ../reference-images/the-eraser-nightmare-character.png",
+      "settingDescriptions": "Setting Descriptions Setting: The Storyverse - First appears: Issue 1, \"The Map That Feared the Ending\" - Visual identifiers: Dream Realm expanse filled with floating translucent bubble universes, each containing a different genre, landscape, era, or impossible world. Purple Lucid Light runs like currents between bubbles while black Nightmare wounds scar some worlds. - Continuity notes: Every possible story exists somewhere in the Storyverse. Most dreamers only see one bubble universe at a time, but Dream Guardians navigate between them. - Reference image: ../reference-images/storyverse-bubble-universes-setting.png Setting: The Cosmic Sea - First appears: Issue 1, \"The Map That Feared the Ending\" - Visual identifiers: Endless dark ocean under a violet starfield, glowing foam, impossible tides, luminous jellyfish constellations, amphibious magical beings, enormous shells, finned silhouettes, and bubble universes rising from the water like living planets. - Continuity notes: Bubble universes bubble up and float out of the Cosmic Sea. The sea is older than most Storyverse worlds and can be beautiful or terrifying depending on the dreamer's state. - Reference image: ../reference-images/cosmic-sea-setting.png Setting: Inkfall Reef - First appears: Issue 1, \"The Map That Feared the Ending\" - Visual identifiers: A floating reef-world of coral islands, tide pools full of glowing ink, paper-white bridges, living cartography towers, compass-shell markets, map waterfalls, and purple Lucid Light running through reef veins. Sections of the world can fold like paper maps. - Continuity notes: Inkfall Reef is a bubble universe where routes, memories, and possible endings appear as living maps. The Eraser attacks it because unfinished maps create abundant fear. - Reference image: ../reference-images/inkfall-reef-setting.png Setting: Lena's Bedroom - First appears: Issue 1, \"The Map That Feared the Ending\" - Visual identifiers: Small lived-in bedroom with a desk covered in map sketches, school notebooks, pencil shavings, sticky notes, a thrift-store globe, rain on the window, and a desk lamp glowing late at night. - Continuity notes: Lena falls asleep here while trying to perfect a school project map. The ordinary stress of this room becomes the emotional bridge into Inkfall Reef. - Reference image: ../reference-images/lena-bedroom-setting.png",
+      "keyItemDescriptions": "Key Item Descriptions Key Item: Lucid Light - First appears: Issue 1, \"The Map That Feared the Ending\" - Visual identifiers: Cosmic purple energy with star-specks, luminous threads, lensing halos, geometric rings, and soft violet reflections across real surfaces. It should feel alive, clean, and responsive to intent. - Continuity notes: Lucid Light makes up the fabric of the Storyverse. Lucid Dreamers, Lucid Lords, and Lucid Light Conduits can manipulate it, but honest self-knowledge makes it stronger. - Reference image: ../reference-images/lucid-light-key-item.png Key Item: Dream Guardian Conduit Armor - First appears: Issue 1, \"The Map That Feared the Ending\" - Visual identifiers: Practical battle armor built from real materials and glowing purple conduit seams, customized by world and wearer. It should look protective, worn, and usable in close combat. - Continuity notes: Dream Guardians use Lucid Light Conduit armor to resist Nightmares and shape Lucid Light in battle. - Reference image: ../reference-images/dream-guardian-conduit-armor-key-item.png Key Item: Captain Quill's Cartographer Spear - First appears: Issue 1, \"The Map That Feared the Ending\" - Visual identifiers: Long feather-like spear with a copper shaft, translucent quill blade, purple Lucid Light nib, scratches from old battles, and ink that floats upward instead of dripping down. - Continuity notes: Captain Quill uses the spear to draw temporary map-lines, detours, bridges, and traps in the air. It is powerful but only works when the map describes a choice someone is willing to take. - Reference image: ../reference-images/cartographer-spear-key-item.png Key Item: Lena's Sketchbook - First appears: Issue 1, \"The Map That Feared the Ending\" - Visual identifiers: Small worn sketchbook with rounded corners, red elastic strap, pencil-smudged pages, handmade maps, eraser marks, and purple Lucid Light leaking through one page after Lena arrives in Inkfall Reef. - Continuity notes: Lena's sketchbook becomes a temporary Lucid Light Conduit because she uses it to accept imperfect routes instead of hiding from them. - Reference image: ../reference-images/lena-sketchbook-key-item.png Key Item: Nightmare Fear Sense - First appears: Issue 1, \"The Map That Feared the Ending\" - Visual identifiers: Fear appears to Nightmares as red heat-like threads, trembling reflections, scratches on surfaces, or scent trails in the air. The visual language should change by Nightmare but always show predatory focus. - Continuity notes: Nightmares can sense fear, but fear can be redirected. A dreamer who understands what they fear can use it as bait, camouflage, or a false trail. - Reference image: ../reference-images/nightmare-fear-sense-key-item.png",
+      "issueSummaries": "Issue Summaries Issue 1: The Map That Feared the Ending - Folder: series/storyverse-comics/issues/issue-01/ - Logline: An anxious young mapmaker dreams into Inkfall Reef and must help a Dream Guardian trap a Nightmare that feeds on her fear of choosing the wrong ending. - Plot summary: Lena Ortiz falls asleep while trying to perfect a school map project and wakes above the Cosmic Sea as bubble universes rise from the water around her. She lands in Inkfall Reef, a living map-world under attack by the Eraser, a shapeshifting Nightmare that erases routes and feeds on fear of mistakes. Captain Quill, the reef's Dream Guardian, saves Lena but cannot outfight the monster because it senses every honest fear. As Lena and Quill flee down a path made of maps, the Eraser erases the route behind them. Quill asks Lena to map them to safety, but Lena freezes because she thinks the map has to be perfect. Quill realizes her race for perfection is feeding the Nightmare, and Lena notices the monster is chasing them perfectly down the path. She redraws the path into a loop back through erased space, pulls Quill aside, and lets the Eraser race directly into the blank void, stunning it long enough for Quill to seal it in a blank bubble. Lena accepts that a map is useful because it can be revised. - Continuity changes: Storyverse Comics establishes the Storyverse, the Cosmic Sea, Dream Guardians, Lucid Light, Lucid Light Conduit armor, Nightmare shapeshifting, Nightmare fear sense, and the issue pattern of one dreamer, one world, one Guardian, and one Nightmare. - New characters: Mister Sandman; Lena Ortiz; Captain Quill; The Eraser; Dream Guardians; Nightmares. - New settings: The Storyverse; The Cosmic Sea; Inkfall Reef; Lena's Bedroom. - New key items: Lucid Light; Dream Guardian Conduit Armor; Captain Quill's Cartographer Spear; Lena's Sketchbook; Nightmare Fear Sense. - Reference images added: mister-sandman-character.png ; lena-ortiz-character.png ; captain-quill-character.png ; the-eraser-nightmare-character.png ; dream-guardians-character.png ; storyverse-bubble-universes-setting.png ; cosmic-sea-setting.png ; inkfall-reef-setting.png ; lena-bedroom-setting.png ; lucid-light-key-item.png ; dream-guardian-conduit-armor-key-item.png ; cartographer-spear-key-item.png ; lena-sketchbook-key-item.png ; nightmare-fear-sense-key-item.png .",
+      "referenceImages": [
+        {
+          "path": "../series/storyverse-comics/reference-images/captain-quill-character.png",
+          "alt": "Storyverse Comics reference image"
+        },
+        {
+          "path": "../series/storyverse-comics/reference-images/cartographer-spear-key-item.png",
+          "alt": "Storyverse Comics reference image"
+        },
+        {
+          "path": "../series/storyverse-comics/reference-images/cosmic-sea-setting.png",
+          "alt": "Storyverse Comics reference image"
+        },
+        {
+          "path": "../series/storyverse-comics/reference-images/dream-guardian-conduit-armor-key-item.png",
+          "alt": "Storyverse Comics reference image"
+        },
+        {
+          "path": "../series/storyverse-comics/reference-images/dream-guardians-character.png",
+          "alt": "Storyverse Comics reference image"
+        },
+        {
+          "path": "../series/storyverse-comics/reference-images/inkfall-reef-setting.png",
+          "alt": "Storyverse Comics reference image"
+        },
+        {
+          "path": "../series/storyverse-comics/reference-images/lena-bedroom-setting.png",
+          "alt": "Storyverse Comics reference image"
+        },
+        {
+          "path": "../series/storyverse-comics/reference-images/lena-ortiz-character.png",
+          "alt": "Storyverse Comics reference image"
+        },
+        {
+          "path": "../series/storyverse-comics/reference-images/lena-sketchbook-key-item.png",
+          "alt": "Storyverse Comics reference image"
+        },
+        {
+          "path": "../series/storyverse-comics/reference-images/lucid-light-key-item.png",
+          "alt": "Storyverse Comics reference image"
+        },
+        {
+          "path": "../series/storyverse-comics/reference-images/mister-sandman-character.png",
+          "alt": "Storyverse Comics reference image"
+        },
+        {
+          "path": "../series/storyverse-comics/reference-images/nightmare-fear-sense-key-item.png",
+          "alt": "Storyverse Comics reference image"
+        },
+        {
+          "path": "../series/storyverse-comics/reference-images/storyverse-bubble-universes-setting.png",
+          "alt": "Storyverse Comics reference image"
+        },
+        {
+          "path": "../series/storyverse-comics/reference-images/the-eraser-nightmare-character.png",
+          "alt": "Storyverse Comics reference image"
+        }
+      ],
+      "url": "series/storyverse-comics/",
+      "issueCount": 1,
+      "issues": [
+        "storyverse-comics-issue-01"
+      ]
+    },
+    {
       "slug": "the-three-hands",
       "title": "The Three Hands",
       "summary": "In a tropical island city inside the Storyverse, a redeemed king who once abused Lucid Light appoints three elite defenders to protect his people from Dark Light and the Anamorphis invaders hunting his power.",
@@ -1313,6 +1385,67 @@
       "issueNumber": 1,
       "issueLabel": "Issue #1 of Divine Repo",
       "url": "comics/divine-repo-issue-01/"
+    },
+    {
+      "slug": "storyverse-comics-issue-01",
+      "folder": "series/storyverse-comics/issues/issue-01",
+      "title": "The Map That Feared the Ending",
+      "publishedDate": "2026-05-16",
+      "summary": "An anxious young mapmaker dreams into Inkfall Reef and must help a Dream Guardian trap a Nightmare that feeds on her fear of choosing the wrong ending.",
+      "cover": "../series/storyverse-comics/issues/issue-01/assets/comic-pages/page-01-cover.png",
+      "pdf": "../series/storyverse-comics/issues/issue-01/output/pdf/storyverse-comics-issue-01-the-map-that-feared-the-ending.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../series/storyverse-comics/issues/issue-01/assets/comic-pages/page-01-cover.png",
+          "alt": "The Map That Feared the Ending comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../series/storyverse-comics/issues/issue-01/assets/comic-pages/page-02.png",
+          "alt": "The Map That Feared the Ending comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../series/storyverse-comics/issues/issue-01/assets/comic-pages/page-03.png",
+          "alt": "The Map That Feared the Ending comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../series/storyverse-comics/issues/issue-01/assets/comic-pages/page-04.png",
+          "alt": "The Map That Feared the Ending comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../series/storyverse-comics/issues/issue-01/assets/comic-pages/page-05.png",
+          "alt": "The Map That Feared the Ending comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../series/storyverse-comics/issues/issue-01/assets/comic-pages/page-06.png",
+          "alt": "The Map That Feared the Ending comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../series/storyverse-comics/issues/issue-01/assets/comic-pages/page-07.png",
+          "alt": "The Map That Feared the Ending comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../series/storyverse-comics/issues/issue-01/assets/comic-pages/page-08.png",
+          "alt": "The Map That Feared the Ending comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "series": {
+        "slug": "storyverse-comics",
+        "title": "Storyverse Comics",
+        "summary": "An anthology of dreamers, Dream Guardians, fantastic bubble worlds, and shapeshifting Nightmares where each standalone issue turns a new fear into a strategic battle for the soul of a story.",
+        "url": "series/storyverse-comics/"
+      },
+      "issueNumber": 1,
+      "issueLabel": "Issue #1 of Storyverse Comics",
+      "url": "comics/storyverse-comics-issue-01/"
     }
   ]
 }
