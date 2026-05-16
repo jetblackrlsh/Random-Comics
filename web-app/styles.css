@@ -140,6 +140,12 @@ a {
   background: linear-gradient(135deg, var(--yellow), #ff9e1d);
 }
 
+.review-link,
+.icon-button.review {
+  border-color: rgba(3, 191, 245, 0.45);
+  background: linear-gradient(135deg, #fff, rgba(3, 191, 245, 0.22));
+}
+
 main {
   width: min(1520px, 100%);
   margin: 0 auto;
