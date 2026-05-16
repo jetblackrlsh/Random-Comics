@@ -40,7 +40,9 @@ The web app search indexes series titles, series summaries, character descriptio
 - About page: `https://jetblackrlsh.github.io/Random-Comics/web-app/about/`
 - Comic page: `https://jetblackrlsh.github.io/Random-Comics/web-app/comics/<comic-folder>/`
 - Series page: `https://jetblackrlsh.github.io/Random-Comics/web-app/series/<series-folder>/`
+- RSS feed: `https://jetblackrlsh.github.io/Random-Comics/web-app/rss.xml`
 
 Each generated comic page includes static Open Graph and Twitter metadata using that comic's cover image. Generated series pages include crawlable issue lists and structured data tying each issue to its series.
+The generated RSS feed includes each comic release as an item, newest first, and is advertised from generated pages with an alternate feed link.
 
 `build-pages-site.mjs` creates a curated `_site/` artifact for GitHub Pages with the web app, comic page images, comic PDFs, and a root redirect into `web-app/`.

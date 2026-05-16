@@ -26,6 +26,11 @@ function jsonLd(value) {
   return `<script type="application/ld+json">${JSON.stringify(value)}</script>`;
 }
 
+function rssDate(value) {
+  const date = new Date(`${value}T00:00:00Z`);
+  return Number.isNaN(date.getTime()) ? new Date().toUTCString() : date.toUTCString();
+}
+
 function truncateDescription(value, maxLength = 180) {
   const normalized = String(value || catalog.site.description).replace(/\s+/g, " ").trim();
   if (normalized.length <= maxLength) return normalized;
@@ -76,6 +81,8 @@ function metaBlock({ title, description, url, image, type = "website", published
   if (publishedDate) {
     tags.push(`<meta property="article:published_time" content="${escapeHtml(publishedDate)}">`);
   }
+
+  tags.push(`<link rel="alternate" type="application/rss+xml" title="Random Comics RSS Feed" href="${escapeHtml(catalog.site.feedUrl || `${catalog.site.baseUrl}/rss.xml`)}">`);
 
   return tags.join("\n    ");
 }
@@ -345,6 +352,42 @@ Sitemap: ${catalog.site.baseUrl}/sitemap.xml
 `;
 }
 
+function rssFeedXml() {
+  const feedUrl = catalog.site.feedUrl || `${catalog.site.baseUrl}/rss.xml`;
+  const latestDate = catalog.comics.at(-1)?.publishedDate || new Date().toISOString().slice(0, 10);
+  const items = [...catalog.comics].sort((a, b) => {
+    const byNewestDate = b.publishedDate.localeCompare(a.publishedDate);
+    return byNewestDate || a.title.localeCompare(b.title);
+  });
+
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>${escapeXml(catalog.site.title)}</title>
+    <link>${escapeXml(`${catalog.site.baseUrl}/`)}</link>
+    <description>${escapeXml(catalog.site.description)}</description>
+    <language>en-us</language>
+    <lastBuildDate>${escapeXml(rssDate(latestDate))}</lastBuildDate>
+    <atom:link href="${escapeXml(feedUrl)}" rel="self" type="application/rss+xml" />
+${items
+  .map((comic) => {
+    const url = `${catalog.site.baseUrl}/comics/${comic.slug}/`;
+    const description = comic.summary || `${comic.title} is a Random Comics release.`;
+    const issueContext = comicIssueLabel(comic);
+    return `    <item>
+      <title>${escapeXml(comic.title)}</title>
+      <link>${escapeXml(url)}</link>
+      <guid isPermaLink="true">${escapeXml(url)}</guid>
+      <pubDate>${escapeXml(rssDate(comic.publishedDate))}</pubDate>
+      <description>${escapeXml(`${description} ${issueContext}. ${comic.pageCount} pages.`)}</description>
+    </item>`;
+  })
+  .join("\n")}
+  </channel>
+</rss>
+`;
+}
+
 rmSync(comicsDir, { recursive: true, force: true });
 rmSync(seriesDir, { recursive: true, force: true });
 mkdirSync(comicsDir, { recursive: true });
@@ -446,5 +489,6 @@ for (const comic of catalog.comics) {
 
 writeFileSync(path.join(webAppDir, "sitemap.xml"), sitemapXml());
 writeFileSync(path.join(webAppDir, "robots.txt"), robotsTxt());
+writeFileSync(path.join(webAppDir, "rss.xml"), rssFeedXml());
 
 console.log(`Wrote ${catalog.comics.length} comic share pages and ${(catalog.series || []).length} series pages to web-app/`);

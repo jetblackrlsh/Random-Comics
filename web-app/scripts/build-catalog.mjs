@@ -329,11 +329,13 @@ function sortComics(comics) {
 const standaloneComics = discoverStandaloneComics();
 const discoveredSeries = discoverSeries();
 const comics = sortComics([...standaloneComics, ...discoveredSeries.comics]);
+const baseUrl = canonicalBaseUrl();
 const catalog = {
   site: {
     title: "Random Comics",
     description: "Standalone comics, strange experiments, one-shot adventures, spontaneous comic ideas, and future comic series.",
-    baseUrl: canonicalBaseUrl(),
+    baseUrl,
+    feedUrl: `${baseUrl}/rss.xml`,
     supportUrl: "https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602",
   },
   series: discoveredSeries.series,

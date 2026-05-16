@@ -21,6 +21,7 @@ mkdirSync(siteDir, { recursive: true });
 cpSync(webAppDir, path.join(siteDir, "web-app"), { recursive: true });
 copyIfExists(path.join(webAppDir, "robots.txt"), path.join(siteDir, "robots.txt"));
 copyIfExists(path.join(webAppDir, "sitemap.xml"), path.join(siteDir, "sitemap.xml"));
+copyIfExists(path.join(webAppDir, "rss.xml"), path.join(siteDir, "rss.xml"));
 
 for (const comic of catalog.comics) {
   const sourceRoot = comic.folder || comic.slug;
@@ -63,6 +64,7 @@ writeFileSync(
     <title>Random Comics</title>
     <meta http-equiv="refresh" content="0; url=web-app/">
     <link rel="canonical" href="${catalog.site.baseUrl}/">
+    <link rel="alternate" type="application/rss+xml" title="Random Comics RSS Feed" href="${catalog.site.feedUrl || `${catalog.site.baseUrl}/rss.xml`}">
   </head>
   <body>
     <p><a href="web-app/">Random Comics</a></p>

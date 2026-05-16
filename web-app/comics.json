@@ -3,6 +3,7 @@
     "title": "Random Comics",
     "description": "Standalone comics, strange experiments, one-shot adventures, spontaneous comic ideas, and future comic series.",
     "baseUrl": "https://jetblackrlsh.github.io/Random-Comics/web-app",
+    "feedUrl": "https://jetblackrlsh.github.io/Random-Comics/web-app/rss.xml",
     "supportUrl": "https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602"
   },
   "series": [
