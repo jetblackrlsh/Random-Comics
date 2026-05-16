@@ -107,7 +107,8 @@ a {
 
 .top-nav a,
 .icon-button,
-.jump-actions button {
+.jump-actions button,
+.follow-cta {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -128,6 +129,7 @@ a {
 .top-nav a:hover,
 .icon-button:hover,
 .jump-actions button:hover,
+.follow-cta:hover,
 .top-nav a.active {
   border-color: rgba(255, 42, 157, 0.55);
   background: #fff;
@@ -144,6 +146,12 @@ a {
 .icon-button.review {
   border-color: rgba(3, 191, 245, 0.45);
   background: linear-gradient(135deg, #fff, rgba(3, 191, 245, 0.22));
+}
+
+.follow-link,
+.follow-cta {
+  border-color: rgba(255, 42, 157, 0.42);
+  background: linear-gradient(135deg, #fff, rgba(255, 42, 157, 0.2));
 }
 
 main {
@@ -173,7 +181,7 @@ main {
   position: sticky;
   top: 104px;
   display: grid;
-  grid-template-rows: auto auto auto minmax(0, 1fr);
+  grid-template-rows: auto auto auto auto minmax(0, 1fr);
   gap: 14px;
   max-height: calc(100dvh - 152px);
   overflow: hidden;
@@ -210,6 +218,12 @@ main {
 .control-panel .intro-copy p {
   font-size: 0.94rem;
   line-height: 1.45;
+}
+
+.follow-cta {
+  width: 100%;
+  min-height: 48px;
+  text-transform: uppercase;
 }
 
 .search-wrap {
@@ -372,22 +386,155 @@ main {
   text-align: center;
 }
 
-.about-view {
+.about-view,
+.follow-view {
   display: grid;
   place-items: start center;
 }
 
-.about-copy {
+.about-copy,
+.follow-copy {
   width: min(900px, 100%);
   padding: clamp(22px, 5vw, 56px);
 }
 
-.about-copy h1 {
+.about-copy h1,
+.follow-copy h1 {
   max-width: 12ch;
 }
 
 .about-copy p + p {
   margin-top: 18px;
+}
+
+.follow-copy {
+  border: 3px solid rgba(17, 18, 43, 0.13);
+  border-radius: 8px;
+  background: var(--panel);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(14px) saturate(1.1);
+}
+
+.follow-copy h1 {
+  margin: 0 0 10px;
+  font-size: clamp(2.45rem, 6vw, 4.7rem);
+  line-height: 0.88;
+  letter-spacing: 0;
+  text-transform: uppercase;
+  text-shadow: 4px 4px 0 var(--yellow), 8px 8px 0 rgba(255, 42, 157, 0.24);
+}
+
+.follow-copy p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 1rem;
+  font-weight: 650;
+  line-height: 1.65;
+}
+
+.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  margin-top: 30px !important;
+  padding: clamp(17px, 5%, 40px) clamp(17px, 7%, 50px) !important;
+  max-width: none !important;
+  border: 1px solid #ccc !important;
+  border-radius: 6px !important;
+  background-color: #fff !important;
+  box-shadow: 0 5px 25px rgba(34, 60, 47, 0.25) !important;
+}
+
+.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview,
+.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview * {
+  box-sizing: border-box !important;
+}
+
+.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-heading {
+  width: 100% !important;
+}
+
+.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-heading h5 {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  color: #000 !important;
+  font-family: Arial, sans-serif !important;
+  font-size: 16px !important;
+  font-weight: 700 !important;
+  line-height: 1.25 !important;
+  text-align: center !important;
+  text-transform: none !important;
+}
+
+.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field {
+  margin-top: 20px !important;
+  width: 100% !important;
+}
+
+.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field input {
+  width: 100% !important;
+  height: 40px !important;
+  border: 2px solid #e9e8e8 !important;
+  border-radius: 6px !important;
+  background-color: #fff !important;
+  color: #000 !important;
+  font-family: Arial, sans-serif !important;
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  line-height: 20px !important;
+  text-align: center !important;
+  text-transform: none !important;
+  outline: none !important;
+}
+
+.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field input::placeholder {
+  color: #000 !important;
+  opacity: 1 !important;
+}
+
+.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-submit-button {
+  margin-top: 10px !important;
+  width: 100% !important;
+}
+
+.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-submit-button button {
+  width: 100% !important;
+  height: 40px !important;
+  border: 0 !important;
+  border-radius: 6px !important;
+  background-color: #000 !important;
+  color: #fff !important;
+  font-family: Arial, sans-serif !important;
+  font-size: 16px !important;
+  font-weight: 700 !important;
+  line-height: 0 !important;
+  text-align: center !important;
+  text-transform: none !important;
+}
+
+.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-submit-button button:hover {
+  cursor: pointer !important;
+}
+
+.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .powered-by-line {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 100% !important;
+  margin-top: 10px !important;
+  color: #231f20 !important;
+  font-family: Arial, sans-serif !important;
+  font-size: 13px !important;
+  font-weight: 400 !important;
+  line-height: 25px !important;
+  text-align: center !important;
+  text-decoration: none !important;
+}
+
+.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .powered-by-line img {
+  height: 1.13em !important;
+  max-height: 1.13em !important;
+  margin-left: 10px !important;
 }
 
 .seo-content {
@@ -527,7 +674,8 @@ main {
 
   .top-nav a,
   .icon-button,
-  .jump-actions button {
+  .jump-actions button,
+  .follow-cta {
     width: 100%;
   }
 
@@ -536,7 +684,8 @@ main {
   }
 
   .intro-copy h1,
-  .about-copy h1 {
+  .about-copy h1,
+  .follow-copy h1 {
     font-size: clamp(2.25rem, 16vw, 3.8rem);
   }
 }

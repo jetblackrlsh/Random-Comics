@@ -8,6 +8,7 @@ const catalog = JSON.parse(readFileSync(path.join(webAppDir, "comics.json"), "ut
 const template = readFileSync(path.join(webAppDir, "index.html"), "utf8");
 const comicsDir = path.join(webAppDir, "comics");
 const aboutDir = path.join(webAppDir, "about");
+const followDir = path.join(webAppDir, "follow");
 const seriesDir = path.join(webAppDir, "series");
 
 function escapeHtml(value) {
@@ -156,6 +157,14 @@ function aboutSeoContent() {
       </section>`;
 }
 
+function followSeoContent() {
+  return `<section class="seo-content" aria-label="Follow Random Comics">
+        <h2>Follow Random Comics</h2>
+        <p>Subscribe by email to get new Random Comics releases when the archive updates.</p>
+        <p><a href="${escapeHtml(catalog.site.feedUrl || `${catalog.site.baseUrl}/rss.xml`)}">Open the Random Comics RSS feed</a></p>
+      </section>`;
+}
+
 function comicSeoContent(comic) {
   const pdfLink = comic.pdf
     ? `<p><a href="${escapeHtml(absoluteAssetUrl(comic.pdf))}">Download ${escapeHtml(comic.title)} as a PDF</a></p>`
@@ -224,6 +233,21 @@ function aboutStructuredData() {
     name: "About Random Comics",
     url: `${catalog.site.baseUrl}/about/`,
     description: "About Random Comics, a home for standalone one-shot comic stories, spontaneous comic ideas, and series that can grow through recurring issues.",
+    isPartOf: {
+      "@type": "WebSite",
+      name: catalog.site.title,
+      url: `${catalog.site.baseUrl}/`,
+    },
+  });
+}
+
+function followStructuredData() {
+  return jsonLd({
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name: "Follow Random Comics",
+    url: `${catalog.site.baseUrl}/follow/`,
+    description: "Follow Random Comics by email or RSS for new comic releases.",
     isPartOf: {
       "@type": "WebSite",
       name: catalog.site.title,
@@ -319,6 +343,7 @@ function sitemapXml() {
   const urls = [
     { loc: `${catalog.site.baseUrl}/`, lastmod: latestDate, priority: "1.0" },
     { loc: `${catalog.site.baseUrl}/about/`, lastmod: latestDate, priority: "0.5" },
+    { loc: `${catalog.site.baseUrl}/follow/`, lastmod: latestDate, priority: "0.6" },
     ...(catalog.series || []).map((series) => ({
       loc: `${catalog.site.baseUrl}/series/${series.slug}/`,
       lastmod: latestDate,
@@ -389,9 +414,11 @@ ${items
 }
 
 rmSync(comicsDir, { recursive: true, force: true });
+rmSync(followDir, { recursive: true, force: true });
 rmSync(seriesDir, { recursive: true, force: true });
 mkdirSync(comicsDir, { recursive: true });
 mkdirSync(aboutDir, { recursive: true });
+mkdirSync(followDir, { recursive: true });
 mkdirSync(seriesDir, { recursive: true });
 
 const genericMeta = metaBlock({
@@ -436,6 +463,22 @@ writeFileSync(
     structuredData: aboutStructuredData(),
     seoContent: aboutSeoContent(),
     appRoute: "about",
+  }),
+);
+
+writeFileSync(
+  path.join(followDir, "index.html"),
+  pageFromTemplate({
+    baseHref: "../",
+    meta: metaBlock({
+      title: "Follow Random Comics",
+      description: "Subscribe by email or RSS to get new Random Comics releases when the archive updates.",
+      url: `${catalog.site.baseUrl}/follow/`,
+      image: `${catalog.site.baseUrl}/assets/site-background.png`,
+    }),
+    structuredData: followStructuredData(),
+    seoContent: followSeoContent(),
+    appRoute: "follow",
   }),
 );
 

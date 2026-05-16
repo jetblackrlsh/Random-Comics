@@ -13,6 +13,7 @@ const state = {
 const els = {
   readerView: document.querySelector("#readerView"),
   aboutView: document.querySelector("#aboutView"),
+  followView: document.querySelector("#followView"),
   comicList: document.querySelector("#comicList"),
   comicSearch: document.querySelector("#comicSearch"),
   earliestButton: document.querySelector("#earliestButton"),
@@ -49,6 +50,7 @@ function routeFromLocation() {
   if (initialRoute?.startsWith("comic:")) return { view: "home", slug: initialRoute.slice(6) };
   if (initialRoute?.startsWith("series:")) return { view: "home", slug: null, seriesSlug: initialRoute.slice(7) };
   if (initialRoute === "about") return { view: "about", slug: null };
+  if (initialRoute === "follow") return { view: "follow", slug: null };
 
   const path = window.location.pathname.replace(/\/+$/, "");
   const comicMatch = path.match(/\/comics\/([^/]+)$/);
@@ -56,6 +58,7 @@ function routeFromLocation() {
   const seriesMatch = path.match(/\/series\/([^/]+)$/);
   if (seriesMatch) return { view: "home", slug: null, seriesSlug: decodeURIComponent(seriesMatch[1]) };
   if (/\/about$/.test(path)) return { view: "about", slug: null };
+  if (/\/follow$/.test(path)) return { view: "follow", slug: null };
 
   const params = new URLSearchParams(window.location.hash.replace(/^#/, ""));
   return { view: "home", slug: params.get("comic"), seriesSlug: params.get("series") };
@@ -66,7 +69,7 @@ function appRootPath() {
   const marker = "/web-app/";
   const markerIndex = path.indexOf(marker);
   if (markerIndex >= 0) return `${path.slice(0, markerIndex)}${marker}`;
-  return path.replace(/(?:(?:comics|series)\/[^/]+\/?|about\/?)$/, "");
+  return path.replace(/(?:(?:comics|series)\/[^/]+\/?|(?:about|follow)\/?)$/, "");
 }
 
 function comicUrl(comic) {
@@ -85,11 +88,17 @@ function aboutUrl() {
   return new URL("about/", `${window.location.origin}${appRootPath()}`).href;
 }
 
+function followUrl() {
+  return new URL("follow/", `${window.location.origin}${appRootPath()}`).href;
+}
+
 function updateUrl({ replace = false } = {}) {
   if (!state.catalog) return;
   const comic = currentComic();
   const series = currentSeries();
-  const target = state.view === "about"
+  const target = state.view === "follow"
+    ? followUrl()
+    : state.view === "about"
     ? aboutUrl()
     : state.hasSeriesRoute && series
       ? seriesUrl(series)
@@ -207,17 +216,21 @@ function renderReader() {
 
 function renderView() {
   const isAbout = state.view === "about";
+  const isFollow = state.view === "follow";
   els.aboutView.hidden = !isAbout;
-  els.readerView.hidden = isAbout;
+  els.followView.hidden = !isFollow;
+  els.readerView.hidden = isAbout || isFollow;
   els.navLinks.forEach((link) => {
     const route = link.dataset.route;
-    link.classList.toggle("active", (isAbout && route === "about") || (!isAbout && route === "home"));
+    link.classList.toggle("active", route === state.view || (!isAbout && !isFollow && route === "home"));
   });
-  if (!isAbout) {
+  if (!isAbout && !isFollow) {
     renderList();
     renderReader();
-  } else {
+  } else if (isAbout) {
     document.title = "About Random Comics";
+  } else {
+    document.title = "Follow Random Comics";
   }
 }
 
@@ -277,7 +290,9 @@ function bindEvents() {
     const routeLink = event.target.closest("[data-route]");
     if (!routeLink) return;
     event.preventDefault();
-    state.view = routeLink.dataset.route === "about" ? "about" : "home";
+    state.view = routeLink.dataset.route === "about" || routeLink.dataset.route === "follow"
+      ? routeLink.dataset.route
+      : "home";
     state.query = "";
     state.selectedSeriesSlug = null;
     state.hasComicRoute = false;
@@ -329,7 +344,7 @@ async function init() {
   state.hasSeriesRoute = Boolean(requestedSeriesSlug);
   bindEvents();
   renderView();
-  if (state.view !== "about" && (requestedSlug || requestedSeriesSlug)) updateUrl({ replace: true });
+  if (state.view !== "about" && state.view !== "follow" && (requestedSlug || requestedSeriesSlug)) updateUrl({ replace: true });
 }
 
 init().catch((error) => {
