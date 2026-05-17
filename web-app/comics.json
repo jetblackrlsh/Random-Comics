@@ -160,6 +160,58 @@
       ]
     },
     {
+      "slug": "quest-series",
+      "title": "Quest Series",
+      "summary": "A naive swamp-raised young man follows a demon-fed fairy tale across a medieval world to wake a god who does not exist, only to awaken a cosmic horror and force magic violently back into the world.",
+      "characterDescriptions": "Character Descriptions Character: Wes - First appears: Issue 1, \"The God That Wasn't\" - Role: protagonist, naive quest leader, accidental worldbreaker. - Visual identifiers: early 20s; lean wiry build; pale olive skin; messy dark brown hair; open, intense eyes; weathered innocent face; rough-spun tunic; patched dark green cloak; mud-stained boots; rope belt; small travel satchel; later road-worn with a pilgrim-leader presence. - Continuity notes: Believes Phil is asleep and can fix the world. His grief and fear make him vulnerable to his demon. By the end of Issue 1, he has awakened uncontrolled magic and mistakenly believes he succeeded. - Reference image: ../reference-images/wes-character.png Character: Genevieve - First appears: Issue 1, \"The God That Wasn't\" - Role: Wes's older sister, caretaker, truth-bearer, emotional foil. - Visual identifiers: late 20s to early 30s; composed but tired face; dark auburn hair tied back; practical medieval city dress under a weathered traveling cloak; protective posture; guarded eyes; carries herself like someone who has made hard choices. - Continuity notes: Knows Phil is only a fairy tale. Leaves The Shit Water for The City with her husband. Later reunites with Wes after building a new family and confronts him about the truth. - Reference image: ../reference-images/genevieve-character.png Character: Wes's Demon - First appears: Issue 1, \"The God That Wasn't\" - Role: antagonist, fear beast thoughtform, manipulator. - Visual identifiers: gaunt shadowy humanoid beast; slick mud-black skin; branch-like horns or antlers; ember-pinpoint eyes; long clawed fingers; body often half-formed from swamp mist, reeds, grave dirt, and candle smoke; too tall when fully visible. - Continuity notes: Born from Wes's nightmares and The Shit Water's subtle magic. It feeds on fear and pushes Wes toward Phil because it expects the journey to deepen his despair. - Reference image: ../reference-images/wess-demon-character.png Character: Cosmic Horror - First appears: Issue 1, \"The God That Wasn't\" - Role: cosmic antagonist, higher-dimensional destroyer. - Visual identifiers: impossible partial body seen through torn reality; vast dark silhouette with wrong angles; starless void texture; pale luminous cracks; no familiar face; presence suggested by overlapping eyes or geometry only when needed. - Continuity notes: Enjoys isolation. Wes's intrusion through The Hole alerts it to the world, and it decides to destroy what violated its solitude. - Reference image: ../reference-images/cosmic-horror-character.png",
+      "settingDescriptions": "Setting Descriptions Setting: The Shit Water - First appears: Issue 1, \"The God That Wasn't\" - Visual identifiers: desolate swamp; black-brown water; rotting reeds; crooked trees; collapsing wooden walkways; isolated family cabin remnants; crude grave markers; damp gray sky; subtle supernatural ripples and shadows. - Continuity notes: Wes and Genevieve grew up here. Subtle magic still exists in the swamp, and fear of monsters keeps most people away. - Reference image: ../reference-images/the-shit-water-setting.png Setting: The Wilderness - First appears: Issue 1, \"The God That Wasn't\" - Visual identifiers: varied medieval frontier biomes; forest tracks, stony highlands, rain-swept roads, scrubland, cold rivers, and open plains with few settlements; campfires and rough travel gear. - Continuity notes: Wes crosses these regions for years while gathering followers for the quest to wake Phil. - Reference image: ../reference-images/the-wilderness-setting.png Setting: The City - First appears: Issue 1, \"The God That Wasn't\" - Visual identifiers: dense medieval human center; stone walls; crowded streets; market stalls; smoke-dark rooftops; lanterns; civic steps; practical human noise and commerce; more safety than the swamp, but less innocence. - Continuity notes: Genevieve moves here, marries, and builds a new family. It becomes a painful symbol of the life Wes believes replaced him. - Reference image: ../reference-images/the-city-setting.png Setting: The Hole - First appears: Issue 1, \"The God That Wasn't\" - Visual identifiers: bottomless black pit at the edge of the world; broken cliff-ring; warped horizon; windless dust; pale sky bending around the opening; no visible bottom; travelers dwarfed at the rim. - Continuity notes: Wes believes Phil sleeps beyond it. In truth, The Hole leads outside the bounds of reality and gives Wes contact with the Cosmic Horror. - Reference image: ../reference-images/the-hole-setting.png",
+      "keyItemDescriptions": "Key Item Descriptions Key Item: Phil Fairy Tale - First appears: Issue 1, \"The God That Wasn't\" - Visual identifiers: not a physical object by default; represented by worn childhood story scraps, a carved sleeping-god charm, candlelit grave offerings, and Wes's handwritten quest notes bearing the name Phil. - Continuity notes: The myth is emotionally real to Wes even though Phil does not exist. The demon weaponizes it to push Wes toward The Hole. - Reference image: ../reference-images/phil-fairy-tale-key-item.png",
+      "issueSummaries": "Issue Summaries Issue 1: The God That Wasn't - Folder: series/quest-series/issues/issue-01/ - Logline: After his sister leaves the swamp, Wes follows a demon-fed fairy tale to the edge of reality and mistakes a cosmic horror's awakening for divine salvation. - Plot summary: Genevieve says goodbye to Wes at their parents' graves before leaving The Shit Water for The City. Alone and terrified, Wes manifests a fear beast that strengthens his belief in Phil, the sleeping god from his childhood stories. Over years, Wes gathers followers across the wilderness by promising that Phil can make the world safe. When Genevieve later finds him transformed into a quest leader, she demands that he grow up, and he denounces her as a traitor to their parents' faith. Wes finally leads his party to The Hole, leaps into the darkness when they refuse, brushes against a higher-dimensional horror, and returns believing Phil has awakened as magic erupts violently across the world. - Continuity changes: Genevieve leaves Wes for The City; Wes's Demon is born; Wes becomes a wandering leader with followers; The Hole is revealed as a boundary beyond reality; the Cosmic Horror notices the world; uncontrolled magic returns across the planet. - New characters: Wes; Genevieve; Wes's Demon; Cosmic Horror. - New settings: The Shit Water; The Wilderness; The City; The Hole. - New key items: Phil Fairy Tale. - Reference images added: wes-character.png ; genevieve-character.png ; wess-demon-character.png ; cosmic-horror-character.png ; the-shit-water-setting.png ; the-wilderness-setting.png ; the-city-setting.png ; the-hole-setting.png ; phil-fairy-tale-key-item.png .",
+      "referenceImages": [
+        {
+          "path": "../series/quest-series/reference-images/cosmic-horror-character.png",
+          "alt": "Quest Series reference image"
+        },
+        {
+          "path": "../series/quest-series/reference-images/genevieve-character.png",
+          "alt": "Quest Series reference image"
+        },
+        {
+          "path": "../series/quest-series/reference-images/phil-fairy-tale-key-item.png",
+          "alt": "Quest Series reference image"
+        },
+        {
+          "path": "../series/quest-series/reference-images/the-city-setting.png",
+          "alt": "Quest Series reference image"
+        },
+        {
+          "path": "../series/quest-series/reference-images/the-hole-setting.png",
+          "alt": "Quest Series reference image"
+        },
+        {
+          "path": "../series/quest-series/reference-images/the-shit-water-setting.png",
+          "alt": "Quest Series reference image"
+        },
+        {
+          "path": "../series/quest-series/reference-images/the-wilderness-setting.png",
+          "alt": "Quest Series reference image"
+        },
+        {
+          "path": "../series/quest-series/reference-images/wes-character.png",
+          "alt": "Quest Series reference image"
+        },
+        {
+          "path": "../series/quest-series/reference-images/wess-demon-character.png",
+          "alt": "Quest Series reference image"
+        }
+      ],
+      "url": "series/quest-series/",
+      "issueCount": 1,
+      "issues": [
+        "quest-series-issue-01"
+      ]
+    },
+    {
       "slug": "storyverse-comics",
       "title": "Storyverse Comics",
       "summary": "An anthology of dreamers, Dream Guardians, fantastic bubble worlds, and shapeshifting Nightmares where each standalone issue turns a new fear into a strategic battle for the soul of a story.",
@@ -1385,6 +1437,72 @@
       "issueNumber": 1,
       "issueLabel": "Issue #1 of Divine Repo",
       "url": "comics/divine-repo-issue-01/"
+    },
+    {
+      "slug": "quest-series-issue-01",
+      "folder": "series/quest-series/issues/issue-01",
+      "title": "The God That Wasn't",
+      "publishedDate": "2026-05-16",
+      "summary": "After his sister leaves the swamp, Wes follows a demon-fed fairy tale to the edge of reality and mistakes a cosmic horror's awakening for divine salvation.",
+      "cover": "../series/quest-series/issues/issue-01/assets/comic-pages/page-01-cover.png",
+      "pdf": "../series/quest-series/issues/issue-01/output/pdf/quest-series-issue-01-the-god-that-wasnt.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../series/quest-series/issues/issue-01/assets/comic-pages/page-01-cover.png",
+          "alt": "The God That Wasn't comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../series/quest-series/issues/issue-01/assets/comic-pages/page-02.png",
+          "alt": "The God That Wasn't comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../series/quest-series/issues/issue-01/assets/comic-pages/page-03.png",
+          "alt": "The God That Wasn't comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../series/quest-series/issues/issue-01/assets/comic-pages/page-04.png",
+          "alt": "The God That Wasn't comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../series/quest-series/issues/issue-01/assets/comic-pages/page-05.png",
+          "alt": "The God That Wasn't comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../series/quest-series/issues/issue-01/assets/comic-pages/page-06.png",
+          "alt": "The God That Wasn't comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../series/quest-series/issues/issue-01/assets/comic-pages/page-07.png",
+          "alt": "The God That Wasn't comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../series/quest-series/issues/issue-01/assets/comic-pages/page-08.png",
+          "alt": "The God That Wasn't comic page 8"
+        },
+        {
+          "number": 9,
+          "path": "../series/quest-series/issues/issue-01/assets/comic-pages/page-09.png",
+          "alt": "The God That Wasn't comic page 9"
+        }
+      ],
+      "pageCount": 9,
+      "series": {
+        "slug": "quest-series",
+        "title": "Quest Series",
+        "summary": "A naive swamp-raised young man follows a demon-fed fairy tale across a medieval world to wake a god who does not exist, only to awaken a cosmic horror and force magic violently back into the world.",
+        "url": "series/quest-series/"
+      },
+      "issueNumber": 1,
+      "issueLabel": "Issue #1 of Quest Series",
+      "url": "comics/quest-series-issue-01/"
     },
     {
       "slug": "storyverse-comics-issue-01",
