@@ -47,3 +47,27 @@
 - Visual identifiers: Predatory shapeshifters that combine animal menace, emotional symbolism, and physical corruption. Each Nightmare should look unique, but all should feel like fear made hungry and alive.
 - Continuity notes: Nightmares feed on fear, sense fear, and shapeshift. They are dangerous because they understand what their prey wants to avoid.
 - Reference image: `../reference-images/the-eraser-nightmare-character.png`
+
+## Character: Thomas Jerry
+
+- First appears: Issue #2, "Trigger Discipline"
+- Role: issue protagonist, impulsive laser-tag player, Lucid Dreamer.
+- Visual identifiers: Young man around 19, medium brown skin, short tight black curls, expressive dark eyes, lean build, clean-shaven face, red-and-black laser tag vest over a gray hoodie, black athletic pants, scuffed white sneakers, and a plastic arena laser tag blaster with heat-warning lights.
+- Continuity notes: Thomas dreams into Neon Meridian after losing a laser tag match. His Lucid Light responds to his tactical understanding: first as a weapon, then more powerfully as cover and battlefield control.
+- Reference image: `../reference-images/thomas-jerry-character.png`
+
+## Character: Sentinel Jax
+
+- First appears: Issue #2, "Trigger Discipline"
+- Role: cyborg Dream Guardian of Neon Meridian, tactical mentor, protector.
+- Visual identifiers: Cyborg Dream Guardian in his early 30s with warm tan skin on the human side of his face, cropped black hair, one natural brown eye, one violet cybernetic lens eye, a chrome cybernetic right arm and shoulder, practical matte graphite Dream Guardian Conduit armor with purple Lucid Light seams, compact utility pouches, and calm tactical posture.
+- Continuity notes: Sentinel Jax protects Neon Meridian through restraint, cover, and measured shots rather than spectacle. His cybernetics interface cleanly with Lucid Light Conduit armor.
+- Reference image: `../reference-images/sentinel-jax-character.png`
+
+## Character: The Overheat Virus
+
+- First appears: Issue #2, "Trigger Discipline"
+- Role: Nightmare antagonist expressed through a citywide computer infection and laser-drone swarm.
+- Visual identifiers: Black-and-red laser drones with cracked glass sensor eyes, exposed hot coils, red glitch patterns, smoke from overheated vents, jagged digital static, and predatory synchronized movement.
+- Continuity notes: The Overheat Virus feeds on panic, overreaction, and wasteful energy. It weaponizes helpful laser systems by removing restraint, corrupting cooldown logic, and making every beam hunt civilians.
+- Reference image: `../reference-images/overheat-virus-drones-character.png`

@@ -27,3 +27,17 @@
 - Visual identifiers: Small lived-in bedroom with a desk covered in map sketches, school notebooks, pencil shavings, sticky notes, a thrift-store globe, rain on the window, and a desk lamp glowing late at night.
 - Continuity notes: Lena falls asleep here while trying to perfect a school project map. The ordinary stress of this room becomes the emotional bridge into Inkfall Reef.
 - Reference image: `../reference-images/lena-bedroom-setting.png`
+
+## Setting: Laser Tag Arena Locker Room
+
+- First appears: Issue #2, "Trigger Discipline"
+- Visual identifiers: Realistic indoor laser tag locker room with black benches, metal cubbies, red-and-blue LED strips, hanging vests, plastic blasters on charging racks, scuffed rubber floor, arena haze leaking in from the doorway, and dim arcade lighting.
+- Continuity notes: Thomas falls asleep here between matches after losing because he rushed and overheated his blaster. The ordinary arena becomes the emotional bridge into Neon Meridian.
+- Reference image: `../reference-images/laser-tag-locker-room-setting.png`
+
+## Setting: Neon Meridian
+
+- First appears: Issue #2, "Trigger Discipline"
+- Visual identifiers: Bright utopian futuristic city with clean glass towers, public gardens, blue-white laser transit, laser medical kiosks, laser irrigation arrays, civic repair beams, reflective white walkways, and warm sunlight with violet Lucid Light reflections during the crisis.
+- Continuity notes: Neon Meridian solved many civic problems with careful laser technology before the Overheat Virus infected its systems. Its danger comes from helpful tools losing discipline.
+- Reference image: `../reference-images/neon-meridian-setting.png`

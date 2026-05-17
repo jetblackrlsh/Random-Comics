@@ -10,3 +10,14 @@
 - New settings: The Storyverse; The Cosmic Sea; Inkfall Reef; Lena's Bedroom.
 - New key items: Lucid Light; Dream Guardian Conduit Armor; Captain Quill's Cartographer Spear; Lena's Sketchbook; Nightmare Fear Sense.
 - Reference images added: `mister-sandman-character.png`; `lena-ortiz-character.png`; `captain-quill-character.png`; `the-eraser-nightmare-character.png`; `dream-guardians-character.png`; `storyverse-bubble-universes-setting.png`; `cosmic-sea-setting.png`; `inkfall-reef-setting.png`; `lena-bedroom-setting.png`; `lucid-light-key-item.png`; `dream-guardian-conduit-armor-key-item.png`; `cartographer-spear-key-item.png`; `lena-sketchbook-key-item.png`; `nightmare-fear-sense-key-item.png`.
+
+## Issue #2: Trigger Discipline
+
+- Folder: `series/storyverse-comics/issues/issue-02/`
+- Logline: A reckless laser-tag player dreams into a utopian laser city under drone attack and learns that smart cover, timing, and patience beat charging straight into the fight.
+- Plot summary: Thomas Jerry loses another laser tag match because he runs straight into the open and holds his trigger down until his blaster overheats. While napping in the arena locker room, he dreams into Neon Meridian, a utopian Storyverse city where laser technology heals, carries, grows, and repairs. The Overheat Virus infects the laser system and turns civic drones against civilians. Sentinel Jax tackles Thomas out of a drone's blast and asks him to create a weapon with Lucid Light. Thomas summons a Lucid Light laser pistol, but Jax shows him that a pistol alone is not a plan. Thomas watches a futuristic officer charge straight at the drones, overheat his own pistol, and fall. Recognizing his own mistake, Thomas creates Lucid Light cover instead of demanding more firepower. Jax uses the cover to take timed shots, letting the pistol cool between bursts, and the drones are defeated. Thomas wakes ready to play his next match with discipline.
+- Continuity changes: Storyverse Comics establishes Neon Meridian, Sentinel Jax, Thomas Jerry, the Overheat Virus, and Thomas's Lucid Light ability to create both weapons and cover when he understands the tactical need.
+- New characters: Thomas Jerry; Sentinel Jax; The Overheat Virus.
+- New settings: Laser Tag Arena Locker Room; Neon Meridian.
+- New key items: Thomas's Laser Tag Blaster; Lucid Light Laser Pistol; Lucid Light Cover.
+- Reference images added: `thomas-jerry-character.png`; `sentinel-jax-character.png`; `overheat-virus-drones-character.png`; `laser-tag-locker-room-setting.png`; `neon-meridian-setting.png`; `thomas-laser-tag-blaster-key-item.png`; `lucid-light-laser-pistol-key-item.png`; `lucid-light-cover-key-item.png`.

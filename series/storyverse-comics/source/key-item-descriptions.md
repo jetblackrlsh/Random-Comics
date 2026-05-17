@@ -34,3 +34,24 @@
 - Visual identifiers: Fear appears to Nightmares as red heat-like threads, trembling reflections, scratches on surfaces, or scent trails in the air. The visual language should change by Nightmare but always show predatory focus.
 - Continuity notes: Nightmares can sense fear, but fear can be redirected. A dreamer who understands what they fear can use it as bait, camouflage, or a false trail.
 - Reference image: `../reference-images/nightmare-fear-sense-key-item.png`
+
+## Key Item: Thomas's Laser Tag Blaster
+
+- First appears: Issue #2, "Trigger Discipline"
+- Visual identifiers: Plastic arena laser tag blaster with black shell, red trim, thumb-worn grip, glowing heat-warning bars, scuffed muzzle, and a small cooling vent that smokes when Thomas holds the trigger too long.
+- Continuity notes: The blaster's overheating teaches Thomas the ordinary version of the same lesson that saves Neon Meridian: constant fire creates vulnerability.
+- Reference image: `../reference-images/thomas-laser-tag-blaster-key-item.png`
+
+## Key Item: Lucid Light Laser Pistol
+
+- First appears: Issue #2, "Trigger Discipline"
+- Visual identifiers: Sleek compact pistol formed from cosmic purple Lucid Light, translucent star-specked barrel, luminous cooling vents, geometric lensing rings near the muzzle, and a grip sized to Sentinel Jax's cybernetic hand.
+- Continuity notes: Thomas creates the pistol for Sentinel Jax, but it is only effective when used with cooldown discipline and cover.
+- Reference image: `../reference-images/lucid-light-laser-pistol-key-item.png`
+
+## Key Item: Lucid Light Cover
+
+- First appears: Issue #2, "Trigger Discipline"
+- Visual identifiers: Translucent purple barricades and waist-high shields made of Lucid Light, star-speckled surfaces, hexagonal stress patterns, bright edges, and realistic reflections on nearby pavement.
+- Continuity notes: Thomas's strongest Lucid Light act in Issue #2 is not a weapon but protective cover that lets Sentinel Jax fight with timing and restraint.
+- Reference image: `../reference-images/lucid-light-cover-key-item.png`
