@@ -6,6 +6,7 @@ const state = {
   selectedSeriesSlug: null,
   query: "",
   view: "home",
+  readerMode: false,
   hasComicRoute: false,
   hasSeriesRoute: false,
 };
@@ -22,6 +23,7 @@ const els = {
   comicTitle: document.querySelector("#comicTitle"),
   comicSummary: document.querySelector("#comicSummary"),
   pageStrip: document.querySelector("#pageStrip"),
+  readerModeButton: document.querySelector("#readerModeButton"),
   downloadButton: document.querySelector("#downloadButton"),
   shareButton: document.querySelector("#shareButton"),
   navLinks: document.querySelectorAll("[data-route]"),
@@ -214,9 +216,34 @@ function renderReader() {
   }
 }
 
+function renderReaderMode() {
+  document.body.classList.toggle("reader-mode", state.readerMode);
+  els.readerModeButton.setAttribute("aria-pressed", String(state.readerMode));
+  els.readerModeButton.textContent = state.readerMode ? "Exit Reader" : "Reader Mode";
+}
+
+function syncFullscreen(enabled) {
+  if (enabled) {
+    if (document.fullscreenElement || !els.readerView.requestFullscreen) return;
+    els.readerView.requestFullscreen().catch(() => {});
+    return;
+  }
+
+  if (document.fullscreenElement && document.exitFullscreen) {
+    document.exitFullscreen().catch(() => {});
+  }
+}
+
+function setReaderMode(enabled, { syncNativeFullscreen = true } = {}) {
+  state.readerMode = Boolean(enabled) && state.view === "home";
+  renderReaderMode();
+  if (syncNativeFullscreen) syncFullscreen(state.readerMode);
+}
+
 function renderView() {
   const isAbout = state.view === "about";
   const isFollow = state.view === "follow";
+  if (isAbout || isFollow) setReaderMode(false);
   els.aboutView.hidden = !isAbout;
   els.followView.hidden = !isFollow;
   els.readerView.hidden = isAbout || isFollow;
@@ -227,6 +254,7 @@ function renderView() {
   if (!isAbout && !isFollow) {
     renderList();
     renderReader();
+    renderReaderMode();
   } else if (isAbout) {
     document.title = "About Random Comics";
   } else {
@@ -282,8 +310,19 @@ function bindEvents() {
 
   els.earliestButton.addEventListener("click", () => selectBoundary("earliest"));
   els.latestButton.addEventListener("click", () => selectBoundary("latest"));
+  els.readerModeButton.addEventListener("click", () => setReaderMode(!state.readerMode));
   els.shareButton.addEventListener("click", () => {
     shareCurrentComic().catch(() => {});
+  });
+
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && state.readerMode) setReaderMode(false);
+  });
+
+  document.addEventListener("fullscreenchange", () => {
+    if (state.readerMode && !document.fullscreenElement) {
+      setReaderMode(false, { syncNativeFullscreen: false });
+    }
   });
 
   document.addEventListener("click", (event) => {
