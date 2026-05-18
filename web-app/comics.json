@@ -160,6 +160,46 @@
       ]
     },
     {
+      "slug": "power-flux",
+      "title": "Power Flux",
+      "summary": "A selfish dreamer resurrected by an angel of Limbo must save Earth from alien criminals with unstable powers that change without warning, or lose his soul to Hell.",
+      "characterDescriptions": "Character Descriptions Character: Rann Dominique - First appears: Issue 1, \"The Selfish Wish\" - Role: protagonist, resurrected reluctant hero. - Visual identifiers: adult man in his late 20s to early 30s, brown eyes, brown tan skin, short curly afro of black hair, expressive face that shifts between restless boredom, panic, awe, and reluctant resolve. Before death he wears casual modern street clothes. After resurrection he has a dark glittering halo floating above his head and dark extradimensional armor marked with glowing question marks that change color with his powers. - Continuity notes: Rann wished for superpowers on the falling alien prison, died in the crash, was rejected from Hell by an invisible mercy, and returned to life with unstable powers that shift randomly. His first motive is fear of Hell and wanting to live, but his long-term test is learning selflessness. - Reference image: ../reference-images/rann-dominique-character.png Character: Dark Angel - First appears: Issue 1, \"The Selfish Wish\" - Role: Limbo angel, guide, judge, reluctant mentor. - Visual identifiers: tall and imposing angelic figure with both heavenly and demonic traits: ash-gray skin, severe face, black feathered wings with faint ember cracks, horn-like shadow shapes above the brow, dark robes over worn ceremonial armor, dim gold eyes, and a stern posture. He is surrounded by pale Limbo fog and black-gold gateway light. - Continuity notes: Dark Angel chastises Rann for selfishly wasting his wish, opens a gateway to Hell, discovers Rann is protected by higher mercy, and sends him back to Earth with armor and guidance. He wants Rann to succeed but cannot freely intervene. - Reference image: ../reference-images/dark-angel-character.png",
+      "settingDescriptions": "Setting Descriptions Setting: Limbo Threshold - First appears: Issue 1, \"The Selfish Wish\" - Visual identifiers: endless pale fog, fractured black stone floor, floating doorways, distant stair shapes, black-gold cracks of light, one burning red gateway suggesting Hell, and a colder high white glow suggesting Heaven far out of reach. The space feels photographed like a real abandoned terminal or quarry transformed by cosmic spiritual effects. - Continuity notes: Rann's spirit arrives here after death. Dark Angel uses this threshold as a courtroom, transit station, and surveillance point for Earth. - Reference image: ../reference-images/limbo-threshold-setting.png Setting: Rann's Crash Field - First appears: Issue 1, \"The Selfish Wish\" - Visual identifiers: nighttime grassy field near a city edge, scorched crater, emergency smoke, shattered stone-metal fragments, glowing containment cracks, broken alien cells, and distant city lights under a damaged sky. - Continuity notes: The alien prison rock strikes near Rann here, kills him, and releases fugitives across Earth. - Reference image: ../reference-images/rann-crash-field-setting.png",
+      "keyItemDescriptions": "Key Item Descriptions Key Item: Alien Prison Rock - First appears: Issue 1, \"The Selfish Wish\" - Visual identifiers: massive meteor-like stone-metal object with cratered black surface, embedded alien containment glyphs, blue-white cracks, broken capsule cavities, and prison-cell architecture fused inside the rock. - Continuity notes: Mistaken for a shooting star by Rann. It was an eternal exile prison for the galaxy's worst criminals. Its crash kills Rann and frees the prisoners across Earth. - Reference image: ../reference-images/alien-prison-rock-key-item.png Key Item: Flux Armor - First appears: Issue 1, \"The Selfish Wish\" - Visual identifiers: dark extradimensional battle armor, fitted but practical, glossy black and gunmetal plates, faint Limbo texture, glowing question marks on chest, shoulders, and gauntlets. The question marks change color whenever Rann's power shifts. - Continuity notes: Given to Rann by Dark Angel when he is returned to life. It becomes Rann's hero costume and the visible symbol of unstable powers. - Reference image: ../reference-images/flux-armor-key-item.png",
+      "issueSummaries": "Issue Summaries Issue 1: The Selfish Wish - Folder: series/power-flux/issues/issue-01/ - Logline: Rann Dominique selfishly wishes for superpowers, unleashes an alien prison, dies, and returns from Limbo with unstable powers and one chance to save Earth. - Plot summary: Rann mistakes an alien prison rock for a shooting star and wishes for powers instead of anything that could help others. The rock crashes, kills him, and releases alien criminals across Earth. In Limbo, Dark Angel condemns Rann's selfishness and tries to push him into Hell, but an invisible mercy blocks the gate. Rann accepts a bargain: return to life with constantly shifting powers, guided by Dark Angel, and save the planet from the prisoners he freed. - Continuity changes: Rann is resurrected with a dark halo, Flux Armor, and unstable powers. Dark Angel becomes his watcher and guide. The alien prisoners are loose across Earth. - New characters: Rann Dominique, Dark Angel. - New settings: Limbo Threshold, Rann's Crash Field. - New key items: Alien Prison Rock, Flux Armor. - Reference images added: rann-dominique-character.png , dark-angel-character.png , limbo-threshold-setting.png , rann-crash-field-setting.png , alien-prison-rock-key-item.png , flux-armor-key-item.png .",
+      "referenceImages": [
+        {
+          "path": "../series/power-flux/reference-images/alien-prison-rock-key-item.png",
+          "alt": "Power Flux reference image"
+        },
+        {
+          "path": "../series/power-flux/reference-images/dark-angel-character.png",
+          "alt": "Power Flux reference image"
+        },
+        {
+          "path": "../series/power-flux/reference-images/flux-armor-key-item.png",
+          "alt": "Power Flux reference image"
+        },
+        {
+          "path": "../series/power-flux/reference-images/limbo-threshold-setting.png",
+          "alt": "Power Flux reference image"
+        },
+        {
+          "path": "../series/power-flux/reference-images/rann-crash-field-setting.png",
+          "alt": "Power Flux reference image"
+        },
+        {
+          "path": "../series/power-flux/reference-images/rann-dominique-character.png",
+          "alt": "Power Flux reference image"
+        }
+      ],
+      "url": "series/power-flux/",
+      "issueCount": 1,
+      "issues": [
+        "power-flux-issue-01"
+      ]
+    },
+    {
       "slug": "quest-series",
       "title": "Quest Series",
       "summary": "A naive swamp-raised young man follows a demon-fed fairy tale across a medieval world to wake a god who does not exist, only to awaken a cosmic horror and force magic violently back into the world.",
@@ -1658,6 +1698,67 @@
       "issueNumber": 2,
       "issueLabel": "Issue #2 of Storyverse Comics",
       "url": "comics/storyverse-comics-issue-02/"
+    },
+    {
+      "slug": "power-flux-issue-01",
+      "folder": "series/power-flux/issues/issue-01",
+      "title": "The Selfish Wish",
+      "publishedDate": "2026-05-18",
+      "summary": "Rann Dominique selfishly wishes for superpowers, unleashes an alien prison, dies, and returns from Limbo with unstable powers and one chance to save Earth.",
+      "cover": "../series/power-flux/issues/issue-01/assets/comic-pages/page-01-cover.png",
+      "pdf": "../series/power-flux/issues/issue-01/output/pdf/power-flux-issue-01-the-selfish-wish.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../series/power-flux/issues/issue-01/assets/comic-pages/page-01-cover.png",
+          "alt": "The Selfish Wish comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../series/power-flux/issues/issue-01/assets/comic-pages/page-02.png",
+          "alt": "The Selfish Wish comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../series/power-flux/issues/issue-01/assets/comic-pages/page-03.png",
+          "alt": "The Selfish Wish comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../series/power-flux/issues/issue-01/assets/comic-pages/page-04.png",
+          "alt": "The Selfish Wish comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../series/power-flux/issues/issue-01/assets/comic-pages/page-05.png",
+          "alt": "The Selfish Wish comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../series/power-flux/issues/issue-01/assets/comic-pages/page-06.png",
+          "alt": "The Selfish Wish comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../series/power-flux/issues/issue-01/assets/comic-pages/page-07.png",
+          "alt": "The Selfish Wish comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../series/power-flux/issues/issue-01/assets/comic-pages/page-08.png",
+          "alt": "The Selfish Wish comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "series": {
+        "slug": "power-flux",
+        "title": "Power Flux",
+        "summary": "A selfish dreamer resurrected by an angel of Limbo must save Earth from alien criminals with unstable powers that change without warning, or lose his soul to Hell.",
+        "url": "series/power-flux/"
+      },
+      "issueNumber": 1,
+      "issueLabel": "Issue #1 of Power Flux",
+      "url": "comics/power-flux-issue-01/"
     }
   ]
 }
