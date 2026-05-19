@@ -200,6 +200,42 @@
       ]
     },
     {
+      "slug": "probably-dreaming",
+      "title": "Probably Dreaming",
+      "summary": "Jet Black treats every bizarre disruption in Huntsville like a lucid dream, calmly following his routines while searching for Lucid Light in situations that are strongly implied to be real.",
+      "characterDescriptions": "Character Descriptions Character: Jet Black - First appears: Issue 1, \"Bite Me at 4:30\" - Role: protagonist. - Visual identifiers: Black man in his 30s with medium-brown skin, long black dreadlocks past his shoulders, full beard and mustache, warm smile, slim-to-average build, relaxed posture, black zip hoodie with white drawstrings, black shirt under the hoodie with visible colorful text reading \"Dream Anime\", black pants, white sneakers, small black crossbody/fanny pack worn across the front. - Continuity notes: Disciplined work-from-home developer, AI-comics enthusiast, livestreamer, lucid dream adventurer. Assumes bizarre events are dreams and searches for Lucid Light or Lucid Conduits when his powers do not work. - Reference image: ../reference-images/jet-black-character.png",
+      "settingDescriptions": "Setting Descriptions Setting: Emerald Ridge Apartment - First appears: Issue 1, \"Bite Me at 4:30\" - Visual identifiers: modest Huntsville apartment interior with work-from-home desk, laptop and monitors, AI comic notes, pancake breakfast traces, streaming microphone or camera, simple couch, front door with peephole, quiet apartment hallway, ordinary residential lighting. - Continuity notes: Jet's home base and primary routine space. Bizarre events often interrupt the normal apartment rhythm. - Reference image: ../reference-images/emerald-ridge-apartment-setting.png Setting: Huntsville Street Outside Emerald Ridge - First appears: Issue 1, \"Bite Me at 4:30\" - Visual identifiers: ordinary Alabama apartment complex street with parked cars, sidewalks, low apartment buildings, trees, humid daylight or dusk, and suburban-residential calm that can be disrupted by supernatural events. - Continuity notes: Recurring threshold between Jet's controlled apartment routine and the bizarre adventures he assumes are dreams. - Reference image: ../reference-images/huntsville-apartment-street-setting.png",
+      "keyItemDescriptions": "Key Item Descriptions Key Item: Lucid Light - First appears: Issue 1, \"Bite Me at 4:30\" - Visual identifiers: cosmic purple energy with star-like motes, translucent ribbons, soft glow, lens distortions, and impossible reflections that look composited into candid real-world footage. - Continuity notes: Jet believes he can manipulate dream worlds with Lucid Light. It does not always manifest at the start of a dream or bizarre event. - Reference image: ../reference-images/lucid-light-key-item.png Key Item: Lucid Conduit - First appears: Issue 1, \"Bite Me at 4:30\" - Visual identifiers: an otherwise ordinary object, person, or place containing subtle Lucid Light, usually visible as purple cosmic glow leaking from cracks, edges, reflections, or internal seams. - Continuity notes: When Jet cannot access Lucid Light directly, he searches for a Lucid Conduit so he can wield dream-shaping power. - Reference image: ../reference-images/lucid-conduit-key-item.png",
+      "issueSummaries": "Issue Summaries Issue 1: Bite Me at 4:30 - Folder: series/probably-dreaming/issues/issue-01/ - Logline: Jet Black assumes a zombie at his apartment door is proof that he is dreaming, becomes a bored zombie on purpose, then misses the evidence after Huntsville returns to normal. - Plot summary: After a prologue introduces Jet's dream logic and Lucid Light rules, Jet hears insistent knocking while writing a comic. He sees a zombie through the peephole, decides he must be dreaming, and eagerly invites the bite. He carefully lets the zombie infect him without eating his brain, removes its head, and waits for zombie hunger that never arrives because his one-meal-a-day routine has him thinking breakfast is not until 4:30 AM. Bored by the slow zombie apocalypse outside, Jet tries to summon Lucid Light and realizes he may need a Lucid Conduit. Gunfire outside and a panicking severed zombie head force him to hide quietly from armed survivors. At HudsonAlpha, a scientist releases glowing serum through a steam machine, spreading blue fog across Huntsville and returning the zombies to normal. Jet wakes back into ordinary life and calls it a dream while failing to notice the severed zombie head still in his room. - Continuity changes: The issue establishes Jet's daily routine, dream assumptions, Lucid Light, Lucid Conduits, and the series' pattern of normalcy returning while physical evidence remains. - New characters: Jet Black. - New settings: Emerald Ridge Apartment; Huntsville Street Outside Emerald Ridge. - New key items: Lucid Light; Lucid Conduit. - Reference images added: jet-black-character.png ; emerald-ridge-apartment-setting.png ; huntsville-apartment-street-setting.png ; lucid-light-key-item.png ; lucid-conduit-key-item.png .",
+      "referenceImages": [
+        {
+          "path": "../series/probably-dreaming/reference-images/emerald-ridge-apartment-setting.png",
+          "alt": "Probably Dreaming reference image"
+        },
+        {
+          "path": "../series/probably-dreaming/reference-images/huntsville-apartment-street-setting.png",
+          "alt": "Probably Dreaming reference image"
+        },
+        {
+          "path": "../series/probably-dreaming/reference-images/jet-black-character.png",
+          "alt": "Probably Dreaming reference image"
+        },
+        {
+          "path": "../series/probably-dreaming/reference-images/lucid-conduit-key-item.png",
+          "alt": "Probably Dreaming reference image"
+        },
+        {
+          "path": "../series/probably-dreaming/reference-images/lucid-light-key-item.png",
+          "alt": "Probably Dreaming reference image"
+        }
+      ],
+      "url": "series/probably-dreaming/",
+      "issueCount": 1,
+      "issues": [
+        "probably-dreaming-issue-01"
+      ]
+    },
+    {
       "slug": "quest-series",
       "title": "Quest Series",
       "summary": "A naive swamp-raised young man follows a demon-fed fairy tale across a medieval world to wake a god who does not exist, only to awaken a cosmic horror and force magic violently back into the world.",
@@ -1759,6 +1795,72 @@
       "issueNumber": 1,
       "issueLabel": "Issue #1 of Power Flux",
       "url": "comics/power-flux-issue-01/"
+    },
+    {
+      "slug": "probably-dreaming-issue-01",
+      "folder": "series/probably-dreaming/issues/issue-01",
+      "title": "Probably Dreaming: Bite Me at 4:30",
+      "publishedDate": "2026-05-19",
+      "summary": "Jet Black assumes a zombie at his apartment door is proof that he is dreaming, so he becomes a zombie on purpose and treats the apocalypse as a boring Lucid Light problem until Huntsville mysteriously resets.",
+      "cover": "../series/probably-dreaming/issues/issue-01/assets/comic-pages/page-01-cover.png",
+      "pdf": "../series/probably-dreaming/issues/issue-01/output/pdf/probably-dreaming-issue-01-bite-me-at-430.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../series/probably-dreaming/issues/issue-01/assets/comic-pages/page-01-cover.png",
+          "alt": "Probably Dreaming: Bite Me at 4:30 comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../series/probably-dreaming/issues/issue-01/assets/comic-pages/page-02.png",
+          "alt": "Probably Dreaming: Bite Me at 4:30 comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../series/probably-dreaming/issues/issue-01/assets/comic-pages/page-03.png",
+          "alt": "Probably Dreaming: Bite Me at 4:30 comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../series/probably-dreaming/issues/issue-01/assets/comic-pages/page-04.png",
+          "alt": "Probably Dreaming: Bite Me at 4:30 comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../series/probably-dreaming/issues/issue-01/assets/comic-pages/page-05.png",
+          "alt": "Probably Dreaming: Bite Me at 4:30 comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../series/probably-dreaming/issues/issue-01/assets/comic-pages/page-06.png",
+          "alt": "Probably Dreaming: Bite Me at 4:30 comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../series/probably-dreaming/issues/issue-01/assets/comic-pages/page-07.png",
+          "alt": "Probably Dreaming: Bite Me at 4:30 comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../series/probably-dreaming/issues/issue-01/assets/comic-pages/page-08.png",
+          "alt": "Probably Dreaming: Bite Me at 4:30 comic page 8"
+        },
+        {
+          "number": 9,
+          "path": "../series/probably-dreaming/issues/issue-01/assets/comic-pages/page-09.png",
+          "alt": "Probably Dreaming: Bite Me at 4:30 comic page 9"
+        }
+      ],
+      "pageCount": 9,
+      "series": {
+        "slug": "probably-dreaming",
+        "title": "Probably Dreaming",
+        "summary": "Jet Black treats every bizarre disruption in Huntsville like a lucid dream, calmly following his routines while searching for Lucid Light in situations that are strongly implied to be real.",
+        "url": "series/probably-dreaming/"
+      },
+      "issueNumber": 1,
+      "issueLabel": "Issue #1 of Probably Dreaming",
+      "url": "comics/probably-dreaming-issue-01/"
     }
   ]
 }
