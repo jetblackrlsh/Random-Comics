@@ -15,12 +15,12 @@ const seriesDir = path.join(webAppDir, "series");
 const otherComics = [
   {
     title: "Planet-Man Comics",
-    url: "https://jetblackrlsh.github.io/Planet-Man-Comics/web-app/",
+    url: "https://planet-man.randomcomics.art/",
     description: "Superhero comic adventures and series releases.",
   },
   {
     title: "Dream Comics",
-    url: "https://jetblackrlsh.github.io/Dream-Comics/",
+    url: "https://dreamcomics.randomcomics.art/",
     description: "Dream-inspired comics and surreal story experiments.",
   },
 ];
