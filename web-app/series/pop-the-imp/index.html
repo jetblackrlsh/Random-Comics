@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="../../">
+    <!-- APP_META_START -->
+    <title>Pop The Imp | Random Comics</title>
+    <meta name="description" content="A lonely hyperreal imp escapes his empty home by leaping into books that contain entire worlds, recruiting reluctant partners for absurd action adventures he refuses to solve the...">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://jetblackrlsh.github.io/Random-Comics/web-app/series/pop-the-imp/">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Random Comics">
+    <meta property="og:title" content="Pop The Imp | Random Comics">
+    <meta property="og:description" content="A lonely hyperreal imp escapes his empty home by leaping into books that contain entire worlds, recruiting reluctant partners for absurd action adventures he refuses to solve the...">
+    <meta property="og:url" content="https://jetblackrlsh.github.io/Random-Comics/web-app/series/pop-the-imp/">
+    <meta property="og:image" content="https://jetblackrlsh.github.io/Random-Comics/web-app/assets/site-background.png">
+    <meta property="og:image:alt" content="Pop The Imp | Random Comics cover art">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Pop The Imp | Random Comics">
+    <meta name="twitter:description" content="A lonely hyperreal imp escapes his empty home by leaping into books that contain entire worlds, recruiting reluctant partners for absurd action adventures he refuses to solve the...">
+    <meta name="twitter:image" content="https://jetblackrlsh.github.io/Random-Comics/web-app/assets/site-background.png">
+    <meta name="twitter:image:alt" content="Pop The Imp | Random Comics cover art">
+    <link rel="alternate" type="application/rss+xml" title="Random Comics RSS Feed" href="https://jetblackrlsh.github.io/Random-Comics/web-app/rss.xml">
+    <!-- APP_META_END -->
+    <!-- STRUCTURED_DATA_START -->
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"CreativeWorkSeries","name":"Pop The Imp","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/series/pop-the-imp/","description":"A lonely hyperreal imp escapes his empty home by leaping into books that contain entire worlds, recruiting reluctant partners for absurd action adventures he refuses to solve the easy way.","hasPart":[{"@type":"ComicIssue","name":"The Spinach Sailor Rescue","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/comics/pop-the-imp-issue-01/","issueNumber":1,"position":1,"datePublished":"2026-05-21","image":"https://jetblackrlsh.github.io/Random-Comics/series/pop-the-imp/issues/issue-01/assets/comic-pages/page-01-cover.png"}],"isPartOf":{"@type":"WebSite","name":"Random Comics","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/"}}</script>
+    <!-- STRUCTURED_DATA_END -->
+    <link rel="preload" href="assets/site-background.png" as="image">
+    <link rel="icon" href="assets/random-comics-logo.png">
+    <link rel="sitemap" type="application/xml" href="sitemap.xml">
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body data-initial-route="series:pop-the-imp">
+    <div class="background-art" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="brand" href="./" data-route="home" aria-label="Random Comics home">
+        <img src="assets/random-comics-logo.png" alt="Random Comics">
+      </a>
+      <nav class="top-nav" aria-label="Primary navigation">
+        <a href="./" data-route="home">Read</a>
+        <a href="about/" data-route="about">About</a>
+        <a class="follow-link" href="follow/" data-route="follow">Follow</a>
+        <a href="other-comics/" data-route="other-comics">Other Comics</a>
+        <a class="review-link" href="https://docs.google.com/forms/d/e/1FAIpQLSftkXOkOSMjwOXjS4pFpF81lE4lF02NcWHECy4tesJy9V-9Dg/viewform?usp=publish-editor" target="_blank" rel="noopener">Review</a>
+        <a class="support-link" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="reader-layout" id="readerView">
+        <aside class="control-panel" aria-label="Comic controls">
+          <div class="intro-copy">
+            <h1>Random Comics</h1>
+            <p>Browse standalone stories and series issues, read vertically, share a favorite issue, or download it for later.</p>
+          </div>
+
+          <a class="follow-cta" href="follow/" data-route="follow">Follow for updates</a>
+
+          <label class="search-wrap" for="comicSearch">
+            <span>Search by title, date, or series</span>
+            <input id="comicSearch" type="search" autocomplete="off" placeholder="Try 2026, Deca-Form, or a series">
+          </label>
+
+          <div class="jump-actions" aria-label="Jump to comic">
+            <button type="button" id="earliestButton">Earliest</button>
+            <button type="button" id="latestButton">Latest</button>
+          </div>
+
+          <div class="comic-list" id="comicList" aria-label="Comics"></div>
+        </aside>
+
+        <article class="reader-panel" aria-live="polite">
+          <div class="reader-toolbar">
+            <div>
+              <p class="publish-date" id="comicDate"></p>
+              <h2 id="comicTitle">Loading comics...</h2>
+            </div>
+            <div class="reader-actions" aria-label="Selected comic actions">
+              <button class="icon-button reader-mode-button" type="button" id="readerModeButton" aria-pressed="false">Reader Mode</button>
+              <a class="icon-button" id="downloadButton" href="#" download>Download</a>
+              <button class="icon-button" type="button" id="shareButton">Share</button>
+              <a class="icon-button review" href="https://docs.google.com/forms/d/e/1FAIpQLSftkXOkOSMjwOXjS4pFpF81lE4lF02NcWHECy4tesJy9V-9Dg/viewform?usp=publish-editor" target="_blank" rel="noopener">Review</a>
+              <a class="icon-button support" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+            </div>
+          </div>
+          <p class="comic-summary" id="comicSummary"></p>
+          <div class="page-strip" id="pageStrip"></div>
+        </article>
+      </section>
+
+      <section class="about-view" id="aboutView" hidden>
+        <div class="about-copy">
+          <h1>About Random Comics</h1>
+          <p>Random Comics is a home for standalone one-shots, strange experiments, and comic series that grow beyond a single issue.</p>
+          <p>Some comics are based on dreams. Some come from sudden shower thoughts, weird news, superhero concepts, game-inspired ideas, or random sparks of imagination that demanded to become something real. Some ideas only need one finished comic. Others may build into recurring characters, settings, and issue-to-issue continuity.</p>
+          <p>The comics collected here may vary in tone, style, length, format, and genre. You might find superhero action, sci-fi weirdness, dream logic, horror, comedy, mythic strangeness, standalone stories, or the beginning of a larger series.</p>
+          <p>Think of this as a creative sketchbook turned into a comic archive: a place where spontaneous ideas can become finished stories, whether they stand alone or keep expanding.</p>
+          <p>Not every comic needs a universe.</p>
+          <p>But when a strange little story grows into one, Random Comics has room for that too.</p>
+        </div>
+      </section>
+
+      <section class="follow-view" id="followView" hidden>
+        <div class="follow-copy">
+          <h1>Follow Random Comics</h1>
+          <p>Get new comic releases by email when the archive updates.</p>
+          <div class="followit--follow-form-container" attr-a attr-b attr-c attr-d attr-e attr-f>
+            <form action="https://api.follow.it/subscription-form/aGlRcUxKVXNNVCtnVTVNbnNwaERaczZ4WFQ4Um1GdFY2cm9wSmhKSGhKdi9MUE1TWk9VU3k2U3N0TnRZUkhkY3JtUG1jUk5aUzJBUUtQUFFValBaOHlsT3AwRlQ2MGplWGJ2d0g5aEhhR045eGFVZCt1MExpYllSWlRvYW5FRXV8RWF4OWhNaXY2WTRJZHQ1UzY4aGJmYlU2a1QrVkRDT2xWekVVNytaQTJoVT0=/8" method="post">
+              <div class="form-preview">
+                <div class="preview-heading">
+                  <h5>Get new comics by email</h5>
+                </div>
+                <div class="preview-input-field">
+                  <input type="email" name="email" required placeholder="Enter your email" spellcheck="false">
+                </div>
+                <div class="preview-submit-button">
+                  <button type="submit">Subscribe</button>
+                </div>
+              </div>
+            </form>
+            <a href="https://follow.it" class="powered-by-line">Powered by <img src="https://follow.it/images/colored-logo.svg" alt="follow.it" height="17"></a>
+          </div>
+        </div>
+      </section>
+
+      <section class="other-comics-view" id="otherComicsView" hidden>
+        <div class="other-comics-copy">
+          <h1>Other Comics</h1>
+          <p>Read more comic projects from Nicholas Benson.</p>
+          <div class="other-comics-grid" aria-label="Other comics">
+            <a class="comic-site-card" href="https://planet-man.randomcomics.art/" target="_blank" rel="noopener">
+              <span>Planet-Man Comics</span>
+              <small>Superhero comic adventures and series releases.</small>
+            </a>
+            <a class="comic-site-card" href="https://dreamcomics.randomcomics.art/" target="_blank" rel="noopener">
+              <span>Dream Comics</span>
+              <small>Dream-inspired comics and surreal story experiments.</small>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <!-- SEO_CONTENT_START -->
+      <section class="seo-content" aria-label="Pop The Imp series details">
+        <h2>Pop The Imp</h2>
+        <p>A lonely hyperreal imp escapes his empty home by leaping into books that contain entire worlds, recruiting reluctant partners for absurd action adventures he refuses to solve the easy way.</p>
+        <h3>Characters</h3><p>Character Descriptions Character: Pop The Imp - First appears: Issue 1, &quot;The Spinach Sailor Rescue&quot; - Role: protagonist, hyperreal adventurer, lonely reality editor - Visual identifiers: short potbellied purple imp with a diamond-shaped head, small dark horns, pointed ears, wide bright eyes, huge sharp grin, thin expressive tail, clawed hands and feet, rubbery cartoonish proportions rendered with photoreal skin texture, and neon green shorts. - Continuity notes: Pop is more real than the worlds he enters. He can reshape reality, transform his body, alter objects, teleport, and jump between fiction and hyperreality, but he refuses boring obvious solutions and needs inspiration for his powers to fire creatively. - Reference image: ../reference-images/pop-the-imp-character.png Character: Spinach Sailor - First appears: Issue 1, &quot;The Spinach Sailor Rescue&quot; - Role: temporary adventure partner, sailor hero of the Spinach Sailor world - Visual identifiers: wiry middle-aged sailor with weathered tan skin, squinting eyes, anchor tattoos on both forearms, a battered navy pea coat over a striped shirt, white sailor cap, black boots, stubbled jaw, and comically swollen forearms. After eating spinach, his whole body inflates into a muscle-bound superhuman while keeping the same outfit and cap. - Continuity notes: Spinach Sailor's strength depends on cans of spinach and fades fast. He is protective, stubborn, suspicious of magical creatures, and devoted to his red-haired girlfriend. - Reference image: None; introduced as an issue-specific partner. Character: Curly Red-Haired Girlfriend - First appears: Issue 1, &quot;The Spinach Sailor Rescue&quot; - Role: captured civilian, Spinach Sailor's girlfriend - Visual identifiers: beautiful adult woman with long curly red hair, fair skin, green eyes, blue vintage coastal dress, practical flats, and expressive defiance even while trapped. - Continuity notes: She is kidnapped by the witch's giant crow and held as leverage, then rescued when Spinach Sailor bends open the cage. - Reference image: None; introduced as issue-specific supporting cast. Character: Cave Witch - First appears: Issue 1, &quot;The Spinach Sailor Rescue&quot; - Role: antagonist of the Spinach Sailor world - Visual identifiers: elderly villainous witch with sharp cheekbones, gray tangled hair, black sea-cave cloak, crooked walking staff, shell jewelry, and a cruel triumphant smile. - Continuity notes: She uses a giant crow as a familiar and tries to force Spinach Sailor to marry her by threatening his girlfriend. - Reference image: None; introduced as issue-specific antagonist.</p>
+        <h3>Settings</h3><p>Setting Descriptions Setting: Hyperreality Library - First appears: Issue 1, &quot;The Spinach Sailor Rescue&quot; - Visual identifiers: infinite white-and-black nonspace with impossible perspective, floating wooden bookshelves, books arranged in spirals and vertical rivers, clean empty floors that reflect nothing correctly, and portals of paper light opening in midair. - Continuity notes: Pop uses this lonely library to browse worlds and choose each adventure. The books are not symbolic to him; they are physical entrances into realities and stories. - Reference image: ../reference-images/hyperreality-library-setting.png Setting: Spinach Sailor Harbor World - First appears: Issue 1, &quot;The Spinach Sailor Rescue&quot; - Visual identifiers: mundane old-fashioned coastal harbor with wooden docks, gray-blue water, fishing shacks, rope coils, gulls, weathered boats, and a rocky cliff line that hides the witch's cave. - Continuity notes: Pop initially finds this world too ordinary, then discovers its adventure when a giant crow abducts the red-haired girlfriend. - Reference image: None; introduced as issue-specific adventure location. Setting: Witch's Sea Cave - First appears: Issue 1, &quot;The Spinach Sailor Rescue&quot; - Visual identifiers: jagged cave mouth in black coastal rock, slick tide pools, iron cage beside the entrance, driftwood charms, crow feathers, greenish cave glow, and crashing surf below. - Continuity notes: The witch uses the cave as her lair and bargaining stage. It is reached by Pop and Spinach Sailor after a speed-boat chase. - Reference image: None; introduced as issue-specific adventure location.</p>
+        <h3>Key Items</h3><p>Key Item Descriptions Key Item: World-Books - First appears: Issue 1, &quot;The Spinach Sailor Rescue&quot; - Visual identifiers: old hardbound books with luminous page edges, covers that show shifting scenes from their contained worlds, impossible depth inside the pages, and colored light spilling from the paper. - Continuity notes: Each world-book contains a complete world or story. Pop can open one and physically hop inside, treating the book as both map and doorway. - Reference image: ../reference-images/world-books-key-item.png Key Item: Spinach Cans - First appears: Issue 1, &quot;The Spinach Sailor Rescue&quot; - Visual identifiers: small green metal cans of spinach, dented and sea-worn, carried in Spinach Sailor's coat pockets. - Continuity notes: Eating spinach temporarily transforms Spinach Sailor into a muscle-bound superhuman. In Issue 1, Pop improvises by becoming a giant can of hyperreality spinach after the normal cans run out. - Reference image: None; introduced as issue-specific item.</p>
+        <h3>Issue Summaries</h3><p>Issue Summaries Issue 1: The Spinach Sailor Rescue - Folder: series/pop-the-imp/issues/issue-01/ - Logline: Pop The Imp enters a seemingly mundane sailor story and teams with Spinach Sailor to rescue a kidnapped red-haired woman from a witch and her giant crow. - Plot summary: Bored in hyperreality, Pop chooses the world-book called &quot;Spinach Sailor&quot; and nearly leaves when the harbor seems dull. A cry for help leads him to a giant crow abducting Spinach Sailor's girlfriend. Pop distracts Spinach Sailor while asking for a buddy adventure, causing the crow to escape. After Spinach Sailor's spinach strength wears off mid-leap, Pop rescues him from the water, transforms into a speed boat, and carries him to the witch's cave. When Spinach Sailor runs out of spinach, Pop becomes a giant can of hyperreality spinach, empowering Spinach Sailor with cosmic muscles so he can bend open the cage while the witch flees. - Continuity changes: Pop's standard adventure pattern is established: boredom in hyperreality, choosing a world-book, finding trouble, recruiting a reluctant partner, avoiding the easy omnipotent fix, and using an inspired transformation that complements the partner. - New characters: Pop The Imp, Spinach Sailor, Curly Red-Haired Girlfriend, Cave Witch. - New settings: Hyperreality Library, Spinach Sailor Harbor World, Witch's Sea Cave. - New key items: World-Books, Spinach Cans. - Reference images added: pop-the-imp-character.png , hyperreality-library-setting.png , world-books-key-item.png .</p>
+        <h3>Issues</h3>
+        <ul>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/pop-the-imp-issue-01/">The Spinach Sailor Rescue</a> <span>2026-05-21 · 8 pages · Issue #1 of Pop The Imp</span></li>
+        </ul>
+      </section>
+      <!-- SEO_CONTENT_END -->
+    </main>
+  </body>
+</html>
