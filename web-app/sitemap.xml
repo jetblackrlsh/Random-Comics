@@ -16,6 +16,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://jetblackrlsh.github.io/Random-Comics/web-app/other-comics/</loc>
+    <lastmod>2026-05-20</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://jetblackrlsh.github.io/Random-Comics/web-app/series/divine-repo/</loc>
     <lastmod>2026-05-20</lastmod>
     <priority>0.8</priority>

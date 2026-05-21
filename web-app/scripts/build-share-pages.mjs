@@ -9,7 +9,21 @@ const template = readFileSync(path.join(webAppDir, "index.html"), "utf8");
 const comicsDir = path.join(webAppDir, "comics");
 const aboutDir = path.join(webAppDir, "about");
 const followDir = path.join(webAppDir, "follow");
+const otherComicsDir = path.join(webAppDir, "other-comics");
 const seriesDir = path.join(webAppDir, "series");
+
+const otherComics = [
+  {
+    title: "Planet-Man Comics",
+    url: "https://jetblackrlsh.github.io/Planet-Man-Comics/web-app/",
+    description: "Superhero comic adventures and series releases.",
+  },
+  {
+    title: "Dream Comics",
+    url: "https://jetblackrlsh.github.io/Dream-Comics/",
+    description: "Dream-inspired comics and surreal story experiments.",
+  },
+];
 
 function escapeHtml(value) {
   return String(value ?? "")
@@ -165,6 +179,18 @@ function followSeoContent() {
       </section>`;
 }
 
+function otherComicsSeoContent() {
+  return `<section class="seo-content" aria-label="Other comics">
+        <h2>Other Comics</h2>
+        <p>Read more comic projects from Nicholas Benson.</p>
+        <ul>
+          ${otherComics
+            .map((site) => `<li><a href="${escapeHtml(site.url)}">${escapeHtml(site.title)}</a> <span>${escapeHtml(site.description)}</span></li>`)
+            .join("\n          ")}
+        </ul>
+      </section>`;
+}
+
 function comicSeoContent(comic) {
   const pdfLink = comic.pdf
     ? `<p><a href="${escapeHtml(absoluteAssetUrl(comic.pdf))}">Download ${escapeHtml(comic.title)} as a PDF</a></p>`
@@ -252,6 +278,31 @@ function followStructuredData() {
       "@type": "WebSite",
       name: catalog.site.title,
       url: `${catalog.site.baseUrl}/`,
+    },
+  });
+}
+
+function otherComicsStructuredData() {
+  return jsonLd({
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name: "Other Comics",
+    url: `${catalog.site.baseUrl}/other-comics/`,
+    description: "Links to other comic sites from Nicholas Benson, including Planet-Man Comics and Dream Comics.",
+    isPartOf: {
+      "@type": "WebSite",
+      name: catalog.site.title,
+      url: `${catalog.site.baseUrl}/`,
+    },
+    mainEntity: {
+      "@type": "ItemList",
+      itemListElement: otherComics.map((site, index) => ({
+        "@type": "ListItem",
+        position: index + 1,
+        name: site.title,
+        url: site.url,
+        description: site.description,
+      })),
     },
   });
 }
@@ -344,6 +395,7 @@ function sitemapXml() {
     { loc: `${catalog.site.baseUrl}/`, lastmod: latestDate, priority: "1.0" },
     { loc: `${catalog.site.baseUrl}/about/`, lastmod: latestDate, priority: "0.5" },
     { loc: `${catalog.site.baseUrl}/follow/`, lastmod: latestDate, priority: "0.6" },
+    { loc: `${catalog.site.baseUrl}/other-comics/`, lastmod: latestDate, priority: "0.5" },
     ...(catalog.series || []).map((series) => ({
       loc: `${catalog.site.baseUrl}/series/${series.slug}/`,
       lastmod: latestDate,
@@ -415,10 +467,12 @@ ${items
 
 rmSync(comicsDir, { recursive: true, force: true });
 rmSync(followDir, { recursive: true, force: true });
+rmSync(otherComicsDir, { recursive: true, force: true });
 rmSync(seriesDir, { recursive: true, force: true });
 mkdirSync(comicsDir, { recursive: true });
 mkdirSync(aboutDir, { recursive: true });
 mkdirSync(followDir, { recursive: true });
+mkdirSync(otherComicsDir, { recursive: true });
 mkdirSync(seriesDir, { recursive: true });
 
 const genericMeta = metaBlock({
@@ -479,6 +533,22 @@ writeFileSync(
     structuredData: followStructuredData(),
     seoContent: followSeoContent(),
     appRoute: "follow",
+  }),
+);
+
+writeFileSync(
+  path.join(otherComicsDir, "index.html"),
+  pageFromTemplate({
+    baseHref: "../",
+    meta: metaBlock({
+      title: "Other Comics | Random Comics",
+      description: "Links to other comic sites from Nicholas Benson, including Planet-Man Comics and Dream Comics.",
+      url: `${catalog.site.baseUrl}/other-comics/`,
+      image: `${catalog.site.baseUrl}/assets/site-background.png`,
+    }),
+    structuredData: otherComicsStructuredData(),
+    seoContent: otherComicsSeoContent(),
+    appRoute: "other-comics",
   }),
 );
 

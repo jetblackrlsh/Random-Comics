@@ -15,6 +15,7 @@ const els = {
   readerView: document.querySelector("#readerView"),
   aboutView: document.querySelector("#aboutView"),
   followView: document.querySelector("#followView"),
+  otherComicsView: document.querySelector("#otherComicsView"),
   comicList: document.querySelector("#comicList"),
   comicSearch: document.querySelector("#comicSearch"),
   earliestButton: document.querySelector("#earliestButton"),
@@ -53,6 +54,7 @@ function routeFromLocation() {
   if (initialRoute?.startsWith("series:")) return { view: "home", slug: null, seriesSlug: initialRoute.slice(7) };
   if (initialRoute === "about") return { view: "about", slug: null };
   if (initialRoute === "follow") return { view: "follow", slug: null };
+  if (initialRoute === "other-comics") return { view: "other-comics", slug: null };
 
   const path = window.location.pathname.replace(/\/+$/, "");
   const comicMatch = path.match(/\/comics\/([^/]+)$/);
@@ -61,6 +63,7 @@ function routeFromLocation() {
   if (seriesMatch) return { view: "home", slug: null, seriesSlug: decodeURIComponent(seriesMatch[1]) };
   if (/\/about$/.test(path)) return { view: "about", slug: null };
   if (/\/follow$/.test(path)) return { view: "follow", slug: null };
+  if (/\/other-comics$/.test(path)) return { view: "other-comics", slug: null };
 
   const params = new URLSearchParams(window.location.hash.replace(/^#/, ""));
   return { view: "home", slug: params.get("comic"), seriesSlug: params.get("series") };
@@ -71,7 +74,7 @@ function appRootPath() {
   const marker = "/web-app/";
   const markerIndex = path.indexOf(marker);
   if (markerIndex >= 0) return `${path.slice(0, markerIndex)}${marker}`;
-  return path.replace(/(?:(?:comics|series)\/[^/]+\/?|(?:about|follow)\/?)$/, "");
+  return path.replace(/(?:(?:comics|series)\/[^/]+\/?|(?:about|follow|other-comics)\/?)$/, "");
 }
 
 function comicUrl(comic) {
@@ -94,11 +97,17 @@ function followUrl() {
   return new URL("follow/", `${window.location.origin}${appRootPath()}`).href;
 }
 
+function otherComicsUrl() {
+  return new URL("other-comics/", `${window.location.origin}${appRootPath()}`).href;
+}
+
 function updateUrl({ replace = false } = {}) {
   if (!state.catalog) return;
   const comic = currentComic();
   const series = currentSeries();
-  const target = state.view === "follow"
+  const target = state.view === "other-comics"
+    ? otherComicsUrl()
+    : state.view === "follow"
     ? followUrl()
     : state.view === "about"
     ? aboutUrl()
@@ -243,22 +252,26 @@ function setReaderMode(enabled, { syncNativeFullscreen = true } = {}) {
 function renderView() {
   const isAbout = state.view === "about";
   const isFollow = state.view === "follow";
-  if (isAbout || isFollow) setReaderMode(false);
+  const isOtherComics = state.view === "other-comics";
+  if (isAbout || isFollow || isOtherComics) setReaderMode(false);
   els.aboutView.hidden = !isAbout;
   els.followView.hidden = !isFollow;
-  els.readerView.hidden = isAbout || isFollow;
+  els.otherComicsView.hidden = !isOtherComics;
+  els.readerView.hidden = isAbout || isFollow || isOtherComics;
   els.navLinks.forEach((link) => {
     const route = link.dataset.route;
-    link.classList.toggle("active", route === state.view || (!isAbout && !isFollow && route === "home"));
+    link.classList.toggle("active", route === state.view || (!isAbout && !isFollow && !isOtherComics && route === "home"));
   });
-  if (!isAbout && !isFollow) {
+  if (!isAbout && !isFollow && !isOtherComics) {
     renderList();
     renderReader();
     renderReaderMode();
   } else if (isAbout) {
     document.title = "About Random Comics";
-  } else {
+  } else if (isFollow) {
     document.title = "Follow Random Comics";
+  } else {
+    document.title = "Other Comics | Random Comics";
   }
 }
 
@@ -329,7 +342,7 @@ function bindEvents() {
     const routeLink = event.target.closest("[data-route]");
     if (!routeLink) return;
     event.preventDefault();
-    state.view = routeLink.dataset.route === "about" || routeLink.dataset.route === "follow"
+    state.view = routeLink.dataset.route === "about" || routeLink.dataset.route === "follow" || routeLink.dataset.route === "other-comics"
       ? routeLink.dataset.route
       : "home";
     state.query = "";
@@ -383,7 +396,7 @@ async function init() {
   state.hasSeriesRoute = Boolean(requestedSeriesSlug);
   bindEvents();
   renderView();
-  if (state.view !== "about" && state.view !== "follow" && (requestedSlug || requestedSeriesSlug)) updateUrl({ replace: true });
+  if (state.view !== "about" && state.view !== "follow" && state.view !== "other-comics" && (requestedSlug || requestedSeriesSlug)) updateUrl({ replace: true });
 }
 
 init().catch((error) => {
