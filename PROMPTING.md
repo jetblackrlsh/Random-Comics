@@ -9,7 +9,7 @@ What can you do in this Random Comics repo?
 ```
 
 ```text
-Give me prompt templates for [one-shot comics / series issues / adding pages / turning a one-shot into a series].
+Give me prompt templates for [one-shot comics / series shells / series issues / adding pages / turning a one-shot into a series].
 ```
 
 The agent should answer with copy-pasteable templates and a short explanation of when to use each one.
@@ -29,6 +29,14 @@ Create the next issue of [Series Name] from this premise: [premise]
 ```
 
 Use this for a comic that belongs to an existing series under `series/<series-folder>/`.
+
+## New Series Shell
+
+```text
+Create a new series shell called [Series Name]. Series premise: [series premise]
+```
+
+Use this when the series idea exists but issue #1 is not planned yet. The agent should create the series folder and source continuity files, but not create issue folders, comic pages, PDFs, or web-app comic entries.
 
 ## New Series And First Issue
 
@@ -86,4 +94,4 @@ How should I prompt you to continue an existing series?
 How should I prompt you to revise or expand an existing comic?
 ```
 
-The agent can help create standalone one-shots, create new series, make the next issue of an existing series, add pages to an existing comic, turn a one-shot into issue #1 of a new series, create required series reference images with `image_gen`, update continuity files, rebuild PDFs/previews, rebuild the static web app, and commit/push changes when asked.
+The agent can help create standalone one-shots, create planning-only series shells, create new series with first issues, make the next issue of an existing series, add pages to an existing comic, turn a one-shot into issue #1 of a new series, create required series reference images with `image_gen`, update continuity files, rebuild PDFs/previews, rebuild the static web app, and commit/push changes when asked.
