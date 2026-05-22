@@ -5,8 +5,15 @@
     <link>https://jetblackrlsh.github.io/Random-Comics/web-app/</link>
     <description>Standalone comics, strange experiments, one-shot adventures, spontaneous comic ideas, and future comic series.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://jetblackrlsh.github.io/Random-Comics/web-app/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Body of Fire</title>
+      <link>https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-action-comics-issue-01/</link>
+      <guid isPermaLink="true">https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-action-comics-issue-01/</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+      <description>Mister Titanic enters a collapsing burning building to save trapped survivors, only to discover that a fire elemental staged the disaster to bait a hero into battle. Issue #1 of Superhero Action Comics. 8 pages.</description>
+    </item>
     <item>
       <title>The Spinach Sailor Rescue</title>
       <link>https://jetblackrlsh.github.io/Random-Comics/web-app/comics/pop-the-imp-issue-01/</link>

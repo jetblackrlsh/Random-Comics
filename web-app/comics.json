@@ -474,6 +474,30 @@
       ]
     },
     {
+      "slug": "superhero-action-comics",
+      "title": "Superhero Action Comics",
+      "summary": "A superhero action-adventure anthology about worlds across the multiverse where heroes and villains fight the neverending battle between good and evil.",
+      "characterDescriptions": "Character Descriptions Character: Mister Titanic - First appears: Issue 1, \"Body of Fire\" - Role: protagonist, superhero rescuer. - Visual identifiers: Towering cyborg man built from riveted dark ocean-liner steel and brass, broad shoulders, heavy segmented metal boots, porthole-like glowing floodlight eyes, weathered captain's coat fragments integrated into armor, smoke stacks rising from his upper back, scorch marks and old saltwater patina, solemn heroic posture. - Continuity notes: Former captain of the Titanic who allowed himself to go down with the ship as penance, then was cybernetically revived and rebuilt using pieces of the ship. His mission is to save as many lives as were lost. His eyes can flare like search lights, and the smoke stacks on his back can reverse flow to draw smoke into his body or vent pressure smoke for rocket-like movement. - Reference image: ../reference-images/mister-titanic-character.png Character: The Fire Elemental - First appears: Issue 1, \"Body of Fire\" - Role: antagonist, supervillain. - Visual identifiers: Humanoid monster made of living flame, charcoal-black cracked body plates, furnace-bright orange core, ember eyes, jagged grin, flame plumes around shoulders and head, smoke trailing from limbs, predatory cackling expression. - Continuity notes: Stages deadly fires to lure heroes into traps. Escapes after collapsing the building around Mister Titanic, leaving open the possibility of a future return. - Reference image: ../reference-images/fire-elemental-character.png",
+      "settingDescriptions": "Setting Descriptions Setting: Burning Rescue Building - First appears: Issue 1, \"Body of Fire\" - Visual identifiers: Multi-story urban building consumed by smoke and interior fire, cracked walls, buckling floors, collapsing ceilings, emergency lights, broken glass, fire hoses outside, and a jagged impact hole punched through one wall. - Continuity notes: The fire elemental uses the building as bait. The structure fully collapses by the end of the issue. - Reference image: None. This is an issue-specific disaster site. Setting: Titanic Memory - First appears: Issue 1, \"Body of Fire\" - Visual identifiers: Cold black ocean, tilted ship decks, ice, lifeboats in the distance, freezing spray, brass and steel details, and a lonely captain choosing to remain aboard. - Continuity notes: This memory anchors Mister Titanic's guilt, penance, and mission. - Reference image: None. Use Mister Titanic's character reference for continuity.",
+      "keyItemDescriptions": "Key Item Descriptions Key Item: Mister Titanic's Smoke Stacks - First appears: Issue 1, \"Body of Fire\" - Visual identifiers: Two heavy ocean-liner smoke stacks mounted into Mister Titanic's upper back, riveted bases, soot-dark interiors, brass seams, heat discoloration, and pressure vents. - Continuity notes: The stacks can reverse to draw smoke out of a room and into Mister Titanic's body. They can also vent pressure smoke hard enough to launch him upward for short rocket-like movement. - Reference image: ../reference-images/mister-titanic-character.png Key Item: Mister Titanic's Floodlight Eyes - First appears: Issue 1, \"Body of Fire\" - Visual identifiers: Round porthole-like eyes set into Mister Titanic's metal face, capable of glowing as bright white search lights through smoke, dust, water, or darkness. - Continuity notes: The lights help him search for survivors and later guide firefighters to his buried position. - Reference image: ../reference-images/mister-titanic-character.png",
+      "issueSummaries": "Issue Summaries Issue 1: Body of Fire - Folder: series/superhero-action-comics/issues/issue-01/ - Logline: Mister Titanic enters a collapsing burning building to save trapped survivors, only to discover that a fire elemental staged the disaster to bait a hero into battle. - Plot summary: Mister Titanic crashes through the wall of a burning building and searches through thick smoke for survivors. When his floodlight eyes cannot pierce the haze, he reverses the smoke stacks on his back and draws smoke into his metal body, clearing the air so survivors can escape through the hole he made. He refuses a little girl's hug because his overheated metal body would burn her, then stays behind to confirm nobody is left inside. In a fireplace room, the flames rise into a humanoid fire elemental that tackles him and brags that the blaze was a trap for a hero. Mister Titanic vents pressure smoke from his back, rockets upward, and uppercuts the villain through the ceiling onto the roof. The building collapses as the fire elemental escapes, burying Mister Titanic under rubble. In the ember-dark, Mister Titanic remembers going down with the Titanic, being denied final rest, and being cybernetically rebuilt from his own ship to save as many lives as were lost. Facing death by fire after once facing death by ice, he refuses to go down. His flashing floodlight eyes guide firefighters to him, and they pull him from the wreckage. - Continuity changes: Superhero Action Comics establishes its anthology format, the realistic rescue-action visual language, Mister Titanic's origin, his floodlight eyes, his reversible smoke-stack system, and the escaped fire elemental as a future threat. - New characters: Mister Titanic; The Fire Elemental. - New settings: Burning rescue building; Titanic memory; urban disaster rooftop. - New key items: Mister Titanic's smoke stacks; Mister Titanic's floodlight eyes; Titanic steel cyborg body. - Reference images added: mister-titanic-character.png ; fire-elemental-character.png .",
+      "referenceImages": [
+        {
+          "path": "../series/superhero-action-comics/reference-images/fire-elemental-character.png",
+          "alt": "Superhero Action Comics reference image"
+        },
+        {
+          "path": "../series/superhero-action-comics/reference-images/mister-titanic-character.png",
+          "alt": "Superhero Action Comics reference image"
+        }
+      ],
+      "url": "series/superhero-action-comics/",
+      "issueCount": 1,
+      "issues": [
+        "superhero-action-comics-issue-01"
+      ]
+    },
+    {
       "slug": "the-three-hands",
       "title": "The Three Hands",
       "summary": "In a tropical island city inside the Storyverse, a redeemed king who once abused Lucid Light appoints three elite defenders to protect his people from Dark Light and the Anamorphis invaders hunting his power.",
@@ -2125,6 +2149,67 @@
       "issueNumber": 1,
       "issueLabel": "Issue #1 of Pop The Imp",
       "url": "comics/pop-the-imp-issue-01/"
+    },
+    {
+      "slug": "superhero-action-comics-issue-01",
+      "folder": "series/superhero-action-comics/issues/issue-01",
+      "title": "Body of Fire",
+      "publishedDate": "2026-05-22",
+      "summary": "Mister Titanic enters a collapsing burning building to save trapped survivors, only to discover that a fire elemental staged the disaster to bait a hero into battle.",
+      "cover": "../series/superhero-action-comics/issues/issue-01/assets/comic-pages/page-01-cover.png",
+      "pdf": "../series/superhero-action-comics/issues/issue-01/output/pdf/superhero-action-comics-issue-01-body-of-fire.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../series/superhero-action-comics/issues/issue-01/assets/comic-pages/page-01-cover.png",
+          "alt": "Body of Fire comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../series/superhero-action-comics/issues/issue-01/assets/comic-pages/page-02.png",
+          "alt": "Body of Fire comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../series/superhero-action-comics/issues/issue-01/assets/comic-pages/page-03.png",
+          "alt": "Body of Fire comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../series/superhero-action-comics/issues/issue-01/assets/comic-pages/page-04.png",
+          "alt": "Body of Fire comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../series/superhero-action-comics/issues/issue-01/assets/comic-pages/page-05.png",
+          "alt": "Body of Fire comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../series/superhero-action-comics/issues/issue-01/assets/comic-pages/page-06.png",
+          "alt": "Body of Fire comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../series/superhero-action-comics/issues/issue-01/assets/comic-pages/page-07.png",
+          "alt": "Body of Fire comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../series/superhero-action-comics/issues/issue-01/assets/comic-pages/page-08.png",
+          "alt": "Body of Fire comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "series": {
+        "slug": "superhero-action-comics",
+        "title": "Superhero Action Comics",
+        "summary": "A superhero action-adventure anthology about worlds across the multiverse where heroes and villains fight the neverending battle between good and evil.",
+        "url": "series/superhero-action-comics/"
+      },
+      "issueNumber": 1,
+      "issueLabel": "Issue #1 of Superhero Action Comics",
+      "url": "comics/superhero-action-comics-issue-01/"
     }
   ]
 }
