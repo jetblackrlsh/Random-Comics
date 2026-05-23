@@ -13,3 +13,17 @@
 - Visual identifiers: Round porthole-like eyes set into Mister Titanic's metal face, capable of glowing as bright white search lights through smoke, dust, water, or darkness.
 - Continuity notes: The lights help him search for survivors and later guide firefighters to his buried position.
 - Reference image: `../reference-images/mister-titanic-character.png`
+
+## Key Item: Hell Queen's Crystal Wristband
+
+- First appears: Issue #2, "Crystal Hell"
+- Visual identifiers: Wide black left wristband with infernal red seams, metal claw settings, and many small glowing faceted crystals attached like jewelry. Each crystal contains a tiny suspended silhouette of a captive hero, villain, or civilian.
+- Continuity notes: Hell Queen's crystallization beams shrink and confine people as magical stones, then she wears those stones on the wristband. The more crystals she wears, the stronger and more intoxicated she becomes. When Shapeshifter transforms from a disguised crystal into a holy symbol, the burn forces Hell Queen to rip off the band and shatter the crystals.
+- Reference image: `../reference-images/hell-queen-crystal-wristband-key-item.png`
+
+## Key Item: Cyber's Sonic Rifle
+
+- First appears: Issue #2, "Crystal Hell"
+- Visual identifiers: Chunky compact rifle with gray-blue casing, circular emitter rings, vibration fins, small diagnostic lights, and a braced shoulder stock sized for Cyber's tactical armor.
+- Continuity notes: Emits super vibrations strong enough to crack Hell Queen's magical crystals, but Cyber is crystallized before he can finish breaking them.
+- Reference image: `../reference-images/cyber-character.png`
