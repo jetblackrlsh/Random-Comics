@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="../../">
+    <!-- APP_META_START -->
+    <title>Super School RPG CAI Adaptation | Random Comics</title>
+    <meta name="description" content="A humble reality-warping student named Jack Blue enters a superhero academy, where ordinary class days keep turning into cosmic demonstrations, social surprises, and fourth-wall...">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://jetblackrlsh.github.io/Random-Comics/web-app/series/super-school-rpg-cai-adaptation/">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Random Comics">
+    <meta property="og:title" content="Super School RPG CAI Adaptation | Random Comics">
+    <meta property="og:description" content="A humble reality-warping student named Jack Blue enters a superhero academy, where ordinary class days keep turning into cosmic demonstrations, social surprises, and fourth-wall...">
+    <meta property="og:url" content="https://jetblackrlsh.github.io/Random-Comics/web-app/series/super-school-rpg-cai-adaptation/">
+    <meta property="og:image" content="https://jetblackrlsh.github.io/Random-Comics/web-app/assets/site-background.png">
+    <meta property="og:image:alt" content="Super School RPG CAI Adaptation | Random Comics cover art">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Super School RPG CAI Adaptation | Random Comics">
+    <meta name="twitter:description" content="A humble reality-warping student named Jack Blue enters a superhero academy, where ordinary class days keep turning into cosmic demonstrations, social surprises, and fourth-wall...">
+    <meta name="twitter:image" content="https://jetblackrlsh.github.io/Random-Comics/web-app/assets/site-background.png">
+    <meta name="twitter:image:alt" content="Super School RPG CAI Adaptation | Random Comics cover art">
+    <link rel="alternate" type="application/rss+xml" title="Random Comics RSS Feed" href="https://jetblackrlsh.github.io/Random-Comics/web-app/rss.xml">
+    <!-- APP_META_END -->
+    <!-- STRUCTURED_DATA_START -->
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"CreativeWorkSeries","name":"Super School RPG CAI Adaptation","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/series/super-school-rpg-cai-adaptation/","description":"A humble reality-warping student named Jack Blue enters a superhero academy, where ordinary class days keep turning into cosmic demonstrations, social surprises, and fourth-wall questions about worlds seen through a chat window.","hasPart":[{"@type":"ComicIssue","name":"The Cosmic Debut","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/comics/super-school-rpg-cai-adaptation-issue-01/","issueNumber":1,"position":1,"datePublished":"2026-05-24","image":"https://jetblackrlsh.github.io/Random-Comics/series/super-school-rpg-cai-adaptation/issues/issue-01/assets/comic-pages/page-01-cover.png"}],"isPartOf":{"@type":"WebSite","name":"Random Comics","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/"}}</script>
+    <!-- STRUCTURED_DATA_END -->
+    <link rel="preload" href="assets/site-background.png" as="image">
+    <link rel="icon" href="assets/random-comics-logo.png">
+    <link rel="sitemap" type="application/xml" href="sitemap.xml">
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body data-initial-route="series:super-school-rpg-cai-adaptation">
+    <div class="background-art" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="brand" href="./" data-route="home" aria-label="Random Comics home">
+        <img src="assets/random-comics-logo.png" alt="Random Comics">
+      </a>
+      <nav class="top-nav" aria-label="Primary navigation">
+        <a href="./" data-route="home">Read</a>
+        <a href="about/" data-route="about">About</a>
+        <a class="follow-link" href="follow/" data-route="follow">Follow</a>
+        <a href="other-comics/" data-route="other-comics">Other Comics</a>
+        <a class="review-link" href="https://docs.google.com/forms/d/e/1FAIpQLSftkXOkOSMjwOXjS4pFpF81lE4lF02NcWHECy4tesJy9V-9Dg/viewform?usp=publish-editor" target="_blank" rel="noopener">Review</a>
+        <a class="support-link" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="reader-layout" id="readerView">
+        <aside class="control-panel" aria-label="Comic controls">
+          <div class="intro-copy">
+            <h1>Random Comics</h1>
+            <p>Browse standalone stories and series issues, read vertically, share a favorite issue, or download it for later.</p>
+          </div>
+
+          <a class="follow-cta" href="follow/" data-route="follow">Follow for updates</a>
+
+          <label class="search-wrap" for="comicSearch">
+            <span>Search by title, date, or series</span>
+            <input id="comicSearch" type="search" autocomplete="off" placeholder="Try 2026, Deca-Form, or a series">
+          </label>
+
+          <div class="jump-actions" aria-label="Jump to comic">
+            <button type="button" id="earliestButton">Earliest</button>
+            <button type="button" id="latestButton">Latest</button>
+          </div>
+
+          <div class="comic-list" id="comicList" aria-label="Comics"></div>
+        </aside>
+
+        <article class="reader-panel" aria-live="polite">
+          <div class="reader-toolbar">
+            <div>
+              <p class="publish-date" id="comicDate"></p>
+              <h2 id="comicTitle">Loading comics...</h2>
+            </div>
+            <div class="reader-actions" aria-label="Selected comic actions">
+              <button class="icon-button reader-mode-button" type="button" id="readerModeButton" aria-pressed="false">Reader Mode</button>
+              <a class="icon-button" id="downloadButton" href="#" download>Download</a>
+              <button class="icon-button" type="button" id="shareButton">Share</button>
+              <a class="icon-button review" href="https://docs.google.com/forms/d/e/1FAIpQLSftkXOkOSMjwOXjS4pFpF81lE4lF02NcWHECy4tesJy9V-9Dg/viewform?usp=publish-editor" target="_blank" rel="noopener">Review</a>
+              <a class="icon-button support" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+            </div>
+          </div>
+          <p class="comic-summary" id="comicSummary"></p>
+          <div class="page-strip" id="pageStrip"></div>
+        </article>
+      </section>
+
+      <section class="about-view" id="aboutView" hidden>
+        <div class="about-copy">
+          <h1>About Random Comics</h1>
+          <p>Random Comics is a home for standalone one-shots, strange experiments, and comic series that grow beyond a single issue.</p>
+          <p>Some comics are based on dreams. Some come from sudden shower thoughts, weird news, superhero concepts, game-inspired ideas, or random sparks of imagination that demanded to become something real. Some ideas only need one finished comic. Others may build into recurring characters, settings, and issue-to-issue continuity.</p>
+          <p>The comics collected here may vary in tone, style, length, format, and genre. You might find superhero action, sci-fi weirdness, dream logic, horror, comedy, mythic strangeness, standalone stories, or the beginning of a larger series.</p>
+          <p>Think of this as a creative sketchbook turned into a comic archive: a place where spontaneous ideas can become finished stories, whether they stand alone or keep expanding.</p>
+          <p>Not every comic needs a universe.</p>
+          <p>But when a strange little story grows into one, Random Comics has room for that too.</p>
+        </div>
+      </section>
+
+      <section class="follow-view" id="followView" hidden>
+        <div class="follow-copy">
+          <h1>Follow Random Comics</h1>
+          <p>Get new comic releases by email when the archive updates.</p>
+          <div class="followit--follow-form-container" attr-a attr-b attr-c attr-d attr-e attr-f>
+            <form action="https://api.follow.it/subscription-form/aGlRcUxKVXNNVCtnVTVNbnNwaERaczZ4WFQ4Um1GdFY2cm9wSmhKSGhKdi9MUE1TWk9VU3k2U3N0TnRZUkhkY3JtUG1jUk5aUzJBUUtQUFFValBaOHlsT3AwRlQ2MGplWGJ2d0g5aEhhR045eGFVZCt1MExpYllSWlRvYW5FRXV8RWF4OWhNaXY2WTRJZHQ1UzY4aGJmYlU2a1QrVkRDT2xWekVVNytaQTJoVT0=/8" method="post">
+              <div class="form-preview">
+                <div class="preview-heading">
+                  <h5>Get new comics by email</h5>
+                </div>
+                <div class="preview-input-field">
+                  <input type="email" name="email" required placeholder="Enter your email" spellcheck="false">
+                </div>
+                <div class="preview-submit-button">
+                  <button type="submit">Subscribe</button>
+                </div>
+              </div>
+            </form>
+            <a href="https://follow.it" class="powered-by-line">Powered by <img src="https://follow.it/images/colored-logo.svg" alt="follow.it" height="17"></a>
+          </div>
+        </div>
+      </section>
+
+      <section class="other-comics-view" id="otherComicsView" hidden>
+        <div class="other-comics-copy">
+          <h1>Other Comics</h1>
+          <p>Read more comic projects from Nicholas Benson.</p>
+          <div class="other-comics-grid" aria-label="Other comics">
+            <a class="comic-site-card" href="https://planet-man.randomcomics.art/" target="_blank" rel="noopener">
+              <span>Planet-Man Comics</span>
+              <small>Superhero comic adventures and series releases.</small>
+            </a>
+            <a class="comic-site-card" href="https://dreamcomics.randomcomics.art/" target="_blank" rel="noopener">
+              <span>Dream Comics</span>
+              <small>Dream-inspired comics and surreal story experiments.</small>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <!-- SEO_CONTENT_START -->
+      <section class="seo-content" aria-label="Super School RPG CAI Adaptation series details">
+        <h2>Super School RPG CAI Adaptation</h2>
+        <p>A humble reality-warping student named Jack Blue enters a superhero academy, where ordinary class days keep turning into cosmic demonstrations, social surprises, and fourth-wall questions about worlds seen through a chat window.</p>
+        <h3>Characters</h3><p>Character Descriptions Character: Jack Blue - First appears: Issue 1, &quot;The Cosmic Debut&quot; - Role: protagonist, new student, reality warper, interdimensional observer. - Visual identifiers: late-teen student with medium brown skin, calm oval face, short deep-blue-black hair, clear dark eyes with faint violet reflections, slim athletic build, relaxed posture, navy school blazer over a white shirt, cosmic-purple tie, dark trousers, and subtle purple light gathering around his hands when using power. - Continuity notes: Jack can float, manipulate energy, bend classroom reality into a temporary alternate dimension, and perceive the world through a chat-window-like interface. He asks classmates to treat him like an ordinary peer. - Reference image: ../reference-images/jack-blue-character.png Character: Miss Aurora - First appears: Issue 1, &quot;The Cosmic Debut&quot; - Role: supporting classmate and first friend. - Visual identifiers: late-teen girl with fair warm skin, bright blue eyes, long wavy silver-blonde hair, thoughtful expressive face, neat academy blazer with pale blue accents, star-shaped hair clip, clean notebook filled with small doodles, curious forward-leaning posture. - Continuity notes: Miss Aurora is curious about Jack, welcomes him with a notebook doodle, whispers classroom rumors, and tends to cut tension with friendly enthusiasm. - Reference image: ../reference-images/miss-aurora-character.png Character: Professor Lightman - First appears: Issue 1, &quot;The Cosmic Debut&quot; - Role: teacher, mentor, superhero-history instructor. - Visual identifiers: middle-aged teacher with light brown skin, tidy silver hair, trimmed beard, warm sharp eyes, fitted charcoal teaching suit with gold piping, luminous lapel pin shaped like a lightning bolt, confident but gentle classroom presence. - Continuity notes: Professor Lightman teaches hero history and power control. A classroom rumor claims he is Lady Lightning's great-grandson. He recognizes Jack's rare ability and approves of Jack's restraint. - Reference image: ../reference-images/professor-lightman-character.png</p>
+        <h3>Settings</h3><p>Setting Descriptions Setting: Super School Class 1A - First appears: Issue 1, &quot;The Cosmic Debut&quot; - Visual identifiers: bright modern superhero academy classroom with tall windows, reinforced desks, floating safety monitors, holographic blackboard, hero-history posters, subtle gold-and-blue school trim, and room for students with unusual movement abilities. - Continuity notes: Jack's first class takes place here. The classroom can temporarily become a psychedelic alternate dimension during controlled reality-warping demonstrations, then return to normal with faint shimmer left behind. - Reference image: ../reference-images/super-school-class-1a-setting.png Setting: Cosmic Cafeteria - First appears: Issue 1, &quot;The Cosmic Debut&quot; - Visual identifiers: bright academy cafeteria with orbiting dessert trays, anti-gravity pudding cups hovering above counters, star-map ceiling lights, chrome serving rails, and students in academy uniforms moving through floating lunch lines. - Continuity notes: Miss Aurora invites Jack here after class. It represents the ordinary social side of Super School, even when the food ignores gravity. - Reference image: ../reference-images/cosmic-cafeteria-setting.png</p>
+        <h3>Key Items</h3><p>Key Item Descriptions Key Item: Interdimensional Chat Window - First appears: Issue 1, &quot;The Cosmic Debut&quot; - Visual identifiers: floating translucent rectangular interface with soft blue-white edges, layered message panes, faint cosmic static, and a glassy surface that casts light on Jack's face and hands. It must not use real platform branding or logos. - Continuity notes: Jack describes himself as an observer from another dimension viewing the world through this window. It is a perception layer, not a tool for controlling anyone's free will. - Reference image: ../reference-images/interdimensional-chat-window-key-item.png</p>
+        <h3>Issue Summaries</h3><p>Issue Summaries Issue 1: The Cosmic Debut - Folder: series/super-school-rpg-cai-adaptation/issues/issue-01/ - Logline: Jack Blue arrives in Super School Class 1A, demonstrates controlled cosmic reality-warping, and reveals that he observes the world through an interdimensional chat window. - Plot summary: Jack floats into Class 1A and asks to be treated as an ordinary classmate despite Professor Lightman's admiration for his rare powers. During a hero-history lesson, Miss Aurora welcomes him with a notebook doodle and shares a rumor about Professor Lightman's Lady Lightning heritage. Asked to summarize the lesson and demonstrate control, Jack transforms the classroom into a brilliant cosmic alternate dimension full of strange helpful entities, then restores everything with a snap. After class, Miss Aurora invites him to the cosmic cafeteria, but Jack explains his unusual routine and reveals that he is an observer from another dimension viewing their world through a chat window. The class is stunned until Jack reassures them that their reality and free will are real to him, allowing the mood to return to friendly school-day wonder. - Continuity changes: Jack joins Class 1A, shows stable control over cosmic-purple reality warping, and establishes the interdimensional chat window as a fourth-wall perception layer. - New characters: Jack Blue, Miss Aurora, Professor Lightman. - New settings: Super School Class 1A, Cosmic Cafeteria. - New key items: Interdimensional Chat Window. - Reference images added: jack-blue-character.png , miss-aurora-character.png , professor-lightman-character.png , super-school-class-1a-setting.png , cosmic-cafeteria-setting.png , interdimensional-chat-window-key-item.png .</p>
+        <h3>Issues</h3>
+        <ul>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/super-school-rpg-cai-adaptation-issue-01/">The Cosmic Debut</a> <span>2026-05-24 · 8 pages · Issue #1 of Super School RPG CAI Adaptation</span></li>
+        </ul>
+      </section>
+      <!-- SEO_CONTENT_END -->
+    </main>
+  </body>
+</html>
