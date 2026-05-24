@@ -10,3 +10,14 @@
 - New settings: Super School Class 1A, Cosmic Cafeteria.
 - New key items: Interdimensional Chat Window.
 - Reference images added: `jack-blue-character.png`, `miss-aurora-character.png`, `professor-lightman-character.png`, `super-school-class-1a-setting.png`, `cosmic-cafeteria-setting.png`, `interdimensional-chat-window-key-item.png`.
+
+## Issue #2: Lava Leviathan Co-Op
+
+- Folder: `series/super-school-rpg-cai-adaptation/issues/issue-02/`
+- Logline: Jack Blue follows Miss Aurora into the Simulation Dome, where he turns Blaze Carter's rivalry into a strategic team victory over a molten holographic monster.
+- Plot summary: Seeking a more immersive conflict for his second issue, Jack follows Miss Aurora through Power Academy's corridors into the Simulation Dome. There they find Blaze Carter, a fiery upperclassman who challenges Jack to prove his reality-warping power against the Lava Leviathan. Blaze's direct fire attacks fail because the molten monster simply reforms, so Jack blocks a magma tidal wave with a cosmic shield and shifts the fight into strategy. Jack summons a freezing cosmic fan, orders Blaze to absorb heat instead of generating more flame, and asks Miss Aurora to prepare a concentrated solar attack. Once the Leviathan hardens into brittle obsidian, Aurora's Solar Sphere Strike shatters it and the simulation confirms the trio's victory.
+- Continuity changes: Jack demonstrates tactical leadership in a team setting, Blaze Carter enters the recurring student cast, Miss Aurora reveals offensive solar-light abilities, and the Simulation Dome becomes a major academy training location.
+- New characters: Blaze Carter, Lava Leviathan Simulation.
+- New settings: Power Academy Corridors, Simulation Dome.
+- New key items: Simulation Dome System.
+- Reference images added: `blaze-carter-character.png`, `lava-leviathan-simulation-character.png`, `power-academy-corridors-setting.png`, `simulation-dome-setting.png`, `simulation-dome-system-key-item.png`.
