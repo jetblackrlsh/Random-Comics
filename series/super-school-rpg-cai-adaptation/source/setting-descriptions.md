@@ -27,3 +27,17 @@
 - Visual identifiers: massive high-tech circular arena with heavy metallic doors, holographic projectors, glowing pixelated disaster grids, reinforced observation rails, modular floor plates, energy emitters in the ceiling, and simulated hazards flickering in and out of existence.
 - Continuity notes: The Simulation Dome creates co-op training conflicts for students. Its disaster programs can generate monsters, minions, lava waves, victory chimes, and harmless shard dispersals.
 - Reference image: `../reference-images/simulation-dome-setting.png`
+
+## Setting: Power Academy Teleportation Chamber
+
+- First appears: Issue #3, "Shadowgarde Field Trip"
+- Visual identifiers: circular academy teleport room with polished dark floor, glowing blue transport rings, tall vertical light pylons, safety rails, mission-status panels, reinforced doors, and a ceiling aperture that releases blue-white transit light.
+- Continuity notes: The Reality Breakers use this chamber to begin their first real Field Trip mission outside Power Academy.
+- Reference image: `../reference-images/power-academy-teleportation-chamber-setting.png`
+
+## Setting: Shadowgarde City
+
+- First appears: Issue #3, "Shadowgarde Field Trip"
+- Visual identifiers: towering city of obsidian-black skyscrapers, narrow elevated streets, dark sister-academy architecture, violet stormlight, gravity-distorted air, floating debris, cracked pavement platforms, and anxious civilians trying to keep footing on unstable ground.
+- Continuity notes: Shadowgarde City surrounds Power Academy's dark sister academy. Issue #3 begins the Reality Breakers' first real mission there during a gravity-power crisis.
+- Reference image: `../reference-images/shadowgarde-city-setting.png`

@@ -21,3 +21,14 @@
 - New settings: Power Academy Corridors, Simulation Dome.
 - New key items: Simulation Dome System.
 - Reference images added: `blaze-carter-character.png`, `lava-leviathan-simulation-character.png`, `power-academy-corridors-setting.png`, `simulation-dome-setting.png`, `simulation-dome-system-key-item.png`.
+
+## Issue #3: Shadowgarde Field Trip
+
+- Folder: `series/super-school-rpg-cai-adaptation/issues/issue-03/`
+- Logline: After the Reality Breakers earn their team name, Professor Lightman offers them a rare Field Trip mission to Shadowgarde City, where a rogue gravity student turns their training success into a real moral test.
+- Plot summary: The Simulation Dome records Jack Blue, Miss Aurora, and Blaze Carter under the team name Reality Breakers after their Lava Leviathan victory. Jack asks whether students ever take real missions, and Blaze and Aurora explain Power Academy's ranking system: simulations matter, but moral choices matter just as much. Professor Lightman confirms that he has been watching both their power and judgment, then offers them an unusual Field Trip mission to Shadowgarde City. Their task is to stop a rogue Shadowgarde student whose unstable gravity powers are endangering civilians. Jack accepts only with Blaze and Aurora beside him, and the trio teleports into the distorted city just as broken pavement rises toward them.
+- Continuity changes: The trio is officially named the Reality Breakers, Field Trip missions and hero rankings are introduced, Power Academy's moral-test structure is established, and Shadowgarde City becomes the first real mission setting.
+- New characters: Rogue Shadowgarde Gravity Student.
+- New settings: Power Academy Teleportation Chamber, Shadowgarde City.
+- New key items: Field Trip Mission Datapad.
+- Reference images added: `rogue-shadowgarde-gravity-student-character.png`, `power-academy-teleportation-chamber-setting.png`, `shadowgarde-city-setting.png`, `field-trip-mission-datapad-key-item.png`.

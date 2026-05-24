@@ -39,3 +39,11 @@
 - Visual identifiers: towering molten-rock creature with broad cracked obsidian shoulders, glowing lava seams, hornlike slag ridges, furnace-orange eyes, massive clawed arms, dripping magma plates, and smoke venting from its back.
 - Continuity notes: The Lava Leviathan is a holographic training disaster inside the Simulation Dome. Fire attacks splash through it and reform, but cold, heat absorption, and concentrated light can harden and shatter it.
 - Reference image: `../reference-images/lava-leviathan-simulation-character.png`
+
+## Character: Rogue Shadowgarde Gravity Student
+
+- First appears: Issue #3, "Shadowgarde Field Trip"
+- Role: first real mission threat, unstable student antagonist.
+- Visual identifiers: late-teen Shadowgarde student with pale olive skin, hollow tired eyes, short dark hair floating upward from gravity distortion, angular black academy coat with silver trim, dark boots hovering above broken pavement, orbiting debris, and smoky violet-black gravity energy around both hands.
+- Continuity notes: The student has unstable gravity powers that bend streets, lift debris, and endanger civilians in Shadowgarde City. The Reality Breakers must stop the crisis without abandoning their ethics.
+- Reference image: `../reference-images/rogue-shadowgarde-gravity-student-character.png`
