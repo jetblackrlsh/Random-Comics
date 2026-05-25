@@ -45,5 +45,13 @@
 - First appears: Issue #3, "Shadowgarde Field Trip"
 - Role: first real mission threat, unstable student antagonist.
 - Visual identifiers: late-teen Shadowgarde student with pale olive skin, hollow tired eyes, short dark hair floating upward from gravity distortion, angular black academy coat with silver trim, dark boots hovering above broken pavement, orbiting debris, and smoky violet-black gravity energy around both hands.
-- Continuity notes: The student has unstable gravity powers that bend streets, lift debris, and endanger civilians in Shadowgarde City. The Reality Breakers must stop the crisis without abandoning their ethics.
+- Continuity notes: The student has unstable gravity powers that bend streets, lift debris, and endanger civilians in Shadowgarde City. The Reality Breakers must stop the crisis without abandoning their ethics. Jack's field-mission approach helps the student admit he felt abandoned by Shadowgarde's judgment and stand down without being destroyed.
 - Reference image: `../reference-images/rogue-shadowgarde-gravity-student-character.png`
+
+## Character: Shadowgarde Enforcement Squad
+
+- First appears: Issue #4, "Gravity Redemption"
+- Role: delayed academy response team and institutional foil.
+- Visual identifiers: small squad of Shadowgarde responders in matte black armored academy coats with silver shoulder plates, dark visors or stern uncovered faces, compact restraint devices, gravity-stabilizer belts, and violet-white academy insignia that is fictional and not a real logo.
+- Continuity notes: The squad arrives after the Reality Breakers have already de-escalated the rogue gravity student, making them part of Shadowgarde's slower institutional response rather than the central rescue.
+- Reference image: `../reference-images/shadowgarde-enforcement-squad-character.png`

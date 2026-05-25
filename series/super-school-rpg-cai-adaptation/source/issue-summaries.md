@@ -32,3 +32,14 @@
 - New settings: Power Academy Teleportation Chamber, Shadowgarde City.
 - New key items: Field Trip Mission Datapad.
 - Reference images added: `rogue-shadowgarde-gravity-student-character.png`, `power-academy-teleportation-chamber-setting.png`, `shadowgarde-city-setting.png`, `field-trip-mission-datapad-key-item.png`.
+
+## Issue #4: Gravity Redemption
+
+- Folder: `series/super-school-rpg-cai-adaptation/issues/issue-04/`
+- Logline: During the Reality Breakers' first real mission, Jack turns a gravity crisis into a moral victory by protecting civilians and persuading the rogue Shadowgarde student to stand down.
+- Plot summary: A slab of broken pavement flies toward the Reality Breakers the moment they arrive in Shadowgarde City, and Jack redirects it with a giant cosmic slingshot. He orders Aurora and Blaze to prioritize civilians while he confronts the rogue gravity student directly. Instead of relying on force, Jack questions why Shadowgarde has left the student isolated and suggests that the crisis may itself be a moral test. The rogue nearly breaks Aurora's shields under the pressure, but Jack reframes the ranking system as a measure of control and character rather than raw power. Aurora encourages surrender as an act of strength, and the rogue finally lowers the debris and stands down. Shadowgarde enforcement arrives too late to claim the real rescue, leaving the Reality Breakers with their first true mission victory.
+- Continuity changes: Jack proves that his strongest field tactic is moral insight backed by power, Aurora demonstrates civilian-protection shields under stress, Blaze accepts a support role during de-escalation, and the rogue gravity student survives as a possible redemption thread.
+- New characters: Shadowgarde Enforcement Squad.
+- New settings: None.
+- New key items: None.
+- Reference images added: `shadowgarde-enforcement-squad-character.png`.
