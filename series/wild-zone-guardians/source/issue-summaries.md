@@ -23,3 +23,15 @@
 - New settings: Active Anomaly Site.
 - New key items: Hardlight Rifle, Wild Zone Subnet.
 - Reference images added: `corrupted-crystal-beast-character.png`, `active-anomaly-site-setting.png`, `hardlight-rifle-key-item.png`, `wild-zone-subnet-key-item.png`.
+
+## Issue #3: No Time To Rest
+
+- Folder: `series/wild-zone-guardians/issues/issue-03/`
+- Created: 2026-05-26
+- Logline: After the first anomaly cleansing, the Chronicler learns why the exhausted Wild Zone Guardians cannot simply rest, and a starving corrupted bandit turns the lesson into a cliffhanger.
+- Plot summary: In the cleansed anomaly basin, the Chronicler asks what normally happens after a mission. Kaelen, Vessara, and Quasar explain the practical aftermath: immediate Arcanum Guard reports, Wild Zone subnet archives, residue recovery, repair checks, ration discipline, and constant movement between the city-state and active corruption zones. The Chronicler learns that Kaelen and Vessara have gone seven local solar cycles with only a few full rest periods, relying on ration packs, meditation, and harsh vitality stimulants. Vessara explains how corruption moves through plants, beasts, and intelligent beings, ending with the horror of false hunger. The issue ends when a huge corrupted four-armed bandit emerges from the rocks, asking for residue to feed a hunger the corruption has created.
+- Continuity changes: Guardian exhaustion becomes an explicit operating cost; vitality stimulants and ration dependence are established; corruption is shown to affect plants, beasts, and intelligent species differently; false hunger is introduced as a symptom of intelligent infection; the corrupted four-armed bandit appears as the next major moral and physical threat.
+- New characters: Corrupted Four-Armed Bandit.
+- New settings: None.
+- New key items: None.
+- Reference images added: `corrupted-four-armed-bandit-character.png`.

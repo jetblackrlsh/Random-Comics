@@ -47,3 +47,11 @@
 - Visual identifiers: massive four-legged predatory beast with warped muscular flesh, jagged crystal growths along shoulders and spine, sickly green-violet corruption veins under the skin, one or two glowing corrupted eyes, tendrils of unstable energy lashing from its body, and stone dust clinging to its claws.
 - Continuity notes: Corrupted beasts form when anomaly energy infects living creatures. This first beast teaches the Chronicler that anomalies are not only abstract energy events; they can create hostile, adaptive enemies. Similar corrupted entities may appear later with different host bodies.
 - Reference image: `../reference-images/corrupted-crystal-beast-character.png`
+
+## Character: Corrupted Four-Armed Bandit
+
+- First appears: Issue #3, "No Time To Rest"
+- Role: infected intelligent Wild Zone threat, tragic cliffhanger antagonist, victim of false hunger
+- Visual identifiers: very tall four-armed Wild Zone humanoid with a massive muscular build, broad shoulders, heavy jaw, close-cropped dark hair, torn scavenger armor, crude belt pouches, cracked gauntlets, and green-violet corruption veins spreading around her mouth, eyes, neck, and swollen arms.
+- Continuity notes: She has consumed corrupted matter long enough for false hunger, delirium, and motor instability to take hold. She is still an intelligent person with flashes of fear and awareness, but her corrupted strength makes close contact potentially lethal. Her full confrontation continues after Issue #3.
+- Reference image: `../reference-images/corrupted-four-armed-bandit-character.png`
