@@ -11,3 +11,15 @@
 - New settings: Conflux Spire, Western Perimeter Gate, The Wild Zones.
 - New key items: Personal Teleporter, Off-World Observer Pass, Rune-Woven Survival Kit.
 - Reference images added: `the-chronicler-character.png`, `quasar-character.png`, `kaelen-character.png`, `vessara-character.png`, `conflux-spire-setting.png`, `western-perimeter-gate-setting.png`, `wild-zones-setting.png`, `personal-teleporter-key-item.png`, `off-world-observer-pass-key-item.png`, `rune-woven-survival-kit-key-item.png`.
+
+## Issue #2: The First Cleansing
+
+- Folder: `series/wild-zone-guardians/issues/issue-02/`
+- Created: 2026-05-26
+- Logline: The Chronicler follows Kaelen and Vessara to their first active anomaly site, where a corrupted crystal beast forces them to become more than an observer by inventing the Tele-Shot.
+- Plot summary: Immediately after crossing the western perimeter gate, the team enters the Wild Zones and reaches an active anomaly feeding on nearby crystal deposits. Kaelen begins containing the unstable energy while Vessara prepares the catalysts needed to cleanse the wound. The anomaly attracts a corrupted crystal beast, turning the mission into the Chronicler's first major battle. Quasar creates a locally powered hardlight rifle through the rune-woven survival gear, and the Chronicler combines it with the personal teleporter to redirect a shot into the beast's crystal cluster. With the beast weakened, Kaelen and Vessara cleanse the anomaly while Quasar uploads the battle through the hidden Wild Zone subnet.
+- Continuity changes: The Chronicler becomes an active field asset rather than only an observer; Quasar proves the Wild Zone subnet can carry the team's comics; the hardlight rifle and Tele-Shot tactic are introduced; the team confirms that anomaly battles can amplify hidden broadcasts.
+- New characters: Corrupted Crystal Beast.
+- New settings: Active Anomaly Site.
+- New key items: Hardlight Rifle, Wild Zone Subnet.
+- Reference images added: `corrupted-crystal-beast-character.png`, `active-anomaly-site-setting.png`, `hardlight-rifle-key-item.png`, `wild-zone-subnet-key-item.png`.

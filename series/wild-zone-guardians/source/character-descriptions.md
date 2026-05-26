@@ -39,3 +39,11 @@
 - Visual identifiers: featureless silver armor, smooth glowing blue helms, synchronized movements, brass-and-quartz scanning rods, hard upright posture, and polished official presence.
 - Continuity notes: The Guard regulates conduit licenses, teleportation law, energy signatures, and perimeter gates. Individual guards rotate often to prevent attachments. They are not all identical people, but their institution presents them as machine-like extensions of policy.
 - Reference image: None; recurring institutional type.
+
+## Character: Corrupted Crystal Beast
+
+- First appears: Issue #2, "The First Cleansing"
+- Role: corrupted Wild Zone predator, first major combat threat faced by the Chronicler in the field
+- Visual identifiers: massive four-legged predatory beast with warped muscular flesh, jagged crystal growths along shoulders and spine, sickly green-violet corruption veins under the skin, one or two glowing corrupted eyes, tendrils of unstable energy lashing from its body, and stone dust clinging to its claws.
+- Continuity notes: Corrupted beasts form when anomaly energy infects living creatures. This first beast teaches the Chronicler that anomalies are not only abstract energy events; they can create hostile, adaptive enemies. Similar corrupted entities may appear later with different host bodies.
+- Reference image: `../reference-images/corrupted-crystal-beast-character.png`
