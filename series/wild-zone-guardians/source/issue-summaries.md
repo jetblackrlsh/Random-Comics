@@ -35,3 +35,15 @@
 - New settings: None.
 - New key items: None.
 - Reference images added: `corrupted-four-armed-bandit-character.png`.
+
+## Issue #4: False Hunger
+
+- Folder: `series/wild-zone-guardians/issues/issue-04/`
+- Created: 2026-05-26
+- Logline: Cornered by a starving corrupted bandit who could kill them with one punch, the Guardians must save her without letting compassion become hesitation.
+- Plot summary: The corrupted four-armed bandit advances on the Guardians, begging for residue while false hunger and corruption tear through her body. The team retreats through jagged crystal terrain because killing her would betray the person still inside, but letting her reach them could be fatal. Quasar struggles to contact the gate guards through corrupted signal interference, and the Chronicler refuses to teleport the bandit blindly if the guards might execute her. The retreat ends against a crystal wall, where the bandit's missed punch obliterates the stone and proves her overwhelming strength. Vessara throws catalysts into the air, the Chronicler teleports them above the bandit, Kaelen overextends a void-tech stabilization field, and Quasar confirms that containment is ready. The Chronicler teleports the team out of the corner and sends the stabilized bandit to the gate, saving her life while damaging Kaelen's suit.
+- Continuity changes: The corrupted bandit survives and is secured by the Arcanum Guard for containment; the Chronicler proves they can use teleportation for rescue under pressure, not only combat; Quasar confirms that heavy local corruption can interfere with subnet contact even while anomaly fields can amplify broadcasts; Kaelen's void-tech suit is damaged by overextension and needs safe maintenance.
+- New characters: None.
+- New settings: None.
+- New key items: None.
+- Reference images added: None.
