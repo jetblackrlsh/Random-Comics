@@ -9,7 +9,7 @@ Primary request: Create a complete realistic photo-comic page, not a single imag
 Story role: <what this page must accomplish in the narrative>
 Character/reference bible for continuity: <stable visible details for every recurring character, outfit, prop, and location>
 Page layout: <cover composition or panel grid, panel sizes, reading order>
-Caption boxes: <short narration and rare short speech to generate directly inside rectangular caption boxes in the page art>
+Caption boxes: <story-clarity narration and rare short speech to generate directly inside roomy rectangular caption boxes in the page art>
 Visual beats: <panel-by-panel actions and emotions>
 Setting and props: <recurring locations, objects, symbols>
 Photo style: realistic candid photo-comic, documentary phone-photo or handheld photojournalism look, natural imperfect framing, believable real-world lighting, photoreal action VFX, realistic depth of field and motion blur only where appropriate, clean rectangular caption boxes.
@@ -26,13 +26,15 @@ Prefer 8 pages when the user asks for a complete comic and time allows. Use fewe
 
 ## Caption Style
 
-Use caption boxes as the only text vehicle. Narration can be poetic, but it must remain clear. The caption text is part of the generated image prompt, never a separate overlay step.
+Use caption boxes as the only text vehicle. Narration can be poetic, but story clarity comes first. The caption text is part of the generated image prompt, never a separate overlay step.
+
+Default captioning should be longer and more descriptive than terse comic fragments, especially for complex stories. Captions should clearly explain the premise, stakes, world rules, character motivation, and consequences that the image alone may not communicate. When a page needs more explanation, reduce the panel count and use fewer, larger panels with roomy caption boxes instead of squeezing long captions into many tiny panels.
 
 Good caption-box directions:
 
 ```text
-Top caption box: "Mira reached the city at sunrise."
-Small lower caption box: "The gate opened only after she put the camera down."
+Panel 1 top caption: "Mira crossed the border at sunrise because the old city was the only place where broken machines still remembered their owners."
+Panel 2 top caption: "The gate opened only after she put the camera down, proving the city feared witnesses more than thieves."
 ```
 
 Avoid:
@@ -40,9 +42,17 @@ Avoid:
 ```text
 Speech bubble saying...
 Thought bubble saying...
-Large paragraphs of tiny text...
+Large paragraphs squeezed into tiny text...
 Floating subtitles...
+Six or more panels when the page needs long explanatory captions...
 ```
+
+## Panel Density Guidance
+
+- Use 3-4 large panels on lore-heavy, emotionally complex, or worldbuilding-heavy pages.
+- Use 5-6 panels only when the page is action-forward and captions can stay compact.
+- For issue-openers and series issues, make page 2 especially clear: identify the protagonist, their goal, the setting, and the immediate tension.
+- If a caption needs more than one sentence for clarity, give it a larger box and simplify the panel layout rather than cutting necessary context.
 
 ## Photo-Comic Style Checklist
 

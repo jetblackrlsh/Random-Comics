@@ -17,6 +17,7 @@ This is a style variant of `comic-book-pdf`. Keep the original skill's comic-boo
 - Use 4:5 portrait aspect ratio for every generated image.
 - Make each image a complete comic-book page with multiple panels or one splash panel as appropriate.
 - Use caption boxes only for narration and rare short speech.
+- Default to story-clarity captions: longer, more descriptive narration that explains the premise, stakes, world rules, character motivation, and consequences clearly enough for the page to stand on its own.
 - The caption-box text belongs inside the generated image itself. Do not generate art and text as separate assets or layers.
 - Do not use speech bubbles, thought bubbles, floating dialogue, subtitles, watermarks, logos, or unreadable decorative text.
 - Keep dialogue minimal. Prefer narration that advances the story.
@@ -48,7 +49,8 @@ This is a style variant of `comic-book-pdf`. Keep the original skill's comic-boo
    - Read `references/photo_page_prompting.md` when writing prompts.
    - Include cover text guidance only if the user wants visible title text; otherwise keep cover text minimal or omitted to avoid generated text artifacts.
    - For each story page, specify panel layout, visual beats, caption-box text, continuity notes, camera feel, lighting, location, and ending hook.
-   - Keep caption text short enough to plausibly fit inside generated caption boxes.
+   - Make captions descriptive enough for story clarity. Prefer fewer, larger panels with roomy caption boxes over many small panels when the story has lore, rules, politics, mystery, continuity, or complex emotional stakes.
+   - Keep each caption short enough to plausibly fit inside its generated caption box, but do not reduce captions to cryptic fragments when the reader needs context.
    - Treat the caption-box text as part of the image prompt, not as later overlay copy.
 
 5. Generate full-page images.
@@ -67,7 +69,7 @@ This is a style variant of `comic-book-pdf`. Keep the original skill's comic-boo
 
 7. Verify the result.
    - Inspect the contact sheet and at least the cover, first story page, middle story page, and final page.
-   - Check for correct page count, 4:5 portrait pages, caption boxes instead of bubbles, text not dominating the art, no obvious character redesigns, realistic candid-photo styling, and a complete narrative.
+   - Check for correct page count, 4:5 portrait pages, caption boxes instead of bubbles, story-clarity captions, text not dominating the art, no obvious character redesigns, realistic candid-photo styling, and a complete narrative.
    - If a page fails core requirements, regenerate that page before assembling the final PDF.
 
 ## Extending An Existing Comic
