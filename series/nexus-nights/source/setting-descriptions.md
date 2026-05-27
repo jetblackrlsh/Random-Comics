@@ -27,3 +27,24 @@
 - Visual identifiers: stark white medical room, narrow recovery cots, wall-mounted diagnostic screens, blue holographic anatomy displays, sealed suit mannequins, and practical emergency equipment.
 - Continuity notes: Sasha wakes here after integration with glowing hands and first learns the name of her power.
 - Reference image: `../reference-images/astral-command-recovery-room-setting.png`
+
+## Setting: Astral Command Briefing Room
+
+- First appears: Issue #2, "Small Hand Wiggles"
+- Visual identifiers: stark white tactical briefing room with glass walls, recessed blue lighting, a central holographic city table, wall displays showing vortex diagrams, emergency red alarm strips, and minimal furniture bolted to the floor.
+- Continuity notes: Dr. Imani Vale explains Sasha's power and the incursion here before the alarm cuts training short.
+- Reference image: `../reference-images/astral-command-briefing-room-setting.png`
+
+## Setting: Astral Command Hangar
+
+- First appears: Issue #2, "Small Hand Wiggles"
+- Visual identifiers: reinforced high-ceiling hangar inside Astral Command Tower, dark metallic floor panels, blue runway lights, heavy blast doors opening toward Nexus City, containment soldiers moving in formation, and hovering transport vessels on standby.
+- Continuity notes: Sasha boards the transport here for her first real mission.
+- Reference image: `../reference-images/astral-command-hangar-setting.png`
+
+## Setting: Central Business District Incursion Zone
+
+- First appears: Issue #2, "Small Hand Wiggles"
+- Visual identifiers: Nexus City financial towers and elevated walkways warped by blue-black reality fractures, missing chunks of buildings, floating debris, flickering windows, emergency haze, and a distant vortex bending the skyline.
+- Continuity notes: The incursion is consuming reality here. Issue #2 approaches the zone; Issue #3 resolves the containment mission.
+- Reference image: `../reference-images/central-business-district-incursion-zone-setting.png`

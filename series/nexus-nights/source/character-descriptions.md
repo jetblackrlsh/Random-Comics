@@ -31,3 +31,11 @@
 - Visual identifiers: woman in her early 30s, deep brown skin, round glasses, dark braided hair tied back, calm but tired face, white Astral Command lab coat over black medical scrubs, blue diagnostic tablet.
 - Continuity notes: Dr. Vale explains Sasha's Astral Manipulation and later guides her through the mission. She has a dry patience that cracks when Sasha reduces cosmic physics to movie comparisons.
 - Reference image: `../reference-images/doctor-imani-vale-character.png`
+
+## Character: Astral Command Containment Soldiers
+
+- First appears: Issue #2, "Small Hand Wiggles"
+- Role: tactical response team, mission escorts, and perimeter containment specialists.
+- Visual identifiers: compact team of adult responders in matte black and silver armored Astral Command suits, sealed helmets or raised visors, blue energy trim, galaxy-sword chest emblems, compact rifles, utility harnesses, and disciplined formation posture.
+- Continuity notes: They deploy with Sasha toward the Central Business District incursion after three prior containment teams lose contact. They treat Sasha with professional urgency rather than tourist hospitality.
+- Reference image: `../reference-images/astral-command-containment-soldiers-character.png`
