@@ -25,7 +25,7 @@
 
 - First appears: Issue #1, "Tourist Processing"
 - Visual identifiers: ethereal blue energy in Sasha's hands and suit seams, folded reflections in the air, small portal arcs, rippling space-time distortions, floating dust motes, and gravity-defying fragments.
-- Continuity notes: Astral Manipulation is Sasha's temporary power. It can create localized space-time distortions, controlled portal effects, and quantum stabilization fields, but it depends on focus, rhythm, and energy reserves.
+- Continuity notes: Astral Manipulation is Sasha's temporary power. It can create localized space-time distortions, controlled portal effects, and quantum stabilization fields, but it depends on focus, rhythm, and energy reserves. Sasha's strongest control method is a hula-inspired rhythm that becomes mental visualization once physical motion exhausts her.
 - Reference image: `../reference-images/astral-manipulation-key-item.png`
 
 ## Key Item: Field Communicator
@@ -60,5 +60,5 @@
 
 - First appears: Issue #2, "Small Hand Wiggles"
 - Visual identifiers: distant blue-black vortex with folded reflections, impossible geometry, missing chunks of real city structures, drifting debris, oily light distortions, and a visual warning that direct observation is dangerous.
-- Continuity notes: The incursion consumes overlapping realities in the Central Business District. Sasha's mission is to stabilize and push it back.
+- Continuity notes: The incursion consumes overlapping realities in the Central Business District. Sasha stabilizes it in Issue #3 using Astral Manipulation, allowing Astral Command to collapse the breach without losing the district.
 - Reference image: `../reference-images/interdimensional-incursion-key-item.png`

@@ -5,7 +5,7 @@
 - First appears: Issue #1, "Tourist Processing"
 - Role: protagonist, off-world traveler, temporary Astral Command recruit.
 - Visual identifiers: woman in her mid-20s, warm brown skin, expressive dark eyes, shoulder-length dark curly hair usually loose and slightly frizzed by static, athletic average build, curious open posture, nervous grin under pressure. Starts in practical travel clothes with a short jacket and small crossbody bag, changes into a plain black processing jumpsuit, then into a sleek black and silver Astral Command suit with ethereal blue seams.
-- Continuity notes: Sasha bought a random power ticket for one night of adventure. She jokes when frightened, translates unfamiliar cosmic science into movie references, and later discovers her Astral Manipulation responds to rhythm and visualization.
+- Continuity notes: Sasha bought a random power ticket for one night of adventure. She jokes when frightened, translates unfamiliar cosmic science into movie references, and discovers her Astral Manipulation responds to rhythm and visualization. In Issue #3, her hula-rhythm breakthrough stabilizes the Central Business District incursion and changes her idea of heroism from spectacle to steadiness.
 - Reference image: `../reference-images/sasha-character.png`
 
 ## Character: Taylor

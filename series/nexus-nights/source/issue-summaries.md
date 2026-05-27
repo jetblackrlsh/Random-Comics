@@ -23,3 +23,15 @@
 - New settings: Astral Command Briefing Room, Astral Command Hangar, Central Business District Incursion Zone.
 - New key items: Field Communicator, Quantum Destabilizer Pistol, Tactical Visor, Astral Command Transport Vessel, Interdimensional Incursion.
 - Reference images added: `astral-command-containment-soldiers-character.png`, `astral-command-briefing-room-setting.png`, `astral-command-hangar-setting.png`, `central-business-district-incursion-zone-setting.png`, `field-communicator-key-item.png`, `quantum-destabilizer-pistol-key-item.png`, `tactical-visor-key-item.png`, `astral-command-transport-vessel-key-item.png`, `interdimensional-incursion-key-item.png`.
+
+## Issue #3: Keep It Steady
+
+- Folder: `series/nexus-nights/issues/issue-03/`
+- Created: 2026-05-27
+- Logline: Sasha faces the reality-eating incursion with almost no training and discovers that her borrowed power only works when she stops performing heroism and learns to hold steady.
+- Plot summary: Sasha arrives over the Central Business District with containment soldiers and tries to stabilize the incursion without looking directly at the entity. Her first controlled field comes from treating Dr. Vale's hand motion like the hula lessons she remembers from her grandmother's backyard. When she pushes the rhythm too hard, the field destabilizes and nearly tears open a permanent rift. Sasha slows down, learns to feel the flow, then moves the rhythm into mental visualization so her exhausted body can rest while the containment field holds. Astral Command collapses the breach, reality knits itself back together, and Sasha returns to base exhausted but respected by the soldiers.
+- Continuity changes: Sasha completes her first Astral Command mission, stabilizes the Central Business District incursion, and matures from thrill-seeking tourist into someone who understands heroism as steadiness under pressure. Astral Manipulation is confirmed to respond strongly to rhythm and visualization.
+- New characters: None.
+- New settings: None.
+- New key items: None.
+- Reference images added: None.

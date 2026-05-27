@@ -46,5 +46,5 @@
 
 - First appears: Issue #2, "Small Hand Wiggles"
 - Visual identifiers: Nexus City financial towers and elevated walkways warped by blue-black reality fractures, missing chunks of buildings, floating debris, flickering windows, emergency haze, and a distant vortex bending the skyline.
-- Continuity notes: The incursion is consuming reality here. Issue #2 approaches the zone; Issue #3 resolves the containment mission.
+- Continuity notes: The incursion consumes reality here during Issues #2-3. Sasha stabilizes the zone long enough for Astral Command to collapse the breach, leaving the district damaged but knitting itself back together.
 - Reference image: `../reference-images/central-business-district-incursion-zone-setting.png`
