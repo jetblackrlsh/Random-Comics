@@ -160,6 +160,70 @@
       ]
     },
     {
+      "slug": "nexus-nights",
+      "title": "Nexus Nights",
+      "summary": "Travelers buy one-night superhero experiences in Nexus City, where every random power ticket comes with a costume, a real mission, and consequences too dangerous for the brochure.",
+      "characterDescriptions": "Character Descriptions Character: Sasha - First appears: Issue 1, \"Tourist Processing\" - Role: protagonist, off-world traveler, temporary Astral Command recruit. - Visual identifiers: woman in her mid-20s, warm brown skin, expressive dark eyes, shoulder-length dark curly hair usually loose and slightly frizzed by static, athletic average build, curious open posture, nervous grin under pressure. Starts in practical travel clothes with a short jacket and small crossbody bag, changes into a plain black processing jumpsuit, then into a sleek black and silver Astral Command suit with ethereal blue seams. - Continuity notes: Sasha bought a random power ticket for one night of adventure. She jokes when frightened, translates unfamiliar cosmic science into movie references, and later discovers her Astral Manipulation responds to rhythm and visualization. - Reference image: ../reference-images/sasha-character.png Character: Taylor - First appears: Issue 1, \"Tourist Processing\" - Role: Astral Command liaison and escort. - Visual identifiers: bored teenager around 17-19, pale olive skin, narrow face, short messy black hair with a silver streak, tired gray eyes, slim build, skeptical slouch, sleek black and silver Astral Command liaison uniform with a small badge and tablet. - Continuity notes: Taylor treats tourist recruits with dry contempt because he has seen too many die, but he is not cruel. His final look back at Sasha shows reluctant sympathy. - Reference image: ../reference-images/taylor-liaison-character.png Character: Officer Mara Venn - First appears: Issue 1, \"Tourist Processing\" - Role: stern Astral Command processing officer. - Visual identifiers: woman in her late 30s, light brown skin, severe cheekbones, close-cropped dark hair, rigid posture, crisp black and silver Astral Command uniform with white processing gloves and a clipped security badge. - Continuity notes: Mara runs the activation chamber with clinical impatience. She treats power acquisition as a lethal procedure, not entertainment. - Reference image: ../reference-images/officer-mara-venn-character.png Character: Dr. Imani Vale - First appears: Issue 1, \"Tourist Processing\" - Role: Astral Command recovery doctor and power specialist. - Visual identifiers: woman in her early 30s, deep brown skin, round glasses, dark braided hair tied back, calm but tired face, white Astral Command lab coat over black medical scrubs, blue diagnostic tablet. - Continuity notes: Dr. Vale explains Sasha's Astral Manipulation and later guides her through the mission. She has a dry patience that cracks when Sasha reduces cosmic physics to movie comparisons. - Reference image: ../reference-images/doctor-imani-vale-character.png",
+      "settingDescriptions": "Setting Descriptions Setting: Nexus City Teleporter Station - First appears: Issue 1, \"Tourist Processing\" - Visual identifiers: huge indoor arrival hall with circular teleporter pads, chrome rails, wet reflective floors, neon advertisements, holographic ticket kiosks, travelers from many realities, ozone haze, and layered city light visible beyond glass walls. - Continuity notes: Sasha arrives here from another world and first realizes Nexus City sells power experiences like tourism. - Reference image: ../reference-images/nexus-city-teleporter-station-setting.png Setting: Astral Command Tower - First appears: Issue 1, \"Tourist Processing\" - Visual identifiers: massive skyscraper with black glass, silver ribs, blue energy lines, and a stylized spiral galaxy around a sword above the entrance. The outside is grand and cosmic, but the lobby is plain, bureaucratic, and underdecorated. - Continuity notes: Astral Command operates from this tower. The mismatch between the exterior and lobby reflects the organization's dangerous, workmanlike attitude toward hero missions. - Reference image: ../reference-images/astral-command-tower-setting.png Setting: Power Activation Chamber - First appears: Issue 1, \"Tourist Processing\" - Visual identifiers: circular sterile chamber, raised blue-lit platform, ring of transparent glass-and-metal activation pods, ceiling cables, medical rails, holographic pain scales, and emergency lights ready to flash red. - Continuity notes: Temporary powers and custom suits are assigned here. The chamber can save recruits or quietly process a disaster. - Reference image: ../reference-images/power-activation-chamber-setting.png Setting: Astral Command Recovery Room - First appears: Issue 1, \"Tourist Processing\" - Visual identifiers: stark white medical room, narrow recovery cots, wall-mounted diagnostic screens, blue holographic anatomy displays, sealed suit mannequins, and practical emergency equipment. - Continuity notes: Sasha wakes here after integration with glowing hands and first learns the name of her power. - Reference image: ../reference-images/astral-command-recovery-room-setting.png",
+      "keyItemDescriptions": "Key Item Descriptions Key Item: Random Power Ticket - First appears: Issue 1, \"Tourist Processing\" - Visual identifiers: translucent handheld holographic ticket, palm-sized, glowing cyan edge, shifting QR-like glyphs, and the readable assignment \"ASTRAL COMMAND\" when shown close. - Continuity notes: The ticket assigns Sasha to Astral Command and authorizes one temporary power, one custom suit, and one real mission. - Reference image: ../reference-images/random-power-ticket-key-item.png Key Item: Astral Command Suit - First appears: Issue 1, \"Tourist Processing\" - Visual identifiers: sleek black and silver superhero suit with flexible armor panels, subtle galaxy-sword chest emblem, ethereal blue seams, glowing forearm channels, and a practical fitted silhouette rather than a flashy costume. - Continuity notes: The suit links to Sasha's power core, stabilizes Astral Manipulation, and channels quantum field projection. - Reference image: ../reference-images/astral-command-suit-key-item.png Key Item: Activation Pod - First appears: Issue 1, \"Tourist Processing\" - Visual identifiers: transparent cylindrical glass-and-metal pod with blue internal light, liquid-metal tendrils, pain-scale hologram, medical tray, hidden injectors, and red emergency warning strips. - Continuity notes: The pod processes the ticket, integrates Sasha's temporary power, and nearly overwhelms her before the manifestation succeeds. - Reference image: ../reference-images/activation-pod-key-item.png Key Item: Astral Manipulation - First appears: Issue 1, \"Tourist Processing\" - Visual identifiers: ethereal blue energy in Sasha's hands and suit seams, folded reflections in the air, small portal arcs, rippling space-time distortions, floating dust motes, and gravity-defying fragments. - Continuity notes: Astral Manipulation is Sasha's temporary power. It can create localized space-time distortions, controlled portal effects, and quantum stabilization fields, but it depends on focus, rhythm, and energy reserves. - Reference image: ../reference-images/astral-manipulation-key-item.png",
+      "issueSummaries": "Issue Summaries Issue 1: Tourist Processing - Folder: series/nexus-nights/issues/issue-01/ - Created: 2026-05-27 - Logline: Sasha arrives in Nexus City for a random one-night hero experience and survives Astral Command's dangerous power activation process. - Plot summary: Sasha steps out of the teleporter station with a random power ticket and meets Taylor, a bored Astral Command liaison who warns her that tourists have died on first missions. He escorts her through Nexus City to Astral Command Tower, where she surrenders pieces of civilian identity, changes into a processing jumpsuit, and enters a power activation pod. The integration turns from exciting to terrifying as another recruit fails and Sasha nearly loses consciousness. She wakes in recovery with blue astral energy in her hands, a custom suit waiting nearby, and Dr. Imani Vale confirming that Sasha has received Astral Manipulation. - Continuity changes: Sasha is now an Astral Command recruit for one temporary mission, bonded to Astral Manipulation and the Astral Command suit. Her expectations have shifted from simple thrill ride to dangerous hero work. - New characters: Sasha, Taylor, Officer Mara Venn, Dr. Imani Vale. - New settings: Nexus City Teleporter Station, Astral Command Tower, Power Activation Chamber, Astral Command Recovery Room. - New key items: Random Power Ticket, Astral Command Suit, Activation Pod, Astral Manipulation. - Reference images added: sasha-character.png , taylor-liaison-character.png , officer-mara-venn-character.png , doctor-imani-vale-character.png , nexus-city-teleporter-station-setting.png , astral-command-tower-setting.png , power-activation-chamber-setting.png , astral-command-recovery-room-setting.png , random-power-ticket-key-item.png , astral-command-suit-key-item.png , activation-pod-key-item.png , astral-manipulation-key-item.png .",
+      "referenceImages": [
+        {
+          "path": "../series/nexus-nights/reference-images/activation-pod-key-item.png",
+          "alt": "Nexus Nights reference image"
+        },
+        {
+          "path": "../series/nexus-nights/reference-images/astral-command-recovery-room-setting.png",
+          "alt": "Nexus Nights reference image"
+        },
+        {
+          "path": "../series/nexus-nights/reference-images/astral-command-suit-key-item.png",
+          "alt": "Nexus Nights reference image"
+        },
+        {
+          "path": "../series/nexus-nights/reference-images/astral-command-tower-setting.png",
+          "alt": "Nexus Nights reference image"
+        },
+        {
+          "path": "../series/nexus-nights/reference-images/astral-manipulation-key-item.png",
+          "alt": "Nexus Nights reference image"
+        },
+        {
+          "path": "../series/nexus-nights/reference-images/doctor-imani-vale-character.png",
+          "alt": "Nexus Nights reference image"
+        },
+        {
+          "path": "../series/nexus-nights/reference-images/nexus-city-teleporter-station-setting.png",
+          "alt": "Nexus Nights reference image"
+        },
+        {
+          "path": "../series/nexus-nights/reference-images/officer-mara-venn-character.png",
+          "alt": "Nexus Nights reference image"
+        },
+        {
+          "path": "../series/nexus-nights/reference-images/power-activation-chamber-setting.png",
+          "alt": "Nexus Nights reference image"
+        },
+        {
+          "path": "../series/nexus-nights/reference-images/random-power-ticket-key-item.png",
+          "alt": "Nexus Nights reference image"
+        },
+        {
+          "path": "../series/nexus-nights/reference-images/sasha-character.png",
+          "alt": "Nexus Nights reference image"
+        },
+        {
+          "path": "../series/nexus-nights/reference-images/taylor-liaison-character.png",
+          "alt": "Nexus Nights reference image"
+        }
+      ],
+      "url": "series/nexus-nights/",
+      "issueCount": 1,
+      "issues": [
+        "nexus-nights-issue-01"
+      ]
+    },
+    {
       "slug": "pop-the-imp",
       "title": "Pop The Imp",
       "summary": "A lonely hyperreal imp escapes his empty home by leaping into books that contain entire worlds, recruiting reluctant partners for absurd action adventures he refuses to solve the easy way.",
@@ -3021,6 +3085,67 @@
       "issueNumber": 3,
       "issueLabel": "Issue #3 of Wild Zone Guardians",
       "url": "comics/wild-zone-guardians-issue-03/"
+    },
+    {
+      "slug": "nexus-nights-issue-01",
+      "folder": "series/nexus-nights/issues/issue-01",
+      "title": "Tourist Processing",
+      "publishedDate": "2026-05-27",
+      "summary": "Sasha arrives in Nexus City expecting a thrilling one-night superhero adventure, but Astral Command's power activation process teaches her that paid hero tourism can be lethal before the mission even begins.",
+      "cover": "../series/nexus-nights/issues/issue-01/assets/comic-pages/page-01-cover.png",
+      "pdf": "../series/nexus-nights/issues/issue-01/output/pdf/nexus-nights-issue-01-tourist-processing.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../series/nexus-nights/issues/issue-01/assets/comic-pages/page-01-cover.png",
+          "alt": "Tourist Processing comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../series/nexus-nights/issues/issue-01/assets/comic-pages/page-02.png",
+          "alt": "Tourist Processing comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../series/nexus-nights/issues/issue-01/assets/comic-pages/page-03.png",
+          "alt": "Tourist Processing comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../series/nexus-nights/issues/issue-01/assets/comic-pages/page-04.png",
+          "alt": "Tourist Processing comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../series/nexus-nights/issues/issue-01/assets/comic-pages/page-05.png",
+          "alt": "Tourist Processing comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../series/nexus-nights/issues/issue-01/assets/comic-pages/page-06.png",
+          "alt": "Tourist Processing comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../series/nexus-nights/issues/issue-01/assets/comic-pages/page-07.png",
+          "alt": "Tourist Processing comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../series/nexus-nights/issues/issue-01/assets/comic-pages/page-08.png",
+          "alt": "Tourist Processing comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "series": {
+        "slug": "nexus-nights",
+        "title": "Nexus Nights",
+        "summary": "Travelers buy one-night superhero experiences in Nexus City, where every random power ticket comes with a costume, a real mission, and consequences too dangerous for the brochure.",
+        "url": "series/nexus-nights/"
+      },
+      "issueNumber": 1,
+      "issueLabel": "Issue #1 of Nexus Nights",
+      "url": "comics/nexus-nights-issue-01/"
     }
   ]
 }
