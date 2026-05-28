@@ -21,3 +21,14 @@
 - New settings: None.
 - New key items: None.
 - Reference images added: None.
+
+## Issue #3: The Teacher's Crown
+
+- Folder: `series/starborn-sisters/issues/issue-03/`
+- Logline: Princess Veyla asks Queen Amazoness to teach the galaxy instead of waging war, forcing Amazoness to choose a future beyond the island and provoking her advisor's warrior-first challenge to the crown.
+- Plot summary: Continuing from Veyla's proposal in Issue #2, Queen Amazoness says the Amazons cannot wage an intergalactic war, but Veyla argues that the universe needs teachers more than another army. Veyla explains that Amazoness's knowledge of Earth's plants transformed her powers, and that powerful alien women across the galaxy could defend their worlds if given the same kind of teaching. Amazoness agrees and announces she will pass the crown to her daughter, Princess Amazoness, rather than split her attention between the island and the universe. High Advisor Lysandra objects that the princess is too young and demands the chance to fight her for the crown. Amazoness rejects the challenge as no different from the Galactic Empire's rule by strength and declares that the true calling of the Amazons is to teach. Lysandra storms away into the island, while Amazoness tells Veyla that her daughter left to learn the world beyond the island and that the crown will finally bring her home.
+- Continuity changes: Amazoness commits to an interstellar teaching mission that points directly toward Starborn Academy. Princess Amazoness is named as heir to the Amazon crown. High Advisor Lysandra breaks with Amazoness over warrior tradition versus teaching.
+- New characters: Princess Amazoness, High Advisor Lysandra.
+- New settings: None.
+- New key items: Crown of the Amazons.
+- Reference images added: `princess-amazoness-character.png`, `high-advisor-lysandra-character.png`, `crown-of-the-amazons-key-item.png`.

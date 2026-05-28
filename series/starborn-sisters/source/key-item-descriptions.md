@@ -20,3 +20,10 @@
 - Visual identifiers: red angular star-claw emblem stamped into dark metal armor, banners, ship plating, and weapons; harsh geometric lines that suggest conquest and hierarchy.
 - Continuity notes: Marks warriors and equipment belonging to the Galactic Empire.
 - Reference image: `../reference-images/galactic-empire-insignia-key-item.png`
+
+## Key Item: Crown of the Amazons
+
+- First appears: Issue #3, "The Teacher's Crown"
+- Visual identifiers: ancient gold circlet with bronze laurel points, small red gemstones, engraved wave-and-star motifs, subtle magical glow, worn on Queen Amazoness's brow and intended for Princess Amazoness.
+- Continuity notes: Symbolizes stewardship, teaching, and responsibility rather than rule by conquest. Queen Amazoness's decision to pass it down creates the first major internal conflict of the series.
+- Reference image: `../reference-images/crown-of-the-amazons-key-item.png`

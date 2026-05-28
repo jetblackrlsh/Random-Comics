@@ -38,3 +38,6 @@ Science-fiction superhero action-adventure with anthology flexibility, interstel
 - The lesson of Issue #1 is the seed of Starborn Academy: isolated worlds can grow stronger by studying one another and sharing knowledge.
 - The Galactic Empire is not primarily trying to destroy powerful young women; it wants to recruit, dominate, or break them into service.
 - The island's magical invisibility barrier can hide the Amazons from ordinary sight, but it is not absolute against advanced pursuit or persistent tracking.
+- Issue #3 clarifies that Amazon culture is not only martial. The Amazons preserve knowledge, teach strategy, and can reshape the galaxy through education rather than conquest.
+- Queen Amazoness intends to pass the crown to her daughter, Princess Amazoness, so she can help build a wider interstellar teaching mission.
+- High Advisor Lysandra represents an older warrior-first tradition that believes authority must be earned through battle.
