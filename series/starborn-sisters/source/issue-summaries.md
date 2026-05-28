@@ -32,3 +32,14 @@
 - New settings: None.
 - New key items: Crown of the Amazons.
 - Reference images added: `princess-amazoness-character.png`, `high-advisor-lysandra-character.png`, `crown-of-the-amazons-key-item.png`.
+
+## Issue #4: Through the Broken Belt
+
+- Folder: `series/starborn-sisters/issues/issue-04/`
+- Logline: Queen Amazoness and Princess Veyla survive an asteroid field by joining tactical knowledge with alien piloting, while Princess Amazoness reaches home only to be attacked by Lysandra for a crown she does not even want.
+- Plot summary: Princess Amazoness sails through the invisibility barrier just as Queen Amazoness and Princess Veyla launch from Amazon Island in a rebuilt two-seat escape pod. Amazoness smiles at her daughter's return, then worries about the change awaiting both of them. Princess Amazoness receives no welcome party; Lysandra attacks her boat before it reaches shore, and their sword clash sends a shockwave across the water. In space, Veyla guides the pod toward a wormhole route, but a broken asteroid belt blocks the path. Amazoness cannot leap out and fight in space, and the pod has no weapons, so she turns her warrior perception into strategy. On the shore, Princess Amazoness knocks Lysandra back and admits she does not want to be queen, arguing that Amazon Island is a fishbowl where the Amazons study the world without truly living in it. Amazoness coaches Veyla through the asteroids, and together they reach the wormhole while the island conflict remains unresolved.
+- Continuity changes: Amazoness begins learning how to teach and strategize beyond the physical battlefield. Veyla and Amazoness prove that their strengths work best in partnership. Princess Amazoness returns to Amazon Island but rejects the assumption that she desires the crown. Lysandra is shaken by the heir's refusal, though the challenge to island authority continues.
+- New characters: None.
+- New settings: None.
+- New key items: Repaired Two-Seat Escape Pod.
+- Reference images added: `repaired-two-seat-escape-pod-key-item.png`.
