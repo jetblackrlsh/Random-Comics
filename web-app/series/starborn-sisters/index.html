@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="../../">
+    <!-- APP_META_START -->
+    <title>Starborn Sisters | Random Comics</title>
+    <meta name="description" content="Superpowered alien girls from different planets attend an intergalactic college for aspiring superheroes, where they learn the cosmos, master their abilities, and band together...">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://jetblackrlsh.github.io/Random-Comics/web-app/series/starborn-sisters/">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Random Comics">
+    <meta property="og:title" content="Starborn Sisters | Random Comics">
+    <meta property="og:description" content="Superpowered alien girls from different planets attend an intergalactic college for aspiring superheroes, where they learn the cosmos, master their abilities, and band together...">
+    <meta property="og:url" content="https://jetblackrlsh.github.io/Random-Comics/web-app/series/starborn-sisters/">
+    <meta property="og:image" content="https://jetblackrlsh.github.io/Random-Comics/web-app/assets/site-background.png">
+    <meta property="og:image:alt" content="Starborn Sisters | Random Comics cover art">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Starborn Sisters | Random Comics">
+    <meta name="twitter:description" content="Superpowered alien girls from different planets attend an intergalactic college for aspiring superheroes, where they learn the cosmos, master their abilities, and band together...">
+    <meta name="twitter:image" content="https://jetblackrlsh.github.io/Random-Comics/web-app/assets/site-background.png">
+    <meta name="twitter:image:alt" content="Starborn Sisters | Random Comics cover art">
+    <link rel="alternate" type="application/rss+xml" title="Random Comics RSS Feed" href="https://jetblackrlsh.github.io/Random-Comics/web-app/rss.xml">
+    <!-- APP_META_END -->
+    <!-- STRUCTURED_DATA_START -->
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"CreativeWorkSeries","name":"Starborn Sisters","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/series/starborn-sisters/","description":"Superpowered alien girls from different planets attend an intergalactic college for aspiring superheroes, where they learn the cosmos, master their abilities, and band together against the Galactic Empire.","hasPart":[{"@type":"ComicIssue","name":"The First Starfall","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/comics/starborn-sisters-issue-01/","issueNumber":1,"position":1,"datePublished":"2026-05-28","image":"https://jetblackrlsh.github.io/Random-Comics/series/starborn-sisters/issues/issue-01/assets/comic-pages/page-01-cover.png"}],"isPartOf":{"@type":"WebSite","name":"Random Comics","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/"}}</script>
+    <!-- STRUCTURED_DATA_END -->
+    <link rel="preload" href="assets/site-background.png" as="image">
+    <link rel="icon" href="assets/random-comics-logo.png">
+    <link rel="sitemap" type="application/xml" href="sitemap.xml">
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body data-initial-route="series:starborn-sisters">
+    <div class="background-art" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="brand" href="./" data-route="home" aria-label="Random Comics home">
+        <img src="assets/random-comics-logo.png" alt="Random Comics">
+      </a>
+      <nav class="top-nav" aria-label="Primary navigation">
+        <a href="./" data-route="home">Read</a>
+        <a href="about/" data-route="about">About</a>
+        <a class="follow-link" href="follow/" data-route="follow">Follow</a>
+        <a href="other-comics/" data-route="other-comics">Other Comics</a>
+        <a class="review-link" href="https://docs.google.com/forms/d/e/1FAIpQLSftkXOkOSMjwOXjS4pFpF81lE4lF02NcWHECy4tesJy9V-9Dg/viewform?usp=publish-editor" target="_blank" rel="noopener">Review</a>
+        <a class="support-link" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="reader-layout" id="readerView">
+        <aside class="control-panel" aria-label="Comic controls">
+          <div class="intro-copy">
+            <h1>Random Comics</h1>
+            <p>Browse standalone stories and series issues, read vertically, share a favorite issue, or download it for later.</p>
+          </div>
+
+          <a class="follow-cta" href="follow/" data-route="follow">Follow for updates</a>
+
+          <label class="search-wrap" for="comicSearch">
+            <span>Search by title, date, or series</span>
+            <input id="comicSearch" type="search" autocomplete="off" placeholder="Try 2026, Deca-Form, or a series">
+          </label>
+
+          <div class="jump-actions" aria-label="Jump to comic">
+            <button type="button" id="earliestButton">Earliest</button>
+            <button type="button" id="latestButton">Latest</button>
+          </div>
+
+          <div class="comic-list" id="comicList" aria-label="Comics"></div>
+        </aside>
+
+        <article class="reader-panel" aria-live="polite">
+          <div class="reader-toolbar">
+            <div>
+              <p class="publish-date" id="comicDate"></p>
+              <h2 id="comicTitle">Loading comics...</h2>
+            </div>
+            <div class="reader-actions" aria-label="Selected comic actions">
+              <button class="icon-button reader-mode-button" type="button" id="readerModeButton" aria-pressed="false">Reader Mode</button>
+              <a class="icon-button" id="downloadButton" href="#" download>Download</a>
+              <button class="icon-button" type="button" id="shareButton">Share</button>
+              <a class="icon-button review" href="https://docs.google.com/forms/d/e/1FAIpQLSftkXOkOSMjwOXjS4pFpF81lE4lF02NcWHECy4tesJy9V-9Dg/viewform?usp=publish-editor" target="_blank" rel="noopener">Review</a>
+              <a class="icon-button support" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+            </div>
+          </div>
+          <p class="comic-summary" id="comicSummary"></p>
+          <div class="page-strip" id="pageStrip"></div>
+        </article>
+      </section>
+
+      <section class="about-view" id="aboutView" hidden>
+        <div class="about-copy">
+          <h1>About Random Comics</h1>
+          <p>Random Comics is a home for standalone one-shots, strange experiments, and comic series that grow beyond a single issue.</p>
+          <p>Some comics are based on dreams. Some come from sudden shower thoughts, weird news, superhero concepts, game-inspired ideas, or random sparks of imagination that demanded to become something real. Some ideas only need one finished comic. Others may build into recurring characters, settings, and issue-to-issue continuity.</p>
+          <p>The comics collected here may vary in tone, style, length, format, and genre. You might find superhero action, sci-fi weirdness, dream logic, horror, comedy, mythic strangeness, standalone stories, or the beginning of a larger series.</p>
+          <p>Think of this as a creative sketchbook turned into a comic archive: a place where spontaneous ideas can become finished stories, whether they stand alone or keep expanding.</p>
+          <p>Not every comic needs a universe.</p>
+          <p>But when a strange little story grows into one, Random Comics has room for that too.</p>
+        </div>
+      </section>
+
+      <section class="follow-view" id="followView" hidden>
+        <div class="follow-copy">
+          <h1>Follow Random Comics</h1>
+          <p>Get new comic releases by email when the archive updates.</p>
+          <div class="followit--follow-form-container" attr-a attr-b attr-c attr-d attr-e attr-f>
+            <form action="https://api.follow.it/subscription-form/aGlRcUxKVXNNVCtnVTVNbnNwaERaczZ4WFQ4Um1GdFY2cm9wSmhKSGhKdi9MUE1TWk9VU3k2U3N0TnRZUkhkY3JtUG1jUk5aUzJBUUtQUFFValBaOHlsT3AwRlQ2MGplWGJ2d0g5aEhhR045eGFVZCt1MExpYllSWlRvYW5FRXV8RWF4OWhNaXY2WTRJZHQ1UzY4aGJmYlU2a1QrVkRDT2xWekVVNytaQTJoVT0=/8" method="post">
+              <div class="form-preview">
+                <div class="preview-heading">
+                  <h5>Get new comics by email</h5>
+                </div>
+                <div class="preview-input-field">
+                  <input type="email" name="email" required placeholder="Enter your email" spellcheck="false">
+                </div>
+                <div class="preview-submit-button">
+                  <button type="submit">Subscribe</button>
+                </div>
+              </div>
+            </form>
+            <a href="https://follow.it" class="powered-by-line">Powered by <img src="https://follow.it/images/colored-logo.svg" alt="follow.it" height="17"></a>
+          </div>
+        </div>
+      </section>
+
+      <section class="other-comics-view" id="otherComicsView" hidden>
+        <div class="other-comics-copy">
+          <h1>Other Comics</h1>
+          <p>Read more comic projects from Nicholas Benson.</p>
+          <div class="other-comics-grid" aria-label="Other comics">
+            <a class="comic-site-card" href="https://planet-man.randomcomics.art/" target="_blank" rel="noopener">
+              <span>Planet-Man Comics</span>
+              <small>Superhero comic adventures and series releases.</small>
+            </a>
+            <a class="comic-site-card" href="https://dreamcomics.randomcomics.art/" target="_blank" rel="noopener">
+              <span>Dream Comics</span>
+              <small>Dream-inspired comics and surreal story experiments.</small>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <!-- SEO_CONTENT_START -->
+      <section class="seo-content" aria-label="Starborn Sisters series details">
+        <h2>Starborn Sisters</h2>
+        <p>Superpowered alien girls from different planets attend an intergalactic college for aspiring superheroes, where they learn the cosmos, master their abilities, and band together against the Galactic Empire.</p>
+        <h3>Characters</h3><p>Character Descriptions Character: Queen Amazoness - First appears: Issue 1, &quot;The First Starfall&quot; - Role: protagonist, queen of the Amazons, future founder of Starborn Academy. - Visual identifiers: powerful athletic woman in her 30s with warm brown skin, dark curly hair braided into a crown, steady dark eyes, gold circlet, bronze-and-white Amazon battle armor, red cloak, engraved bracers, spear or short sword, calm commanding posture. - Continuity notes: Begins Issue 1 as Earth's hidden Amazon queen. Her first alien encounter inspires her belief that worlds become stronger by studying one another. - Reference image: ../reference-images/queen-amazoness-character.png Character: Princess Veyla - First appears: Issue 1, &quot;The First Starfall&quot; - Role: alien princess, refugee leader, plant-powered future ally. - Visual identifiers: gentle alien woman in her early 20s with luminous teal skin, soft silver-white hair in loose waves, large violet eyes, faint bioluminescent freckles, leaf-vein markings along her hands and neck, flowing pale green and pearl diplomatic gown, delicate vine jewelry, frightened but compassionate expression. - Continuity notes: Leader from a conquered world fleeing the Galactic Empire. She controls plants but initially believes her power is not suited for combat until Amazoness teaches her to understand unfamiliar forms of life. - Reference image: ../reference-images/princess-veyla-character.png Character: Commander Grax Vorn - First appears: Issue 1, &quot;The First Starfall&quot; - Role: antagonist, Galactic Empire warrior. - Visual identifiers: towering alien warrior with charcoal-gray armored hide, tusk-like cheek ridges, glowing ember eyes, bald ridged skull, heavy black imperial armor, red chest insignia, thruster boots, scarred gauntlets, predatory forward-leaning posture. - Continuity notes: Member of the Galactic Empire adapted for space travel and able to survive without breathing air. He hunts Princess Veyla to force submission after her planet's fall. - Reference image: ../reference-images/commander-grax-vorn-character.png Character: The Amazons - First appears: Issue 1, &quot;The First Starfall&quot; - Role: supporting warriors and citizens of Amazon Island. - Visual identifiers: diverse women warriors with bronze armor, white linen tunics, red or gold sashes, braided or tied-back hair, magical spears, shields, bows, and alert defensive formations. - Continuity notes: They welcome frightened women to their island but defend the barrier and their queen without hesitation. - Reference image: ../reference-images/amazon-warriors-character.png</p>
+        <h3>Settings</h3><p>Setting Descriptions Setting: Amazon Island Shore - First appears: Issue 1, &quot;The First Starfall&quot; - Visual identifiers: hidden island shoreline with turquoise water, white sand, black volcanic rocks, lush palms, flowering vines, bronze watchtowers, ancient marble stairs, and a faint shimmering invisibility barrier over the ocean. - Continuity notes: The island is hidden from the outside world by magic. Princess Veyla's escape pod breaches the barrier and crashes on the shore, creating Earth's first direct contact with the Galactic Empire conflict. - Reference image: ../reference-images/amazon-island-shore-setting.png Setting: Starborn Academy - First appears: Future series setting; established in series premise. - Visual identifiers: massive space-station campus at a wormhole nexus, panoramic windows showing colorful cosmic tunnels, dorm modules, classrooms, cafeteria rings, training chambers, holographic simulation arenas, and students from many alien species moving through bright practical corridors. - Continuity notes: Founded by Queen Amazoness after the events begun in Issue 1. It becomes the central school for aspiring heroines across the universe. - Reference image: ../reference-images/starborn-academy-setting.png</p>
+        <h3>Key Items</h3><p>Key Item Descriptions Key Item: Princess Veyla's Escape Pod - First appears: Issue 1, &quot;The First Starfall&quot; - Visual identifiers: pearlescent teardrop-shaped escape pod with green sensor lights, cracked transparent canopy, vine-like alien circuitry, scorched hull seams, emergency beacon glow, and sand-and-seawater damage after impact. - Continuity notes: The pod scans Earth for powerful allies, detects the Amazons through the magical barrier, and crashes onto Amazon Island's shore. - Reference image: ../reference-images/princess-veylas-escape-pod-key-item.png Key Item: Amazon Island Invisibility Barrier - First appears: Issue 1, &quot;The First Starfall&quot; - Visual identifiers: translucent curtain of bent sunlight over the ocean, subtle gold motes, mirrored waves, distorted horizon line, and magical ripples when spacecraft or warriors pass through it. - Continuity notes: The barrier hides Amazon Island from ordinary observation, but the escape pod and Commander Grax Vorn both eventually breach it. - Reference image: ../reference-images/amazon-island-invisibility-barrier-key-item.png Key Item: Galactic Empire Insignia - First appears: Issue 1, &quot;The First Starfall&quot; - Visual identifiers: red angular star-claw emblem stamped into dark metal armor, banners, ship plating, and weapons; harsh geometric lines that suggest conquest and hierarchy. - Continuity notes: Marks warriors and equipment belonging to the Galactic Empire. - Reference image: ../reference-images/galactic-empire-insignia-key-item.png</p>
+        <h3>Issue Summaries</h3><p>Issue Summaries Issue 1: The First Starfall - Folder: series/starborn-sisters/issues/issue-01/ - Logline: Before Starborn Academy exists, Queen Amazoness shelters an alien princess whose pursuit by the Galactic Empire turns Earth's hidden island into the first lesson of an interstellar heroic future. - Plot summary: Princess Veyla flees a Galactic Empire conquest in an escape pod that scans Earth for powerful allies and crashes through the Amazons' invisibility barrier. The Amazons surround the pod, but Queen Amazoness welcomes the frightened princess and learns that Commander Grax Vorn is hunting her. Veyla believes her plant powers are too gentle for battle, so Amazoness teaches her that Earth plants include thorns, poisons, and predators. When Grax breaches the barrier, Amazoness orders the Amazons to stand down and urges Veyla to use what she has learned. Veyla's poison flower fails because Grax does not breathe, and he knocks her back with a shockwave, ending the issue with Amazoness still confident that the princess can find another answer. - Continuity changes: Queen Amazoness makes first contact with alien life. Princess Veyla learns that studying another world can transform how a power is used. The Galactic Empire discovers that Earth has hidden defenders behind magical barriers. - New characters: Queen Amazoness, Princess Veyla, Commander Grax Vorn, the Amazons. - New settings: Amazon Island Shore, Starborn Academy. - New key items: Princess Veyla's Escape Pod, Amazon Island Invisibility Barrier, Galactic Empire Insignia. - Reference images added: queen-amazoness-character.png , princess-veyla-character.png , commander-grax-vorn-character.png , amazon-warriors-character.png , amazon-island-shore-setting.png , starborn-academy-setting.png , princess-veylas-escape-pod-key-item.png , amazon-island-invisibility-barrier-key-item.png , galactic-empire-insignia-key-item.png .</p>
+        <h3>Issues</h3>
+        <ul>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/starborn-sisters-issue-01/">The First Starfall</a> <span>2026-05-28 · 8 pages · Issue #1 of Starborn Sisters</span></li>
+        </ul>
+      </section>
+      <!-- SEO_CONTENT_END -->
+    </main>
+  </body>
+</html>
