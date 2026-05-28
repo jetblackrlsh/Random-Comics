@@ -43,3 +43,14 @@
 - New settings: None.
 - New key items: Repaired Two-Seat Escape Pod.
 - Reference images added: `repaired-two-seat-escape-pod-key-item.png`.
+
+## Issue #5: The Place Between Worlds
+
+- Folder: `series/starborn-sisters/issues/issue-05/`
+- Logline: Queen Amazoness reaches the Universal Nexus and questions how a floating wilderness can become a school, while Princess Amazoness turns Lysandra's failed challenge into the first test of a more open crown.
+- Plot summary: Queen Amazoness and Princess Veyla exit the wormhole into the Universal Nexus, a center-of-the-universe crossroads surrounded by wormhole routes and filled with organic and inorganic materials from countless worlds. Amazoness is stunned by its openness and confused by its purpose. On Amazon Island, Lysandra reels from Princess Amazoness calling the island a prison; Princess Amazoness insists hidden borders are still walls until the Amazons open themselves to the world. Lysandra drops her sword and wonders whether Queen Amazoness left to save the universe or escape the crown. Veyla lands the pod on a plant-covered floating landmass and explains that living plant life proves it is habitable and ideal for an academy. Princess Amazoness tells Lysandra that duty and escape can both be true, then helps her up and warns that Lysandra's rule would keep the island confined. Veyla explains that students need a neutral place to learn, not a capital controlled by politics or the Galactic Empire. Princess Amazoness accepts the crown's burden and asks Lysandra to be her advisor. In the Nexus, Veyla uses her plant powers to pull technology and other landmasses together, beginning Starborn Academy's first foundation.
+- Continuity changes: The Universal Nexus is established as the strategically neutral birthplace of Starborn Academy. Veyla begins physically building the academy from Nexus materials. Princess Amazoness accepts that she must carry the crown even though she does not want it. Lysandra begins shifting from challenger to possible advisor.
+- New characters: None.
+- New settings: Universal Nexus.
+- New key items: None.
+- Reference images added: `universal-nexus-setting.png`.
