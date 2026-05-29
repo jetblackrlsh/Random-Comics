@@ -27,3 +27,10 @@
 - Visual identifiers: Chunky compact rifle with gray-blue casing, circular emitter rings, vibration fins, small diagnostic lights, and a braced shoulder stock sized for Cyber's tactical armor.
 - Continuity notes: Emits super vibrations strong enough to crack Hell Queen's magical crystals, but Cyber is crystallized before he can finish breaking them.
 - Reference image: `../reference-images/cyber-character.png`
+
+## Key Item: The Ocularium Alien Supercomputer
+
+- First appears: Issue #3, "The God Who Turned Away"
+- Visual identifiers: Floating alien machine made of black glass rings, pearlescent metal ribs, nested lens-eyes, star-map holograms, and translucent data panels showing extinct languages and branching timelines.
+- Continuity notes: Radiant Vector uses the Ocularium to search for a way to empower humanity. It reveals the Great Unweaving, the ancient catastrophe that erased public magic from the world and sends him racing into Atlantis's past.
+- Reference image: `../reference-images/ocularium-alien-supercomputer-key-item.png`

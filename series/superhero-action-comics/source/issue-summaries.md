@@ -21,3 +21,14 @@
 - New settings: Crystal Siege Plaza; Hell Portal Threshold.
 - New key items: Hell Queen's Crystal Wristband; Cyber's Sonic Rifle.
 - Reference images added: `hell-queen-inferna-character.png`; `shapeshifter-wild-card-character.png`; `laser-light-character.png`; `cyber-character.png`; `captain-strategist-character.png`; `geomancer-character.png`; `hell-queen-crystal-wristband-key-item.png`; `crystal-siege-plaza-setting.png`.
+
+## Issue #3: The God Who Turned Away
+
+- Folder: `series/superhero-action-comics/issues/issue-03/`
+- Logline: Radiant Vector races into the past to preserve magic for all humanity, only to witness the fall of Atlantis and decide that unlimited power would destroy the world he hoped to save.
+- Plot summary: Exhausted by a world with too few heroes, Radiant Vector asks his alien supercomputer, the Ocularium, how humanity could be empowered to defend itself. The machine reveals the Great Unweaving, an ancient catastrophe that erased public magic from the world, and Radiant Vector races back in time to stop it. In ancient Atlantis, he finds a coastal city consumed by magical war, where wizards, witches, soldiers, and citizens all wield destructive spells. Arcane lightning eats away the city's edge until Atlantis begins drifting into the ocean. Radiant Vector wants to rescue the citizens who beg him from below, but he realizes that restoring universal magic would give the future the same power to destroy itself. He turns away and lets Atlantis sink. In the modern era, Atlantean mages remember only the myth of the god who abandoned them, believe he caused the sinking, and unite to hunt him.
+- Continuity changes: Introduces Radiant Vector, the Ocularium, Atlantis as a surviving underwater civilization, the Great Unweaving, and the Atlantean Mage Circle's vendetta against Radiant Vector.
+- New characters: Radiant Vector; The Atlantean Mage Circle.
+- New settings: Ancient Atlantis; Modern Underwater Atlantis.
+- New key items: The Ocularium Alien Supercomputer.
+- Reference images added: `radiant-vector-character.png`; `atlantean-mage-circle-character.png`; `ancient-atlantis-setting.png`; `ocularium-alien-supercomputer-key-item.png`.

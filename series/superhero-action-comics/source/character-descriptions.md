@@ -63,3 +63,19 @@
 - Visual identifiers: Powerful young heroine with dark skin, shaved sides and thick natural curls, green-and-stone-gray armored suit, heavy boots, stone bracers, floating pebbles orbiting her hands, and a grounded stance.
 - Continuity notes: One of Inferna's original defenders. Controls ordinary stone, concrete, and earth, but her power cannot destroy Hell Queen's magical crystal prisons.
 - Reference image: `../reference-images/geomancer-character.png`
+
+## Character: Radiant Vector
+
+- First appears: Issue #3, "The God Who Turned Away"
+- Role: protagonist, exhausted cosmic-speed superhero.
+- Visual identifiers: Black man in his early 30s, close-cropped hair, tired brown eyes, athletic build, cobalt-blue flight suit with white armored ribs, gold sunburst chest emblem, gold gauntlets and boots, faint starfield texture in the fabric, white-gold energy streaks around his hands and feet when moving, solemn protective posture.
+- Continuity notes: Flies, moves at impossible speed, can push velocity hard enough to pierce time, and carries the burden of protecting a planet with too few heroes. He allowed ancient Atlantis to sink after deciding that restoring universal magic would make the future more dangerous, a choice that modern Atlanteans misremember as divine betrayal.
+- Reference image: `../reference-images/radiant-vector-character.png`
+
+## Character: The Atlantean Mage Circle
+
+- First appears: Issue #3, "The God Who Turned Away"
+- Role: antagonist faction, ancient magical combatants and modern vengeance order.
+- Visual identifiers: Mixed group of wizards and witches from ancient Atlantis, sea-bronze armor over linen robes, turquoise and coral jewelry, shell-and-gold staffs, wet windblown hair, glowing blue-white runes on hands and faces, battle-worn expressions. Modern descendants wear darker submerged ceremonial armor with bioluminescent runes and ocean-weathered masks.
+- Continuity notes: In the ancient past, their rival houses helped destroy Atlantis through uncontrolled magical war. In the modern era, their descendants have set aside those rivalries because they believe Radiant Vector sank Atlantis and must be punished.
+- Reference image: `../reference-images/atlantean-mage-circle-character.png`

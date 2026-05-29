@@ -27,3 +27,17 @@
 - Visual identifiers: Red-black portal light, ember smoke, jagged shadow shapes, heat haze, infernal stone glimpsed beyond the portal, and a rejecting demonic force pushing Inferna back toward Earth.
 - Continuity notes: After the crystals are destroyed, Inferna tries to exile herself to Hell, but the underworld rejects her because her heart is too pure.
 - Reference image: None. Use Hell Queen / Inferna's character reference and page-specific prompt details.
+
+## Setting: Ancient Atlantis
+
+- First appears: Issue #3, "The God Who Turned Away"
+- Visual identifiers: White limestone terraces, cliffside harbors, bronze sea statues, turquoise tile roofs, canal bridges, mage towers, market streets, stormy blue ocean, and city edges cracking away from the mainland under magical fire.
+- Continuity notes: The city sank after a magical civil war ate away the coast. Its people survived beneath the ocean, and their descendants remember Radiant Vector as the sky-god who abandoned them or caused the fall.
+- Reference image: `../reference-images/ancient-atlantis-setting.png`
+
+## Setting: Modern Underwater Atlantis
+
+- First appears: Issue #3, "The God Who Turned Away"
+- Visual identifiers: Submerged ruins rebuilt into glowing coral-and-stone halls, bioluminescent blue runes, kelp banners, carved murals of Radiant Vector above the sinking city, pressure-dark ocean windows, and mage chambers lit by cold magic.
+- Continuity notes: Modern Atlantean mages use the ruins as a training ground and temple of vengeance against Radiant Vector.
+- Reference image: `../reference-images/ancient-atlantis-setting.png`
