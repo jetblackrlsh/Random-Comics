@@ -3,8 +3,8 @@
 ## Key Item: Light Lasso
 
 - First appears: Issue #1, "I Called Your Bluff"
-- Visual identifiers: Electric blue-white lasso made of living light, rope-like coils, bright sparks, realistic glow on hands and nearby dust, and a circular loop that can tighten around weapons, limbs, or machinery.
-- Continuity notes: The Light Lasso can yank objects away and transmit a disabling energy pulse when Super Cowboy focuses his mind through it.
+- Visual identifiers: Electric blue-white lasso made of living light, rope-like coils, bright sparks, realistic glow on hands and nearby dust or rain, floating blue particles, and a circular loop that can tighten around weapons, limbs, machinery, or high anchor points.
+- Continuity notes: The Light Lasso can yank objects away, let Super Cowboy swing from fixed anchors, transmit a disabling energy pulse when he focuses his mind through it, and awaken blue-eyed superhuman speed when danger demands escape. Issue #2 reveals that it formed from blue lightning particles in a storm-struck muddy desert puddle and saved Super Cowboy's life.
 - Reference image: `../reference-images/light-lasso-key-item.png`
 
 ## Key Item: Robo Rider Laser Pistol
