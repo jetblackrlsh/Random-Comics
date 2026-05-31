@@ -31,3 +31,11 @@
 - Visual identifiers: Thin older inventor in dusty lab clothes, cracked goggles, wild gray hair, leather apron, soot-stained gloves, and a jittery focus while working among brass tools, green power tubes, steam pipes, and half-built robot parts.
 - Continuity notes: The scientist operates beneath the desert sand and keeps building more dangerous Robo Rider units after each failure.
 - Reference image: `../reference-images/mad-scientist-character.png`
+
+## Character: Soul-Thief Wizard
+
+- First appears: Issue #3, "Stained Glass Souls"
+- Role: antagonist, wandering frontier sorcerer who steals innocent souls to fuel his magic.
+- Visual identifiers: Tall gaunt older man with ash-gray skin tone, sharp cheekbones, long white beard, narrow cruel eyes, black wide-brim preacher hat, tattered black frock coat over dusty dark robes, silver occult rings, bone charms, cracked leather boots, and a twisted broom of dark wood with straw bound by copper wire.
+- Continuity notes: The wizard can manipulate souls, bind a living hero's soul into enchanted glass, and imprison stolen child spirits as a magical battery. When the spirit prison opens in Issue #3, the stored souls escape and his active magic collapses.
+- Reference image: `../reference-images/soul-thief-wizard-character.png`

@@ -27,3 +27,24 @@
 - Visual identifiers: Secret tunnel deep beneath desert sand, timber supports, cables, steam pipes, green-lit workbenches, brass machinery, rail carts, discarded robot limbs, and a half-built Robo Rider frame.
 - Continuity notes: The mad scientist builds the next Robo Rider here after the first visible unit fails.
 - Reference image: `../reference-images/underground-robot-tunnel-setting.png`
+
+## Setting: Dustfall Church House
+
+- First appears: Issue #3, "Stained Glass Souls"
+- Visual identifiers: Small weathered frontier church at the edge of Dustfall, whitewashed wood gone gray with dust, simple bell tower, rough plank pews, brass oil lamps, pulpit, mourning wreaths, sunbeams through tall stained-glass windows, and desert mountains visible beyond the open doors.
+- Continuity notes: The Soul-Thief Wizard traps Super Cowboy inside an enchanted stained-glass window here, turning the church into a public crisis point as mourners, believers, skeptics, and Super Cowboy's supporters argue over whether to preserve or destroy the window.
+- Reference image: `../reference-images/dustfall-church-house-setting.png`
+
+## Setting: Stained Glass World
+
+- First appears: Issue #3, "Stained Glass Souls"
+- Visual identifiers: Endless supernatural realm made of floating stained-glass panes, cathedral-like black lead seams, jewel-toned red blue gold and green light, broken reflections of Dustfall, weightless shards, glowing dust, and warped silhouettes seen through glass.
+- Continuity notes: The realm exists inside or beyond the enchanted church window. Super Cowboy can see and hear the real church from within it, and deeper regions connect to the spirit world.
+- Reference image: `../reference-images/stained-glass-world-setting.png`
+
+## Setting: Wizard's Spiritual Prison
+
+- First appears: Issue #3, "Stained Glass Souls"
+- Visual identifiers: Dark supernatural prison of iron bars, cracked glass, suspended glowing soul lanterns, purple-black shadows, copper conduits, carved sigils, and rows of frightened child spirits held in translucent cells.
+- Continuity notes: The prison acts as a battery for the Soul-Thief Wizard's magic. Super Cowboy overcharges its lock with the Light Lasso in Issue #3, freeing the trapped spirits and breaking the wizard's power.
+- Reference image: `../reference-images/wizard-spiritual-prison-setting.png`

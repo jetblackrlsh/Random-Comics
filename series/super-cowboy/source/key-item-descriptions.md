@@ -20,3 +20,10 @@
 - Visual identifiers: Heavy rectangular gold bar with worn bank assay markings, dusty fingerprints, scratches, and warm reflections against Robo Rider's dark metal arm.
 - Continuity notes: The gold bar proves Robo Rider's real objective. Super Cowboy reads the robot's bluff because destroying the town would also destroy what the robot was built to steal.
 - Reference image: `../reference-images/stolen-gold-bar-key-item.png`
+
+## Key Item: Stained Glass Prison Window
+
+- First appears: Issue #3, "Stained Glass Souls"
+- Visual identifiers: Tall arched church window showing Super Cowboy in colored glass, blue armor pieces, brown duster shapes, white star chest emblem, electric blue lasso motif, black lead seams, faint moving eyes behind the blue mask, and hairline cracks glowing with spirit light.
+- Continuity notes: The Soul-Thief Wizard binds Super Cowboy's soul into this window. The window becomes a bridge between Dustfall church house, the stained-glass realm, and the spirit world; destroying it while Super Cowboy remains trapped could leave him lost forever.
+- Reference image: `../reference-images/stained-glass-prison-window-key-item.png`

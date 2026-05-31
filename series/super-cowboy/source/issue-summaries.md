@@ -21,3 +21,14 @@
 - New settings: Dustfall Sheriff Office.
 - New key items: None.
 - Reference images added: `dustfall-sheriff-office-setting.png`.
+
+## Issue #3: Stained Glass Souls
+
+- Folder: `series/super-cowboy/issues/issue-03/`
+- Logline: A soul-thief wizard traps Super Cowboy inside a stained-glass church window, forcing him to cross a spirit realm and free the stolen souls powering the wizard's magic.
+- Plot summary: The Soul-Thief Wizard escapes Dustfall on a broom with a little girl's soul while Super Cowboy is trapped inside a stained-glass church window. At the girl's funeral, her family thanks and condemns Super Cowboy in equal measure, and the town nearly turns on the window while his supporters block a rash attempt to destroy it. Inside the endless Stained Glass World, Super Cowboy realizes the wizard trapped his soul, meaning the window must touch the spirit world. He follows that logic deeper, defeats demonic spirits with the Light Lasso, refuses an angel's offer of heavenly rest, and reaches the wizard's spiritual prison. There he overloads the prison lock with the Light Lasso, frees the captive souls, breaks the wizard's active magic, and returns through the window holding the rescued girl's hand.
+- Continuity changes: Super Cowboy learns the Light Lasso can affect spirits and overload supernatural locks when focused through a soul-world connection. The Soul-Thief Wizard's soul prison is opened and his stored magical battery is destroyed, though the exact long-term status of the wizard remains unresolved after his power collapses.
+- New characters: Soul-Thief Wizard, stolen girl, angel, demonic spirits of the Damned.
+- New settings: Dustfall Church House, Stained Glass World, Wizard's Spiritual Prison.
+- New key items: Stained Glass Prison Window.
+- Reference images added: `soul-thief-wizard-character.png`, `dustfall-church-house-setting.png`, `stained-glass-world-setting.png`, `wizard-spiritual-prison-setting.png`, `stained-glass-prison-window-key-item.png`.
