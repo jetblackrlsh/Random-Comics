@@ -39,3 +39,11 @@
 - Visual identifiers: towering horned silhouette glimpsed through red-black portal fire, crown-like horns, broad armored shoulders, ember cracks across a massive chest, clawed hand pressing from the far side of reality.
 - Continuity notes: The Demon King is not released in issue #1. The partial glimpse establishes the stakes and should remain mysterious until the portal fully opens in a later issue.
 - Reference image: None yet; only a distorted portal silhouette appears in issue #1.
+
+## Character: Armored Cultist
+
+- First appears: Issue #2, "Armor Fed By Hell"
+- Role: surviving Hellgate cult engineer, power-armored battlefield antagonist
+- Visual identifiers: adult cultist hidden inside bulky blackened crimson demonic power armor, asymmetrical furnace-like chest core, horned helmet with narrow ember visor, clawed gauntlets, hydraulic limbs wrapped in occult chain, scorched cloak fragments, red-black portal smoke venting from armor seams.
+- Continuity notes: The cultist built the armor from foundry scrap, stolen military plating, and demonic energy leaking from the delayed Hell portal. The armor grows stronger as the portal widens, forcing Marcus to learn how to focus Faith Force into a concentrated hand blast.
+- Reference image: `../reference-images/armored-cultist-character.png`
