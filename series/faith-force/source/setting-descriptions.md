@@ -20,3 +20,10 @@
 - Visual identifiers: wide modern city boulevard turned battlefield, abandoned military vehicles, cracked asphalt, smoke columns, broken glass towers, emergency lights, red-black portal glow on the skyline, civilians evacuated, golden Faith Force sparks against demonic smoke.
 - Continuity notes: The armored cultist uses this urban front to overpower conventional armies and draw public fear toward the still-opening Hell portal. The street is badly damaged by the end of issue #2.
 - Reference image: `../reference-images/portal-siege-boulevard-setting.png`
+
+## Setting: God Tree Impact Zone
+
+- First appears: Issue #3, "The God Tree Ultimatum"
+- Visual identifiers: coastal plain split by immense glowing roots, a colossal pale tree rising into storm clouds, drained gray soil, wilted grass, floating stones, green life-force streams being pulled from the earth, red-black Hell portal glow on the far horizon, wind full of ash and pollen-like light.
+- Continuity notes: The God Tree is planted here by Seraphiel to drain Earth and destroy the planet before the Hell portal can fully open. The zone is restored when Marcus releases Gaia Green energy, but deep scars remain.
+- Reference image: `../reference-images/god-tree-impact-zone-setting.png`

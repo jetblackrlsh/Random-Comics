@@ -47,3 +47,11 @@
 - Visual identifiers: adult cultist hidden inside bulky blackened crimson demonic power armor, asymmetrical furnace-like chest core, horned helmet with narrow ember visor, clawed gauntlets, hydraulic limbs wrapped in occult chain, scorched cloak fragments, red-black portal smoke venting from armor seams.
 - Continuity notes: The cultist built the armor from foundry scrap, stolen military plating, and demonic energy leaking from the delayed Hell portal. The armor grows stronger as the portal widens, forcing Marcus to learn how to focus Faith Force into a concentrated hand blast.
 - Reference image: `../reference-images/armored-cultist-character.png`
+
+## Character: Seraphiel
+
+- First appears: Issue #3, "The God Tree Ultimatum"
+- Role: rogue angel, cosmic antagonist, fearful would-be savior
+- Visual identifiers: tall androgynous angel with luminous bronze-brown skin, stern beautiful face, silver-white eyes, long white-gold hair, six broad wings of white and ash-gray feathers, segmented white-gold battle armor, bare glowing feet hovering above ground, and a flaming Divine Fire Sword.
+- Continuity notes: Seraphiel fears the Demon King enough to sacrifice Earth by planting the God Tree. They are not malicious, but their willingness to destroy the planet makes them an enemy. Seraphiel is blasted away from Earth by Gaia Green energy in issue #3 and may return changed by failure.
+- Reference image: `../reference-images/seraphiel-character.png`

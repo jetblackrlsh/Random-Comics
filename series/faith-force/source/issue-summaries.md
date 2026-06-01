@@ -21,3 +21,14 @@
 - New settings: Portal-Siege Boulevard.
 - New key items: Demonic Power Armor, Focused Faith Force Blast.
 - Reference images added: `armored-cultist-character.png`, `portal-siege-boulevard-setting.png`, `demonic-power-armor-key-item.png`, `focused-faith-force-blast-key-item.png`.
+
+## Issue #3: The God Tree Ultimatum
+
+- Folder: `series/faith-force/issues/issue-03/`
+- Logline: A rogue angel plants a world-killing God Tree to stop the Demon King, forcing Marcus to wield Earth's stolen life-force as Gaia Green energy.
+- Plot summary: The widening Hell portal attracts Seraphiel, a terrified angel who decides Earth must die so the Demon King cannot escape. Seraphiel plants the God Tree, which begins draining the planet's life-force through roots that split the land. Faith Force confronts the angel and refuses the sacrifice, but Seraphiel's Divine Fire Sword overwhelms their golden aura. Marcus sees a single Gaia Fruit grown from the stolen life-force and eats it in desperation. The fruit floods him with Gaia Green energy, magnifying Faith Force into a planetary shockwave that destroys the God Tree, drives Seraphiel away from Earth, and returns the stolen life-force.
+- Continuity changes: Seraphiel is introduced and defeated but not destroyed, the God Tree is shattered, Gaia Green energy manifests for the first time, and the Hell portal is left almost open.
+- New characters: Seraphiel.
+- New settings: God Tree Impact Zone.
+- New key items: God Tree, Gaia Fruit, Gaia Green Energy, Divine Fire Sword.
+- Reference images added: `seraphiel-character.png`, `god-tree-impact-zone-setting.png`, `god-tree-key-item.png`, `gaia-fruit-key-item.png`, `gaia-green-energy-key-item.png`, `divine-fire-sword-key-item.png`.
