@@ -27,3 +27,17 @@
 - Visual identifiers: coastal plain split by immense glowing roots, a colossal pale tree rising into storm clouds, drained gray soil, wilted grass, floating stones, green life-force streams being pulled from the earth, red-black Hell portal glow on the far horizon, wind full of ash and pollen-like light.
 - Continuity notes: The God Tree is planted here by Seraphiel to drain Earth and destroy the planet before the Hell portal can fully open. The zone is restored when Marcus releases Gaia Green energy, but deep scars remain.
 - Reference image: `../reference-images/god-tree-impact-zone-setting.png`
+
+## Setting: Cracked Earth Final Battlefield
+
+- First appears: Issue #4, "Guardian Angels Of Earth"
+- Visual identifiers: shattered open plain beneath a fully opened red-black Hell portal, cracked earth with emerald Gaia Green energy seeping from deep fissures, burning horizon, floating stone slabs, storm clouds torn by white-gold Divine Fire, distant ruined city silhouettes, shockwave rings in dust and ash.
+- Continuity notes: The Demon King's arrival fractures the planet here. The cracks expose Gaia Green life-force that lets Marcus complete his ultimate transformation.
+- Reference image: `../reference-images/cracked-earth-final-battlefield-setting.png`
+
+## Setting: Heavenly Knighting Ground
+
+- First appears: Issue #4, "Guardian Angels Of Earth"
+- Visual identifiers: restored battlefield under a clearing sky, red portal gone, soft white-gold shafts of light from clouds, faint green life returning through cracks, Seraphiel kneeling or standing with lowered sword, Faith Force receiving luminous wings.
+- Continuity notes: This is the healed aftermath of the final battle where Seraphiel recognizes Faith Force as Earth's guardian angels.
+- Reference image: `../reference-images/heavenly-knighting-ground-setting.png`

@@ -36,9 +36,9 @@
 
 - First appears: Issue #1, "The Portal That Would Not Close" as a partial silhouette beyond the portal
 - Role: looming series antagonist
-- Visual identifiers: towering horned silhouette glimpsed through red-black portal fire, crown-like horns, broad armored shoulders, ember cracks across a massive chest, clawed hand pressing from the far side of reality.
-- Continuity notes: The Demon King is not released in issue #1. The partial glimpse establishes the stakes and should remain mysterious until the portal fully opens in a later issue.
-- Reference image: None yet; only a distorted portal silhouette appears in issue #1.
+- Visual identifiers: towering horned demonic monarch with crown-like black horns, broad armored shoulders, obsidian-red natural armor, ember cracks across chest and arms, molten red eyes, clawed hands, smoky cape of torn shadow, and a chest wound that can regenerate.
+- Continuity notes: The Demon King is released in issue #4, proves immortal through regeneration, and is destroyed only when Marcus combines Faith Force, Divine Fire, and Gaia Green into an ultimate blast.
+- Reference image: `../reference-images/demon-king-character.png`
 
 ## Character: Armored Cultist
 
@@ -55,3 +55,11 @@
 - Visual identifiers: tall androgynous angel with luminous bronze-brown skin, stern beautiful face, silver-white eyes, long white-gold hair, six broad wings of white and ash-gray feathers, segmented white-gold battle armor, bare glowing feet hovering above ground, and a flaming Divine Fire Sword.
 - Continuity notes: Seraphiel fears the Demon King enough to sacrifice Earth by planting the God Tree. They are not malicious, but their willingness to destroy the planet makes them an enemy. Seraphiel is blasted away from Earth by Gaia Green energy in issue #3 and may return changed by failure.
 - Reference image: `../reference-images/seraphiel-character.png`
+
+## Character: Faith Force Guardian Angels
+
+- First appears: Issue #4, "Guardian Angels Of Earth"
+- Role: transformed final form of Marcus Hale, Serena Park, and Darius Cross after the Demon King is defeated
+- Visual identifiers: the existing Faith Force team with luminous white-gold wings, their normal outfits scorched and battle-worn, golden Faith Force around the heart and hands, emerald Gaia Green rootlike light around feet and legs, white-gold Divine Fire flares around shoulders, calm exhausted faces.
+- Continuity notes: Seraphiel rewards the team with wings and knights them as Earth's guardian angels after Marcus destroys the Demon King. The wings are a heavenly recognition, not a replacement for their mortal identities.
+- Reference image: `../reference-images/faith-force-guardian-angels-character.png`

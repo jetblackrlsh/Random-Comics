@@ -32,3 +32,14 @@
 - New settings: God Tree Impact Zone.
 - New key items: God Tree, Gaia Fruit, Gaia Green Energy, Divine Fire Sword.
 - Reference images added: `seraphiel-character.png`, `god-tree-impact-zone-setting.png`, `god-tree-key-item.png`, `gaia-fruit-key-item.png`, `gaia-green-energy-key-item.png`, `divine-fire-sword-key-item.png`.
+
+## Issue #4: Guardian Angels Of Earth
+
+- Folder: `series/faith-force/issues/issue-04/`
+- Logline: The Demon King emerges immortal, and Marcus must combine Faith Force, Divine Fire, and Gaia Green to destroy him before Earth splits apart.
+- Plot summary: The Hell portal finally opens and the Demon King steps into Earth, shrugging off martial arts, Faith Force strikes, and even the team's combined hand blast. The Demon King regenerates from a direct chest wound and defeats the heroes one by one. Seraphiel returns, humbled by issue #3, and gives Marcus the Divine Fire Sword while Serena and Darius channel their Faith Force into him. Marcus fights in a blazing Faith Force Divine Fire state, but the planet cracks from the battle and Gaia Green energy rises from beneath him. When Marcus is knocked into one of the cracks, he absorbs Gaia Green as well, achieves the Triple Force ultimate aura, and destroys the Demon King with a universe-shaking blast. Seraphiel rewards the team with wings and knights them as Earth's guardian angels.
+- Continuity changes: The Demon King is destroyed, Seraphiel is redeemed, Faith Force becomes Earth's guardian angels, and Marcus proves the full combination of Faith Force, Divine Fire, and Gaia Green can overcome immortal demonic power.
+- New characters: Faith Force Guardian Angels.
+- New settings: Cracked Earth Final Battlefield, Heavenly Knighting Ground.
+- New key items: Triple Force Ultimate Aura, Guardian Wings.
+- Reference images added: `demon-king-character.png`, `faith-force-guardian-angels-character.png`, `cracked-earth-final-battlefield-setting.png`, `heavenly-knighting-ground-setting.png`, `triple-force-ultimate-aura-key-item.png`, `guardian-wings-key-item.png`.

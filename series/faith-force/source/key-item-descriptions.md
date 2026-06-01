@@ -55,3 +55,17 @@
 - Visual identifiers: long white-gold flaming sword with clean holy fire, winglike flame flares near the guard, polished celestial metal, heat shimmer without smoke, blade too bright for ordinary eyes.
 - Continuity notes: Seraphiel uses this sword to overpower golden Faith Force in issue #3. The sword becomes important again when Seraphiel returns in issue #4.
 - Reference image: `../reference-images/divine-fire-sword-key-item.png`
+
+## Key Item: Triple Force Ultimate Aura
+
+- First appears: Issue #4, "Guardian Angels Of Earth"
+- Visual identifiers: Marcus surrounded by three fused energy systems: warm golden Faith Force around heart and fists, emerald Gaia Green rising from earth cracks through legs and back, and white-gold Divine Fire flaring from shoulders and arms like flame-wings.
+- Continuity notes: This ultimate state combines the team's Faith Force, Seraphiel's Divine Fire, and Earth's Gaia Green. Marcus uses it to destroy the Demon King with the mightiest blast in the universe.
+- Reference image: `../reference-images/triple-force-ultimate-aura-key-item.png`
+
+## Key Item: Guardian Wings
+
+- First appears: Issue #4, "Guardian Angels Of Earth"
+- Visual identifiers: luminous white-gold wings gifted to each Faith Force hero, feathered but made partly of light, edged with faint gold and emerald streaks, visible over their battle-worn human outfits.
+- Continuity notes: The wings are Seraphiel's reward and formal knighting of Faith Force as Earth's guardian angels after the Demon King is destroyed.
+- Reference image: `../reference-images/guardian-wings-key-item.png`
