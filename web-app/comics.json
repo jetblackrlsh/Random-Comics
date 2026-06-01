@@ -4416,6 +4416,62 @@
       "url": "comics/faith-force-issue-04/"
     },
     {
+      "slug": "manager-of-monsters",
+      "folder": "manager-of-monsters",
+      "title": "Manager Of Monsters",
+      "publishedDate": "2026-06-01",
+      "summary": "A mall store manager gets lost in an impossible storage room where monsters obey workplace rules, only to become their king and fall when he forgets the ordinary life that gave him power.",
+      "cover": "../manager-of-monsters/assets/comic-pages/page-01-cover.png",
+      "pdf": "../manager-of-monsters/output/pdf/manager-of-monsters.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../manager-of-monsters/assets/comic-pages/page-01-cover.png",
+          "alt": "Manager Of Monsters comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../manager-of-monsters/assets/comic-pages/page-02.png",
+          "alt": "Manager Of Monsters comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../manager-of-monsters/assets/comic-pages/page-03.png",
+          "alt": "Manager Of Monsters comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../manager-of-monsters/assets/comic-pages/page-04.png",
+          "alt": "Manager Of Monsters comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../manager-of-monsters/assets/comic-pages/page-05.png",
+          "alt": "Manager Of Monsters comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../manager-of-monsters/assets/comic-pages/page-06.png",
+          "alt": "Manager Of Monsters comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../manager-of-monsters/assets/comic-pages/page-07.png",
+          "alt": "Manager Of Monsters comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../manager-of-monsters/assets/comic-pages/page-08.png",
+          "alt": "Manager Of Monsters comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
+      "url": "comics/manager-of-monsters/"
+    },
+    {
       "slug": "superhero-action-comics-issue-04",
       "folder": "series/superhero-action-comics/issues/issue-04",
       "title": "Sky Iron Harvest",
