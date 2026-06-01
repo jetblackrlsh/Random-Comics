@@ -41,3 +41,17 @@
 - Visual identifiers: Submerged ruins rebuilt into glowing coral-and-stone halls, bioluminescent blue runes, kelp banners, carved murals of Radiant Vector above the sinking city, pressure-dark ocean windows, and mage chambers lit by cold magic.
 - Continuity notes: Modern Atlantean mages use the ruins as a training ground and temple of vengeance against Radiant Vector.
 - Reference image: `../reference-images/ancient-atlantis-setting.png`
+
+## Setting: New York Alien-Invasion Recovery Plaza
+
+- First appears: Issue #4, "Sky Iron Harvest"
+- Visual identifiers: Outdoor New York civic plaza with podium, press barricades, repaired pavement seams, temporary alien-invasion recovery banners without readable text, crowd-control fencing, emergency workers, city officials, glass towers, and lingering scorch marks from earlier battles.
+- Continuity notes: Atlas presents a million-dollar donation to the mayor here before the Sky Iron Android attacks and abducts him.
+- Reference image: None. Use Atlas, Big Apple, and page-specific New York charity event details.
+
+## Setting: Sky Iron Android Warehouse HQ
+
+- First appears: Issue #4, "Sky Iron Harvest"
+- Visual identifiers: Old industrial warehouse with high skylights, exposed sprinkler pipes, metal catwalks, operating table, tool benches, hanging cables, security monitors, roof missile turrets, and cold blue-violet Sky Iron glow reflecting on stained concrete.
+- Continuity notes: The android uses this warehouse to strap Atlas down and begin a mind-transfer procedure. The sprinkler system destroys the transfer helmet and rusts the android.
+- Reference image: `../reference-images/sky-iron-android-character.png`

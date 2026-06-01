@@ -79,3 +79,27 @@
 - Visual identifiers: Mixed group of wizards and witches from ancient Atlantis, sea-bronze armor over linen robes, turquoise and coral jewelry, shell-and-gold staffs, wet windblown hair, glowing blue-white runes on hands and faces, battle-worn expressions. Modern descendants wear darker submerged ceremonial armor with bioluminescent runes and ocean-weathered masks.
 - Continuity notes: In the ancient past, their rival houses helped destroy Atlantis through uncontrolled magical war. In the modern era, their descendants have set aside those rivalries because they believe Radiant Vector sank Atlantis and must be punished.
 - Reference image: `../reference-images/atlantean-mage-circle-character.png`
+
+## Character: Atlas
+
+- First appears: Issue #4, "Sky Iron Harvest"
+- Role: visiting superhero, charity donor, kidnap victim.
+- Visual identifiers: Tall extremely muscular white man in his mid-30s, square jaw, short wavy dark-brown hair, blue eyes, clean-shaven, noble but approachable expression. Deep royal-blue fitted superhero suit with brushed silver shoulder panels, silver belt and bracers, white starburst chest emblem, short red cape, reinforced boots, faint rescue scuffs.
+- Continuity notes: Atlas is superhumanly strong and normally impervious to damage. Sky Iron is his greatest weakness, causing pain, collapse, and loss of strength when near him.
+- Reference image: `../reference-images/atlas-character.png`
+
+## Character: Big Apple
+
+- First appears: Issue #4, "Sky Iron Harvest"
+- Role: resident New York City superhero, rescuer, tactical protagonist.
+- Visual identifiers: Athletic Black man in his early 30s, warm medium-dark skin, close-trimmed beard, focused brown eyes, compact powerful build. Deep forest-green tactical bodysuit with red armor plates at chest and forearms, subtle apple-shaped chest emblem, black utility belt with red apple-shaped gadgets, fitted dark-green cowl with small pointed brow fins, leafy green cape made of overlapping flexible leaf-like panels.
+- Continuity notes: Big Apple protects New York with practical rescue instincts, his cowl HUD, The Orchard satellite network, apple-shaped utility tools, and the Apple Cart super mobile.
+- Reference image: `../reference-images/big-apple-character.png`
+
+## Character: The Sky Iron Android
+
+- First appears: Issue #4, "Sky Iron Harvest"
+- Role: antagonist, android body thief, Atlas's captor.
+- Visual identifiers: Seven-foot imposing humanoid android with a bulky old-industrial dark gunmetal frame, exposed pistons, copper wiring, angular faceless head, narrow amber slit eyes, heavy squared shoulders, claw-like articulated hands, and orange-brown rust streaks along seams, bolts, knees, and shoulders. Its circular chest hatch opens to reveal a jagged cold blue-violet Sky Iron core in a containment ring.
+- Continuity notes: The android's digital mind is long-lived, but its rusting metal body is failing. It tries to transfer itself into Atlas's body before Big Apple destroys its helmet with sprinkler water.
+- Reference image: `../reference-images/sky-iron-android-character.png`
