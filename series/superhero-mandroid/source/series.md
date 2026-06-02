@@ -29,3 +29,4 @@ Fast superhero action with a pulpy science-fiction edge, clear tactical reversal
 - The inventor knows the hidden lab location and normally uses a key card, making any buzzer visit suspicious.
 - The hidden lab has defenses strong enough to resist low-level hacking, which is why the Pixel Demon must trick Superhero Mandroid into opening the door.
 - Issue #1 establishes that some portal demons can interface with technology and may begin targeting Superhero Mandroid's private life instead of waiting at portal sites.
+- The hidden lab includes a reinforced retractable launch skylight and vertical launch shaft that Superhero Mandroid can use when a portal opens above the city.

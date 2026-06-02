@@ -1064,17 +1064,29 @@
       "slug": "superhero-mandroid",
       "title": "Superhero Mandroid",
       "summary": "An android superhero built to repel interdimensional threats discovers that the enemies beyond the portals have learned how to hunt him at home.",
-      "characterDescriptions": "Character Descriptions Character: Superhero Mandroid - First appears: Issue 1, \"The Demon at the Door\" - Role: protagonist, android superhero designed to protect the world from interdimensional threats. - Visual identifiers: human-looking adult man with white synthetic skin, slicked-back brown hair, clean-shaven face, alert brown eyes, athletic build, red superhero unitard, yellow cape, yellow SHM chest insignia, and oversized mechanical green fists with panel seams, knuckle plating, and small thruster vents. His expression shifts from controlled suspicion to focused tactical anger. - Continuity notes: Can summon a rechargeable cyan-green hardlight holo shield and fire regenerating rapid rocket punches. He is used to fighting at portal sites, not being found in his hidden lab. - Reference image: ../reference-images/superhero-mandroid-character.png Character: The Inventor - First appears: Issue 1, \"The Demon at the Door\" - Role: supporting character, creator of Superhero Mandroid. - Visual identifiers: older human man in his early 60s with light skin, gray swept-back hair, tired blue eyes, narrow face, trimmed gray beard, wire-frame glasses, and a practical dark lab coat over a blue shirt. He wears a key card on a lanyard when working near the lab. - Continuity notes: He is away at a conference during Issue 1, but his identity is used by the Pixel Demon as a holographic disguise. He is one of the few people who knows the hidden lab exists. - Reference image: ../reference-images/inventor-character.png Character: Pixel Demon - First appears: Issue 1, \"The Demon at the Door\" - Role: antagonist, digital demon and technology infiltrator. - Visual identifiers: humanoid demon made of glowing blue pixels, fractured hardlight plates, flickering square particles, jagged horn-like pixel clusters, blank cyan eyes, clawed hands, and hologram tendrils that emerge from its back. Its body can break apart into an intangible cloud of blue pixels before reforming. - Continuity notes: Can mimic a person with a hologram disguise, form hardlight tendrils, interface with low-level technology, and become temporarily intangible by dispersing into pixels. Its hardlight body can still be cut by Superhero Mandroid's holo shield. - Reference image: ../reference-images/pixel-demon-character.png",
-      "settingDescriptions": "Setting Descriptions Setting: Superhero Mandroid's Hidden Lab - First appears: Issue 1, \"The Demon at the Door\" - Visual identifiers: concealed high-tech underground laboratory with reinforced steel walls, matte black equipment racks, portal-monitoring screens, green diagnostic lights, a heavy security door with peephole and buzzer panel, tool benches, charging equipment, and subtle damage from past missions. Lighting is practical and cool, with emergency red accents after attacks. - Continuity notes: The lab is secret and hardened against low-level hacking. The Pixel Demon can discover its location through technology traces but cannot hack the door or Superhero Mandroid directly. - Reference image: ../reference-images/hidden-lab-setting.png",
+      "characterDescriptions": "Character Descriptions Character: Superhero Mandroid - First appears: Issue 1, \"The Demon at the Door\" - Role: protagonist, android superhero designed to protect the world from interdimensional threats. - Visual identifiers: human-looking adult man with white synthetic skin, slicked-back brown hair, clean-shaven face, alert brown eyes, athletic build, red superhero unitard, yellow cape, yellow SHM chest insignia, and oversized mechanical green fists with panel seams, knuckle plating, and small thruster vents. His expression shifts from controlled suspicion to focused tactical anger. - Continuity notes: Can summon a rechargeable cyan-green hardlight holo shield and fire regenerating rapid rocket punches. He is used to fighting at portal sites, not being found in his hidden lab. - Reference image: ../reference-images/superhero-mandroid-character.png Character: The Inventor - First appears: Issue 1, \"The Demon at the Door\" - Role: supporting character, creator of Superhero Mandroid. - Visual identifiers: older human man in his early 60s with light skin, gray swept-back hair, tired blue eyes, narrow face, trimmed gray beard, wire-frame glasses, and a practical dark lab coat over a blue shirt. He wears a key card on a lanyard when working near the lab. - Continuity notes: He is away at a conference during Issue 1, but his identity is used by the Pixel Demon as a holographic disguise. He is one of the few people who knows the hidden lab exists. - Reference image: ../reference-images/inventor-character.png Character: Pixel Demon - First appears: Issue 1, \"The Demon at the Door\" - Role: antagonist, digital demon and technology infiltrator. - Visual identifiers: humanoid demon made of glowing blue pixels, fractured hardlight plates, flickering square particles, jagged horn-like pixel clusters, blank cyan eyes, clawed hands, and hologram tendrils that emerge from its back. Its body can break apart into an intangible cloud of blue pixels before reforming. - Continuity notes: Can mimic a person with a hologram disguise, form hardlight tendrils, interface with low-level technology, and become temporarily intangible by dispersing into pixels. Its hardlight body can still be cut by Superhero Mandroid's holo shield. - Reference image: ../reference-images/pixel-demon-character.png Character: Shutdown Sludge Creature - First appears: Issue 2, \"Monsters Beneath Our Streets\" - Role: antagonist, interdimensional portal creature. - Visual identifiers: massive purple sludge monster with a glossy tar-like body, rippling gelatinous folds, wet violet-black highlights, bulbous pseudopods, faint alien eyes or glowing cores buried under the surface, and a trail of dead electronics and darkened screens wherever it flows. It leaks downward from portals and spreads across streets like a living toxic flood. - Continuity notes: Any electronic device the creature touches immediately shuts down. Superhero Mandroid cannot safely punch or touch it directly because his android systems could also shut down. It feeds on or drains projected holo-shield energy. - Reference image: ../reference-images/shutdown-sludge-creature-character.png Character: Sewer Fatbergs - First appears: Issue 2, \"Monsters Beneath Our Streets\" - Role: environmental monster colony and unexpected city defenders. - Visual identifiers: sewer-dwelling masses of pale yellow-gray grease, black grime, wet trash, writhing organic texture, disease-slick surfaces, small pale larvae-like movement, and lumpy mound shapes clinging to tunnel walls and wastewater channels. They should look disgusting and dangerous without gore. - Continuity notes: Normally hidden beneath the city and handled by sewer workers, the fatbergs are diseased sludge-like urban monsters. In Issue 2, their contamination breaks down the alien purple sludge creature on contact. - Reference image: ../reference-images/sewer-fatbergs-character.png",
+      "settingDescriptions": "Setting Descriptions Setting: Superhero Mandroid's Hidden Lab - First appears: Issue 1, \"The Demon at the Door\" - Visual identifiers: concealed high-tech underground laboratory with reinforced steel walls, matte black equipment racks, portal-monitoring screens, green diagnostic lights, a heavy security door with peephole and buzzer panel, tool benches, charging equipment, a reinforced retractable launch skylight above a vertical launch shaft, and subtle damage from past missions. Lighting is practical and cool, with emergency red accents after attacks. - Continuity notes: The lab is secret and hardened against low-level hacking. The Pixel Demon can discover its location through technology traces but cannot hack the door or Superhero Mandroid directly. - Reference image: ../reference-images/hidden-lab-setting.png Setting: Mandroid's City - First appears: Issue 2, \"Monsters Beneath Our Streets\" - Visual identifiers: dense modern city with glass towers, older brick roofs, rooftop HVAC units, street grids, emergency vehicles, crowd-filled sidewalks, power lines, and a dramatic skyline that can be viewed from above. Portal light often reflects in windows and wet pavement. - Continuity notes: The city is one of Superhero Mandroid's primary protection zones. Portal threats can open above it, forcing him to consider civilian crowds, infrastructure, and collateral damage. - Reference image: ../reference-images/mandroids-city-setting.png Setting: City Power Plant - First appears: Issue 2, \"Monsters Beneath Our Streets\" - Visual identifiers: industrial urban power plant with concrete walls, transformer yards, steel lattice towers, warning lights, bundled power lines, cooling stacks, fenced perimeter, and electrical infrastructure close enough to city streets that a monster could reach it. - Continuity notes: If the Shutdown Sludge Creature reaches the plant, citywide power failure becomes likely. Superhero Mandroid creates a giant holo-shield dam to protect it. - Reference image: ../reference-images/city-power-plant-setting.png Setting: City Sewers - First appears: Issue 2, \"Monsters Beneath Our Streets\" - Visual identifiers: large underground sewer tunnels with arched concrete walls, flowing dark wastewater channels, maintenance walkways, rusted ladders, inspection lights, dripping pipes, and dense fatberg growths along the walls and waterline. - Continuity notes: The sewer system hides fatberg colonies beneath the city. In Issue 2, Superhero Mandroid redirects the alien sludge into the sewers, where the fatbergs decay it away. - Reference image: ../reference-images/city-sewers-setting.png",
       "keyItemDescriptions": "Key Item Descriptions Key Item: Rechargeable Holo Shield - First appears: Issue 1, \"The Demon at the Door\" - Visual identifiers: translucent cyan-green hardlight shield, usually forearm-sized to full torso-sized, curved with a faint hex-grid surface, bright rim, and pulsing battery-like segments that dim when overused. It looks like solid light projected from Superhero Mandroid's wrist hardware. - Continuity notes: The shield is made of hardlight and can block, slice, or sever other hardlight constructs. It needs recharge time if drained, but Issue 1 shows it has enough charge to cut the Pixel Demon's tendril and body. - Reference image: ../reference-images/rechargeable-holo-shield-key-item.png Key Item: Regenerating Rocket Fists - First appears: Issue 1, \"The Demon at the Door\" - Visual identifiers: oversized green mechanical fists with heavy knuckle plating, dark seams, compact thruster vents at the wrists, internal pistons, and green-white rocket exhaust when launched. The fists look physically heavy but fast once fired. - Continuity notes: Superhero Mandroid can fire rapid projectile rocket punches that regenerate or reconnect after launch. They are his signature blunt-force attack, but they are less useful against enemies that can become intangible. - Reference image: ../reference-images/regenerating-rocket-fists-key-item.png",
-      "issueSummaries": "Issue Summaries Issue 1: The Demon at the Door - Folder: series/superhero-mandroid/issues/issue-01/ - Logline: Superhero Mandroid lets a disguised visitor into his hidden lab and has to defeat a digital demon by turning its own hardlight body against it. - Plot summary: After returning from a portal mission, Superhero Mandroid hears his secret lab buzzer and sees his inventor through the peephole. The visitor's refusal to use a key card makes him suspicious, but he opens the door and is ambushed by a Pixel Demon wearing the inventor's image as a hologram. The demon reveals it found the lab by interfacing with low-level technology and plans to kill the inventor later. Superhero Mandroid realizes the demon cannot hack the lab or his android body, uses his rechargeable holo shield to block and sever its hardlight tendrils, then slices the demon apart before it can reveal who sent it. - Continuity changes: Portal enemies can find Superhero Mandroid first; the hidden lab remains secure against low-level hacking; the inventor is alive but now exposed as a likely future target. - New characters: Superhero Mandroid, The Inventor, Pixel Demon. - New settings: Superhero Mandroid's Hidden Lab. - New key items: Rechargeable Holo Shield, Regenerating Rocket Fists. - Reference images added: superhero-mandroid-character.png , inventor-character.png , pixel-demon-character.png , hidden-lab-setting.png , rechargeable-holo-shield-key-item.png , regenerating-rocket-fists-key-item.png .",
+      "issueSummaries": "Issue Summaries Issue 1: The Demon at the Door - Folder: series/superhero-mandroid/issues/issue-01/ - Logline: Superhero Mandroid lets a disguised visitor into his hidden lab and has to defeat a digital demon by turning its own hardlight body against it. - Plot summary: After returning from a portal mission, Superhero Mandroid hears his secret lab buzzer and sees his inventor through the peephole. The visitor's refusal to use a key card makes him suspicious, but he opens the door and is ambushed by a Pixel Demon wearing the inventor's image as a hologram. The demon reveals it found the lab by interfacing with low-level technology and plans to kill the inventor later. Superhero Mandroid realizes the demon cannot hack the lab or his android body, uses his rechargeable holo shield to block and sever its hardlight tendrils, then slices the demon apart before it can reveal who sent it. - Continuity changes: Portal enemies can find Superhero Mandroid first; the hidden lab remains secure against low-level hacking; the inventor is alive but now exposed as a likely future target. - New characters: Superhero Mandroid, The Inventor, Pixel Demon. - New settings: Superhero Mandroid's Hidden Lab. - New key items: Rechargeable Holo Shield, Regenerating Rocket Fists. - Reference images added: superhero-mandroid-character.png , inventor-character.png , pixel-demon-character.png , hidden-lab-setting.png , rechargeable-holo-shield-key-item.png , regenerating-rocket-fists-key-item.png . Issue 2: Monsters Beneath Our Streets - Folder: series/superhero-mandroid/issues/issue-02/ - Logline: When a purple shutdown sludge creature threatens the city power plant, Superhero Mandroid saves the city by redirecting the sky monster into the diseased fatbergs beneath the streets. - Plot summary: A portal opens above the city, and Superhero Mandroid launches from his hidden lab through the retractable skylight using his rocket fists. A purple sludge creature leaks from the portal and shuts down every electronic device it touches, making direct contact too dangerous for an android hero. The inventor warns by holo message that the monster will reach the city power plant unless Mandroid acts fast. Mandroid blocks the sludge with an oversized holo-shield dam, but the creature drains the shield's charge. Remembering a documentary about sewer fatbergs, he uses rocket fists to pulverize a moat into the street. When the shield dies, the sludge drains into the sewers, where diseased fatbergs decay it away. - Continuity changes: The hidden lab has a retractable launch skylight; Superhero Mandroid learns that some portal monsters can shut down electronics and drain holo-shield energy; the city sewers contain dangerous fatberg colonies that can also defend the city under the right conditions. - New characters: Shutdown Sludge Creature, Sewer Fatbergs. - New settings: Mandroid's City, City Power Plant, City Sewers. - New key items: None. - Reference images added: shutdown-sludge-creature-character.png , sewer-fatbergs-character.png , mandroids-city-setting.png , city-power-plant-setting.png , city-sewers-setting.png .",
       "referenceImages": [
+        {
+          "path": "../series/superhero-mandroid/reference-images/city-power-plant-setting.png",
+          "alt": "Superhero Mandroid reference image"
+        },
+        {
+          "path": "../series/superhero-mandroid/reference-images/city-sewers-setting.png",
+          "alt": "Superhero Mandroid reference image"
+        },
         {
           "path": "../series/superhero-mandroid/reference-images/hidden-lab-setting.png",
           "alt": "Superhero Mandroid reference image"
         },
         {
           "path": "../series/superhero-mandroid/reference-images/inventor-character.png",
+          "alt": "Superhero Mandroid reference image"
+        },
+        {
+          "path": "../series/superhero-mandroid/reference-images/mandroids-city-setting.png",
           "alt": "Superhero Mandroid reference image"
         },
         {
@@ -1090,14 +1102,23 @@
           "alt": "Superhero Mandroid reference image"
         },
         {
+          "path": "../series/superhero-mandroid/reference-images/sewer-fatbergs-character.png",
+          "alt": "Superhero Mandroid reference image"
+        },
+        {
+          "path": "../series/superhero-mandroid/reference-images/shutdown-sludge-creature-character.png",
+          "alt": "Superhero Mandroid reference image"
+        },
+        {
           "path": "../series/superhero-mandroid/reference-images/superhero-mandroid-character.png",
           "alt": "Superhero Mandroid reference image"
         }
       ],
       "url": "series/superhero-mandroid/",
-      "issueCount": 1,
+      "issueCount": 2,
       "issues": [
-        "superhero-mandroid-issue-01"
+        "superhero-mandroid-issue-01",
+        "superhero-mandroid-issue-02"
       ]
     },
     {
@@ -4600,6 +4621,67 @@
       "issueNumber": 4,
       "issueLabel": "Issue #4 of Superhero Action Comics",
       "url": "comics/superhero-action-comics-issue-04/"
+    },
+    {
+      "slug": "superhero-mandroid-issue-02",
+      "folder": "series/superhero-mandroid/issues/issue-02",
+      "title": "Monsters Beneath Our Streets",
+      "publishedDate": "2026-06-02",
+      "summary": "When a purple shutdown sludge creature threatens the city power plant, Superhero Mandroid saves the city by redirecting the sky monster into the diseased fatbergs beneath the streets.",
+      "cover": "../series/superhero-mandroid/issues/issue-02/assets/comic-pages/page-01-cover.png",
+      "pdf": "../series/superhero-mandroid/issues/issue-02/output/pdf/superhero-mandroid-issue-02-monsters-beneath-our-streets.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../series/superhero-mandroid/issues/issue-02/assets/comic-pages/page-01-cover.png",
+          "alt": "Monsters Beneath Our Streets comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../series/superhero-mandroid/issues/issue-02/assets/comic-pages/page-02.png",
+          "alt": "Monsters Beneath Our Streets comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../series/superhero-mandroid/issues/issue-02/assets/comic-pages/page-03.png",
+          "alt": "Monsters Beneath Our Streets comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../series/superhero-mandroid/issues/issue-02/assets/comic-pages/page-04.png",
+          "alt": "Monsters Beneath Our Streets comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../series/superhero-mandroid/issues/issue-02/assets/comic-pages/page-05.png",
+          "alt": "Monsters Beneath Our Streets comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../series/superhero-mandroid/issues/issue-02/assets/comic-pages/page-06.png",
+          "alt": "Monsters Beneath Our Streets comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../series/superhero-mandroid/issues/issue-02/assets/comic-pages/page-07.png",
+          "alt": "Monsters Beneath Our Streets comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../series/superhero-mandroid/issues/issue-02/assets/comic-pages/page-08.png",
+          "alt": "Monsters Beneath Our Streets comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "series": {
+        "slug": "superhero-mandroid",
+        "title": "Superhero Mandroid",
+        "summary": "An android superhero built to repel interdimensional threats discovers that the enemies beyond the portals have learned how to hunt him at home.",
+        "url": "series/superhero-mandroid/"
+      },
+      "issueNumber": 2,
+      "issueLabel": "Issue #2 of Superhero Mandroid",
+      "url": "comics/superhero-mandroid-issue-02/"
     },
     {
       "slug": "superhero-mandroid-issue-01",
