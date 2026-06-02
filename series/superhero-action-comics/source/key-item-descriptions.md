@@ -62,3 +62,10 @@
 - Visual identifiers: Heavy metal-and-glass helmet with cable bundles, cold blue-violet diagnostic lights, clamp arms, and a workbench control rig matching the android's warehouse hardware.
 - Continuity notes: Built to transfer the Sky Iron Android's digital mind into Atlas's living body. The device shorts out when Big Apple breaks the sprinkler pipe above it.
 - Reference image: `../reference-images/sky-iron-android-character.png`
+
+## Key Item: The Asterion Word
+
+- First appears: Issue #5, "The Soulforge Knight"
+- Visual identifiers: Blue-white glyph light around Wizard Orvan's staff and the Soulforge Knight's broken chest; the readable word "Asterion" appears only in generated caption text or short dialogue caption boxes.
+- Continuity notes: Wizard Orvan teaches this magic word to the wounded Soulforge Knight. Speaking it releases every knight-soul as a single white-blue beam, destroying Ashmaw and emptying the Soulforge Knight's armor.
+- Reference image: `../reference-images/wizard-orvan-character.png`

@@ -55,3 +55,17 @@
 - Visual identifiers: Old industrial warehouse with high skylights, exposed sprinkler pipes, metal catwalks, operating table, tool benches, hanging cables, security monitors, roof missile turrets, and cold blue-violet Sky Iron glow reflecting on stained concrete.
 - Continuity notes: The android uses this warehouse to strap Atlas down and begin a mind-transfer procedure. The sprinkler system destroys the transfer helmet and rusts the android.
 - Reference image: `../reference-images/sky-iron-android-character.png`
+
+## Setting: Kingdom of Veyr
+
+- First appears: Issue #5, "The Soulforge Knight"
+- Visual identifiers: Medieval mountain kingdom with blue-and-burgundy banners, gray stone castle towers, high throne hall windows, crowded market lanes, farms beyond the walls, practical armor and tools, and warm sunrise or late-afternoon light.
+- Continuity notes: Veyr falls into disarray after King Aldren loses Princess Mirabel and the royal knights. The kingdom is restored after Mirabel returns and Aldren resumes his duties.
+- Reference image: `../reference-images/kingdom-of-veyr-setting.png`
+
+## Setting: Far Lands Molten Moat
+
+- First appears: Issue #5, "The Soulforge Knight"
+- Visual identifiers: Ash-gray volcanic plain before a black stone dragon tower, a wide trench of molten rock and melted silver armor, scorched road edges, bent lances, blue-burgundy banners half-burned in ash, white-blue ghost lights over the liquid metal, smoke-red sky.
+- Continuity notes: Ashmaw creates the moat by melting the road in front of the charging army. Wizard Orvan later uses the moat's molten armor and knight spirits to create the Soulforge Knight.
+- Reference image: `../reference-images/far-lands-molten-moat-setting.png`

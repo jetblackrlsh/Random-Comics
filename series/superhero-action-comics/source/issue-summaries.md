@@ -43,3 +43,14 @@
 - New settings: New York Alien-Invasion Recovery Plaza; Sky Iron Android Warehouse HQ.
 - New key items: Sky Iron; The Apple Cart; The Orchard; Android Mind-Transfer Helmet.
 - Reference images added: `atlas-character.png`; `big-apple-character.png`; `sky-iron-android-character.png`; `sky-iron-key-item.png`; `apple-cart-key-item.png`; `the-orchard-key-item.png`.
+
+## Issue #5: The Soulforge Knight
+
+- Folder: `series/superhero-action-comics/issues/issue-05/`
+- Logline: After a Far Lands dragon destroys a thousand royal knights and kidnaps the princess, an anxious old wizard raises their molten armor and loyal spirits into a giant super knight who must choose sacrifice over survival.
+- Plot summary: Ashmaw kidnaps Princess Mirabel from the Kingdom of Veyr, and King Aldren sends a thousand knights to rescue her. The dragon hears their armor miles away and melts the road into a molten moat, killing the entire army as their armor and spirits sink together. Aldren's grief leaves Veyr in disarray, so Wizard Orvan travels alone to the moat and raises the molten metal and loyal knight-souls into the Soulforge Knight. The giant hero beats Ashmaw back at first, but the dragon tears open the knight's chest and the souls begin leaking away. Orvan steadies his panic, teaches the word "Asterion," and explains that it can release every soul as a beam. Ashmaw offers to weld the chest shut if the Soulforge Knight surrenders and leaves. The Soulforge Knight chooses the oath over a borrowed life, annihilates Ashmaw with the soul beam, and dies as Orvan rescues Mirabel and returns her to Aldren.
+- Continuity changes: Introduces Veyr, Ashmaw, Wizard Orvan, Princess Mirabel, King Aldren, the Soulforge Knight, and the Asterion Word.
+- New characters: King Aldren of Veyr; Princess Mirabel of Veyr; Wizard Orvan; Ashmaw, the Far Lands Dragon; The Soulforge Knight.
+- New settings: Kingdom of Veyr; Far Lands Molten Moat.
+- New key items: The Asterion Word.
+- Reference images added: `king-aldren-character.png`; `princess-mirabel-character.png`; `wizard-orvan-character.png`; `ashmaw-far-lands-dragon-character.png`; `soulforge-knight-character.png`; `kingdom-of-veyr-setting.png`; `far-lands-molten-moat-setting.png`.

@@ -103,3 +103,43 @@
 - Visual identifiers: Seven-foot imposing humanoid android with a bulky old-industrial dark gunmetal frame, exposed pistons, copper wiring, angular faceless head, narrow amber slit eyes, heavy squared shoulders, claw-like articulated hands, and orange-brown rust streaks along seams, bolts, knees, and shoulders. Its circular chest hatch opens to reveal a jagged cold blue-violet Sky Iron core in a containment ring.
 - Continuity notes: The android's digital mind is long-lived, but its rusting metal body is failing. It tries to transfer itself into Atlas's body before Big Apple destroys its helmet with sprinkler water.
 - Reference image: `../reference-images/sky-iron-android-character.png`
+
+## Character: King Aldren of Veyr
+
+- First appears: Issue #5, "The Soulforge Knight"
+- Role: grieving ruler and father of the kidnapped princess.
+- Visual identifiers: Elderly medieval king with weathered light skin, silver beard, tired blue eyes, gold circlet, heavy burgundy velvet robe over a chainmail collar, broad shoulders bent by grief, ornate but believable royal hall surroundings.
+- Continuity notes: Sends the army of Veyr after Ashmaw kidnaps Princess Mirabel. After the army dies in the molten moat, his grief causes the kingdom to fall into disarray until Mirabel returns.
+- Reference image: `../reference-images/king-aldren-character.png`
+
+## Character: Princess Mirabel of Veyr
+
+- First appears: Issue #5, "The Soulforge Knight"
+- Role: kidnapped princess whose rescue can restore the kingdom.
+- Visual identifiers: Young adult princess with warm brown skin, dark curly hair braided with small gold beads, green eyes, practical ivory-and-blue travel dress under a torn blue cloak, small silver pendant, brave but frightened posture.
+- Continuity notes: Kidnapped by Ashmaw and held in the dragon's tower until Wizard Orvan rescues her after the Soulforge Knight's sacrifice.
+- Reference image: `../reference-images/princess-mirabel-character.png`
+
+## Character: Wizard Orvan
+
+- First appears: Issue #5, "The Soulforge Knight"
+- Role: anxious old wizard, summoner, and rescuer.
+- Visual identifiers: Elderly Black wizard with deep wrinkles, short white beard, worried brown eyes, patched indigo robe, leather belt of glass vials and brass charms, twisted oak staff with a small blue-white crystal, stooped posture that straightens when casting.
+- Continuity notes: Raises the molten armor and loyal spirits of Veyr's slain knights into the Soulforge Knight. He steadies his panic with one deep breath and teaches the magic word "Asterion" for the knight's final soul beam.
+- Reference image: `../reference-images/wizard-orvan-character.png`
+
+## Character: Ashmaw, the Far Lands Dragon
+
+- First appears: Issue #5, "The Soulforge Knight"
+- Role: dragon kidnapper, territorial monster, and tempter.
+- Visual identifiers: Massive four-legged dragon with charcoal-black scales, ember-red cracks along the throat and chest, furnace-orange eyes, tattered bat wings, jagged horns swept back like burnt iron, scarred snout, molten saliva, and firelight reflecting from dark armored plates.
+- Continuity notes: Kidnaps Princess Mirabel, destroys the rescue army by melting the road into a molten moat, tears open the Soulforge Knight's chest, and offers to save the giant only in exchange for surrender.
+- Reference image: `../reference-images/ashmaw-far-lands-dragon-character.png`
+
+## Character: The Soulforge Knight
+
+- First appears: Issue #5, "The Soulforge Knight"
+- Role: giant super knight formed from molten armor and the spirits of the slain knights.
+- Visual identifiers: Colossal humanoid knight, thirty stories tall, body made of flowing molten silver-steel and fused medieval armor plates, glowing white-blue knight souls visible through seams, enormous cracked chest plate, crown-shaped helm crest made from spears, many ghostly armored faces faintly reflected inside the metal, heavy heroic stance.
+- Continuity notes: Formed by Wizard Orvan from the melted army of Veyr. Dies by releasing every knight-soul as a single white-blue beam that destroys Ashmaw.
+- Reference image: `../reference-images/soulforge-knight-character.png`
