@@ -21,3 +21,14 @@
 - New settings: Mandroid's City, City Power Plant, City Sewers.
 - New key items: None.
 - Reference images added: `shutdown-sludge-creature-character.png`, `sewer-fatbergs-character.png`, `mandroids-city-setting.png`, `city-power-plant-setting.png`, `city-sewers-setting.png`.
+
+## Issue #3: The Voice That Broke The Hall
+
+- Folder: `series/superhero-mandroid/issues/issue-03/`
+- Logline: Superhero Mandroid battles a parasite-controlled opera singer whose amplified voice turns the opera house itself into a weapon.
+- Plot summary: A portal opens inside the Grand Opera House and releases a brain parasite that clamps onto an opera singer's head like a living helmet. Under the parasite's control, the singer attacks the crowd with supernatural sonic blasts. Superhero Mandroid punches through the back wall of the theater, but the possessed singer uses her amplified voice to rocket over him, smash him into the seating area, and pin him down. The inventor warns that the parasite is amplifying the singer's natural vocal power. Mandroid tries to advance behind his holo shield, but the blast drains the shield before he can get close. He abandons the close-range plan and fires a rocket fist through the opposing sonic force, knocking the parasite from her head and freeing her.
+- Continuity changes: Superhero Mandroid learns that some interdimensional demons can control human minds and weaponize a host's existing abilities; the Grand Opera House is damaged by sonic blasts and rocket impacts; the opera singer survives and returns to normal.
+- New characters: Opera Singer, Brain Parasite.
+- New settings: Grand Opera House.
+- New key items: None.
+- Reference images added: `opera-singer-character.png`, `brain-parasite-character.png`, `grand-opera-house-setting.png`.

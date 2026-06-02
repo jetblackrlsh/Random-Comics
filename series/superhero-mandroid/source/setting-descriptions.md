@@ -27,3 +27,10 @@
 - Visual identifiers: large underground sewer tunnels with arched concrete walls, flowing dark wastewater channels, maintenance walkways, rusted ladders, inspection lights, dripping pipes, and dense fatberg growths along the walls and waterline.
 - Continuity notes: The sewer system hides fatberg colonies beneath the city. In Issue #2, Superhero Mandroid redirects the alien sludge into the sewers, where the fatbergs decay it away.
 - Reference image: `../reference-images/city-sewers-setting.png`
+
+## Setting: Grand Opera House
+
+- First appears: Issue #3, "The Voice That Broke The Hall"
+- Visual identifiers: ornate old opera house with red velvet seats, curved balconies, gold trim, frescoed ceiling, large chandelier, polished wooden stage, heavy burgundy curtains, orchestra pit, backstage brick and plaster walls, and enough structural depth that a rocket punch can break through the back wall into the theater.
+- Continuity notes: A portal opens inside the opera house during a performance, unleashing the brain parasite into a crowded civilian setting. Issue #3 leaves the theater damaged by sonic blasts, shattered seats, and a crater in the seating area.
+- Reference image: `../reference-images/grand-opera-house-setting.png`

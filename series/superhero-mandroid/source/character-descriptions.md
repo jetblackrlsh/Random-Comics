@@ -39,3 +39,19 @@
 - Visual identifiers: sewer-dwelling masses of pale yellow-gray grease, black grime, wet trash, writhing organic texture, disease-slick surfaces, small pale larvae-like movement, and lumpy mound shapes clinging to tunnel walls and wastewater channels. They should look disgusting and dangerous without gore.
 - Continuity notes: Normally hidden beneath the city and handled by sewer workers, the fatbergs are diseased sludge-like urban monsters. In Issue #2, their contamination breaks down the alien purple sludge creature on contact.
 - Reference image: `../reference-images/sewer-fatbergs-character.png`
+
+## Character: Opera Singer
+
+- First appears: Issue #3, "The Voice That Broke The Hall"
+- Role: civilian victim and temporary antagonist while controlled by the brain parasite.
+- Visual identifiers: adult woman opera singer in her late 30s with medium brown skin, elegant cheekbones, dark expressive eyes, black hair pinned in a formal stage updo, and a dramatic deep emerald opera gown with gold trim and structured shoulders. On stage she carries herself with trained posture and powerful breath control.
+- Continuity notes: The brain parasite amplifies her already powerful voice to supernatural force. After the parasite is removed, she returns to normal and is visibly relieved but shaken.
+- Reference image: `../reference-images/opera-singer-character.png`
+
+## Character: Brain Parasite
+
+- First appears: Issue #3, "The Voice That Broke The Hall"
+- Role: antagonist, demon parasite and mind-control threat.
+- Visual identifiers: alien demon parasite shaped like a living helmet, glossy dark crimson and black chitin, ribbed organic plates, small grasping tendrils, faint violet nerve lights, and a crown-like shell that clamps over a victim's head without covering the mouth. It looks parasitic and supernatural but non-gory.
+- Continuity notes: Can control a host's mind and amplify the host's voice into destructive sonic blasts. It is vulnerable to being knocked loose by a precise rocket punch.
+- Reference image: `../reference-images/brain-parasite-character.png`
