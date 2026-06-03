@@ -20,6 +20,7 @@ const els = {
   comicSearch: document.querySelector("#comicSearch"),
   earliestButton: document.querySelector("#earliestButton"),
   latestButton: document.querySelector("#latestButton"),
+  readerPanel: document.querySelector(".reader-panel"),
   comicDate: document.querySelector("#comicDate"),
   comicTitle: document.querySelector("#comicTitle"),
   comicSummary: document.querySelector("#comicSummary"),
@@ -275,6 +276,21 @@ function renderView() {
   }
 }
 
+function preferredScrollBehavior() {
+  return window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth";
+}
+
+function scrollAfterComicSelection() {
+  if (!window.matchMedia("(max-width: 980px)").matches || !els.readerPanel) {
+    window.scrollTo({ top: 0, behavior: preferredScrollBehavior() });
+    return;
+  }
+
+  const headerHeight = document.querySelector(".site-header")?.offsetHeight || 0;
+  const targetTop = els.readerPanel.getBoundingClientRect().top + window.scrollY - headerHeight - 12;
+  window.scrollTo({ top: Math.max(0, targetTop), behavior: preferredScrollBehavior() });
+}
+
 function selectComic(slug, { replace = false } = {}) {
   if (!state.comics.some((comic) => comic.slug === slug)) return;
   state.view = "home";
@@ -284,7 +300,7 @@ function selectComic(slug, { replace = false } = {}) {
   state.hasSeriesRoute = false;
   renderView();
   updateUrl({ replace });
-  window.scrollTo({ top: 0, behavior: "smooth" });
+  scrollAfterComicSelection();
 }
 
 function selectBoundary(kind) {
