@@ -27,3 +27,10 @@
 - Visual identifiers: crushed silver aluminum soda can with dents, torn red-and-white label fragments, dark scorch rings, tiny purple sparks, and a faint violet aura after passing through the demon portal.
 - Continuity notes: Begins as ordinary alley litter kicked by Bolt, becomes a demonic bargain object after passing through a purple portal, and is offered as the vessel for instant powers. Bolt crushes it at the end, choosing earned discipline over the shortcut.
 - Reference image: `../reference-images/portal-charged-can-key-item.png`
+
+## Key Item: Super Spiders Badge
+
+- First appears: Issue #8, "The Web Between Worlds"
+- Visual identifiers: worn black leather detective badge wallet holding an antique bronze-and-black enamel badge shaped like a detective shield over a spider web, with a tiny black widow emblem and subtle red hourglass at the center. The badge text identifies the organization as `Super Spiders Of The Multiverse`.
+- Continuity notes: Detective Webwidow uses the badge to prove that he is not an enemy. The badge represents a spider-powered multiverse hero organization that navigates reality like a web.
+- Reference image: `../reference-images/super-spiders-badge-key-item.png`

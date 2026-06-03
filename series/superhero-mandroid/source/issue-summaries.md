@@ -76,3 +76,14 @@
 - New settings: Mandroid City Central Park.
 - New key items: None.
 - Reference images added: `master-liang-chen-character.png`, `mandroid-city-central-park-setting.png`.
+
+## Issue #8: The Web Between Worlds
+
+- Folder: `series/superhero-mandroid/issues/issue-08/`
+- Logline: Superhero Mandroid meets a spider-powered multiverse detective who can help with portal threats but would rather make Mandroid prove he can catch him first.
+- Plot summary: A portal opens above Mandroid's City, and Detective Webwidow swings out on a silvery webline wearing a fedora, a face web tattoo, and a duster marked with a black widow emblem. Mandroid rockets at him, but Webwidow releases his webline, dodges the punch, and lands on a rooftop. He shows a badge for the Super Spiders Of The Multiverse and explains that spider-powered heroes navigate the multiverse like a web while other portal travelers tear paths through it. When Mandroid asks whether Webwidow came to help close Earth's portals, Webwidow says he relaxes at home because Mandroid already handles this world. He offers to help from time to time if Mandroid can catch him, swings away, and webs up Mandroid's rocket-fist engines so the android hero has to climb down the fire escape. Mandroid reflects that other heroes can rely on him, that he can rely on other heroes, and that Webwidow is still a bit annoying.
+- Continuity changes: The Super Spiders Of The Multiverse are introduced as a spider-powered multiverse hero organization; Detective Webwidow becomes a potential reluctant ally; Mandroid learns that some heroes in his own world may leave portal response to him because he is dependable.
+- New characters: Detective Webwidow.
+- New settings: None.
+- New key items: Super Spiders Badge.
+- Reference images added: `detective-webwidow-character.png`, `super-spiders-badge-key-item.png`.

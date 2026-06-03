@@ -103,3 +103,11 @@
 - Visual identifiers: human man in his late 40s, East Asian, lean powerful build, shaved head with faint stubble, calm severe dark eyes, angular weathered face, faint scar through one eyebrow, plain charcoal tai chi jacket with frog closures, loose black training pants, flat black martial arts shoes, and a simple red cord bracelet. His golden-white chi aura glows around his hands, shoulders, feet, and strike paths.
 - Continuity notes: Intentionally radiates enough chi to lure Superhero Mandroid into a duel because no other fighter on Earth challenges him anymore. His pride causes his missed chi punch to shatter the largest tree in the park, and he is injured while trying to catch the resulting splinters before collapsing.
 - Reference image: `../reference-images/master-liang-chen-character.png`
+
+## Character: Detective Webwidow
+
+- First appears: Issue #8, "The Web Between Worlds"
+- Role: spider-powered multiverse detective, reluctant ally, and member of the Super Spiders Of The Multiverse.
+- Visual identifiers: human man in his late 30s with light-to-medium skin, narrow angular face, tired sharp eyes, dark stubble, a dark spider-web tattoo spreading across one side of his face from temple to cheekbone, weathered dark detective fedora, long charcoal-brown duster, dark shirt and vest, practical trousers, worn boots, and compact wrist web shooters. The back of his duster carries a large sewn black widow spider emblem with a subtle red hourglass mark.
+- Continuity notes: Travels between universes by riding web-like multiverse strands through portals. He can swing on silvery web lines, gum up machinery with sticky webbing, and carries a badge identifying him as part of the Super Spiders Of The Multiverse. He claims to be one of the good guys but usually leaves his own world's portal trouble to Superhero Mandroid.
+- Reference image: `../reference-images/detective-webwidow-character.png`
