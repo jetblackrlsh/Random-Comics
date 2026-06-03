@@ -43,3 +43,14 @@
 - New settings: Dr. Volta's Workshop.
 - New key items: Hydrohero Water Core.
 - Reference images added: `rival-inventor-character.png`, `hydrohero-womandroid-character.png`, `rival-workshop-setting.png`, `hydrohero-water-core-key-item.png`.
+
+## Issue #5: The Birthday Prophecy
+
+- Folder: `series/superhero-mandroid/issues/issue-05/`
+- Logline: Superhero Mandroid prepares to punch whatever exits a portal, but a crying apocalyptic heir makes him choose compassion over smiting.
+- Plot summary: Superhero Mandroid arrives at a portal before anything emerges and winds back a rocket fist for the expected demon. Instead, Aurelia steps out crying in a white hooded dress with a green diamond in her forehead. When she says it is her eighteenth birthday, Mandroid tries to wish her happiness, but Aurelia reveals that the day requires her to fulfill her father's apocalyptic prophecy. Her eyes glow green, the ground cracks, and mystical fire erupts as she declares herself the daughter of Satan and Lilith. Mandroid blocks the uncontrolled flames with his holo shield but listens to the remorse in her voice. He tells her that on Earth turning eighteen can mean choosing her adult life, and when she says she is not human, he answers that he is not human either and still became humanity's hero. Aurelia collapses, admits she never wanted to be her parents' weapon, and leaves through the closing portal path by flying into the sky while promising to become the hero Mandroid sees in her.
+- Continuity changes: Mandroid chooses not to smite a portal-born threat when he recognizes sincere remorse; Aurelia rejects her inherited apocalyptic role and becomes a potential future heroic ally.
+- New characters: Aurelia, Daughter of Satan and Lilith.
+- New settings: None.
+- New key items: None.
+- Reference images added: `aurelia-daughter-character.png`.

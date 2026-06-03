@@ -71,3 +71,11 @@
 - Visual identifiers: human-looking adult woman android with waterproof pearl-blue synthetic skin, short slick silver-blue hair, bright aqua eyes, athletic build, streamlined blue-and-white armored bodysuit, translucent chest water tank with visible swirling water, chrome shoulder turbines, wrist nozzles, and calf jet ports that spray controlled water streams. Her expression starts triumphant and mocking, then turns confused and furious as her water reserves drain.
 - Continuity notes: Powered by water and attacks with pressurized water beams, water whips, and water jets for flight. Her core design flaw is that her attacks spend the same water supply that powers her systems, causing shutdown when the tank runs dry.
 - Reference image: `../reference-images/hydrohero-womandroid-character.png`
+
+## Character: Aurelia, Daughter of Satan and Lilith
+
+- First appears: Issue #5, "The Birthday Prophecy"
+- Role: reluctant apocalyptic heir and potential future hero.
+- Visual identifiers: young seemingly human woman on her eighteenth birthday with fair skin, shoulder-length blonde hair spilling from a white hood, tearful green eyes, a small emerald diamond embedded in the center of her forehead, and a simple white hooded dress with long sleeves and a soft ceremonial shape. When the prophecy takes hold, her eyes glow bright green, green mystical flames wrap around her hands, her body levitates, and cracked pavement below glows with green firelight.
+- Continuity notes: Raised to believe she must fulfill the apocalyptic wishes of Satan and Lilith, but she does not want to be their weapon. Superhero Mandroid helps her recognize that turning eighteen can mean choosing her own adult life, and she leaves Earth promising to become the hero he sees in her.
+- Reference image: `../reference-images/aurelia-daughter-character.png`
