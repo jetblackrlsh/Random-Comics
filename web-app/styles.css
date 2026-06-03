@@ -809,8 +809,8 @@ body.reader-mode .comic-page {
 .advanced-comic-card img {
   display: block;
   width: 100%;
-  aspect-ratio: 4 / 5;
-  object-fit: cover;
+  aspect-ratio: 2 / 3;
+  object-fit: contain;
   background: var(--panel-strong);
   border-bottom: 3px solid rgba(17, 18, 43, 0.13);
 }
