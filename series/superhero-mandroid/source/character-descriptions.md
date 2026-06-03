@@ -55,3 +55,19 @@
 - Visual identifiers: alien demon parasite shaped like a living helmet, glossy dark crimson and black chitin, ribbed organic plates, small grasping tendrils, faint violet nerve lights, and a crown-like shell that clamps over a victim's head without covering the mouth. It looks parasitic and supernatural but non-gory.
 - Continuity notes: Can control a host's mind and amplify the host's voice into destructive sonic blasts. It is vulnerable to being knocked loose by a precise rocket punch.
 - Reference image: `../reference-images/brain-parasite-character.png`
+
+## Character: Dr. Vera Volta
+
+- First appears: Issue #4, "Hydrohero Womandroid"
+- Role: antagonist, rival inventor jealous of Superhero Mandroid's public success.
+- Visual identifiers: middle-aged woman in her late 40s with light olive skin, sharp cheekbones, intense dark eyes, chin-length black hair with a silver streak, angular black glasses, and a fitted teal waterproof lab coat over a graphite jumpsuit. She keeps brass-and-steel engineering calipers, a tablet, and water-pressure gauges near her workstation.
+- Continuity notes: Built Hydrohero Womandroid to steal Superhero Mandroid's spotlight by defeating him in public. After Hydrohero shuts down, Dr. Volta swears revenge from her workshop.
+- Reference image: `../reference-images/rival-inventor-character.png`
+
+## Character: Hydrohero Womandroid
+
+- First appears: Issue #4, "Hydrohero Womandroid"
+- Role: antagonist android and potential rival hero, built to defeat and replace Superhero Mandroid.
+- Visual identifiers: human-looking adult woman android with waterproof pearl-blue synthetic skin, short slick silver-blue hair, bright aqua eyes, athletic build, streamlined blue-and-white armored bodysuit, translucent chest water tank with visible swirling water, chrome shoulder turbines, wrist nozzles, and calf jet ports that spray controlled water streams. Her expression starts triumphant and mocking, then turns confused and furious as her water reserves drain.
+- Continuity notes: Powered by water and attacks with pressurized water beams, water whips, and water jets for flight. Her core design flaw is that her attacks spend the same water supply that powers her systems, causing shutdown when the tank runs dry.
+- Reference image: `../reference-images/hydrohero-womandroid-character.png`

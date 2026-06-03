@@ -13,3 +13,10 @@
 - Visual identifiers: oversized green mechanical fists with heavy knuckle plating, dark seams, compact thruster vents at the wrists, internal pistons, and green-white rocket exhaust when launched. The fists look physically heavy but fast once fired.
 - Continuity notes: Superhero Mandroid can fire rapid projectile rocket punches that regenerate or reconnect after launch. They are his signature blunt-force attack, but they are less useful against enemies that can become intangible.
 - Reference image: `../reference-images/regenerating-rocket-fists-key-item.png`
+
+## Key Item: Hydrohero Water Core
+
+- First appears: Issue #4, "Hydrohero Womandroid"
+- Visual identifiers: translucent chest-mounted water tank integrated into Hydrohero Womandroid's torso, reinforced with chrome ribs, aqua indicator lights, pressure needles, small turbine wheels, and visible swirling water that drops lower as she flies and attacks.
+- Continuity notes: The water core powers Hydrohero's android systems and also feeds her pressurized attacks. Because both functions draw from the same tank, sustained combat drains her power until she shuts down.
+- Reference image: `../reference-images/hydrohero-water-core-key-item.png`

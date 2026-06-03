@@ -34,3 +34,10 @@
 - Visual identifiers: ornate old opera house with red velvet seats, curved balconies, gold trim, frescoed ceiling, large chandelier, polished wooden stage, heavy burgundy curtains, orchestra pit, backstage brick and plaster walls, and enough structural depth that a rocket punch can break through the back wall into the theater.
 - Continuity notes: A portal opens inside the opera house during a performance, unleashing the brain parasite into a crowded civilian setting. Issue #3 leaves the theater damaged by sonic blasts, shattered seats, and a crater in the seating area.
 - Reference image: `../reference-images/grand-opera-house-setting.png`
+
+## Setting: Dr. Volta's Workshop
+
+- First appears: Issue #4, "Hydrohero Womandroid"
+- Visual identifiers: private rival robotics workshop with wet concrete floors, teal warning lights, pressure-test tanks, chrome hydroelectric turbines, suspended waterproof armor panels, transparent hoses, brass gauges, wall screens showing Superhero Mandroid news clips, and a central computer terminal scarred by angry impacts.
+- Continuity notes: Dr. Vera Volta designs and monitors Hydrohero Womandroid from this workshop. The terminal survives her final outburst and remains her revenge-planning base.
+- Reference image: `../reference-images/rival-workshop-setting.png`

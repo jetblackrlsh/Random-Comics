@@ -32,3 +32,14 @@
 - New settings: Grand Opera House.
 - New key items: None.
 - Reference images added: `opera-singer-character.png`, `brain-parasite-character.png`, `grand-opera-house-setting.png`.
+
+## Issue #4: Hydrohero Womandroid
+
+- Folder: `series/superhero-mandroid/issues/issue-04/`
+- Logline: Superhero Mandroid is ambushed by a water-powered rival android whose own weapon system drains the power keeping her online.
+- Plot summary: Dr. Vera Volta, jealous of Superhero Mandroid's success, builds Hydrohero Womandroid to defeat and replace him. Hydrohero shoots Mandroid out of the sky with a pressurized water beam, shorts his rocket fists on a rooftop, and declares that the city only needs her. Mandroid tries to suggest they work together, but Dr. Volta orders Hydrohero to finish him. Hydrohero attacks with water whips and a massive torrent, forcing Mandroid behind his holo shield. As the shield drains, Mandroid notices Hydrohero's chest water tank draining too. Hydrohero collapses when the tank empties, revealing the flaw in an android that uses its own power supply as ammunition, while Dr. Volta swears revenge from her workshop.
+- Continuity changes: Dr. Vera Volta and Hydrohero Womandroid become new rival threats; Mandroid learns that water can disable his rocket fists and stress his circuits; Hydrohero's shared water-power and weapon system causes her first defeat but leaves room for repair or redesign.
+- New characters: Dr. Vera Volta, Hydrohero Womandroid.
+- New settings: Dr. Volta's Workshop.
+- New key items: Hydrohero Water Core.
+- Reference images added: `rival-inventor-character.png`, `hydrohero-womandroid-character.png`, `rival-workshop-setting.png`, `hydrohero-water-core-key-item.png`.
