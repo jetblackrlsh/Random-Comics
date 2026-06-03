@@ -36,11 +36,12 @@
   <body data-initial-route="comic:wild-zone-guardians-issue-04">
     <div class="background-art" aria-hidden="true"></div>
     <header class="site-header">
-      <a class="brand" href="./" data-route="home" aria-label="Random Comics home">
+        <a class="brand" href="./" data-route="home" aria-label="Random Comics home">
         <img src="assets/random-comics-logo.png" alt="Random Comics">
       </a>
       <nav class="top-nav" aria-label="Primary navigation">
         <a href="./" data-route="home">Read</a>
+        <a href="advanced-search/" data-route="advanced-search">Advanced Search</a>
         <a href="about/" data-route="about">About</a>
         <a class="follow-link" href="follow/" data-route="follow">Follow</a>
         <a href="other-comics/" data-route="other-comics">Other Comics</a>
@@ -140,6 +141,70 @@
               <small>Dream-inspired comics and surreal story experiments.</small>
             </a>
           </div>
+        </div>
+      </section>
+
+      <section class="advanced-search-view" id="advancedSearchView" hidden>
+        <div class="advanced-search-shell">
+          <div class="advanced-search-heading">
+            <div>
+              <h1>Advanced Search</h1>
+              <p>Search the full archive by date, series, issue title, issue description, and issue number.</p>
+            </div>
+            <p class="advanced-search-count" id="advancedSearchCount">Loading comics...</p>
+          </div>
+
+          <details class="advanced-filter-panel" id="advancedFilterPanel" open>
+            <summary>
+              <span>Search and filters</span>
+              <span class="advanced-filter-summary" id="advancedFilterSummary">No filters active</span>
+            </summary>
+
+            <form class="advanced-filter-grid" id="advancedSearchForm">
+              <label>
+                <span>Issue title</span>
+                <input id="advancedTitleSearch" type="search" autocomplete="off" placeholder="Search titles">
+              </label>
+              <label>
+                <span>Issue description</span>
+                <input id="advancedDescriptionSearch" type="search" autocomplete="off" placeholder="Search descriptions">
+              </label>
+              <label>
+                <span>Series name</span>
+                <select id="advancedSeriesFilter">
+                  <option value="">All series and standalones</option>
+                </select>
+              </label>
+              <label>
+                <span>Issue number</span>
+                <input id="advancedIssueNumber" type="number" min="1" step="1" inputmode="numeric" placeholder="Any issue">
+              </label>
+              <label>
+                <span>Published from</span>
+                <input id="advancedDateFrom" type="date">
+              </label>
+              <label>
+                <span>Published through</span>
+                <input id="advancedDateTo" type="date">
+              </label>
+              <label class="advanced-sort-control">
+                <span>Order results</span>
+                <select id="advancedSort">
+                  <option value="date-desc">Publishing date: High to Low</option>
+                  <option value="date-asc">Publishing date: Low to High</option>
+                  <option value="title-asc">ABC Order</option>
+                  <option value="title-desc">Reverse ABC Order</option>
+                  <option value="issue-asc">Issue Number Order</option>
+                  <option value="issue-desc">Reverse Issue Number Order</option>
+                  <option value="series-asc">Series Order</option>
+                  <option value="series-desc">Reverse Series Order</option>
+                </select>
+              </label>
+              <button class="advanced-reset-button" type="reset" id="advancedResetButton">Reset filters</button>
+            </form>
+          </details>
+
+          <div class="advanced-gallery" id="advancedGallery" aria-label="Advanced search comic gallery"></div>
         </div>
       </section>
 

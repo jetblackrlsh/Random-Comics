@@ -10,6 +10,7 @@ const comicsDir = path.join(webAppDir, "comics");
 const aboutDir = path.join(webAppDir, "about");
 const followDir = path.join(webAppDir, "follow");
 const otherComicsDir = path.join(webAppDir, "other-comics");
+const advancedSearchDir = path.join(webAppDir, "advanced-search");
 const seriesDir = path.join(webAppDir, "series");
 
 const otherComics = [
@@ -191,6 +192,17 @@ function otherComicsSeoContent() {
       </section>`;
 }
 
+function advancedSearchSeoContent() {
+  return `<section class="seo-content" aria-label="Advanced Random Comics search">
+        <h2>Advanced Search</h2>
+        <p>Use Advanced Search to filter Random Comics by publishing date, series name, issue title, issue description, and issue number, then open a comic directly in the reader.</p>
+        <h3>Searchable Comics</h3>
+        <ul>
+          ${comicLinkList(catalog.comics)}
+        </ul>
+      </section>`;
+}
+
 function comicSeoContent(comic) {
   const pdfLink = comic.pdf
     ? `<p><a href="${escapeHtml(absoluteAssetUrl(comic.pdf))}">Download ${escapeHtml(comic.title)} as a PDF</a></p>`
@@ -307,6 +319,30 @@ function otherComicsStructuredData() {
   });
 }
 
+function advancedSearchStructuredData() {
+  return jsonLd({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: "Advanced Search",
+    url: `${catalog.site.baseUrl}/advanced-search/`,
+    description: "Filter and sort Random Comics by publishing date, series name, issue title, issue description, and issue number.",
+    isPartOf: {
+      "@type": "WebSite",
+      name: catalog.site.title,
+      url: `${catalog.site.baseUrl}/`,
+    },
+    mainEntity: {
+      "@type": "ItemList",
+      itemListElement: catalog.comics.map((comic, index) => ({
+        "@type": "ListItem",
+        position: index + 1,
+        url: `${catalog.site.baseUrl}/comics/${comic.slug}/`,
+        name: comic.title,
+      })),
+    },
+  });
+}
+
 function comicStructuredData(comic) {
   return jsonLd({
     "@context": "https://schema.org",
@@ -396,6 +432,7 @@ function sitemapXml() {
     { loc: `${catalog.site.baseUrl}/about/`, lastmod: latestDate, priority: "0.5" },
     { loc: `${catalog.site.baseUrl}/follow/`, lastmod: latestDate, priority: "0.6" },
     { loc: `${catalog.site.baseUrl}/other-comics/`, lastmod: latestDate, priority: "0.5" },
+    { loc: `${catalog.site.baseUrl}/advanced-search/`, lastmod: latestDate, priority: "0.8" },
     ...(catalog.series || []).map((series) => ({
       loc: `${catalog.site.baseUrl}/series/${series.slug}/`,
       lastmod: latestDate,
@@ -468,11 +505,13 @@ ${items
 rmSync(comicsDir, { recursive: true, force: true });
 rmSync(followDir, { recursive: true, force: true });
 rmSync(otherComicsDir, { recursive: true, force: true });
+rmSync(advancedSearchDir, { recursive: true, force: true });
 rmSync(seriesDir, { recursive: true, force: true });
 mkdirSync(comicsDir, { recursive: true });
 mkdirSync(aboutDir, { recursive: true });
 mkdirSync(followDir, { recursive: true });
 mkdirSync(otherComicsDir, { recursive: true });
+mkdirSync(advancedSearchDir, { recursive: true });
 mkdirSync(seriesDir, { recursive: true });
 
 const genericMeta = metaBlock({
@@ -549,6 +588,22 @@ writeFileSync(
     structuredData: otherComicsStructuredData(),
     seoContent: otherComicsSeoContent(),
     appRoute: "other-comics",
+  }),
+);
+
+writeFileSync(
+  path.join(advancedSearchDir, "index.html"),
+  pageFromTemplate({
+    baseHref: "../",
+    meta: metaBlock({
+      title: "Advanced Search | Random Comics",
+      description: "Filter and sort Random Comics by publishing date, series name, issue title, issue description, and issue number.",
+      url: `${catalog.site.baseUrl}/advanced-search/`,
+      image: `${catalog.site.baseUrl}/assets/site-background.png`,
+    }),
+    structuredData: advancedSearchStructuredData(),
+    seoContent: advancedSearchSeoContent(),
+    appRoute: "advanced-search",
   }),
 );
 
