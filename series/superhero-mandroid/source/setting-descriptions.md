@@ -41,3 +41,10 @@
 - Visual identifiers: private rival robotics workshop with wet concrete floors, teal warning lights, pressure-test tanks, chrome hydroelectric turbines, suspended waterproof armor panels, transparent hoses, brass gauges, wall screens showing Superhero Mandroid news clips, and a central computer terminal scarred by angry impacts.
 - Continuity notes: Dr. Vera Volta designs and monitors Hydrohero Womandroid from this workshop. The terminal survives her final outburst and remains her revenge-planning base.
 - Reference image: `../reference-images/rival-workshop-setting.png`
+
+## Setting: Mandroid City Central Park
+
+- First appears: Issue #7, "The Strongest Human"
+- Visual identifiers: large urban park clearing with grass and hard-packed dirt, mature trees, one huge old tree with a thick trunk and spreading branches, paved paths, simple benches, low stone wall, dawn light through the canopy, and city skyscrapers visible above the treeline.
+- Continuity notes: Master Liang Chen meditates here to radiate a supernatural energy spike and lure Superhero Mandroid. During their fight, Liang's missed chi blast shatters the largest tree and leaves the clearing scarred by impacts, smoke, scorch marks, leaves, and splintered wood.
+- Reference image: `../reference-images/mandroid-city-central-park-setting.png`

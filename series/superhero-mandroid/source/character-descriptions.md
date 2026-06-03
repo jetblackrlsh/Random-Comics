@@ -95,3 +95,11 @@
 - Visual identifiers: lean humanoid demon about seven feet tall with smoky purple-black skin, long angular face, narrow yellow eyes, small swept horns, sharp grin, long clawed fingers, a tattered dark coat like a street-corner con artist, purple ember cracks along the chest and hands, and wisps of portal smoke around its feet.
 - Continuity notes: Reads Bolt's heart, offers a portal-charged can as a path to powers, and reveals that accepting the power requires eliminating Superhero Mandroid. Bolt deduces that the demon is weak unless someone accepts its bargain and knocks it back through its own portal.
 - Reference image: `../reference-images/bargain-demon-character.png`
+
+## Character: Master Liang Chen
+
+- First appears: Issue #7, "The Strongest Human"
+- Role: antagonist, human martial artist whose chi has become strong enough to register like supernatural portal energy.
+- Visual identifiers: human man in his late 40s, East Asian, lean powerful build, shaved head with faint stubble, calm severe dark eyes, angular weathered face, faint scar through one eyebrow, plain charcoal tai chi jacket with frog closures, loose black training pants, flat black martial arts shoes, and a simple red cord bracelet. His golden-white chi aura glows around his hands, shoulders, feet, and strike paths.
+- Continuity notes: Intentionally radiates enough chi to lure Superhero Mandroid into a duel because no other fighter on Earth challenges him anymore. His pride causes his missed chi punch to shatter the largest tree in the park, and he is injured while trying to catch the resulting splinters before collapsing.
+- Reference image: `../reference-images/master-liang-chen-character.png`

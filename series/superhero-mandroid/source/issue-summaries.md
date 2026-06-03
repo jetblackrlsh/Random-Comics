@@ -65,3 +65,14 @@
 - New settings: None.
 - New key items: Portal-Charged Can.
 - Reference images added: `bolt-fanboy-character.png`, `bargain-demon-character.png`, `portal-charged-can-key-item.png`.
+
+## Issue #7: The Strongest Human
+
+- Folder: `series/superhero-mandroid/issues/issue-07/`
+- Logline: Superhero Mandroid investigates a supernatural energy spike in the park and discovers a human martial artist powerful enough to mistake pride for purpose.
+- Plot summary: Mandroid detects a supernatural energy spike and rockets to Mandroid City Central Park expecting a portal or disguised demon. Instead he finds Master Liang Chen meditating beneath the park's largest tree, radiating golden-white chi. Liang admits he made the signal strong enough to attract Mandroid, then answers Mandroid's offer of help with a punch that dents the android hero's chest. Liang explains that no fighter on Earth can challenge him anymore, but Mandroid refuses to fight for boredom and tries to disengage. Liang kicks him out of the sky, redirects taser-mode rocket fists with taichi, and charges with a massive chi punch. Mandroid uses his rocket-fist flames to sidestep rather than strike back, causing the missed chi blast to shatter the largest tree. Mandroid shields the shrapnel while Liang tries to catch the splinters by hand, injures himself, and passes out. Mandroid carries him to the hospital, left amazed and troubled by how far human strength and pride can go.
+- Continuity changes: Mandroid learns that human chi can register like supernatural portal energy; his chest is dented during the fight; the largest tree in Mandroid City Central Park is destroyed; Master Liang Chen survives and is left in hospital care.
+- New characters: Master Liang Chen.
+- New settings: Mandroid City Central Park.
+- New key items: None.
+- Reference images added: `master-liang-chen-character.png`, `mandroid-city-central-park-setting.png`.
