@@ -54,6 +54,34 @@ for (const series of catalog.series || []) {
   );
 }
 
+function writeRedirectPage(route) {
+  const normalizedRoute = route.replace(/^\/+|\/+$/g, "");
+  const redirectDir = path.join(siteDir, normalizedRoute);
+  mkdirSync(redirectDir, { recursive: true });
+  const target = `../web-app/${normalizedRoute}/`;
+  writeFileSync(
+    path.join(redirectDir, "index.html"),
+    `<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Random Comics</title>
+    <meta http-equiv="refresh" content="0; url=${target}">
+    <link rel="canonical" href="${catalog.site.baseUrl}/${normalizedRoute}/">
+  </head>
+  <body>
+    <p><a href="${target}">Open Random Comics ${normalizedRoute}</a></p>
+  </body>
+</html>
+`,
+  );
+}
+
+for (const route of ["about", "advanced-search", "follow", "other-comics"]) {
+  writeRedirectPage(route);
+}
+
 writeFileSync(
   path.join(siteDir, "index.html"),
   `<!doctype html>

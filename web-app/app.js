@@ -492,6 +492,12 @@ function scheduleScrollAfterComicSelection() {
   });
 }
 
+function scrollToPageTop() {
+  window.requestAnimationFrame(() => {
+    window.scrollTo({ top: 0, behavior: preferredScrollBehavior() });
+  });
+}
+
 function selectComic(slug, { replace = false } = {}) {
   if (!state.comics.some((comic) => comic.slug === slug)) return;
   state.view = "home";
@@ -622,6 +628,7 @@ function bindEvents() {
     els.comicSearch.value = "";
     renderView();
     updateUrl();
+    scrollToPageTop();
   });
 
   window.addEventListener("popstate", () => {
