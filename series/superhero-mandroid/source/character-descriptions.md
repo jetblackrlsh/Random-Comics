@@ -79,3 +79,19 @@
 - Visual identifiers: young seemingly human woman on her eighteenth birthday with fair skin, shoulder-length blonde hair spilling from a white hood, tearful green eyes, a small emerald diamond embedded in the center of her forehead, and a simple white hooded dress with long sleeves and a soft ceremonial shape. When the prophecy takes hold, her eyes glow bright green, green mystical flames wrap around her hands, her body levitates, and cracked pavement below glows with green firelight.
 - Continuity notes: Raised to believe she must fulfill the apocalyptic wishes of Satan and Lilith, but she does not want to be their weapon. Superhero Mandroid helps her recognize that turning eighteen can mean choosing her own adult life, and she leaves Earth promising to become the hero he sees in her.
 - Reference image: `../reference-images/aurelia-daughter-character.png`
+
+## Character: Bolt, Teenage Fan-Boy
+
+- First appears: Issue #6, "No Powers Needed"
+- Role: teenage fan and aspiring future hero.
+- Visual identifiers: teenage boy about sixteen with medium brown skin, round face, expressive dark eyes, short curly black hair, slim build, and a homemade Superhero Mandroid costume: red hoodie and red sweatpants, yellow bedsheet cape tied at the neck, hand-painted yellow `SHM` cardboard chest badge, green foam boxing gloves taped with silver duct tape to imitate mechanical fists, scuffed sneakers, and nervous-but-defiant posture.
+- Continuity notes: Wants to become Superhero Mandroid's sidekick, resents being told demon fights are unsafe for someone without powers, rejects a demon bargain for instant power, defeats a weak deal demon with ordinary punches, and chooses to train himself instead of accepting a shortcut.
+- Reference image: `../reference-images/bolt-fanboy-character.png`
+
+## Character: Bargain Demon
+
+- First appears: Issue #6, "No Powers Needed"
+- Role: antagonist, deal-making demon that tempts wounded pride.
+- Visual identifiers: lean humanoid demon about seven feet tall with smoky purple-black skin, long angular face, narrow yellow eyes, small swept horns, sharp grin, long clawed fingers, a tattered dark coat like a street-corner con artist, purple ember cracks along the chest and hands, and wisps of portal smoke around its feet.
+- Continuity notes: Reads Bolt's heart, offers a portal-charged can as a path to powers, and reveals that accepting the power requires eliminating Superhero Mandroid. Bolt deduces that the demon is weak unless someone accepts its bargain and knocks it back through its own portal.
+- Reference image: `../reference-images/bargain-demon-character.png`

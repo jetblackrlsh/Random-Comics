@@ -20,3 +20,10 @@
 - Visual identifiers: translucent chest-mounted water tank integrated into Hydrohero Womandroid's torso, reinforced with chrome ribs, aqua indicator lights, pressure needles, small turbine wheels, and visible swirling water that drops lower as she flies and attacks.
 - Continuity notes: The water core powers Hydrohero's android systems and also feeds her pressurized attacks. Because both functions draw from the same tank, sustained combat drains her power until she shuts down.
 - Reference image: `../reference-images/hydrohero-water-core-key-item.png`
+
+## Key Item: Portal-Charged Can
+
+- First appears: Issue #6, "No Powers Needed"
+- Visual identifiers: crushed silver aluminum soda can with dents, torn red-and-white label fragments, dark scorch rings, tiny purple sparks, and a faint violet aura after passing through the demon portal.
+- Continuity notes: Begins as ordinary alley litter kicked by Bolt, becomes a demonic bargain object after passing through a purple portal, and is offered as the vessel for instant powers. Bolt crushes it at the end, choosing earned discipline over the shortcut.
+- Reference image: `../reference-images/portal-charged-can-key-item.png`

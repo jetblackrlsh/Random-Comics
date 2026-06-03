@@ -54,3 +54,14 @@
 - New settings: None.
 - New key items: None.
 - Reference images added: `aurelia-daughter-character.png`.
+
+## Issue #6: No Powers Needed
+
+- Folder: `series/superhero-mandroid/issues/issue-06/`
+- Logline: A teenage Superhero Mandroid fan rejects a demon's offer of instant powers and learns that real heroism starts with refusing the shortcut.
+- Plot summary: Bolt, a teenage fan in a homemade Superhero Mandroid costume, asks to become Mandroid's sidekick. Mandroid refuses because demon battles are unsafe for someone without powers, and Bolt storms into an alley promising that he will someday become a better hero. After he kicks a can into a sudden purple portal, a Bargain Demon emerges, reads his wounded pride, and offers the can back as a source of power. The catch is that Bolt must use that power to eliminate Superhero Mandroid. Bolt almost accepts, then realizes the demon wants Mandroid gone so demons can rule Earth. He refuses, punches the demon, identifies it as a weak deal demon, and drives it back through the portal by imitating Mandroid's signature moves with ordinary punches. When the portal closes and the charged can remains, Bolt crushes it under his shoe and walks into a gym to become the best human he can be.
+- Continuity changes: Bolt becomes a potential future human hero-in-training; bargain demons are established as portal threats that exploit pride and contracts; the portal-charged can is destroyed after Bolt rejects the shortcut.
+- New characters: Bolt, Teenage Fan-Boy; Bargain Demon.
+- New settings: None.
+- New key items: Portal-Charged Can.
+- Reference images added: `bolt-fanboy-character.png`, `bargain-demon-character.png`, `portal-charged-can-key-item.png`.
