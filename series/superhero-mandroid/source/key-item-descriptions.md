@@ -10,8 +10,8 @@
 ## Key Item: Regenerating Rocket Fists
 
 - First appears: Issue #1, "The Demon at the Door"
-- Visual identifiers: oversized green mechanical fists with heavy knuckle plating, dark seams, compact thruster vents at the wrists, internal pistons, and green-white rocket exhaust when launched. The fists look physically heavy but fast once fired.
-- Continuity notes: Superhero Mandroid can fire rapid projectile rocket punches that regenerate or reconnect after launch. They are his signature blunt-force attack, but they are less useful against enemies that can become intangible.
+- Visual identifiers: oversized green mechanical fists with heavy knuckle plating, dark seams, compact thruster vents at the wrists, internal pistons, and green-white rocket exhaust when launched or used for flight. The fists look physically heavy but fast once fired, and their exhaust should visibly originate from the wrist/fist vents.
+- Continuity notes: Superhero Mandroid can fire rapid projectile rocket punches that regenerate or reconnect after launch, and he flies by angling the same flaming green rocket fists behind or below him as the only propulsion source. They are his signature blunt-force attack and flight system, but they are less useful against enemies that can become intangible.
 - Reference image: `../reference-images/regenerating-rocket-fists-key-item.png`
 
 ## Key Item: Hydrohero Water Core

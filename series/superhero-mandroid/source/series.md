@@ -20,6 +20,7 @@ Fast superhero action with a pulpy science-fiction edge, clear tactical reversal
 - Superhero Mandroid's red suit, yellow cape, yellow `SHM` chest insignia, and large mechanical green fists must remain consistent.
 - His holo shield appears as translucent cyan-green hardlight with a curved hex-grid surface and a rechargeable glow along the rim.
 - Rocket punches should read as photoreal mechanical fists detaching, firing forward on bright green thruster trails, and regenerating or reconnecting afterward.
+- Superhero Mandroid flies by using the flaming green jets of his rocket fists only. Do not depict rocket feet, boot jets, back thrusters, jet packs, wings, hoverboards, or any other flight device.
 - Interdimensional and digital threats should feel physically present in real spaces, with glowing portal light, blue pixel fragments, hardlight tendrils, scorch marks, cracked walls, and damaged lab equipment.
 - Caption boxes only. No speech bubbles or thought bubbles.
 

@@ -4,9 +4,10 @@
 
 - First appears: Issue #1, "The Demon at the Door"
 - Role: protagonist, android superhero designed to protect the world from interdimensional threats.
-- Visual identifiers: human-looking adult man with white synthetic skin, slicked-back brown hair, clean-shaven face, alert brown eyes, athletic build, red superhero unitard, yellow cape, yellow `SHM` chest insignia, and oversized mechanical green fists with panel seams, knuckle plating, and small thruster vents. His expression shifts from controlled suspicion to focused tactical anger.
-- Continuity notes: Can summon a rechargeable cyan-green hardlight holo shield and fire regenerating rapid rocket punches. He is used to fighting at portal sites, not being found in his hidden lab.
+- Visual identifiers: human-looking adult man with white synthetic skin, slicked-back brown hair, clean-shaven face, alert brown eyes, athletic build, red superhero unitard, yellow cape, yellow `SHM` chest insignia, and oversized mechanical green fists with panel seams, knuckle plating, and small thruster vents. When flying, the green rocket fists trail bright green-white exhaust from their wrist/fist vents; his yellow boots stay plain and inactive. His expression shifts from controlled suspicion to focused tactical anger.
+- Continuity notes: Can summon a rechargeable cyan-green hardlight holo shield, fire regenerating rapid rocket punches, and fly by using the flaming green jets of his rocket fists. He never uses rocket feet, boot jets, a back thruster, a jet pack, wings, or any other flight device. He is used to fighting at portal sites, not being found in his hidden lab.
 - Reference image: `../reference-images/superhero-mandroid-character.png`
+- Flying reference image: `../reference-images/superhero-mandroid-flying-rocket-fists-character.png`
 
 ## Character: The Inventor
 
