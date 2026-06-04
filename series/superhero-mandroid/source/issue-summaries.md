@@ -109,3 +109,14 @@
 - New settings: Todd Phillips's Home Workstation, Superhero Mandroid's Cyberspace Grid.
 - New key items: Lyoko-Tron-Matrix Mind-Link Cable.
 - Reference images added: `todd-phillips-character.png`, `computer-virus-monsters-character.png`, `todd-phillips-home-workstation-setting.png`, `cyberspace-grid-setting.png`, `lyoko-tron-matrix-mind-link-cable-key-item.png`.
+
+## Issue #11: What If? Mandroid Failed
+
+- Folder: `series/superhero-mandroid/issues/issue-11/`
+- Logline: In an alternate universe where Superhero Mandroid misses the fatberg documentary and fails against the shutdown sludge, Dr. Vera Volta builds a water-powered Hydrohero Womandroid who turns the sky itself into the city's salvation.
+- Plot summary: Detective Webwidow swings through the multiverse to introduce an alternate-universe "What If" story where one small difference changes everything: Mandroid patrols despite no portal alarm and misses the fatberg documentary that saved the main timeline. When the shutdown sludge reaches the power plant, Mandroid lacks the key clue, is consumed, and the city goes dark. Master Liang Chen discovers water can hurt the sludge by bursting a hydrant and redirecting the spray with tai chi, but dies when the hydrant runs dry and the monster catches him. The sludge seals the city perimeter and cuts off supplies. Desperate, Dr. Vera Volta finds a grief-broken Dr. Elias Dawes, takes his claim that there will never be another Mandroid as a challenge, and builds Hydrohero Womandroid to run on and weaponize water. Hydrohero nearly fails when her tank empties, then recharges in the clouds and returns as a living deluge, washing away the sludge, restoring power, and becoming the greatest hero of that alternate world.
+- Continuity changes: Alternate-universe continuity only; this "What If" story does not replace mainline events. It shows a world where Mandroid died against the Issue #2 sludge and Hydrohero Womandroid became the city's primary hero.
+- New characters: None; alternate-universe versions of existing recurring characters.
+- New settings: None.
+- New key items: None.
+- Reference images added: None.
