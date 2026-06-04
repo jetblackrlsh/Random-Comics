@@ -38,8 +38,8 @@
 ## Setting: Dr. Volta's Workshop
 
 - First appears: Issue #4, "Hydrohero Womandroid"
-- Visual identifiers: private rival robotics workshop with wet concrete floors, teal warning lights, pressure-test tanks, chrome hydroelectric turbines, suspended waterproof armor panels, transparent hoses, brass gauges, wall screens showing Superhero Mandroid news clips, and a central computer terminal scarred by angry impacts.
-- Continuity notes: Dr. Vera Volta designs and monitors Hydrohero Womandroid from this workshop. The terminal survives her final outburst and remains her revenge-planning base.
+- Visual identifiers: private rival robotics workshop with wet concrete floors, teal warning lights, pressure-test tanks, chrome hydroelectric turbines, suspended waterproof armor panels, transparent hoses, brass gauges, wall screens showing Superhero Mandroid news clips, a central computer terminal scarred by angry impacts, and a reinforced retractable skylight above a launch bay.
+- Continuity notes: Dr. Vera Volta designs and monitors Hydrohero Womandroid from this workshop. The terminal survives her final outburst and remains her revenge-planning base. By Issue #9, the workshop also houses Volta's first controlled portal prototype project.
 - Reference image: `../reference-images/rival-workshop-setting.png`
 
 ## Setting: Mandroid City Central Park

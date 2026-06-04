@@ -112,3 +112,11 @@
 - Visual identifiers: human man in his late 30s with light-to-medium skin, narrow angular face, tired sharp eyes, dark stubble, a dark spider-web tattoo spreading across one side of his face from temple to cheekbone, weathered dark detective fedora, long charcoal-brown duster, dark shirt and vest, practical trousers, worn boots, and compact wrist web shooters. The back of his duster carries a large sewn black widow spider emblem with a subtle red hourglass mark.
 - Continuity notes: Travels between universes by riding web-like multiverse strands through portals. He can swing on silvery web lines, gum up machinery with sticky webbing, and carries a badge identifying him as part of the Super Spiders Of The Multiverse. He claims to be one of the good guys but usually leaves his own world's portal trouble to Superhero Mandroid.
 - Reference image: `../reference-images/detective-webwidow-character.png`
+
+## Character: Sponge Goblins
+
+- First appears: Issue #9, "The Sponge Gate"
+- Role: portal creatures and water-fed antagonists.
+- Visual identifiers: two squat goblin-like creatures made of porous yellow-gray sponge material, huge dark wet eyes, jagged rubbery mouths, webbed claw hands, hunched backs, damp pitted skin full of water holes, and bodies that swell from knee-high scavengers into hulking muscular shapes as they absorb water. When burned dry, they shrink, wrinkle, and turn pale brittle beige.
+- Continuity notes: They leap from an open portal, drain Hydrohero Womandroid's water reserves, and become stronger and larger when struck with water. Superhero Mandroid weakens them by evaporating their stored water with overclocked rocket-fist flames, then knocks them unconscious with a holo shield bash.
+- Reference image: `../reference-images/sponge-goblins-character.png`

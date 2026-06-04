@@ -34,3 +34,10 @@
 - Visual identifiers: worn black leather detective badge wallet holding an antique bronze-and-black enamel badge shaped like a detective shield over a spider web, with a tiny black widow emblem and subtle red hourglass at the center. The badge text identifies the organization as `Super Spiders Of The Multiverse`.
 - Continuity notes: Detective Webwidow uses the badge to prove that he is not an enemy. The badge represents a spider-powered multiverse hero organization that navigates reality like a web.
 - Reference image: `../reference-images/super-spiders-badge-key-item.png`
+
+## Key Item: Volta Portal Prototype
+
+- First appears: Issue #9, "The Sponge Gate"
+- Visual identifiers: half-built tabletop portal generator made from a brass-and-chrome ring, teal ceramic insulators, pressure-gauge hardware, alien-spectrum monitors, exposed copper coils, wet lab hoses, and a small unstable violet-blue aperture flickering inside the ring.
+- Continuity notes: Dr. Vera Volta begins building the prototype after Hydrohero Womandroid records enough portal data during Issue #9. It represents Volta's first attempt to control portals instead of merely reacting to them.
+- Reference image: `../reference-images/volta-portal-prototype-key-item.png`

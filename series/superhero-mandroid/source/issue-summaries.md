@@ -87,3 +87,14 @@
 - New settings: None.
 - New key items: Super Spiders Badge.
 - Reference images added: `detective-webwidow-character.png`, `super-spiders-badge-key-item.png`.
+
+## Issue #9: The Sponge Gate
+
+- Folder: `series/superhero-mandroid/issues/issue-09/`
+- Logline: Dr. Vera Volta sends Hydrohero Womandroid to study a portal for alien materials, but sponge goblins turn Hydrohero's water weapons into a threat Superhero Mandroid must solve by burning their strength away.
+- Plot summary: Dr. Vera Volta analyzes Hydrohero's recorded scans from her first battle with Superhero Mandroid and discovers that Mandroid is built from cosmic metals. Realizing that Earthly elements will not be enough, she upgrades Hydrohero with ambient-water recovery and sends her to scan an active portal from a rooftop. Sponge goblins leap from the portal, drain Hydrohero's water, and are knocked away by Mandroid's rocket fists. Hydrohero thanks Mandroid, but Volta orders her to attack him. Hydrohero's water jets make the goblins grow stronger until Mandroid notices the rule, overclocks his rocket fists, and evaporates their stored water with a flame shockwave. He bashes the dried goblins unconscious with his holo shield, cracks Hydrohero's water tank with a rocket fist, and forces her to retreat. Back in the workshop, Volta uses the portal recording to begin her first controlled portal prototype.
+- Continuity changes: Hydrohero can now slowly refill from ambient water molecules in the air; Volta knows Mandroid's body uses cosmic metals; sponge goblins are established as portal creatures that grow with absorbed water; Volta begins building a controlled portal prototype.
+- New characters: Sponge Goblins.
+- New settings: None.
+- New key items: Volta Portal Prototype.
+- Reference images added: `sponge-goblins-character.png`, `volta-portal-prototype-key-item.png`.
