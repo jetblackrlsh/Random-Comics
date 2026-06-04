@@ -120,3 +120,14 @@
 - New settings: None.
 - New key items: None.
 - Reference images added: None.
+
+## Issue #12: The Heart Beneath The Metal
+
+- Folder: `series/superhero-mandroid/issues/issue-12/`
+- Logline: Before he had a name, costume, or human face, Superhero Mandroid saved the city as a green metal war machine, until his sadness at being feared taught Dr. Dawes that he had built a hero with a heart.
+- Plot summary: In an origin flashback, the nameless Version One android launches from the hidden lab and defeats portal demons, aliens, and robots with the same giant green rocket fists that will later define Superhero Mandroid. The city survives because of him, but civilians recoil from his fully exposed green metal body and see him as an intimidating walking tank. Dr. Elias Dawes initially treats the design as a success because the missions work, but Version One admits that he hates being hated and only wants the people he saves to smile. Dawes realizes his machine has a heart, names him Superhero Mandroid, adds white synthetic facial skin and brown artificial hair, designs the red-and-yellow suit and cape, and leaves the green rocket fists uncovered because they are both essential and honest. When the redesigned hero stops another portal robot, civilians finally cheer, and Mandroid understands that the world can see the hero he had always been.
+- Continuity changes: Superhero Mandroid's origin is expanded: he began as nameless Version One with a fully exposed green metal body; Dr. Dawes named him Superhero Mandroid and created the red-and-yellow public hero design after recognizing his emotional need to be trusted; the rocket fists remain uncovered by design because they are his core heroic function.
+- New characters: None; Superhero Mandroid Version One is an earlier form of the existing protagonist.
+- New settings: None.
+- New key items: None.
+- Reference images added: `superhero-mandroid-version-one-character.png`.

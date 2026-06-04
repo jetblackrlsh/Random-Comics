@@ -5,9 +5,17 @@
 - First appears: Issue #1, "The Demon at the Door"
 - Role: protagonist, android superhero designed to protect the world from interdimensional threats.
 - Visual identifiers: human-looking adult man with white synthetic skin, slicked-back brown hair, clean-shaven face, alert brown eyes, athletic build, red superhero unitard, yellow cape, yellow `SHM` chest insignia, and oversized mechanical green fists with panel seams, knuckle plating, and small thruster vents. When flying, the green rocket fists trail bright green-white exhaust from their wrist/fist vents; his yellow boots stay plain and inactive. His expression shifts from controlled suspicion to focused tactical anger.
-- Continuity notes: Can summon a rechargeable cyan-green hardlight holo shield, fire regenerating rapid rocket punches, and fly by using the flaming green jets of his rocket fists. He never uses rocket feet, boot jets, a back thruster, a jet pack, wings, or any other flight device. He is used to fighting at portal sites, not being found in his hidden lab.
+- Continuity notes: Can summon a rechargeable cyan-green hardlight holo shield, fire regenerating rapid rocket punches, and fly by using the flaming green jets of his rocket fists. He never uses rocket feet, boot jets, a back thruster, a jet pack, wings, or any other flight device. He is used to fighting at portal sites, not being found in his hidden lab. Issue #12 reveals that he began as a nameless Version One android with a fully exposed green metal body; Dr. Dawes named him Superhero Mandroid and added the red-and-yellow suit, synthetic facial skin, and artificial hair after realizing the android wanted the people he saved to smile.
 - Reference image: `../reference-images/superhero-mandroid-character.png`
 - Flying reference image: `../reference-images/superhero-mandroid-flying-rocket-fists-character.png`
+
+## Character: Superhero Mandroid Version One
+
+- First appears: Issue #12, "The Heart Beneath The Metal"
+- Role: origin flashback form of Superhero Mandroid before his name, synthetic face, and public superhero costume.
+- Visual identifiers: adult male android silhouette with an entirely exposed green cosmic-metal body from face to feet, heavy armor-like plating, dark seams, broad shoulders, athletic walking-tank build, and oversized green mechanical rocket fists with knuckle plating and wrist thruster vents. He has no costume, no cape, no synthetic skin, no artificial hair, and no chest insignia. His face is humanoid but clearly metal, with glowing brown-green eyes that can show sadness and gentleness despite the intimidating design.
+- Continuity notes: Version One is not a separate character; he is Superhero Mandroid before Dr. Dawes gives him his name and finished public-facing hero design. He defeats portal demons, aliens, and robots efficiently, but civilians fear him as a monstrous walking tank until Dawes redesigns his appearance to reflect the heroic heart already inside him.
+- Reference image: `../reference-images/superhero-mandroid-version-one-character.png`
 
 ## Character: The Inventor
 
