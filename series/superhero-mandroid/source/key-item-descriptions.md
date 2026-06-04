@@ -41,3 +41,10 @@
 - Visual identifiers: half-built tabletop portal generator made from a brass-and-chrome ring, teal ceramic insulators, pressure-gauge hardware, alien-spectrum monitors, exposed copper coils, wet lab hoses, and a small unstable violet-blue aperture flickering inside the ring.
 - Continuity notes: Dr. Vera Volta begins building the prototype after Hydrohero Womandroid records enough portal data during Issue #9. It represents Volta's first attempt to control portals instead of merely reacting to them.
 - Reference image: `../reference-images/volta-portal-prototype-key-item.png`
+
+## Key Item: Lyoko-Tron-Matrix Mind-Link Cable
+
+- First appears: Issue #10, "The Puppet Signal"
+- Visual identifiers: reinforced black-and-silver terminal cable with a slim rounded ear-interface plug, green diagnostic LEDs, braided shielding, a wrist-thick data conduit, and a heavy lab terminal connector seated in a console marked by cyan waveform lights. It looks medical, electrical, and improvised enough to be dangerous.
+- Continuity notes: Dr. Dawes uses the cable during the Lyoko-Tron-Matrix protocol, plugging it into his ear to translate his brain's electrical signals into the lab computer system and project a digital form into Superhero Mandroid's mechanical mind.
+- Reference image: `../reference-images/lyoko-tron-matrix-mind-link-cable-key-item.png`

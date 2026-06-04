@@ -48,3 +48,17 @@
 - Visual identifiers: large urban park clearing with grass and hard-packed dirt, mature trees, one huge old tree with a thick trunk and spreading branches, paved paths, simple benches, low stone wall, dawn light through the canopy, and city skyscrapers visible above the treeline.
 - Continuity notes: Master Liang Chen meditates here to radiate a supernatural energy spike and lure Superhero Mandroid. During their fight, Liang's missed chi blast shatters the largest tree and leaves the clearing scarred by impacts, smoke, scorch marks, leaves, and splintered wood.
 - Reference image: `../reference-images/mandroid-city-central-park-setting.png`
+
+## Setting: Todd Phillips's Home Workstation
+
+- First appears: Issue #10, "The Puppet Signal"
+- Visual identifiers: cramped apartment workroom with blackout curtains, stacks of old cybersecurity manuals, dusty framed government commendations turned face-down, unpaid bills, multiple mismatched monitors, tangled ethernet cables, hardware security keys, soldering tools, energy-drink cans, and cold blue monitor light cutting through dim domestic clutter.
+- Continuity notes: Todd launches his first attack on Superhero Mandroid from this room, but abandons it before authorities arrive. The empty workstation becomes evidence of his escape and obsession.
+- Reference image: `../reference-images/todd-phillips-home-workstation-setting.png`
+
+## Setting: Superhero Mandroid's Cyberspace Grid
+
+- First appears: Issue #10, "The Puppet Signal"
+- Visual identifiers: digital interior of Superhero Mandroid's mechanical mind, seen as an endless black-and-cyan grid plane with floating memory towers, green circuit rivers, transparent code panels, red intrusion cracks, diagnostic stars overhead, and enormous ghostly outlines of gears and neural pathways embedded in the distance.
+- Continuity notes: Dr. Dawes can enter this mind-space through the Lyoko-Tron-Matrix protocol. Physical systems appear as symbolic digital terrain, and hostile code manifests as visible monsters that require digital weaponry to delete permanently.
+- Reference image: `../reference-images/cyberspace-grid-setting.png`

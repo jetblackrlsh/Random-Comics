@@ -98,3 +98,14 @@
 - New settings: None.
 - New key items: Volta Portal Prototype.
 - Reference images added: `sponge-goblins-character.png`, `volta-portal-prototype-key-item.png`.
+
+## Issue #10: The Puppet Signal
+
+- Folder: `series/superhero-mandroid/issues/issue-10/`
+- Logline: A discarded human cybersecurity hero tries to turn Superhero Mandroid into his puppet, forcing Dr. Dawes to enter the android's mechanical mind before the hack can take hold.
+- Plot summary: Todd Phillips, a former classified cybersecurity engineer replaced by AI coding agents, watches the world celebrate Superhero Mandroid and decides the machine has stolen the heroic recognition he deserved. From his cluttered home workstation, Todd launches a remote intrusion into Mandroid's hidden lab systems. Mandroid collapses with red eyes while monitoring portal signatures, and Dr. Elias Dawes activates the Lyoko-Tron-Matrix protocol by plugging a mind-link cable into his own ear. Inside Mandroid's cyberspace grid, Mandroid's rocket fists only make the computer virus monsters multiply. Dawes manifests as a digital signal and explains that digital beings must be deleted with digital weapons. Mandroid summons his holo shield, Dawes summons a holosword, and together they destroy the swarm and recover a data packet identifying Todd. Authorities reach Todd's home too late; he has fled and remains determined to make machines pay.
+- Continuity changes: The inventor is canonically named Dr. Elias Dawes; the Lyoko-Tron-Matrix protocol can project Dawes into Mandroid's mechanical mind; Mandroid's holo shield is confirmed effective as digital hardlight weaponry; Todd Phillips becomes a recurring human hacker antagonist who escapes capture.
+- New characters: Todd Phillips, Computer Virus Monsters.
+- New settings: Todd Phillips's Home Workstation, Superhero Mandroid's Cyberspace Grid.
+- New key items: Lyoko-Tron-Matrix Mind-Link Cable.
+- Reference images added: `todd-phillips-character.png`, `computer-virus-monsters-character.png`, `todd-phillips-home-workstation-setting.png`, `cyberspace-grid-setting.png`, `lyoko-tron-matrix-mind-link-cable-key-item.png`.
