@@ -144,3 +144,11 @@
 - Visual identifiers: packs of jagged humanoid cyber creatures made from red-black corrupted code, torn translucent data plates, glitching wireframe limbs, shard-like claws, flickering error-symbol eyes, and crawling static halos. They multiply when destroyed by ordinary mechanical force, splitting into smaller red code fragments that reform into new bodies.
 - Continuity notes: Inside the cyberspace grid of Superhero Mandroid's mind, ordinary rocket fists can knock them apart but not put them down permanently. Digital hardlight weaponry, including Mandroid's holo shield and Dr. Dawes's holosword, can delete them for good.
 - Reference image: `../reference-images/computer-virus-monsters-character.png`
+
+## Character: Paul Teethings, Possessed Exorcist
+
+- First appears: Issue #13, "The Brimstone Confession"
+- Role: disgraced regional exorcist transformed by a portal demon; dangerous antihero whose faith and possession are at war.
+- Visual identifiers: human man in his late 30s with light skin, hollow brown eyes, short dark hair receding at the temples, gaunt cheeks, trimmed beard, and an exhausted priestly posture. In ordinary form he wears a black clerical shirt with white collar, dark coat, plain black trousers, and a worn wooden rosary. After portal possession he keeps the torn priest clothing but gains charcoal-black cracked skin patches, ember-red glow in the throat and eyes, ragged demon wings, black clawed fingers, smoke-stained collar, and sulfur-yellow flame light around his mouth when breathing hellfire.
+- Continuity notes: Paul publicly states that the alien invaders coming through portals are demons after seeing post-portal possessions turn people into literal monsters. His superiors revoke his exorcist title and label him a deceiver, leaving him vulnerable to a portal possession. He can fly with demon wings, breathe hellfire, cough brimstone dust to escape, and counter ordinary exorcist tools because he was trained to use them. Direct prayer weakens him. By the end of Issue #13, he refuses to let the demon own him and vows to use the forced gifts to protect people and spread the truth.
+- Reference image: `../reference-images/paul-teethings-possessed-exorcist-character.png`

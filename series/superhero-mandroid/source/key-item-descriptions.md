@@ -48,3 +48,10 @@
 - Visual identifiers: reinforced black-and-silver terminal cable with a slim rounded ear-interface plug, green diagnostic LEDs, braided shielding, a wrist-thick data conduit, and a heavy lab terminal connector seated in a console marked by cyan waveform lights. It looks medical, electrical, and improvised enough to be dangerous.
 - Continuity notes: Dr. Dawes uses the cable during the Lyoko-Tron-Matrix protocol, plugging it into his ear to translate his brain's electrical signals into the lab computer system and project a digital form into Superhero Mandroid's mechanical mind.
 - Reference image: `../reference-images/lyoko-tron-matrix-mind-link-cable-key-item.png`
+
+## Key Item: Regional Exorcist Kit
+
+- First appears: Issue #13, "The Brimstone Confession"
+- Visual identifiers: battered black leather field case lined with red cloth, containing a worn wooden cross, a small silver cross, a pocket Bible with taped spine, glass vials of holy water, folded prayer cards, a simple rosary, a brass aspergillum, and handwritten case notes. The kit should look practical from years of use rather than ornate.
+- Continuity notes: Paul Teethings trained with tools like these before the portals changed possession cases. After his transformation, he knows how to counter the kit's physical tools, but coordinated prayer still weakens the demon inside him.
+- Reference image: `../reference-images/regional-exorcist-kit-key-item.png`

@@ -131,3 +131,14 @@
 - New settings: None.
 - New key items: None.
 - Reference images added: `superhero-mandroid-version-one-character.png`.
+
+## Issue #13: The Brimstone Confession
+
+- Folder: `series/superhero-mandroid/issues/issue-13/`
+- Logline: After the church silences an exorcist for calling portal invaders demons, betrayal leaves him vulnerable to possession, forcing Superhero Mandroid to stop his revenge before the fallen priest decides what kind of monster he will become.
+- Plot summary: Paul Teethings is a sincere regional exorcist whose old work once involved familiar possessions that could be answered with scripture, holy water, and a cross. After the portals open, he sees possession victims becoming literal monsters while the church refuses to name the change, even as Superhero Mandroid battles similar creatures on the news. Paul posts a viral confession that the portal invaders are demons, but his superiors erase the message, revoke his title, and call him a deceiver. The betrayal weakens his faith enough for a portal monster to merge with him, giving him wings, claws, brimstone dust, and hellfire breath. He confronts his former superiors, counters their physical exorcist tools, and begins to weaken only when they pray together. Superhero Mandroid arrives with his holo shield before Paul can cross the final line, and Paul escapes in brimstone smoke. Alone in an alley, Paul's anger gives way to duty, and he vows to protect people and speak the truth without letting the demon inside him own him.
+- Continuity changes: Paul Teethings becomes a transformed antihero whose faith and possession are in conflict; post-portal possession is publicly connected to portal creatures from Paul's point of view; prayer weakens the demon inside Paul even when physical exorcist tools fail; Superhero Mandroid gains a potential uneasy ally or future complication.
+- New characters: Paul Teethings, Possessed Exorcist.
+- New settings: St. Bartholomew Cathedral Tribunal Complex.
+- New key items: Regional Exorcist Kit.
+- Reference images added: `paul-teethings-possessed-exorcist-character.png`, `st-bartholomew-cathedral-tribunal-setting.png`, `regional-exorcist-kit-key-item.png`.

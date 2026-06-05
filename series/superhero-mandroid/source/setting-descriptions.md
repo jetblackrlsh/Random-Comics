@@ -62,3 +62,10 @@
 - Visual identifiers: digital interior of Superhero Mandroid's mechanical mind, seen as an endless black-and-cyan grid plane with floating memory towers, green circuit rivers, transparent code panels, red intrusion cracks, diagnostic stars overhead, and enormous ghostly outlines of gears and neural pathways embedded in the distance.
 - Continuity notes: Dr. Dawes can enter this mind-space through the Lyoko-Tron-Matrix protocol. Physical systems appear as symbolic digital terrain, and hostile code manifests as visible monsters that require digital weaponry to delete permanently.
 - Reference image: `../reference-images/cyberspace-grid-setting.png`
+
+## Setting: St. Bartholomew Cathedral Tribunal Complex
+
+- First appears: Issue #13, "The Brimstone Confession"
+- Visual identifiers: old stone cathedral complex in Mandroid's City with a formal tribunal chamber, carved wood doors, high stained-glass windows, marble floors, side courtyards, rain-dark steps, iron lamps, administrative corridors, and a walled courtyard where exorcist superiors can gather away from crowds. The atmosphere is solemn, institutional, and slightly secretive.
+- Continuity notes: Paul Teethings is stripped of his regional exorcist title here after publicly naming portal invaders as demons. His later possession and attack on his former superiors also happen around the cathedral courtyard, leaving scorch marks and brimstone dust on the old stone.
+- Reference image: `../reference-images/st-bartholomew-cathedral-tribunal-setting.png`
