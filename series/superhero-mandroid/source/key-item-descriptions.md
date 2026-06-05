@@ -39,7 +39,7 @@
 
 - First appears: Issue #9, "The Sponge Gate"
 - Visual identifiers: half-built tabletop portal generator made from a brass-and-chrome ring, teal ceramic insulators, pressure-gauge hardware, alien-spectrum monitors, exposed copper coils, wet lab hoses, and a small unstable violet-blue aperture flickering inside the ring.
-- Continuity notes: Dr. Vera Volta begins building the prototype after Hydrohero Womandroid records enough portal data during Issue #9. It represents Volta's first attempt to control portals instead of merely reacting to them.
+- Continuity notes: Dr. Vera Volta begins building the prototype after Hydrohero Womandroid records enough portal data during Issue #9. In Issue #14, she finishes it, bolts it over Hydrohero's cracked water tank as both a seal and a dimensional weapon, and uses it to fire portal beams that send targets into other dimensions. The Backrooms-mutated pigeon destroys the mounted prototype with its beak, reopening the tank crack and ending the upgrade for now.
 - Reference image: `../reference-images/volta-portal-prototype-key-item.png`
 
 ## Key Item: Lyoko-Tron-Matrix Mind-Link Cable

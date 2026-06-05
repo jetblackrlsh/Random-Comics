@@ -142,3 +142,14 @@
 - New settings: St. Bartholomew Cathedral Tribunal Complex.
 - New key items: Regional Exorcist Kit.
 - Reference images added: `paul-teethings-possessed-exorcist-character.png`, `st-bartholomew-cathedral-tribunal-setting.png`, `regional-exorcist-kit-key-item.png`.
+
+## Issue #14: The Pigeon In The Backrooms
+
+- Folder: `series/superhero-mandroid/issues/issue-14/`
+- Logline: When Hydrohero Womandroid gains a portal beam and accidentally banishes a city pigeon, Superhero Mandroid reflects the weapon back at her, sending Hydrohero into the Backrooms with the angry creature her shot transformed.
+- Plot summary: Dr. Vera Volta finishes the portal prototype she began after Issue #9 and bolts it over Hydrohero Womandroid's cracked water tank, using it as both a seal and a dimensional weapon. Hydrohero ambushes Superhero Mandroid on patrol, but her first portal beam misses him and sends an ordinary pigeon out of the world. When she fires again, Mandroid reflects the beam with his holo shield and sends Hydrohero to the Backrooms. The wet carpet keeps her tank supplied long enough for her to search for a mirror, but the vanished pigeon has mutated into a giant furious creature. It destroys the mounted portal prototype, reopens her tank crack, and corners her until Detective Webwidow arrives through the multiversal web. Webwidow pulls Hydrohero home, patches her tank with webbing, and warns her to stop opening reckless portals and start becoming a better hero.
+- Continuity changes: Volta's portal prototype is completed, mounted on Hydrohero, and destroyed; Hydrohero experiences the danger of her own portal weapon and ends the issue contemplating Webwidow's warning; the Backrooms are established as a pocket dimension reachable through portal accidents and the multiversal web; the Backrooms-mutated pigeon remains trapped there.
+- New characters: Backrooms-Mutated Pigeon.
+- New settings: The Backrooms.
+- New key items: None.
+- Reference images added: `backrooms-mutated-pigeon-character.png`, `backrooms-setting.png`.

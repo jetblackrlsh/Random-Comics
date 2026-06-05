@@ -152,3 +152,11 @@
 - Visual identifiers: human man in his late 30s with light skin, hollow brown eyes, short dark hair receding at the temples, gaunt cheeks, trimmed beard, and an exhausted priestly posture. In ordinary form he wears a black clerical shirt with white collar, dark coat, plain black trousers, and a worn wooden rosary. After portal possession he keeps the torn priest clothing but gains charcoal-black cracked skin patches, ember-red glow in the throat and eyes, ragged demon wings, black clawed fingers, smoke-stained collar, and sulfur-yellow flame light around his mouth when breathing hellfire.
 - Continuity notes: Paul publicly states that the alien invaders coming through portals are demons after seeing post-portal possessions turn people into literal monsters. His superiors revoke his exorcist title and label him a deceiver, leaving him vulnerable to a portal possession. He can fly with demon wings, breathe hellfire, cough brimstone dust to escape, and counter ordinary exorcist tools because he was trained to use them. Direct prayer weakens him. By the end of Issue #13, he refuses to let the demon own him and vows to use the forced gifts to protect people and spread the truth.
 - Reference image: `../reference-images/paul-teethings-possessed-exorcist-character.png`
+
+## Character: Backrooms-Mutated Pigeon
+
+- First appears: Issue #14, "The Pigeon In The Backrooms"
+- Role: transformed creature and consequence of Hydrohero Womandroid's reckless portal weapon.
+- Visual identifiers: enormous distorted city pigeon grown to nearly person-sized, oily gray feathers clumped with damp yellow carpet fibers, swollen iridescent neck, huge black furious eyes, oversized cracked beak, talons scraping wet carpet, asymmetrical wings, and eerie fluorescent yellow reflections from Backrooms lighting.
+- Continuity notes: It begins as an ordinary city pigeon accidentally struck by Hydrohero's portal beam. The Backrooms mutates it into a furious beast that destroys Volta's portal prototype, reopens Hydrohero's cracked water tank, and chases her until Detective Webwidow rescues her through the multiversal web. It remains trapped in the Backrooms after the opening closes.
+- Reference image: `../reference-images/backrooms-mutated-pigeon-character.png`

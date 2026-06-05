@@ -69,3 +69,10 @@
 - Visual identifiers: old stone cathedral complex in Mandroid's City with a formal tribunal chamber, carved wood doors, high stained-glass windows, marble floors, side courtyards, rain-dark steps, iron lamps, administrative corridors, and a walled courtyard where exorcist superiors can gather away from crowds. The atmosphere is solemn, institutional, and slightly secretive.
 - Continuity notes: Paul Teethings is stripped of his regional exorcist title here after publicly naming portal invaders as demons. His later possession and attack on his former superiors also happen around the cathedral courtyard, leaving scorch marks and brimstone dust on the old stone.
 - Reference image: `../reference-images/st-bartholomew-cathedral-tribunal-setting.png`
+
+## Setting: The Backrooms
+
+- First appears: Issue #14, "The Pigeon In The Backrooms"
+- Visual identifiers: endless maze of yellowed office-like rooms and corridors, stained damp carpet, buzzing fluorescent ceiling panels, beige wallpaper, repeating support columns, warped doorways, impossible hallway angles, shallow puddles, and a stale institutional atmosphere with no windows or obvious exits.
+- Continuity notes: The Backrooms exist as a dangerous pocket dimension reachable through reckless portal travel. Moisture in the wet carpet can refill Hydrohero Womandroid's tank, but the environment can also mutate trapped creatures into larger, stranger threats. Detective Webwidow can reach it through the multiversal web.
+- Reference image: `../reference-images/backrooms-setting.png`
