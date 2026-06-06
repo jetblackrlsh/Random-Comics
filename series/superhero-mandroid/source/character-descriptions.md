@@ -148,10 +148,26 @@
 ## Character: Paul Teethings, Possessed Exorcist
 
 - First appears: Issue #13, "The Brimstone Confession"
-- Role: disgraced regional exorcist transformed by a portal demon; dangerous antihero whose faith and possession are at war.
+- Role: disgraced regional exorcist transformed by a portal demon; dangerous antihero whose faith and possession are at war, later known among transhumans as Protector Paul.
 - Visual identifiers: human man in his late 30s with light skin, hollow brown eyes, short dark hair receding at the temples, gaunt cheeks, trimmed beard, and an exhausted priestly posture. In ordinary form he wears a black clerical shirt with white collar, dark coat, plain black trousers, and a worn wooden rosary. After portal possession he keeps the torn priest clothing but gains charcoal-black cracked skin patches, ember-red glow in the throat and eyes, ragged demon wings, black clawed fingers, smoke-stained collar, and sulfur-yellow flame light around his mouth when breathing hellfire.
-- Continuity notes: Paul publicly states that the alien invaders coming through portals are demons after seeing post-portal possessions turn people into literal monsters. His superiors revoke his exorcist title and label him a deceiver, leaving him vulnerable to a portal possession. He can fly with demon wings, breathe hellfire, cough brimstone dust to escape, and counter ordinary exorcist tools because he was trained to use them. Direct prayer weakens him. By the end of Issue #13, he refuses to let the demon own him and vows to use the forced gifts to protect people and spread the truth.
+- Continuity notes: Paul publicly states that the alien invaders coming through portals are demons after seeing post-portal possessions turn people into literal monsters. His superiors revoke his exorcist title and label him a deceiver, leaving him vulnerable to a portal possession. He can fly with demon wings, breathe hellfire, cough brimstone dust to escape, and counter ordinary exorcist tools because he was trained to use them. Direct prayer weakens him. By the end of Issue #13, he refuses to let the demon own him and vows to use the forced gifts to protect people and spread the truth. In Issue #16, he chooses to protect Mandroid City's transhuman community from crossmarked paramilitary attackers, earning the symbolic role of Protector Paul, a guardian demon rather than a guardian angel.
 - Reference image: `../reference-images/paul-teethings-possessed-exorcist-character.png`
+
+## Character: Dr. Leona Vale, Transhuman Organizer
+
+- First appears: Issue #16, "Guardian Demon"
+- Role: transhuman community leader, organizer, and advocate for people using AI companions and wearable augmentation to go beyond ordinary human limits.
+- Visual identifiers: Black woman in her early 40s with warm brown skin, close-cropped silver hair, calm dark eyes, angular cheekbones, and a poised organizer's posture. She wears a tailored charcoal jacket over a matte white smart-fabric shirt, visible copper-and-blue neural interface filaments at the temples, transparent augmented-reality lenses, slim carbon-fiber forearm braces, and a small glowing AI companion device clipped near her collarbone.
+- Continuity notes: Leona leads a transhuman meet-up in Mandroid's City with disciplined warmth. She believes society often calls transhumans monsters before learning to understand the freedom of going beyond human limits. She compares their future acceptance to the way Superhero Mandroid's frightening Version One design eventually gave way to a beloved public hero.
+- Reference image: `../reference-images/leona-vale-transhuman-organizer-character.png`
+
+## Character: Crossmarked Paramilitary Cell
+
+- First appears: Issue #16, "Guardian Demon"
+- Role: religious extremist paramilitary attackers who target transhumans as alleged violations of divine order.
+- Visual identifiers: coordinated group of imposing paramilitary attackers in matte black riot armor, heavy helmets, opaque visors, reinforced gloves, tactical boots, and blunt metal batons. Their armor is defaced with rough white cross graffiti, scratched scripture-like marks, and hand-painted crusader-style symbols. They look organized, intimidating, and zealot-like without belonging to ordinary police or military.
+- Continuity notes: The cell attacks the Transhuman Meet-Up Hall with batons while claiming attempts to become more than human are abominations. Paul Teethings drives them away with controlled demonic power, frightening the attackers without surrendering to the demon's cruelty.
+- Reference image: `../reference-images/crossmarked-paramilitary-cell-character.png`
 
 ## Character: Backrooms-Mutated Pigeon
 

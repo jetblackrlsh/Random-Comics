@@ -164,3 +164,14 @@
 - New settings: None.
 - New key items: Reality Drafting Compass.
 - Reference images added: `sketchmaker-character.png`, `reality-drafting-compass-key-item.png`.
+
+## Issue #16: Guardian Demon
+
+- Folder: `series/superhero-mandroid/issues/issue-16/`
+- Logline: When Paul Teethings attends a transhuman meet-up hoping someone will understand what it feels like to be beyond human, a violent religious paramilitary attack forces him to turn his demonic curse into the shield his new community needs.
+- Plot summary: Paul Teethings hates the demon inside him, but flying with ragged wings makes him feel alive in a way he cannot deny. After noticing AI-augmented people using companions, neural wearables, braces, and exoskeletons to exceed ordinary human limits, he nervously attends a transhuman meet-up. Dr. Leona Vale and the community initially recoil from his demonic appearance, then recognize his control and accept him as someone else living beyond human limits. Leona reminds him that society once feared Superhero Mandroid's exposed green-metal Version One form before learning to see the hero beneath it. Crossmarked paramilitary attackers storm the hall, beat transhumans with batons, and claim becoming more than human violates divine order. Leona organizes augmented defenders while civilians flee. Paul, enraged by the same kind of judgment that rejected him, powers up without surrendering control, moves as a shadowy blur, raises a defensive wall of fire, flies above the chaos, and leaves the attackers' batons scattered behind as they retreat. The transhumans recognize him as Protector Paul, their guardian demon.
+- Continuity changes: Paul Teethings becomes Protector Paul to Mandroid City's transhuman community; AI-augmented transhumans are established as a visible social movement in the city; Dr. Leona Vale and the Transhuman Meet-Up Hall become recurring continuity elements; crossmarked religious paramilitary attackers are introduced as a threat to transhumans.
+- New characters: Dr. Leona Vale, Transhuman Organizer; Crossmarked Paramilitary Cell.
+- New settings: Transhuman Meet-Up Hall.
+- New key items: None.
+- Reference images added: `leona-vale-transhuman-organizer-character.png`, `crossmarked-paramilitary-cell-character.png`, `transhuman-meetup-hall-setting.png`.

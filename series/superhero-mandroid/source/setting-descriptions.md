@@ -70,6 +70,13 @@
 - Continuity notes: Paul Teethings is stripped of his regional exorcist title here after publicly naming portal invaders as demons. His later possession and attack on his former superiors also happen around the cathedral courtyard, leaving scorch marks and brimstone dust on the old stone.
 - Reference image: `../reference-images/st-bartholomew-cathedral-tribunal-setting.png`
 
+## Setting: Transhuman Meet-Up Hall
+
+- First appears: Issue #16, "Guardian Demon"
+- Visual identifiers: converted warehouse community space in Mandroid's City with exposed brick, practical LED strips, folding chairs, repair tables, charging stations, augmentation workbenches, coiled data cables, accessibility ramps, coffee urns, poster boards about augmentation rights, and wall screens that can show Superhero Mandroid's public history. The lighting is warm and practical, with cool blue tech glows from wearable devices.
+- Continuity notes: Dr. Leona Vale organizes transhuman meetings here for people using AI companions, neural wearables, powered braces, exoskeleton supports, and other augmentations. Paul Teethings first finds acceptance here, and the hall is damaged when the Crossmarked Paramilitary Cell attacks before Paul drives them away.
+- Reference image: `../reference-images/transhuman-meetup-hall-setting.png`
+
 ## Setting: The Backrooms
 
 - First appears: Issue #14, "The Pigeon In The Backrooms"
