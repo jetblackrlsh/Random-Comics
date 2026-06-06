@@ -160,3 +160,11 @@
 - Visual identifiers: enormous distorted city pigeon grown to nearly person-sized, oily gray feathers clumped with damp yellow carpet fibers, swollen iridescent neck, huge black furious eyes, oversized cracked beak, talons scraping wet carpet, asymmetrical wings, and eerie fluorescent yellow reflections from Backrooms lighting.
 - Continuity notes: It begins as an ordinary city pigeon accidentally struck by Hydrohero's portal beam. The Backrooms mutates it into a furious beast that destroys Volta's portal prototype, reopens Hydrohero's cracked water tank, and chases her until Detective Webwidow rescues her through the multiversal web. It remains trapped in the Backrooms after the opening closes.
 - Reference image: `../reference-images/backrooms-mutated-pigeon-character.png`
+
+## Character: The Sketchmaker
+
+- First appears: Issue #15, "The Last Portal"
+- Role: anxious creator figure whose imagination sustains Superhero Mandroid's world and creates the portals Mandroid has spent his life fighting.
+- Visual identifiers: adult male stick-figure person rendered as a living pencil sketch inside photoreal city environments, with a round simple head, black graphite line body, sketched hands, faint paper-fiber texture visible inside the lines, expressive dot eyes, a small worried mouth, and loose graphite smudges that drift from him when his confidence fails. He looks impossible but physically present, with pencil-shadow contact on the ground and a nervous, thoughtful posture.
+- Continuity notes: His imagination, focused through the Reality Drafting Compass, creates portals, monsters, heroes, people, buildings, and Mandroid's living story world. When he loses inspiration, the compass defaults toward erasing unfinished reality. Reading comics with Mandroid restores his creative confidence enough to redraw the city and keep the story going.
+- Reference image: `../reference-images/sketchmaker-character.png`

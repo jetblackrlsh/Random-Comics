@@ -55,3 +55,10 @@
 - Visual identifiers: battered black leather field case lined with red cloth, containing a worn wooden cross, a small silver cross, a pocket Bible with taped spine, glass vials of holy water, folded prayer cards, a simple rosary, a brass aspergillum, and handwritten case notes. The kit should look practical from years of use rather than ornate.
 - Continuity notes: Paul Teethings trained with tools like these before the portals changed possession cases. After his transformation, he knows how to counter the kit's physical tools, but coordinated prayer still weakens the demon inside him.
 - Reference image: `../reference-images/regional-exorcist-kit-key-item.png`
+
+## Key Item: Reality Drafting Compass
+
+- First appears: Issue #15, "The Last Portal"
+- Visual identifiers: floating circular impossible artist's compass made from glowing sketch lines, graphite struts, translucent drafting arcs, and a rotating inner dial that switches between blue-white Draw Mode and gray-white Erase Mode. In Draw Mode it pours clean blue-white construction lines and living ink-like strokes into the air. In Erase Mode it emits gray-white eraser static, graphite dust, and curled eraser shavings.
+- Continuity notes: The Sketchmaker uses the compass to turn imagination into living reality, including portals, monsters, people, buildings, and restored parts of Mandroid's own body. When the Sketchmaker loses inspiration, the compass slips toward Erase Mode and starts reducing unfinished reality to sketches and white void. It cannot be solved by ordinary force; impact can knock its dial between modes but also risks erasing what strikes it.
+- Reference image: `../reference-images/reality-drafting-compass-key-item.png`

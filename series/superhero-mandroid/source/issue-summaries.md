@@ -153,3 +153,14 @@
 - New settings: The Backrooms.
 - New key items: None.
 - Reference images added: `backrooms-mutated-pigeon-character.png`, `backrooms-setting.png`.
+
+## Issue #15: The Last Portal
+
+- Folder: `series/superhero-mandroid/issues/issue-15/`
+- Logline: When Mandroid races toward what he thinks is the final portal, he finds the stick-figure creator whose fading imagination is erasing reality, forcing the hero to save the world by helping his maker remember why stories matter.
+- Plot summary: Giant eraser shavings blow through Mandroid's City as people and buildings become sketches and fade into white void. Mandroid rockets toward the epicenter hoping the disaster is the last portal, but finds the Sketchmaker beneath the Reality Drafting Compass instead. The compass can draw living people into reality or erase them when the Sketchmaker's imagination falters, and Mandroid's first rocket-fist strike only knocks its dial back into Draw Mode. The Sketchmaker admits that there are no portals today because he cannot make them without inspiration, revealing that Mandroid's world, enemies, city, and heroic life all exist inside the living story he draws. When Mandroid attacks again, the compass erases his rocket fist, then redraws it when the Sketchmaker steadies himself. Mandroid leads the Sketchmaker into a half-erased library, where reading comics restores his creative confidence. The compass redraws people, buildings, memories, and hope, and when a new portal opens over the restored city, Mandroid wishes the portals will never end.
+- Continuity changes: The Sketchmaker is revealed as the creator figure whose imagination generates the portals and sustains Mandroid's reality; the Reality Drafting Compass can draw or erase living reality and can restore erased parts of Mandroid's body; Mandroid shifts from wishing the portal war would end to accepting that continuing portals mean the living story still has imagination.
+- New characters: The Sketchmaker.
+- New settings: None.
+- New key items: Reality Drafting Compass.
+- Reference images added: `sketchmaker-character.png`, `reality-drafting-compass-key-item.png`.
