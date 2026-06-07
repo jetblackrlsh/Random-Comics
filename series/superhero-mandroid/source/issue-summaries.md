@@ -175,3 +175,14 @@
 - New settings: Transhuman Meet-Up Hall.
 - New key items: None.
 - Reference images added: `leona-vale-transhuman-organizer-character.png`, `crossmarked-paramilitary-cell-character.png`, `transhuman-meetup-hall-setting.png`.
+
+## Issue #17: A Smile Is Real
+
+- Folder: `series/superhero-mandroid/issues/issue-17/`
+- Logline: While battling a string of portal invasions, Superhero Mandroid grieves the peaceful future he once wanted and chooses a new purpose: protecting drawn lives because their joy is still real.
+- Plot summary: Superhero Mandroid answers one portal emergency after another, fighting a giant robot, a giant scorpion, a massive drilling machine, and grotesque alien fish men. Each victory reminds him that he was built to protect the innocent and loves making people smile, but Issue #15's revelation changes the meaning of his old wish for final peace. He once imagined the portals stopping forever so he and Dr. Dawes could relax together and watch television, yet now understands that a story without portals might erase his whole world. He imagines Dawes gone, civilization transformed, and his own artificial body aged and rusting while portals still open. After saving civilians from the fish men, Mandroid recognizes that the smiles he protects matter even if they are drawn, and that someone beyond the page may be turning to his adventures for escape, excitement, and joy.
+- Continuity changes: Mandroid fully accepts the implication of Issue #15: the portals sustaining conflict also sustain the living comic world. His purpose shifts from hoping for a final end to the portal war toward embracing endless heroism as a way to protect fictional lives and help the reader smile with every flip of the page.
+- New characters: None.
+- New settings: None.
+- New key items: None.
+- Reference images added: None.
