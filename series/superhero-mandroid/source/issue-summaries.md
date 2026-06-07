@@ -186,3 +186,14 @@
 - New settings: None.
 - New key items: None.
 - Reference images added: None.
+
+## Issue #18: The Armorer of Ainrete
+
+- Folder: `series/superhero-mandroid/issues/issue-18/`
+- Logline: When the disgraced armorer Calgoretos arrives from the conquered magic-science world of Ainrete seeking help, Superhero Mandroid must steal a necromancer's divine staff so Calgoretos can reclaim his name and free his world.
+- Plot summary: In Ainrete, Calgoretos was once celebrated for forging blessed armor that kept Skullcerer's skeleton army from conquering Castle Ainrete. Skullcerer kidnapped him, forced him to upgrade undead armor, seized the castle's divine power through a mystic staff, and turned the people against Calgoretos as the "Armorer of Evil." The Sorceress of Good sends Calgoretos to Earth for help, where Mandroid first mistakes him for an invader before understanding that Skullcerer's power could threaten Earth too. Mandroid returns to Ainrete with Calgoretos, helps the rebellion assault Castle Ainrete, and survives the revelation that Skullcerer's staff channels power no armor or holo shield can block. Instead of punching Skullcerer, Mandroid launches a rocket fist to grab the staff and reconnects with it in hand. The Sorceress and Mandroid channel restored power into Calgoretos, who defeats the weakened Skullcerer, reverses the death-spells, and is celebrated as Ainrete's defender again. Mandroid declines an invitation to stay because Dr. Dawes and Earth still need him, but accepts the Eagle Gem so the worlds can call each other in future crises.
+- Continuity changes: Ainrete is established as a magic-science world connected to Mandroid's portal adventures; Calgoretos is redeemed as the Armorer of Ainrete; Skullcerer's occupation is reversed; Mandroid now possesses the Eagle Gem, which can contact Ainrete and open portals between Earth and Ainrete.
+- New characters: Calgoretos; Skullcerer; Sorceress of Good; Ainrete Rebellion Soldiers.
+- New settings: Ainrete; Castle Ainrete.
+- New key items: Skullcerer's Mystic Staff; Eagle Gem.
+- Reference images added: `calgoretos-armorer-character.png`, `skullcerer-necromancer-character.png`, `sorceress-of-good-character.png`, `ainrete-rebellion-soldiers-character.png`, `ainrete-world-setting.png`, `castle-ainrete-setting.png`, `skullcerer-mystic-staff-key-item.png`, `eagle-gem-key-item.png`.

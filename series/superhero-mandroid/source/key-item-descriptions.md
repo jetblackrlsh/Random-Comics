@@ -62,3 +62,17 @@
 - Visual identifiers: floating circular impossible artist's compass made from glowing sketch lines, graphite struts, translucent drafting arcs, and a rotating inner dial that switches between blue-white Draw Mode and gray-white Erase Mode. In Draw Mode it pours clean blue-white construction lines and living ink-like strokes into the air. In Erase Mode it emits gray-white eraser static, graphite dust, and curled eraser shavings.
 - Continuity notes: The Sketchmaker uses the compass to turn imagination into living reality, including portals, monsters, people, buildings, and restored parts of Mandroid's own body. When the Sketchmaker loses inspiration, the compass slips toward Erase Mode and starts reducing unfinished reality to sketches and white void. It cannot be solved by ordinary force; impact can knock its dial between modes but also risks erasing what strikes it.
 - Reference image: `../reference-images/reality-drafting-compass-key-item.png`
+
+## Key Item: Skullcerer's Mystic Staff
+
+- First appears: Issue #18, "The Armorer of Ainrete"
+- Visual identifiers: long blackened bone-and-bronze staff crowned by a small skull wrapped in green-gold divine fire, with cracked rune bands, claw-like prongs, dangling tarnished charms, and a central glowing conduit that looks both holy and corrupted. When held by Skullcerer, it leaks death-mist and casts sickly green light.
+- Continuity notes: The staff is the channel through which Skullcerer steals and directs the divine power hidden in Castle Ainrete. Armor and shields cannot withstand the power while the staff remains in his grasp. Mandroid defeats the tactical problem by launching a rocket fist to grab the staff and return it to his own arm instead of trying to strike Skullcerer directly.
+- Reference image: `../reference-images/skullcerer-mystic-staff-key-item.png`
+
+## Key Item: Eagle Gem
+
+- First appears: Issue #18, "The Armorer of Ainrete"
+- Visual identifiers: palm-sized mystical gem shaped like a stylized eagle with spread wings, translucent gold crystal body, emerald-green inner light, tiny bronze feather filigree, and a soft portal glow that forms wing-like reflections on nearby surfaces. It should look like a sacred physical object, not a flat emblem.
+- Continuity notes: The Sorceress of Good gives the Eagle Gem to Superhero Mandroid after Ainrete is restored. Mandroid can use it to contact Ainrete and open portals between Earth and Ainrete when either world needs help.
+- Reference image: `../reference-images/eagle-gem-key-item.png`

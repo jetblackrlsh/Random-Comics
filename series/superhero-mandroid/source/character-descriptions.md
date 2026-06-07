@@ -184,3 +184,35 @@
 - Visual identifiers: adult male stick-figure person rendered as a living pencil sketch inside photoreal city environments, with a round simple head, black graphite line body, sketched hands, faint paper-fiber texture visible inside the lines, expressive dot eyes, a small worried mouth, and loose graphite smudges that drift from him when his confidence fails. He looks impossible but physically present, with pencil-shadow contact on the ground and a nervous, thoughtful posture.
 - Continuity notes: His imagination, focused through the Reality Drafting Compass, creates portals, monsters, heroes, people, buildings, and Mandroid's living story world. When he loses inspiration, the compass defaults toward erasing unfinished reality. Reading comics with Mandroid restores his creative confidence enough to redraw the city and keep the story going.
 - Reference image: `../reference-images/sketchmaker-character.png`
+
+## Character: Calgoretos
+
+- First appears: Issue #18, "The Armorer of Ainrete"
+- Role: proud blacksmith-warrior of Ainrete, former royal armorer, and redeemed defender of Ainrete's divine power.
+- Visual identifiers: strong Black adult male with long black dreadlocks, full black beard, intense dark eyes, muscular build, soot-scarred hands, battered dark green and bronze fantasy armor, layered plates, bronze rivets, skull motifs on the breastplate and belt, huge segmented metal gauntlets, and one long curved forearm blade. His silhouette should echo the user-provided reference image: broad, armored, grounded, and intimidating without losing human sorrow.
+- Continuity notes: Calgoretos once forged blessed armor that let Ainrete's soldiers resist Skullcerer's undead army. Skullcerer kidnapped and enslaved him, forcing him to upgrade undead armor and turning public opinion against him as the "Armorer of Evil." In Issue #18 he seeks help from Earth, reforges the rebellion's armor, defeats Skullcerer after Mandroid steals the mystic staff, and becomes Ainrete's celebrated defender again.
+- Reference image: `../reference-images/calgoretos-armorer-character.png`
+
+## Character: Skullcerer
+
+- First appears: Issue #18, "The Armorer of Ainrete"
+- Role: undead skeletal necromancer, conqueror of Ainrete, and thief of Castle Ainrete's divine power.
+- Visual identifiers: tall undead skeletal sorcerer with a bone-white skull, hollow green fire eyes, blackened cracks across jaw and brow, ragged obsidian-purple cloak, tarnished bone-and-iron crown fragments, armored skeleton hands, necromantic rune bands, and a long mystic staff crowned with a skull and green-gold divine fire. He moves in death-mist and commands armored skeleton soldiers.
+- Continuity notes: Skullcerer repeatedly failed to conquer Ainrete while Calgoretos's blessed armor protected the king's soldiers, then forced Calgoretos to forge stronger undead armor. After stealing Castle Ainrete's divine power through his staff, he spread death-spells that turned victims into undead servants. In Issue #18 he is defeated when Mandroid steals the staff and Calgoretos channels restored good power against him.
+- Reference image: `../reference-images/skullcerer-necromancer-character.png`
+
+## Character: Sorceress of Good
+
+- First appears: Issue #18, "The Armorer of Ainrete"
+- Role: magical leader of Ainrete's rebellion, guide to Calgoretos, and keeper of portal access between Ainrete and Earth.
+- Visual identifiers: wise adult woman with deep brown skin, bright gold eyes, long silver-white braids, practical white-and-gold travel robes reinforced with light leather, sunburst embroidery, crystal bracers, and warm golden magic around her hands. Her expression is calm, tactical, and compassionate.
+- Continuity notes: The Sorceress of Good sends Calgoretos through a portal to find help, identifies Skullcerer's staff as the channel for the stolen divine power, helps Mandroid empower Calgoretos for the final victory, and gives Mandroid the Eagle Gem so he can contact and open portals to Ainrete in future crises.
+- Reference image: `../reference-images/sorceress-of-good-character.png`
+
+## Character: Ainrete Rebellion Soldiers
+
+- First appears: Issue #18, "The Armorer of Ainrete"
+- Role: underground resistance fighters opposing Skullcerer's occupation of Ainrete.
+- Visual identifiers: mixed group of exhausted human and humanoid fantasy-science rebels wearing Calgoretos-upgraded dark green and bronze armor, practical cloaks, glowing blue-gold rune seams, battered helmets, shields, spears, and short rifles or arcane-tech tools. Their armor looks hand-forged, repaired, and trusted rather than ceremonial.
+- Continuity notes: The rebellion fled underground after Skullcerer conquered Castle Ainrete. Calgoretos reforges their armor so they can overcome undead minions, though Skullcerer's divine staff remains beyond their reach until Mandroid steals it.
+- Reference image: `../reference-images/ainrete-rebellion-soldiers-character.png`

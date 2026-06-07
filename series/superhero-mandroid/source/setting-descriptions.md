@@ -83,3 +83,17 @@
 - Visual identifiers: endless maze of yellowed office-like rooms and corridors, stained damp carpet, buzzing fluorescent ceiling panels, beige wallpaper, repeating support columns, warped doorways, impossible hallway angles, shallow puddles, and a stale institutional atmosphere with no windows or obvious exits.
 - Continuity notes: The Backrooms exist as a dangerous pocket dimension reachable through reckless portal travel. Moisture in the wet carpet can refill Hydrohero Womandroid's tank, but the environment can also mutate trapped creatures into larger, stranger threats. Detective Webwidow can reach it through the multiversal web.
 - Reference image: `../reference-images/backrooms-setting.png`
+
+## Setting: Ainrete
+
+- First appears: Issue #18, "The Armorer of Ainrete"
+- Visual identifiers: alternate world where ancient magic and advanced science coexist: green mountains, stone roads threaded with luminous conduits, rune-lit forges, arcane-tech towers, bronze machines, banners, enchanted armor workshops, golden magic lanterns, and practical medieval-futurist infrastructure. The palette mixes dark green, bronze, warm gold, and sickly necromantic green during Skullcerer's occupation.
+- Continuity notes: Ainrete contains the divine power hidden in Castle Ainrete and can be reached by the Sorceress of Good's portals. By the end of Issue #18, Superhero Mandroid holds the Eagle Gem, giving him a standing way to contact and open portals to Ainrete when help is needed.
+- Reference image: `../reference-images/ainrete-world-setting.png`
+
+## Setting: Castle Ainrete
+
+- First appears: Issue #18, "The Armorer of Ainrete"
+- Visual identifiers: massive royal fortress built from pale stone and bronze arcane machinery, with high battlements, green-and-gold banners, luminous conduit veins in the walls, hidden divine chambers, broad ceremonial steps, defensive courtyards, and magical science towers that glow like laboratory beacons above a medieval castle silhouette.
+- Continuity notes: Castle Ainrete holds a godlike divine power that Skullcerer steals through his mystic staff. The castle falls when Calgoretos is forced to upgrade undead armor, then is restored after Skullcerer is defeated and his spells are reversed.
+- Reference image: `../reference-images/castle-ainrete-setting.png`
