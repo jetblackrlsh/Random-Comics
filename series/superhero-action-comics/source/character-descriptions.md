@@ -143,3 +143,27 @@
 - Visual identifiers: Colossal humanoid knight, thirty stories tall, body made of flowing molten silver-steel and fused medieval armor plates, glowing white-blue knight souls visible through seams, enormous cracked chest plate, crown-shaped helm crest made from spears, many ghostly armored faces faintly reflected inside the metal, heavy heroic stance.
 - Continuity notes: Formed by Wizard Orvan from the melted army of Veyr. Dies by releasing every knight-soul as a single white-blue beam that destroys Ashmaw.
 - Reference image: `../reference-images/soulforge-knight-character.png`
+
+## Character: Makiko
+
+- First appears: Issue #6, "The Seekers and Makiko"
+- Role: protagonist, ninja assassin protector, cosmic-shore investigator.
+- Visual identifiers: Athletic Japanese woman in her late 20s, sharp dark eyes, black hair tied in a short practical knot, matte-black tactical ninja armor with wet sand and sea-salt scuffs, fitted mask over the lower face, flexible gloves and boots, dark utility wraps, and a calm predatory stance. Her obsidian mask and shoulder plates catch starlight along the edges.
+- Continuity notes: Makiko has been investigating Cosmic Seeker attacks along the starlit sea for months. She knows their hunting patterns and carries a water-worn blue-glowing blade that cuts through their hypnotic light.
+- Reference image: `../reference-images/makiko-character.png`
+
+## Character: The Shorebound Witness
+
+- First appears: Issue #6, "The Seekers and Makiko"
+- Role: viewpoint protagonist, Makiko's partner, civilian ally whose voice disrupts Seeker synchronization.
+- Visual identifiers: Black man in his early 30s with medium-brown skin, close-cropped hair, worried brown eyes, casual beach vacation clothes with a dark lightweight hoodie over a gray T-shirt, rolled dark pants, bare feet on wet sand, and a cracked dead smartphone in one hand.
+- Continuity notes: He cannot swim and begins the issue vulnerable on the shore, but his calm speech and improvised rhymes break the Cosmic Seekers' brainwave-hunting light pattern long enough for Makiko to defeat the larger threat.
+- Reference image: `../reference-images/shorebound-witness-character.png`
+
+## Character: Cosmic Seekers
+
+- First appears: Issue #6, "The Seekers and Makiko"
+- Role: antagonist swarm, ancient starlit-depth predators.
+- Visual identifiers: Dolphin-sized translucent deep-sea predators with long undulating bodies, four fin-like limbs, glassy black eyes, trailing tendrils, and intricate cyan, violet, and pearl bioluminescent organs arranged in hypnotic stripe and ring patterns under wet skin.
+- Continuity notes: Cosmic Seekers evolved in the deepest starlit seas. Their synchronized lights can match humanoid brainwaves and turn prey into docile hosts. Rhythmic human voice patterns can disrupt their synchronization, and Makiko's blade can cut through their light fields.
+- Reference image: `../reference-images/cosmic-seeker-character.png`

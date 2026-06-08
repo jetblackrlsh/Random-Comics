@@ -54,3 +54,14 @@
 - New settings: Kingdom of Veyr; Far Lands Molten Moat.
 - New key items: The Asterion Word.
 - Reference images added: `king-aldren-character.png`; `princess-mirabel-character.png`; `wizard-orvan-character.png`; `ashmaw-far-lands-dragon-character.png`; `soulforge-knight-character.png`; `kingdom-of-veyr-setting.png`; `far-lands-molten-moat-setting.png`.
+
+## Issue #6: The Seekers and Makiko
+
+- Folder: `series/superhero-action-comics/issues/issue-06/`
+- Logline: On a starlit beach where ancient predators hypnotize prey with synchronized bioluminescence, Makiko must fight the monster beneath the waves while her shorebound partner learns that his voice is the only weapon holding the swarm back.
+- Plot summary: The Shorebound Witness relaxes on a lonely black-sand beach and sees liquid-starlight waves reveal lights that look like streets in a drowned city. When he raises his phone to record proof, a cosmic burst destroys it and calls dolphin-sized Cosmic Seekers from the shallows. Their synchronized bioluminescence begins turning his fear into obedience until Makiko arrives with a blue-glowing water-worn blade and explains that the creatures match their light to humanoid brainwaves. Makiko notices that his voice disrupts the pattern and dives after the massive Leviathan Seeker coordinating the swarm, leaving him to hold the smaller predators back with improvised rhyme. After he tries to retreat and a Seeker lunges over him, he chooses not to go quiet. His completed rhyme breaks the swarm's rhythm at the same moment Makiko cuts the leviathan's crown-lure, shattering the shared hypnosis and driving the Seekers back to the deep.
+- Continuity changes: Introduces Makiko, the Shorebound Witness, the Cosmic Seekers, Starlight Sea Beach, and Makiko's water-worn blade. Establishes that Cosmic Seeker lights can hypnotize minds, that rhythmic human voice can disrupt their synchronization, and that severing a Leviathan Seeker's crown-lure can collapse swarm coordination.
+- New characters: Makiko; The Shorebound Witness; Cosmic Seekers.
+- New settings: Starlight Sea Beach.
+- New key items: Makiko's Water-Worn Blade.
+- Reference images added: `makiko-character.png`; `shorebound-witness-character.png`; `cosmic-seeker-character.png`; `starlight-sea-beach-setting.png`; `makiko-water-worn-blade-key-item.png`.

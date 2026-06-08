@@ -69,3 +69,10 @@
 - Visual identifiers: Blue-white glyph light around Wizard Orvan's staff and the Soulforge Knight's broken chest; the readable word "Asterion" appears only in generated caption text or short dialogue caption boxes.
 - Continuity notes: Wizard Orvan teaches this magic word to the wounded Soulforge Knight. Speaking it releases every knight-soul as a single white-blue beam, destroying Ashmaw and emptying the Soulforge Knight's armor.
 - Reference image: `../reference-images/wizard-orvan-character.png`
+
+## Key Item: Makiko's Water-Worn Blade
+
+- First appears: Issue #6, "The Seekers and Makiko"
+- Visual identifiers: Sleek short sword with a dark water-smoothed grip, worn metal guard shaped by years of salt exposure, narrow silver blade etched with shallow wave-like grooves, and a faint blue light along the edge when raised near Cosmic Seeker bioluminescence.
+- Continuity notes: Makiko uses the blade as both weapon and countermeasure. Its blue edge cuts through the Seekers' synchronized light field and can sever a larger Seeker's crown-lure without killing the whole creature.
+- Reference image: `../reference-images/makiko-water-worn-blade-key-item.png`

@@ -69,3 +69,10 @@
 - Visual identifiers: Ash-gray volcanic plain before a black stone dragon tower, a wide trench of molten rock and melted silver armor, scorched road edges, bent lances, blue-burgundy banners half-burned in ash, white-blue ghost lights over the liquid metal, smoke-red sky.
 - Continuity notes: Ashmaw creates the moat by melting the road in front of the charging army. Wizard Orvan later uses the moat's molten armor and knight spirits to create the Soulforge Knight.
 - Reference image: `../reference-images/far-lands-molten-moat-setting.png`
+
+## Setting: Starlight Sea Beach
+
+- First appears: Issue #6, "The Seekers and Makiko"
+- Visual identifiers: Lonely black-sand beach outside a distant hotel, cosmic waves that glitter like liquid starlight, wet reflective shore, strange bioluminescent life below the surface, a sky crowded with stars and shooting-star streaks, and deep water where shapes can look like a submerged city until they move.
+- Continuity notes: Cosmic Seeker hunting grounds reach this shore when the predators become aggressive enough to leave the depths. The beach is dangerous because victims on land can still be hypnotized from the shallows.
+- Reference image: `../reference-images/starlight-sea-beach-setting.png`
