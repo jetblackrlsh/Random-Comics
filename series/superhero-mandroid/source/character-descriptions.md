@@ -216,3 +216,11 @@
 - Visual identifiers: mixed group of exhausted human and humanoid fantasy-science rebels wearing Calgoretos-upgraded dark green and bronze armor, practical cloaks, glowing blue-gold rune seams, battered helmets, shields, spears, and short rifles or arcane-tech tools. Their armor looks hand-forged, repaired, and trusted rather than ceremonial.
 - Continuity notes: The rebellion fled underground after Skullcerer conquered Castle Ainrete. Calgoretos reforges their armor so they can overcome undead minions, though Skullcerer's divine staff remains beyond their reach until Mandroid steals it.
 - Reference image: `../reference-images/ainrete-rebellion-soldiers-character.png`
+
+## Character: Founding Super Champions of Mandroid
+
+- First appears: Issue #19, "Possible Future: The Super Champions of Mandroid"
+- Role: possible-future founding alien super-team inspired by Superhero Mandroid after his body rusts into a museum statue.
+- Visual identifiers: five young alien heroes from different worlds wearing coordinated red body suits with yellow capes or cape-like panels, yellow Mandroid-inspired chest insignias, practical utility belts, and species-specific suit tailoring. Nara Vex is a tall blue crystalline alien teen with translucent hair fins and reflective forearms; Koro Thane is a compact orange-scaled reptilian teen with armor-plate biology; Luma Pei is a floating pale lavender jellyfish-like teen with glowing tendrils; Brakko Morn is a broad gray stone-skinned teen with moss-green markings; Sella Nine is a slender silver insectoid teen with four arms, black compound eyes, folded wing plates, and engineering tools.
+- Continuity notes: In one possible future, the five defend the Superhero Mandroid Museum from a kaiju attack after Mandroid's frozen body becomes a memorial. Their victory draws more alien and human heroes into an army of Super Champions, headquartered beneath the museum. Their later attempt to build a time machine to thank Mandroid may accidentally open portals across time, space, and dimensions.
+- Reference image: `../reference-images/founding-super-champions-character.png`

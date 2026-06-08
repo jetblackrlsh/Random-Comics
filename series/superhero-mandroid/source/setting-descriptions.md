@@ -97,3 +97,17 @@
 - Visual identifiers: massive royal fortress built from pale stone and bronze arcane machinery, with high battlements, green-and-gold banners, luminous conduit veins in the walls, hidden divine chambers, broad ceremonial steps, defensive courtyards, and magical science towers that glow like laboratory beacons above a medieval castle silhouette.
 - Continuity notes: Castle Ainrete holds a godlike divine power that Skullcerer steals through his mystic staff. The castle falls when Calgoretos is forced to upgrade undead armor, then is restored after Skullcerer is defeated and his spells are reversed.
 - Reference image: `../reference-images/castle-ainrete-setting.png`
+
+## Setting: Superhero Mandroid Museum
+
+- First appears: Issue #19, "Possible Future: The Super Champions of Mandroid"
+- Visual identifiers: vast possible-future memorial museum built around Superhero Mandroid's frozen rusted body, with glass-and-brushed-metal alien-human civic architecture, warm memorial lighting, suspended exhibit galleries, portal-war artifacts, holographic timelines, murals of Mandroid's greatest adventures, and a central rotunda where the aged android stands on a simple platform like a beloved preserved hero.
+- Continuity notes: In one possible future after Dr. Dawes dies and Mandroid's joints lock from rust, humans and aliens build the museum around his frozen form. The museum becomes a beacon of hope during a portal-invasion dark age and the birthplace of the Super Champions of Mandroid when young alien visitors defend it from a kaiju.
+- Reference image: `../reference-images/superhero-mandroid-museum-setting.png`
+
+## Setting: Super Champions Underground Headquarters
+
+- First appears: Issue #19, "Possible Future: The Super Champions of Mandroid"
+- Visual identifiers: large possible-future hero headquarters beneath the Superhero Mandroid Museum, built into reinforced subterranean chambers with red-and-yellow banners, training bays, alien medical pods, portal-warning screens, suit racks, tactical tables, launch elevators, memorial stonework from the museum foundation, and a secure dusty storage room.
+- Continuity notes: The Super Champions of Mandroid organize their growing army from this headquarters after the founding alien super teens defend the museum. A failed time machine is abandoned in one of its storage rooms, where it secretly continues opening portals across dimensions and eras.
+- Reference image: `../reference-images/super-champions-headquarters-setting.png`

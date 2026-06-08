@@ -197,3 +197,14 @@
 - New settings: Ainrete; Castle Ainrete.
 - New key items: Skullcerer's Mystic Staff; Eagle Gem.
 - Reference images added: `calgoretos-armorer-character.png`, `skullcerer-necromancer-character.png`, `sorceress-of-good-character.png`, `ainrete-rebellion-soldiers-character.png`, `ainrete-world-setting.png`, `castle-ainrete-setting.png`, `skullcerer-mystic-staff-key-item.png`, `eagle-gem-key-item.png`.
+
+## Issue #19: Possible Future: The Super Champions of Mandroid
+
+- Folder: `series/superhero-mandroid/issues/issue-19/`
+- Logline: In a possible future after Superhero Mandroid rusts into a museum statue, young alien heroes defend his memorial, build an army in his honor, and accidentally create the malfunctioning time machine that may have opened the first portals in his past.
+- Plot summary: The issue is explicitly labeled as a possible future. After Dr. Elias Dawes dies, nobody can maintain Superhero Mandroid forever; his synthetic skin wrinkles, his artificial hair grays, his red suit tears, his yellow cape shreds, and his green rocket fists rust until his joints lock and his circuits fall silent. Humans and aliens living together in the far future build the Superhero Mandroid Museum around his frozen form, but without him the world enters a dark age of portal invasions by robots, monsters, and kaiju. When a kaiju attacks the museum, five young alien visitors defend Mandroid's memorial with their own alien biologies and realize that Mandroid's example can belong to anyone with a kind heart and clever mind. Their story draws more heroes from across the stars, creating the Super Champions of Mandroid and an underground headquarters beneath the museum. Later, Champions build a time machine to thank Mandroid in person, abandon it when the test seems to fail, and unknowingly leave it running. The broken machine opens portals across dimensions, space, and time, possibly causing the first portal invasions that led Doctor Dawes to build Version One.
+- Continuity changes: Possible-future continuity only; this does not guarantee Mandroid's mainline death or override Issue #15's Sketchmaker revelation. It establishes a possible future loop where Mandroid inspires the Super Champions, and the Super Champions' failed time machine creates one possible mechanism for the portals that inspired Mandroid's creation.
+- New characters: Founding Super Champions of Mandroid.
+- New settings: Superhero Mandroid Museum; Super Champions Underground Headquarters.
+- New key items: Super Champions Time Machine.
+- Reference images added: `founding-super-champions-character.png`, `superhero-mandroid-museum-setting.png`, `super-champions-headquarters-setting.png`, `super-champions-time-machine-key-item.png`.

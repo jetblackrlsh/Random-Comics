@@ -76,3 +76,10 @@
 - Visual identifiers: palm-sized mystical gem shaped like a stylized eagle with spread wings, translucent gold crystal body, emerald-green inner light, tiny bronze feather filigree, and a soft portal glow that forms wing-like reflections on nearby surfaces. It should look like a sacred physical object, not a flat emblem.
 - Continuity notes: The Sorceress of Good gives the Eagle Gem to Superhero Mandroid after Ainrete is restored. Mandroid can use it to contact Ainrete and open portals between Earth and Ainrete when either world needs help.
 - Reference image: `../reference-images/eagle-gem-key-item.png`
+
+## Key Item: Super Champions Time Machine
+
+- First appears: Issue #19, "Possible Future: The Super Champions of Mandroid"
+- Visual identifiers: improvised but advanced possible-future circular time machine built by young alien heroes, with a waist-high bronze, red, yellow, and green ring frame, cracked crystal timing coils, alien circuitry, handwritten safety tags, small Mandroid-inspired `SHM` plates, unstable blue-green portal glow, and a control console with warning lights. It looks sincere, brilliant, and dangerously unfinished.
+- Continuity notes: The Super Champions build the machine to travel back and thank Superhero Mandroid in person. When the test seems to fail, they choose not to tamper with time and abandon it in headquarters storage. In this possible future, the malfunctioning machine secretly keeps opening portals across time, space, and dimensions, providing one possible explanation for the portal invasions that motivated Dr. Dawes to create Version One.
+- Reference image: `../reference-images/super-champions-time-machine-key-item.png`
