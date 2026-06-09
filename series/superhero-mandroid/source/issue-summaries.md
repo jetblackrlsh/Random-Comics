@@ -208,3 +208,14 @@
 - New settings: Superhero Mandroid Museum; Super Champions Underground Headquarters.
 - New key items: Super Champions Time Machine.
 - Reference images added: `founding-super-champions-character.png`, `superhero-mandroid-museum-setting.png`, `super-champions-headquarters-setting.png`, `super-champions-time-machine-key-item.png`.
+
+## Issue #20: Beyond Norio's Shadow
+
+- Folder: `series/superhero-mandroid/issues/issue-20/`
+- Logline: Demoted to Earth for failing to live up to her creator's legacy, the Space Police android GAL-XZ learns from Superhero Mandroid that inherited power can become her own heroic purpose.
+- Plot summary: The Space Police protect many worlds beyond Earth, but GAL-XZ enters the issue blamed for the death of Norio, the legendary officer who built her from a percentage of his own energy. After failures under that pressure, she is demoted to Earth patrol and immediately faces a giant humanoid squid from a purple portal. Her universal communicator cannot parse the creature's extradimensional language, and her attempt to channel Norio's power leaves her trapped until Superhero Mandroid saves her with a rocket fist. GAL-XZ copies Mandroid's fist-thruster flight, uses Norio's green energy like an android engine, and helps him uppercut the monster back through the portal. During a flight over the city, Mandroid argues that Norio did not design her as a copy because he wanted her to become her own hero. GAL-XZ explores Earth, learns to treat her core like a battery instead of a mystic burden, defeats portal threats on her own, and refuses a Space Police promotion to Norio's vacant place because Earth has become her chosen home.
+- Continuity changes: GAL-XZ becomes an Earth-based android hero and potential recurring ally; the Space Police are established as interstellar protectors who normally overlook Earth; Norio's energy lives on through GAL-XZ's core; GAL-XZ chooses Earth by free will instead of demotion.
+- New characters: GAL-XZ; Norio; Portal Squid Invader.
+- New settings: Space Police Outer Patrol Dock.
+- New key items: Norio Energy Core; GAL-XZ Universal Communicator.
+- Reference images added: `gal-xz-character.png`, `norio-character.png`, `portal-squid-invader-character.png`, `space-police-outer-patrol-dock-setting.png`, `norio-energy-core-key-item.png`, `gal-xz-universal-communicator-key-item.png`.

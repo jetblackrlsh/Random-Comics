@@ -83,3 +83,17 @@
 - Visual identifiers: improvised but advanced possible-future circular time machine built by young alien heroes, with a waist-high bronze, red, yellow, and green ring frame, cracked crystal timing coils, alien circuitry, handwritten safety tags, small Mandroid-inspired `SHM` plates, unstable blue-green portal glow, and a control console with warning lights. It looks sincere, brilliant, and dangerously unfinished.
 - Continuity notes: The Super Champions build the machine to travel back and thank Superhero Mandroid in person. When the test seems to fail, they choose not to tamper with time and abandon it in headquarters storage. In this possible future, the malfunctioning machine secretly keeps opening portals across time, space, and dimensions, providing one possible explanation for the portal invasions that motivated Dr. Dawes to create Version One.
 - Reference image: `../reference-images/super-champions-time-machine-key-item.png`
+
+## Key Item: Norio Energy Core
+
+- First appears: Issue #20, "Beyond Norio's Shadow"
+- Visual identifiers: circular green power source set beneath transparent chest armor in GAL-XZ's upper torso, made from a measured percentage of Norio's living energy. It glows like a battery with segmented charge rings, emits green sparks under stress, and throws warm green light across GAL-XZ's chrome body.
+- Continuity notes: The core is why many Space Police observers blame GAL-XZ for Norio's death, believing he might have survived if he had not invested part of his energy in his successor. GAL-XZ first treats its power like Norio's legacy to imitate, then learns to operate it as her own android power system for hand-thruster flight, shields, and impact force.
+- Reference image: `../reference-images/norio-energy-core-key-item.png`
+
+## Key Item: GAL-XZ Universal Communicator
+
+- First appears: Issue #20, "Beyond Norio's Shadow"
+- Visual identifiers: compact Space Police translator device worn on GAL-XZ's wrist and sometimes held near her mouth like a translator badge, with chrome and emerald casing, a small circular speaker, green waveform display, and alien glyph interface.
+- Continuity notes: The communicator can translate known alien languages, but fails against the portal squid invader because its language comes from outside this dimension. The failure teaches GAL-XZ that Earth portal threats do not obey normal Space Police assumptions.
+- Reference image: `../reference-images/gal-xz-universal-communicator-key-item.png`

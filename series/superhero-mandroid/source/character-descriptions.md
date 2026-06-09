@@ -224,3 +224,27 @@
 - Visual identifiers: five young alien heroes from different worlds wearing coordinated red body suits with yellow capes or cape-like panels, yellow Mandroid-inspired chest insignias, practical utility belts, and species-specific suit tailoring. Nara Vex is a tall blue crystalline alien teen with translucent hair fins and reflective forearms; Koro Thane is a compact orange-scaled reptilian teen with armor-plate biology; Luma Pei is a floating pale lavender jellyfish-like teen with glowing tendrils; Brakko Morn is a broad gray stone-skinned teen with moss-green markings; Sella Nine is a slender silver insectoid teen with four arms, black compound eyes, folded wing plates, and engineering tools.
 - Continuity notes: In one possible future, the five defend the Superhero Mandroid Museum from a kaiju attack after Mandroid's frozen body becomes a memorial. Their victory draws more alien and human heroes into an army of Super Champions, headquartered beneath the museum. Their later attempt to build a time machine to thank Mandroid may accidentally open portals across time, space, and dimensions.
 - Reference image: `../reference-images/founding-super-champions-character.png`
+
+## Character: GAL-XZ
+
+- First appears: Issue #20, "Beyond Norio's Shadow"
+- Role: Space Police android hero, successor to Norio, and new Earth-based ally of Superhero Mandroid.
+- Visual identifiers: human-looking adult woman android with mirror-bright chrome skin, long curly blonde hair, glowing green eyes, an hourglass silhouette, skintight emerald-green leather jumpsuit with subtle Space Police seam lines, green high heel combat boots, and a circular green energy core glowing under transparent armor at the upper chest. Her hands, eyes, and core flare with radiant green Norio energy when she channels power.
+- Continuity notes: Built by Norio from a measured percentage of his energy, GAL-XZ was blamed by many for weakening Norio before his final battle. After failed Space Police missions and a demotion to Earth, she learns from Superhero Mandroid to treat the inherited power like her own android energy system rather than a borrowed identity. She refuses a Space Police promotion to Norio's vacant role and chooses Earth as her home.
+- Reference image: `../reference-images/gal-xz-character.png`
+
+## Character: Norio
+
+- First appears: Issue #20, "Beyond Norio's Shadow"
+- Role: deceased Space Police legend and creator of GAL-XZ.
+- Visual identifiers: tall noble alien man with deep indigo skin, bright green eyes, a mane of silver-white hair swept back like a comet tail, luminous green-gold energy veins across his forearms, and white-and-black Space Police armor with a star badge on the chest. He should feel compassionate, powerful, and larger than life in memorials or memory images.
+- Continuity notes: Norio used part of his own energy to create GAL-XZ as his successor. After he fell in a great battle, many Space Police observers blamed GAL-XZ's creation for leaving him without enough energy to survive. Mandroid later suggests Norio did not design GAL-XZ in his own image because he wanted her to become her own hero.
+- Reference image: `../reference-images/norio-character.png`
+
+## Character: Portal Squid Invader
+
+- First appears: Issue #20, "Beyond Norio's Shadow"
+- Role: interdimensional monster whose attack forces GAL-XZ to discover her own way of using Norio's power.
+- Visual identifiers: giant humanoid squid creature with towering wet violet-gray body, broad humanoid torso, thick tentacle arms, smaller face tentacles, glossy black eyes, bioluminescent purple markings, and dripping alien slime. It should look physically powerful, strange, and dangerous without gore.
+- Continuity notes: Invades Earth through a swirling purple portal on GAL-XZ's first patrol. Its language is unheard of in this dimension, defeating GAL-XZ's universal communicator. GAL-XZ and Superhero Mandroid defeat it with a combined uppercut that launches it back through its portal.
+- Reference image: `../reference-images/portal-squid-invader-character.png`

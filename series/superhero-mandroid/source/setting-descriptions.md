@@ -111,3 +111,10 @@
 - Visual identifiers: large possible-future hero headquarters beneath the Superhero Mandroid Museum, built into reinforced subterranean chambers with red-and-yellow banners, training bays, alien medical pods, portal-warning screens, suit racks, tactical tables, launch elevators, memorial stonework from the museum foundation, and a secure dusty storage room.
 - Continuity notes: The Super Champions of Mandroid organize their growing army from this headquarters after the founding alien super teens defend the museum. A failed time machine is abandoned in one of its storage rooms, where it secretly continues opening portals across dimensions and eras.
 - Reference image: `../reference-images/super-champions-headquarters-setting.png`
+
+## Setting: Space Police Outer Patrol Dock
+
+- First appears: Issue #20, "Beyond Norio's Shadow"
+- Visual identifiers: practical orbital law-enforcement station on the fringe of defended space, with worn white-and-green alloy walls, hangar bays, alien officers from many species, holographic patrol maps, starfield windows, duty assignment screens, and memorial displays for fallen officers.
+- Continuity notes: GAL-XZ is publicly demoted from this dock to Earth patrol after failed missions under the pressure of replacing Norio. The station represents the Space Police as an interstellar heroic authority whose reach normally overlooks backwater Earth.
+- Reference image: `../reference-images/space-police-outer-patrol-dock-setting.png`
