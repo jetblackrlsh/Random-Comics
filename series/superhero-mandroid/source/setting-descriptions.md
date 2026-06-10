@@ -118,3 +118,24 @@
 - Visual identifiers: practical orbital law-enforcement station on the fringe of defended space, with worn white-and-green alloy walls, hangar bays, alien officers from many species, holographic patrol maps, starfield windows, duty assignment screens, and memorial displays for fallen officers.
 - Continuity notes: GAL-XZ is publicly demoted from this dock to Earth patrol after failed missions under the pressure of replacing Norio. The station represents the Space Police as an interstellar heroic authority whose reach normally overlooks backwater Earth.
 - Reference image: `../reference-images/space-police-outer-patrol-dock-setting.png`
+
+## Setting: Atlantis, Lost City Beneath the Ocean
+
+- First appears: Issue #21, "God Queen of the Deep"
+- Visual identifiers: vast underwater city deeper than any surface diver has reached, with glowing coral towers, shell-and-bronze domes, glasslike pressure chambers, luminous algae streets, ancient stone arches, science-magic pumps, pearl-lit plazas, fish-like citizens, royal processional avenues, and blue-green ocean light filtering through impossible depth.
+- Continuity notes: Hydrohero Womandroid discovers Atlantis while fleeing Dr. Vera Volta and trying to survive on ocean water. Atlantis initially treats her as an intruder, then as a goddess after she defeats its soldiers and demonstrates command over the sea. By the end of Issue #21 she accepts a role as God Queen of Atlantis beside Roman while still claiming a duty to fix surface pollution.
+- Reference image: `../reference-images/atlantis-lost-city-setting.png`
+
+## Setting: Polluted Atlantis District
+
+- First appears: Issue #21, "God Queen of the Deep"
+- Visual identifiers: damaged district at the edge of Atlantis where blackened water clouds the streets, plastic trash, rusted barrels, oil sheen, broken nets, chemical drums, dead coral, sickly algae, corroded shell homes, dim emergency lamps, and ill Atlantean citizens show the harm caused by surface pollution.
+- Continuity notes: Roman shows this district to Hydrohero to justify Atlantis's planned war against the surface. The sight makes Hydrohero understand Atlantis's anger while also refusing to let Dr. Vera Volta and the rest of the surface die in retaliation.
+- Reference image: `../reference-images/polluted-atlantis-district-setting.png`
+
+## Setting: Radioactive Waste Beach
+
+- First appears: Issue #21, "God Queen of the Deep"
+- Visual identifiers: ordinary surface shoreline transformed by Hydrohero's cleanup, with piles of ocean trash, leaking chemical barrels, glowing green radioactive residue, black sludge streaks, warning lights from distant emergency vehicles, wet sand, startled beachgoers, and small animals beginning to glow or mutate with strange new powers.
+- Continuity notes: Hydrohero pumps the pollution out of Atlantis and deposits it on the shore so the surface world must face its own mess. Some of the waste is radioactive, creating the first hints of new superpowered people and animals along the coast.
+- Reference image: `../reference-images/radioactive-waste-beach-setting.png`

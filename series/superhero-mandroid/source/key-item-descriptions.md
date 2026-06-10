@@ -18,7 +18,7 @@
 
 - First appears: Issue #4, "Hydrohero Womandroid"
 - Visual identifiers: translucent chest-mounted water tank integrated into Hydrohero Womandroid's torso, reinforced with chrome ribs, aqua indicator lights, pressure needles, small turbine wheels, and visible swirling water that drops lower as she flies and attacks.
-- Continuity notes: The water core powers Hydrohero's android systems and also feeds her pressurized attacks. Because both functions draw from the same tank, sustained combat drains her power until she shuts down.
+- Continuity notes: The water core powers Hydrohero's android systems and also feeds her pressurized attacks. Because both functions draw from the same tank, sustained combat drains her power until she shuts down. After Issue #14, the tank remains cracked and held together by Webwidow's temporary webbing, leaving Hydrohero in danger of lifeless collapse unless she finds a water source large enough to sustain her without Dr. Vera Volta.
 - Reference image: `../reference-images/hydrohero-water-core-key-item.png`
 
 ## Key Item: Portal-Charged Can

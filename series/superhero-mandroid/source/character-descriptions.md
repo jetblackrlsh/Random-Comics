@@ -78,7 +78,7 @@
 - First appears: Issue #4, "Hydrohero Womandroid"
 - Role: antagonist android and potential rival hero, built to defeat and replace Superhero Mandroid.
 - Visual identifiers: human-looking adult woman android with waterproof pearl-blue synthetic skin, short slick silver-blue hair, bright aqua eyes, athletic build, streamlined blue-and-white armored bodysuit, translucent chest water tank with visible swirling water, chrome shoulder turbines, wrist nozzles, and calf jet ports that spray controlled water streams. Her expression starts triumphant and mocking, then turns confused and furious as her water reserves drain.
-- Continuity notes: Powered by water and attacks with pressurized water beams, water whips, and water jets for flight. Her core design flaw is that her attacks spend the same water supply that powers her systems, causing shutdown when the tank runs dry.
+- Continuity notes: Powered by water and attacks with pressurized water beams, water whips, and water jets for flight. Her core design flaw is that her attacks spend the same water supply that powers her systems, causing shutdown when the tank runs dry. After Issue #14, Webwidow's webbing temporarily holds her cracked chest tank together, but the patch slowly evaporates. In Issue #21, she refuses to return to Dr. Vera Volta, learns to sustain herself through clouds and the ocean, and becomes the self-declared God Queen of Atlantis.
 - Reference image: `../reference-images/hydrohero-womandroid-character.png`
 
 ## Character: Aurelia, Daughter of Satan and Lilith
@@ -248,3 +248,19 @@
 - Visual identifiers: giant humanoid squid creature with towering wet violet-gray body, broad humanoid torso, thick tentacle arms, smaller face tentacles, glossy black eyes, bioluminescent purple markings, and dripping alien slime. It should look physically powerful, strange, and dangerous without gore.
 - Continuity notes: Invades Earth through a swirling purple portal on GAL-XZ's first patrol. Its language is unheard of in this dimension, defeating GAL-XZ's universal communicator. GAL-XZ and Superhero Mandroid defeat it with a combined uppercut that launches it back through its portal.
 - Reference image: `../reference-images/portal-squid-invader-character.png`
+
+## Character: Roman, King of Atlantis
+
+- First appears: Issue #21, "God Queen of the Deep"
+- Role: ruler of Atlantis, political foil to Hydrohero Womandroid, and potential future ally or danger depending on how he channels Atlantean anger at the surface.
+- Visual identifiers: regal adult Atlantean man with slicked-back blonde hair streaked with black highlights, green eyes, scaly orange skin, pointed elf-like ears, elegant green wings made of seaweed, a green royal tunic with golden metal trim, and a golden crown shaped like coral and wave crests. He moves with calm underwater authority and communicates through visible vibration ripples in the ocean.
+- Continuity notes: Roman stops his soldiers from attacking Hydrohero after seeing her command the sea, praises her as a goddess, and shows her both Atlantis's wonders and its pollution-sickened districts. He prepares for war against the surface but calls it off when Hydrohero promises to fix the damage as both a surface hero and goddess of the sea.
+- Reference image: `../reference-images/roman-king-of-atlantis-character.png`
+
+## Character: Atlantean Fish-Men Soldiers
+
+- First appears: Issue #21, "God Queen of the Deep"
+- Role: Atlantis's defensive warriors and first obstacle Hydrohero faces beneath the ocean.
+- Visual identifiers: group of amphibious humanoid soldiers with blue-green, teal, and orange-scaled skin, finned crests, webbed fingers, sharp wary eyes, plated shell-and-coral armor, kelp sashes, and long tridents made from bronze, bone, and polished sea stone. They should look disciplined, ancient, and defensive rather than monstrous.
+- Continuity notes: The soldiers mistake Hydrohero for a surface intruder and attack with tridents before Roman intervenes. Hydrohero defeats them easily because underwater her water reserves are effectively limitless.
+- Reference image: `../reference-images/atlantean-fish-men-soldiers-character.png`

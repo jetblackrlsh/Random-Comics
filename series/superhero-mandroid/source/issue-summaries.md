@@ -219,3 +219,14 @@
 - New settings: Space Police Outer Patrol Dock.
 - New key items: Norio Energy Core; GAL-XZ Universal Communicator.
 - Reference images added: `gal-xz-character.png`, `norio-character.png`, `portal-squid-invader-character.png`, `space-police-outer-patrol-dock-setting.png`, `norio-energy-core-key-item.png`, `gal-xz-universal-communicator-key-item.png`.
+
+## Issue #21: God Queen of the Deep
+
+- Folder: `series/superhero-mandroid/issues/issue-21/`
+- Logline: With her cracked water tank failing and Dr. Vera Volta waiting to reclaim her, Hydrohero Womandroid dives into the ocean, discovers Atlantis, and chooses to become both a surface hero and the goddess of the sea.
+- Plot summary: Webwidow's temporary web patch is evaporating from Hydrohero Womandroid's cracked chest tank, leaving her one repair away from Dr. Vera Volta's control or one empty tank away from lifeless collapse. She flees toward the ocean, barely survives by refilling from clouds, and discovers Atlantis beneath the waves. Atlantean soldiers attack her as a surface intruder, but underwater her water jets are limitless. Roman, King of Atlantis, apologizes, praises her as a goddess, and shows her the city's wonders before revealing military drills for a planned war against the pollution-poisoning surface. After seeing Atlantis's sickened district, Hydrohero refuses both Volta's leash and Roman's war, declaring herself both hero of the surface and goddess of the sea. She pumps the chemicals and trash out of Atlantis and onto surface beaches, not realizing that radioactive waste has begun giving people and animals impossible powers.
+- Continuity changes: Hydrohero Womandroid can sustain herself through clouds and ocean water without Dr. Vera Volta; she becomes the God Queen of Atlantis beside Roman; Atlantis is established as a hidden civilization angry at surface pollution; radioactive pollution on the beach creates a new source of surface superpowers.
+- New characters: Roman, King of Atlantis; Atlantean Fish-Men Soldiers.
+- New settings: Atlantis, Lost City Beneath the Ocean; Polluted Atlantis District; Radioactive Waste Beach.
+- New key items: None.
+- Reference images added: `roman-king-of-atlantis-character.png`, `atlantean-fish-men-soldiers-character.png`, `atlantis-lost-city-setting.png`, `polluted-atlantis-district-setting.png`, `radioactive-waste-beach-setting.png`.
