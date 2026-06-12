@@ -241,3 +241,14 @@
 - New settings: The Green Zones.
 - New key items: None.
 - Reference images added: `blightlord-pollution-demon-character.png`, `green-zones-setting.png`, `mandroid-men-team-character.png`.
+
+## Issue #23: Emperor Rex
+
+- Folder: `series/superhero-mandroid/issues/issue-23/`
+- Logline: When a cybernetic T-Rex warlock disables Superhero Mandroid and demands humanity's surrender, the Mandroid Men must rely on their non-mechanical members until Aurelia turns the villain's demon army against him.
+- Plot summary: Emperor Rex erupts from a purple portal with demonic shadow ninjas, hacks Earth's broadcasts, and demands that humanity surrender to animal rule. Superhero Mandroid confronts him and challenges the logic of Rex's ideology, pointing out that microscopic life predates animals if age alone grants authority. Rex responds by using his cybernetic eye to hack Mandroid into sleep mode on live broadcast. In Dr. Dawes's lab, GAL-XZ and Hydrohero realize android heroes are too vulnerable to face Rex directly, so Roman, Master Liang Chen, Protector Paul, and Detective Webwidow take the field. They hold Rex and his army back for a time, but Rex's laser eye drops Roman, strains Liang's chi barrier, and exhausts Paul's holy protection. Aurelia finally arrives, and the demonic shadow ninjas recognize her as Satan's daughter. At her command, they drag Rex back through his portal. Mandroid reboots as Aurelia warns the team not to depend on magic arriving in time, while Rex swears revenge from his shadow throne world.
+- Continuity changes: Emperor Rex becomes a recurring cybernetic T-Rex warlock antagonist; Rex's cybernetic eye can compromise android heroes; the Mandroid Men learn that some threats require non-mechanical team members to take point; Aurelia's infernal authority can override demonic soldiers, but her responsibilities can delay her arrival.
+- New characters: Emperor Rex; Demonic Shadow Ninjas.
+- New settings: Emperor Rex's Shadow Throne World.
+- New key items: None.
+- Reference images added: `emperor-rex-character.png`, `demonic-shadow-ninjas-character.png`, `emperor-rex-shadow-throne-world-setting.png`.

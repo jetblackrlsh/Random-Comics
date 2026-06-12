@@ -280,3 +280,19 @@
 - Visual identifiers: team centered on Superhero Mandroid in his red suit, yellow cape, yellow `SHM` chest insignia, and oversized green rocket fists, joined by Hydrohero Womandroid, Aurelia, Detective Webwidow, Roman, Master Liang Chen, GAL-XZ, and Paul Teethings as Protector Paul. Each member keeps their established visual identity rather than adopting a shared uniform.
 - Continuity notes: The Mandroid Men form because the Green Zones prove that some crises require combined powers instead of one hero. The initial roster is Superhero Mandroid, Hydrohero Womandroid, Aurelia, Detective Webwidow, Roman, Master Liang Chen, GAL-XZ, and Paul Teethings. They remain available to keep peace in the Green Zones while remaining mutants and monsters adjust to the partially healed coastlines.
 - Reference image: `../reference-images/mandroid-men-team-character.png`
+
+## Character: Emperor Rex
+
+- First appears: Issue #23, "Emperor Rex"
+- Role: antagonist, cybernetic T-Rex warlock and interdimensional conqueror who believes animals should rule humanity and all worlds.
+- Visual identifiers: towering cybernetic tyrannosaurus rex warlock with dark olive reptile scales, heavy steel cybernetic armor plates bolted across his skull, chest, spine, and tail, one glowing red cybernetic eye in a metal socket, one natural amber dinosaur eye, black iron warlock crown fused to cranial armor, arcane purple runes etched into metal ribs, short clawed arms with cable-wrapped talons, massive toothy jaws, thick tail with armored segments, and violet portal magic smoking around his feet.
+- Continuity notes: Rex can hack world broadcast systems and compromise android heroes with his cybernetic eye, forcing Superhero Mandroid into sleep mode. He commands an army of demonic shadow ninjas, but their infernal obedience bends to Aurelia because they recognize her as Satan's daughter. After being dragged back to his own world, Rex is restrained to his throne by shadow chains and swears revenge.
+- Reference image: `../reference-images/emperor-rex-character.png`
+
+## Character: Demonic Shadow Ninjas
+
+- First appears: Issue #23, "Emperor Rex"
+- Role: demonic soldier army serving Emperor Rex until Aurelia's infernal authority overrides his command.
+- Visual identifiers: army of human-sized demonic ninja silhouettes made from black smoke, shadow cloth, and faint red ember seams, with horned masks, narrow glowing violet eyes, curved shadow blades, clawed fingers, tattered scarf tails, and smoky bodies that blur at the edges. They move as disciplined supernatural soldiers until commanded to bow.
+- Continuity notes: The shadow ninjas swarm battlefield targets in overwhelming numbers and obey Emperor Rex during the invasion of Earth. Because they are demonic, they recognize Aurelia, Daughter of Satan and Lilith, and obey her command to tackle Rex and drag him back through his portal.
+- Reference image: `../reference-images/demonic-shadow-ninjas-character.png`

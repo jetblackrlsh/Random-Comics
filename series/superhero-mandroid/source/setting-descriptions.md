@@ -146,3 +146,10 @@
 - Visual identifiers: quarantined coastal cities and beaches transformed by radioactive waste, with glowing green sand, black sludge streaks, abandoned homes, empty boardwalks, emergency vehicles, chain-link barricades, warning signs, plastic trash, leaking barrels, sickly supernatural haze, mutated coastal wildlife, non-gory transformed civilians, and sand elementals forming from irradiated dunes.
 - Continuity notes: The Green Zones begin after Hydrohero Womandroid blasts Atlantis's pollution back onto surface shores. Mass evacuations leave coastal cities mostly vacant of non-mutant life. Blightlord's mystical connection to the Green Zones keeps them poisoned until Aurelia seals his power with help from the newly formed Mandroid Men. After his defeat, the zones begin to recover, but some mutants and monsters remain.
 - Reference image: `../reference-images/green-zones-setting.png`
+
+## Setting: Emperor Rex's Shadow Throne World
+
+- First appears: Issue #23, "Emperor Rex"
+- Visual identifiers: alien hell-world throne chamber built from black basalt, fossilized dinosaur bones, cybernetic cables, purple portal cracks, iron chains made from living shadow, demonic banners, red-black volcanic haze, and a massive throne sized for Emperor Rex with claw marks and rune-lit restraints.
+- Continuity notes: Emperor Rex rules from this realm before invading Earth. After Aurelia turns his demonic shadow ninjas against him, they drag him back through his portal and bind him to the throne with shadow chains. Rex remains alive and vengeful there.
+- Reference image: `../reference-images/emperor-rex-shadow-throne-world-setting.png`
