@@ -6381,6 +6381,62 @@
       "url": "comics/superhero-mandroid-issue-22/"
     },
     {
+      "slug": "40r53-last-free-ride",
+      "folder": "40r53-last-free-ride",
+      "title": "40R53's Last Free Ride",
+      "publishedDate": "2026-06-12",
+      "summary": "After a robotic warhorse saves the kingdom by shattering a mad mage's protected power crystal, magic radiation awakens its longing for freedom, sending it on a beautiful and fatal journey beyond the shelter it was built to need.",
+      "cover": "../40r53-last-free-ride/assets/comic-pages/page-01-cover.png",
+      "pdf": "../40r53-last-free-ride/output/pdf/40r53-last-free-ride.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../40r53-last-free-ride/assets/comic-pages/page-01-cover.png",
+          "alt": "40R53's Last Free Ride comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../40r53-last-free-ride/assets/comic-pages/page-02.png",
+          "alt": "40R53's Last Free Ride comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../40r53-last-free-ride/assets/comic-pages/page-03.png",
+          "alt": "40R53's Last Free Ride comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../40r53-last-free-ride/assets/comic-pages/page-04.png",
+          "alt": "40R53's Last Free Ride comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../40r53-last-free-ride/assets/comic-pages/page-05.png",
+          "alt": "40R53's Last Free Ride comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../40r53-last-free-ride/assets/comic-pages/page-06.png",
+          "alt": "40R53's Last Free Ride comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../40r53-last-free-ride/assets/comic-pages/page-07.png",
+          "alt": "40R53's Last Free Ride comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../40r53-last-free-ride/assets/comic-pages/page-08.png",
+          "alt": "40R53's Last Free Ride comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
+      "url": "comics/40r53-last-free-ride/"
+    },
+    {
       "slug": "superhero-mandroid-issue-23",
       "folder": "series/superhero-mandroid/issues/issue-23",
       "title": "Emperor Rex",
