@@ -6501,6 +6501,62 @@
       "issueNumber": 23,
       "issueLabel": "Issue #23 of Superhero Mandroid",
       "url": "comics/superhero-mandroid-issue-23/"
+    },
+    {
+      "slug": "northeast-pond-lights-file",
+      "folder": "northeast-pond-lights-file",
+      "title": "The Pond Lights File",
+      "publishedDate": "2026-06-12",
+      "summary": "After years of private sightings over a secluded Northeastern pond, a credible informant's sensor logs and two FBI agents' own observations turn distant glowing orbs into an unresolved government record.",
+      "cover": "../northeast-pond-lights-file/assets/comic-pages/page-01-cover.png",
+      "pdf": "../northeast-pond-lights-file/output/pdf/northeast-pond-lights-file.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../northeast-pond-lights-file/assets/comic-pages/page-01-cover.png",
+          "alt": "The Pond Lights File comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../northeast-pond-lights-file/assets/comic-pages/page-02.png",
+          "alt": "The Pond Lights File comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../northeast-pond-lights-file/assets/comic-pages/page-03.png",
+          "alt": "The Pond Lights File comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../northeast-pond-lights-file/assets/comic-pages/page-04.png",
+          "alt": "The Pond Lights File comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../northeast-pond-lights-file/assets/comic-pages/page-05.png",
+          "alt": "The Pond Lights File comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../northeast-pond-lights-file/assets/comic-pages/page-06.png",
+          "alt": "The Pond Lights File comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../northeast-pond-lights-file/assets/comic-pages/page-07.png",
+          "alt": "The Pond Lights File comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../northeast-pond-lights-file/assets/comic-pages/page-08.png",
+          "alt": "The Pond Lights File comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
+      "url": "comics/northeast-pond-lights-file/"
     }
   ]
 }
