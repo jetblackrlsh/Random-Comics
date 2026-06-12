@@ -230,3 +230,14 @@
 - New settings: Atlantis, Lost City Beneath the Ocean; Polluted Atlantis District; Radioactive Waste Beach.
 - New key items: None.
 - Reference images added: `roman-king-of-atlantis-character.png`, `atlantean-fish-men-soldiers-character.png`, `atlantis-lost-city-setting.png`, `polluted-atlantis-district-setting.png`, `radioactive-waste-beach-setting.png`.
+
+## Issue #22: Mandroid Men Origins
+
+- Folder: `series/superhero-mandroid/issues/issue-22/`
+- Logline: After radioactive waste creates the Green Zones, Superhero Mandroid and Earth's greatest heroes unite against Blightlord, the Pollution Demon, and become the Mandroid Men.
+- Plot summary: Radioactive waste from Hydrohero Womandroid's Atlantis cleanup spreads across the world's beaches, creating mutants, monsters, sand elementals, and quarantined coastal regions called the Green Zones. Superhero Mandroid and Dr. Elias Dawes realize that current genetic engineering cannot cure fully grown mutations, so Mandroid turns to Aurelia's magic. Aurelia traces the poisoned land to Blightlord, the Pollution Demon, whose mystical bond to the Green Zones has made him powerful enough to overwhelm her alone. She summons Earth's greatest heroes: Mandroid shields the team, Webwidow restrains Blightlord, Roman and Master Liang Chen strike with Atlantean strength and chi, GAL-XZ blinds him with Norio energy, and Hydrohero and Protector Paul weaken him with holy water and prayer. Aurelia seals Blightlord's power, the Green Zones begin to heal, and the heroes form the Mandroid Men to keep the peace.
+- Continuity changes: The Green Zones become a new coastal mutation setting; Blightlord is introduced as the demon empowered by radioactive pollution; Aurelia proves she can seal a major infernal threat when supported by other heroes; Superhero Mandroid, Hydrohero Womandroid, Aurelia, Detective Webwidow, Roman, Master Liang Chen, GAL-XZ, and Protector Paul form the Mandroid Men.
+- New characters: Blightlord, the Pollution Demon; The Mandroid Men.
+- New settings: The Green Zones.
+- New key items: None.
+- Reference images added: `blightlord-pollution-demon-character.png`, `green-zones-setting.png`, `mandroid-men-team-character.png`.

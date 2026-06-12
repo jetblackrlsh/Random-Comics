@@ -264,3 +264,19 @@
 - Visual identifiers: group of amphibious humanoid soldiers with blue-green, teal, and orange-scaled skin, finned crests, webbed fingers, sharp wary eyes, plated shell-and-coral armor, kelp sashes, and long tridents made from bronze, bone, and polished sea stone. They should look disciplined, ancient, and defensive rather than monstrous.
 - Continuity notes: The soldiers mistake Hydrohero for a surface intruder and attack with tridents before Roman intervenes. Hydrohero defeats them easily because underwater her water reserves are effectively limitless.
 - Reference image: `../reference-images/atlantean-fish-men-soldiers-character.png`
+
+## Character: Blightlord, the Pollution Demon
+
+- First appears: Issue #22, "Mandroid Men Origins"
+- Role: antagonist, infernal demon empowered by radioactive pollution and mystically connected to the Green Zones.
+- Visual identifiers: towering infernal demon made of glossy black oil, radioactive green sludge, rusted barrel armor plates, cracked horned mask, sick yellow-green eyes, leaking tar wings, clawed hands dripping toxic ooze, plastic trash tangled around the shoulders, smoky chemical aura, and glowing contamination sigils across the chest and arms. He should look like the demon of pollution immediately, without becoming a generic sludge monster.
+- Continuity notes: The radioactive Green Zones greatly raise Blightlord's rank in Hell. His mystical bond to the Green Zones weakens Aurelia's Earth magic, but it also means sealing his power begins cleansing the poisoned coastal regions. He is defeated when Earth's greatest heroes combine their abilities long enough for Aurelia to bind him.
+- Reference image: `../reference-images/blightlord-pollution-demon-character.png`
+
+## Character: The Mandroid Men
+
+- First appears: Issue #22, "Mandroid Men Origins"
+- Role: superhero team formed by Earth's greatest heroes after defeating Blightlord.
+- Visual identifiers: team centered on Superhero Mandroid in his red suit, yellow cape, yellow `SHM` chest insignia, and oversized green rocket fists, joined by Hydrohero Womandroid, Aurelia, Detective Webwidow, Roman, Master Liang Chen, GAL-XZ, and Paul Teethings as Protector Paul. Each member keeps their established visual identity rather than adopting a shared uniform.
+- Continuity notes: The Mandroid Men form because the Green Zones prove that some crises require combined powers instead of one hero. The initial roster is Superhero Mandroid, Hydrohero Womandroid, Aurelia, Detective Webwidow, Roman, Master Liang Chen, GAL-XZ, and Paul Teethings. They remain available to keep peace in the Green Zones while remaining mutants and monsters adjust to the partially healed coastlines.
+- Reference image: `../reference-images/mandroid-men-team-character.png`

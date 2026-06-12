@@ -139,3 +139,10 @@
 - Visual identifiers: ordinary surface shoreline transformed by Hydrohero's cleanup, with piles of ocean trash, leaking chemical barrels, glowing green radioactive residue, black sludge streaks, warning lights from distant emergency vehicles, wet sand, startled beachgoers, and small animals beginning to glow or mutate with strange new powers.
 - Continuity notes: Hydrohero pumps the pollution out of Atlantis and deposits it on the shore so the surface world must face its own mess. Some of the waste is radioactive, creating the first hints of new superpowered people and animals along the coast.
 - Reference image: `../reference-images/radioactive-waste-beach-setting.png`
+
+## Setting: The Green Zones
+
+- First appears: Issue #22, "Mandroid Men Origins"
+- Visual identifiers: quarantined coastal cities and beaches transformed by radioactive waste, with glowing green sand, black sludge streaks, abandoned homes, empty boardwalks, emergency vehicles, chain-link barricades, warning signs, plastic trash, leaking barrels, sickly supernatural haze, mutated coastal wildlife, non-gory transformed civilians, and sand elementals forming from irradiated dunes.
+- Continuity notes: The Green Zones begin after Hydrohero Womandroid blasts Atlantis's pollution back onto surface shores. Mass evacuations leave coastal cities mostly vacant of non-mutant life. Blightlord's mystical connection to the Green Zones keeps them poisoned until Aurelia seals his power with help from the newly formed Mandroid Men. After his defeat, the zones begin to recover, but some mutants and monsters remain.
+- Reference image: `../reference-images/green-zones-setting.png`
