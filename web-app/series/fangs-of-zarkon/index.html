@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="../../">
+    <!-- APP_META_START -->
+    <title>Fangs of Zarkon | Random Comics</title>
+    <meta name="description" content="After a duel for an empty demon throne leaves one prince dead and one emperor self-exiled, Damon Zarkon rules a broken empire while searching for a way to save the father who...">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://jetblackrlsh.github.io/Random-Comics/web-app/series/fangs-of-zarkon/">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Random Comics">
+    <meta property="og:title" content="Fangs of Zarkon | Random Comics">
+    <meta property="og:description" content="After a duel for an empty demon throne leaves one prince dead and one emperor self-exiled, Damon Zarkon rules a broken empire while searching for a way to save the father who...">
+    <meta property="og:url" content="https://jetblackrlsh.github.io/Random-Comics/web-app/series/fangs-of-zarkon/">
+    <meta property="og:image" content="https://jetblackrlsh.github.io/Random-Comics/web-app/assets/site-background.png">
+    <meta property="og:image:alt" content="Fangs of Zarkon | Random Comics cover art">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Fangs of Zarkon | Random Comics">
+    <meta name="twitter:description" content="After a duel for an empty demon throne leaves one prince dead and one emperor self-exiled, Damon Zarkon rules a broken empire while searching for a way to save the father who...">
+    <meta name="twitter:image" content="https://jetblackrlsh.github.io/Random-Comics/web-app/assets/site-background.png">
+    <meta name="twitter:image:alt" content="Fangs of Zarkon | Random Comics cover art">
+    <link rel="alternate" type="application/rss+xml" title="Random Comics RSS Feed" href="https://jetblackrlsh.github.io/Random-Comics/web-app/rss.xml">
+    <!-- APP_META_END -->
+    <!-- STRUCTURED_DATA_START -->
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"CreativeWorkSeries","name":"Fangs of Zarkon","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/series/fangs-of-zarkon/","description":"After a duel for an empty demon throne leaves one prince dead and one emperor self-exiled, Damon Zarkon rules a broken empire while searching for a way to save the father who cannot forgive himself.","hasPart":[{"@type":"ComicIssue","name":"The Throne Can Wait","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/comics/fangs-of-zarkon-issue-01/","issueNumber":1,"position":1,"datePublished":"2026-06-14","image":"https://jetblackrlsh.github.io/Random-Comics/series/fangs-of-zarkon/issues/issue-01/assets/comic-pages/page-01-cover.png"}],"isPartOf":{"@type":"WebSite","name":"Random Comics","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/"}}</script>
+    <!-- STRUCTURED_DATA_END -->
+    <link rel="preload" href="assets/site-background.png" as="image">
+    <link rel="icon" href="assets/random-comics-logo.png">
+    <link rel="sitemap" type="application/xml" href="sitemap.xml">
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body data-initial-route="series:fangs-of-zarkon">
+    <div class="background-art" aria-hidden="true"></div>
+    <header class="site-header">
+        <a class="brand" href="./" data-route="home" aria-label="Random Comics home">
+        <img src="assets/random-comics-logo.png" alt="Random Comics">
+      </a>
+      <nav class="top-nav" aria-label="Primary navigation">
+        <a href="./" data-route="home">Read</a>
+        <a href="advanced-search/" data-route="advanced-search">Advanced Search</a>
+        <a href="about/" data-route="about">About</a>
+        <a class="follow-link" href="follow/" data-route="follow">Follow</a>
+        <a href="other-comics/" data-route="other-comics">Other Comics</a>
+        <a class="review-link" href="https://docs.google.com/forms/d/e/1FAIpQLSftkXOkOSMjwOXjS4pFpF81lE4lF02NcWHECy4tesJy9V-9Dg/viewform?usp=publish-editor" target="_blank" rel="noopener">Review</a>
+        <a class="support-link" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="reader-layout" id="readerView">
+        <aside class="control-panel" aria-label="Comic controls">
+          <div class="intro-copy">
+            <h1>Random Comics</h1>
+            <p>Browse standalone stories and series issues, read vertically, share a favorite issue, or download it for later.</p>
+          </div>
+
+          <a class="follow-cta" href="follow/" data-route="follow">Follow for updates</a>
+
+          <label class="search-wrap" for="comicSearch">
+            <span>Search by title, date, or series</span>
+            <input id="comicSearch" type="search" autocomplete="off" placeholder="Try 2026, Deca-Form, or a series">
+          </label>
+
+          <div class="jump-actions" aria-label="Jump to comic">
+            <button type="button" id="earliestButton">Earliest</button>
+            <button type="button" id="latestButton">Latest</button>
+          </div>
+
+          <div class="comic-list" id="comicList" aria-label="Comics"></div>
+        </aside>
+
+        <article class="reader-panel" aria-live="polite">
+          <div class="reader-toolbar">
+            <div>
+              <p class="publish-date" id="comicDate"></p>
+              <h2 id="comicTitle">Loading comics...</h2>
+            </div>
+            <div class="reader-actions" aria-label="Selected comic actions">
+              <button class="icon-button reader-mode-button" type="button" id="readerModeButton" aria-pressed="false">Reader Mode</button>
+              <a class="icon-button" id="downloadButton" href="#" download>Download</a>
+              <button class="icon-button" type="button" id="shareButton">Share</button>
+              <a class="icon-button review" href="https://docs.google.com/forms/d/e/1FAIpQLSftkXOkOSMjwOXjS4pFpF81lE4lF02NcWHECy4tesJy9V-9Dg/viewform?usp=publish-editor" target="_blank" rel="noopener">Review</a>
+              <a class="icon-button support" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+            </div>
+          </div>
+          <p class="comic-summary" id="comicSummary"></p>
+          <div class="page-strip" id="pageStrip"></div>
+        </article>
+      </section>
+
+      <section class="about-view" id="aboutView" hidden>
+        <div class="about-copy">
+          <h1>About Random Comics</h1>
+          <p>Random Comics is a home for standalone one-shots, strange experiments, and comic series that grow beyond a single issue.</p>
+          <p>Some comics are based on dreams. Some come from sudden shower thoughts, weird news, superhero concepts, game-inspired ideas, or random sparks of imagination that demanded to become something real. Some ideas only need one finished comic. Others may build into recurring characters, settings, and issue-to-issue continuity.</p>
+          <p>The comics collected here may vary in tone, style, length, format, and genre. You might find superhero action, sci-fi weirdness, dream logic, horror, comedy, mythic strangeness, standalone stories, or the beginning of a larger series.</p>
+          <p>Think of this as a creative sketchbook turned into a comic archive: a place where spontaneous ideas can become finished stories, whether they stand alone or keep expanding.</p>
+          <p>Not every comic needs a universe.</p>
+          <p>But when a strange little story grows into one, Random Comics has room for that too.</p>
+        </div>
+      </section>
+
+      <section class="follow-view" id="followView" hidden>
+        <div class="follow-copy">
+          <h1>Follow Random Comics</h1>
+          <p>Get new comic releases by email when the archive updates.</p>
+          <div class="followit--follow-form-container" attr-a attr-b attr-c attr-d attr-e attr-f>
+            <form action="https://api.follow.it/subscription-form/aGlRcUxKVXNNVCtnVTVNbnNwaERaczZ4WFQ4Um1GdFY2cm9wSmhKSGhKdi9MUE1TWk9VU3k2U3N0TnRZUkhkY3JtUG1jUk5aUzJBUUtQUFFValBaOHlsT3AwRlQ2MGplWGJ2d0g5aEhhR045eGFVZCt1MExpYllSWlRvYW5FRXV8RWF4OWhNaXY2WTRJZHQ1UzY4aGJmYlU2a1QrVkRDT2xWekVVNytaQTJoVT0=/8" method="post">
+              <div class="form-preview">
+                <div class="preview-heading">
+                  <h5>Get new comics by email</h5>
+                </div>
+                <div class="preview-input-field">
+                  <input type="email" name="email" required placeholder="Enter your email" spellcheck="false">
+                </div>
+                <div class="preview-submit-button">
+                  <button type="submit">Subscribe</button>
+                </div>
+              </div>
+            </form>
+            <a href="https://follow.it" class="powered-by-line">Powered by <img src="https://follow.it/images/colored-logo.svg" alt="follow.it" height="17"></a>
+          </div>
+        </div>
+      </section>
+
+      <section class="other-comics-view" id="otherComicsView" hidden>
+        <div class="other-comics-copy">
+          <h1>Other Comics</h1>
+          <p>Read more comic projects from Nicholas Benson.</p>
+          <div class="other-comics-grid" aria-label="Other comics">
+            <a class="comic-site-card" href="https://planet-man.randomcomics.art/" target="_blank" rel="noopener">
+              <span>Planet-Man Comics</span>
+              <small>Superhero comic adventures and series releases.</small>
+            </a>
+            <a class="comic-site-card" href="https://dreamcomics.randomcomics.art/" target="_blank" rel="noopener">
+              <span>Dream Comics</span>
+              <small>Dream-inspired comics and surreal story experiments.</small>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="advanced-search-view" id="advancedSearchView" hidden>
+        <div class="advanced-search-shell">
+          <div class="advanced-search-heading">
+            <div>
+              <h1>Advanced Search</h1>
+              <p>Search the full archive by date, series, issue title, issue description, and issue number.</p>
+            </div>
+            <p class="advanced-search-count" id="advancedSearchCount">Loading comics...</p>
+          </div>
+
+          <details class="advanced-filter-panel" id="advancedFilterPanel" open>
+            <summary>
+              <span>Search and filters</span>
+              <span class="advanced-filter-summary" id="advancedFilterSummary">No filters active</span>
+            </summary>
+
+            <form class="advanced-filter-grid" id="advancedSearchForm">
+              <label>
+                <span>Issue title</span>
+                <input id="advancedTitleSearch" type="search" autocomplete="off" placeholder="Search titles">
+              </label>
+              <label>
+                <span>Issue description</span>
+                <input id="advancedDescriptionSearch" type="search" autocomplete="off" placeholder="Search descriptions">
+              </label>
+              <label>
+                <span>Series name</span>
+                <select id="advancedSeriesFilter">
+                  <option value="">All series and standalones</option>
+                </select>
+              </label>
+              <label>
+                <span>Issue number</span>
+                <input id="advancedIssueNumber" type="number" min="1" step="1" inputmode="numeric" placeholder="Any issue">
+              </label>
+              <label>
+                <span>Published from</span>
+                <input id="advancedDateFrom" type="date">
+              </label>
+              <label>
+                <span>Published through</span>
+                <input id="advancedDateTo" type="date">
+              </label>
+              <label class="advanced-sort-control">
+                <span>Order results</span>
+                <select id="advancedSort">
+                  <option value="date-desc">Publishing date: High to Low</option>
+                  <option value="date-asc">Publishing date: Low to High</option>
+                  <option value="title-asc">ABC Order</option>
+                  <option value="title-desc">Reverse ABC Order</option>
+                  <option value="issue-asc">Issue Number Order</option>
+                  <option value="issue-desc">Reverse Issue Number Order</option>
+                  <option value="series-asc">Series Order</option>
+                  <option value="series-desc">Reverse Series Order</option>
+                </select>
+              </label>
+              <button class="advanced-reset-button" type="reset" id="advancedResetButton">Reset filters</button>
+            </form>
+          </details>
+
+          <div class="advanced-gallery" id="advancedGallery" aria-label="Advanced search comic gallery"></div>
+        </div>
+      </section>
+
+      <!-- SEO_CONTENT_START -->
+      <section class="seo-content" aria-label="Fangs of Zarkon series details">
+        <h2>Fangs of Zarkon</h2>
+        <p>After a duel for an empty demon throne leaves one prince dead and one emperor self-exiled, Damon Zarkon rules a broken empire while searching for a way to save the father who cannot forgive himself.</p>
+        <h3>Characters</h3><p>Character Descriptions Character: Damon Zarkon - First appears: Issue 1, &quot;The Throne Can Wait&quot; - Role: protagonist, surviving prince, new emperor. - Visual identifiers: late 20s, stern angular face, medium tan skin, long black hair tied back with loose strands, pale gray eyes that glow white when his path-sight activates, athletic swordsman's build, dark charcoal samurai armor with bone-white trim and a weathered crimson sash, controlled posture, grief held behind discipline, carries the Pathfang blade. - Continuity notes: Damon kills Jaco in the succession duel, rescues Zarkon from banishment, then becomes emperor when Zarkon self-exiles. His central ongoing goal is finding his father again. - Reference image: ../reference-images/damon-zarkon-character.png Character: Jaco Zarkon - First appears: Issue 1, &quot;The Throne Can Wait&quot; - Role: antagonist, Damon brother, dead prince. - Visual identifiers: late 20s to early 30s, sharp cheekbones, medium tan skin, black hair in a high warrior knot, narrow dark eyes, black samurai armor with red lacquer plates and silver fang motifs, predatory smirk, aggressive stance, carries the Reality Splitter blade. - Continuity notes: Jaco banished Zarkon before Issue 1 and intended to take the throne. Damon kills him during the duel after blinding him with dust. - Reference image: ../reference-images/jaco-zarkon-character.png Character: Demon Emperor Zarkon - First appears: Issue 1, &quot;The Throne Can Wait&quot; - Role: Damon and Jaco's father, former demon emperor, absent ruler. - Visual identifiers: towering horned demon emperor, weathered red-brown skin, heavy brow, bone crown fused with dark metal, long gray-black hair, black imperial armor with gold and bone inlays, clawed hands, scarred face, terrifying presence softened by paternal grief. - Continuity notes: Zarkon was banished by Jaco before Issue 1. Damon rescues him, but the sight of Jaco dead breaks him. Zarkon takes the Reality Splitter and exiles himself again. - Reference image: ../reference-images/zarkon-character.png</p>
+        <h3>Settings</h3><p>Setting Descriptions Setting: Demon Emperor's Throne Court - First appears: Issue 1, &quot;The Throne Can Wait&quot; - Visual identifiers: vast moonlit throne court of black volcanic stone, bone-white inlaid floor paths, sand and dust across cracked slabs, massive empty throne carved from obsidian and ivory, torn imperial banners, jagged archways open to a cold moon, weathered gold accents, ash drifting through the air. - Continuity notes: Damon kills Jaco here, opens the portal that returns Zarkon, and inherits the throne after Zarkon's self-exile. - Reference image: ../reference-images/demon-emperors-throne-court-setting.png</p>
+        <h3>Key Items</h3><p>Key Item Descriptions Key Item: Pathfang Blade - First appears: Issue 1, &quot;The Throne Can Wait&quot; - Visual identifiers: katana-like fang sword with a curved ivory blade grown from a giant demon fang, dark ridged root near the guard, black cord-wrapped handle, bone-white glow when Damon sees a safe path, faint light trails pulling the wielder forward. - Continuity notes: Damon's inherited blade pairs with his glowing eyes, making him almost impossible to hit while he can see. It cannot guide him when he is blinded, forcing him to rely on instinct. - Reference image: ../reference-images/pathfang-blade-key-item.png Key Item: Reality Splitter - First appears: Issue 1, &quot;The Throne Can Wait&quot; - Visual identifiers: katana-like fang sword with a serrated ivory edge, black-red cracks glowing along the blade, dark metal guard shaped like broken jaws, crescent portal light peeling away from each slash. - Continuity notes: Jaco used this blade to banish Zarkon and attack Damon. Damon briefly uses it to bring Zarkon back, but Zarkon takes it and uses it for self-exile. - Reference image: ../reference-images/reality-splitter-key-item.png</p>
+        <h3>Issue Summaries</h3><p>Issue Summaries Issue 1: The Throne Can Wait - Folder: series/fangs-of-zarkon/issues/issue-01/ - Logline: Damon defeats his brother Jaco for the empty demon throne, chooses to rescue their father instead of ruling, and becomes emperor only after Zarkon exiles himself in grief. - Plot summary: Damon and Jaco meet in Zarkon's moonlit throne court after Jaco has banished their father. Jaco attacks with the Reality Splitter's portal slashes, while Damon survives through path-sight and the movement pull of his Pathfang blade. Jaco blinds Damon with reflected moonlight, but Damon senses the portal slash by instinct, then blinds Jaco with dust and kills him by sound. Damon uses the Reality Splitter to retrieve Zarkon, but Zarkon sees Jaco's corpse, realizes his sons destroyed each other in the shadow of his throne, and exiles himself again. Damon is left emperor with a broken heart and a vow to find his father. - Continuity changes: Damon becomes emperor of the Demon Empire; Jaco dies; Zarkon returns briefly, takes the Reality Splitter, and self-exiles; Damon begins his search for Zarkon. - New characters: Damon Zarkon, Jaco Zarkon, Demon Emperor Zarkon. - New settings: Demon Emperor's Throne Court. - New key items: Pathfang Blade, Reality Splitter. - Reference images added: damon-zarkon-character.png , jaco-zarkon-character.png , zarkon-character.png , demon-emperors-throne-court-setting.png , pathfang-blade-key-item.png , reality-splitter-key-item.png .</p>
+        <h3>Issues</h3>
+        <ul>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/fangs-of-zarkon-issue-01/">The Throne Can Wait</a> <span>2026-06-14 · 10 pages · Issue #1 of Fangs of Zarkon</span></li>
+        </ul>
+      </section>
+      <!-- SEO_CONTENT_END -->
+    </main>
+  </body>
+</html>
