@@ -76,3 +76,10 @@
 - Visual identifiers: Sleek short sword with a dark water-smoothed grip, worn metal guard shaped by years of salt exposure, narrow silver blade etched with shallow wave-like grooves, and a faint blue light along the edge when raised near Cosmic Seeker bioluminescence.
 - Continuity notes: Makiko uses the blade as both weapon and countermeasure. Its blue edge cuts through the Seekers' synchronized light field and can sever a larger Seeker's crown-lure without killing the whole creature.
 - Reference image: `../reference-images/makiko-water-worn-blade-key-item.png`
+
+## Key Item: Animax Brain-Transfer Equipment
+
+- First appears: Issue #7, "Venom in the Machine"
+- Visual identifiers: Portable but heavy medical-industrial console with a reinforced metal frame, transparent brain-scan cylinder, neural cable bundles, cracked monitor showing an abstract human brain scan, emergency battery packs, shipping-case clamps, sterile white panels scuffed by black-market handling, and amber-blue diagnostic lights.
+- Continuity notes: The device can preserve or transfer human minds into artificial bodies. Biter treats it as a second-life technology because a larger Animax system saved him after his crash. Green Mamba fears it can imprison minds inside weaponized bodies. At the end of Issue #7, Biter sends its location to an independent medical ethics council instead of returning it blindly to Project Animax.
+- Reference image: `../reference-images/animax-brain-transfer-equipment-key-item.png`

@@ -65,3 +65,14 @@
 - New settings: Starlight Sea Beach.
 - New key items: Makiko's Water-Worn Blade.
 - Reference images added: `makiko-character.png`; `shorebound-witness-character.png`; `cosmic-seeker-character.png`; `starlight-sea-beach-setting.png`; `makiko-water-worn-blade-key-item.png`.
+
+## Issue #7: Venom in the Machine
+
+- Folder: `series/superhero-action-comics/issues/issue-07/`
+- Logline: At a hidden Kenyan port, beetle-android hero Biter fights venomous anti-tech martial artist Green Mamba over stolen Animax brain-transfer equipment, then chooses outside oversight over blind faith in the machine that saved him.
+- Plot summary: Petar Marinoff's origin as a Bulgarian pilot reborn through Project Animax is contrasted with Edi Kenyatta's Youdu Clan training as Green Mamba. Both heroes converge on a hidden Kenyan port where black-market criminals are moving stolen Animax brain-transfer equipment. Biter wants to reclaim the machine as rescue technology, while Green Mamba wants to destroy it before it traps minds in weaponized bodies. Their fight escalates from direct force to stealth and counter-reading, with Green Mamba damaging Biter's armor and wing stabilizer. Biter finally reveals his own preserved mind scan and argues that the same machine can be both cage and second sunrise. Green Mamba hesitates, Biter uses a dust-and-sonic tactic to stun him without killing him, then secures the equipment and reports it to an independent medical ethics council instead of returning it blindly to Project Animax.
+- Continuity changes: Introduces Biter, Green Mamba, Project Animax's brain-transfer technology, the Youdu Clan's anti-technology mission, and the hidden Kenyan port facility. Establishes that Biter believes in preserving life through machines but accepts independent oversight, while Green Mamba remains ready to intervene if the technology harms minds.
+- New characters: Biter / Petar Marinoff; Green Mamba / Edi Kenyatta.
+- New settings: Hidden Kenyan Port Facility.
+- New key items: Animax Brain-Transfer Equipment.
+- Reference images added: `biter-character.png`; `green-mamba-character.png`; `hidden-kenyan-port-facility-setting.png`; `animax-brain-transfer-equipment-key-item.png`.

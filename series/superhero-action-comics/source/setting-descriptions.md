@@ -76,3 +76,10 @@
 - Visual identifiers: Lonely black-sand beach outside a distant hotel, cosmic waves that glitter like liquid starlight, wet reflective shore, strange bioluminescent life below the surface, a sky crowded with stars and shooting-star streaks, and deep water where shapes can look like a submerged city until they move.
 - Continuity notes: Cosmic Seeker hunting grounds reach this shore when the predators become aggressive enough to leave the depths. The beach is dangerous because victims on land can still be hypnotized from the shallows.
 - Reference image: `../reference-images/starlight-sea-beach-setting.png`
+
+## Setting: Hidden Kenyan Port Facility
+
+- First appears: Issue #7, "Venom in the Machine"
+- Visual identifiers: Nighttime container port near the Kenyan coast; stacked blue, red, and rusted shipping containers; wet concrete; sodium harbor lights; tall cranes; chain-link fences; tarps; illegal medical-tech crates; cracked warehouse monitors; ocean mist; and orange dawn light by the resolution.
+- Continuity notes: A black-market transfer point for stolen Animax brain-transfer equipment and the battlefield where Biter and Green Mamba first clash over whether the machinery should be preserved or destroyed.
+- Reference image: `../reference-images/hidden-kenyan-port-facility-setting.png`

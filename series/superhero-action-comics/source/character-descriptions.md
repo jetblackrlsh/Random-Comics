@@ -167,3 +167,19 @@
 - Visual identifiers: Dolphin-sized translucent deep-sea predators with long undulating bodies, four fin-like limbs, glassy black eyes, trailing tendrils, and intricate cyan, violet, and pearl bioluminescent organs arranged in hypnotic stripe and ring patterns under wet skin.
 - Continuity notes: Cosmic Seekers evolved in the deepest starlit seas. Their synchronized lights can match humanoid brainwaves and turn prey into docile hosts. Rhythmic human voice patterns can disrupt their synchronization, and Makiko's blade can cut through their light fields.
 - Reference image: `../reference-images/cosmic-seeker-character.png`
+
+## Character: Biter / Petar Marinoff
+
+- First appears: Issue #7, "Venom in the Machine"
+- Role: protagonist, beetle-inspired android hero and former Bulgarian Air Force pilot.
+- Visual identifiers: Human-sized but powerfully built beetle-android body; glossy black chitinous armor plates with burnt-orange chest and abdominal segments; orange compound-lens eyes; segmented mechanical faceplate with small mandible structures; two black antennae curving back from the helmet; translucent amber beetle wings folded from armored back casings; compact flight thrusters; clawed black mechanical gloves and boots.
+- Continuity notes: Petar Marinoff survived a catastrophic crash when Project Animax preserved his brain and placed it in an experimental beetle-android frame. Biter can fly, use stealth mode, process enhanced sensory data, strike with mandibles and claws, emit a short-range sonic pulse, and deliver nonlethal taser contact. He believes brain-transfer technology can save lives but accepts that it needs independent oversight.
+- Reference image: `../reference-images/biter-character.png`
+
+## Character: Green Mamba / Edi Kenyatta
+
+- First appears: Issue #7, "Venom in the Machine"
+- Role: martial artist hero, antagonist by mission, Youdu Clan anti-technology enforcer.
+- Visual identifiers: Athletic Kenyan man in a black tactical ninja suit with green snake-scale armor bands across the brow, torso straps, forearms, and shins; magenta-pink eye lenses; green ribbon tails from the mask; cobra-head chest emblem or armored snake chest plate; long anti-metal claws extending from both gloves; compact staff when needed; precise martial arts posture.
+- Continuity notes: Trained under the Youdu Clan to destroy dangerous technologies before they enslave people. His anti-metal claws can dissolve advanced alloys, his venom strikes can paralyze or disrupt exposed systems, and his heightened awareness lets him read movement from breath, air pressure, and intent. He accepts Biter's oversight compromise but promises to return if the Animax machine becomes a prison.
+- Reference image: `../reference-images/green-mamba-character.png`
