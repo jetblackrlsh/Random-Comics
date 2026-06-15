@@ -31,7 +31,7 @@ series/<series-folder>/
 
 - `source/series.md`: series title, logline, premise, tone, recurring visual language, and continuity notes.
 - `source/issue-summaries.md`: one entry per issue, including issue number, title, date or creation order, plot summary, continuity changes, and introduced elements.
-- `source/character-descriptions.md`: canonical descriptions for recurring characters.
+- `source/character-descriptions.md`: canonical first-appearance records for every named character, plus full descriptions for recurring characters.
 - `source/setting-descriptions.md`: canonical descriptions for recurring locations or major environments.
 - `source/key-item-descriptions.md`: canonical descriptions for important objects, vehicles, devices, weapons, artifacts, costumes, symbols, or props.
 - `reference-images/`: stable visual references for recurring characters, settings, and key items.
@@ -49,6 +49,8 @@ Create missing required source files before generating a new series issue.
 
 ## New Continuity Elements
 
+When the issue introduces any named character, add or update that character in `source/character-descriptions.md` before finalizing the issue. Every named character entry must include a `First appears` line with the issue number and title, even if the character is minor or not expected to recur.
+
 When the issue introduces a new character, setting, or key item that may recur, do all of this before finalizing the issue:
 
 1. Add a written entry to the matching source file:
@@ -60,7 +62,7 @@ When the issue introduces a new character, setting, or key item that may recur, 
 4. Reference those descriptions and images in the issue's `source/character-bible.md` or `source/page-script.md`.
 5. Reuse the new reference image in page prompts whenever that element appears.
 
-Reference images are required for all newly introduced recurring characters, settings, and key items in a series issue. Do not leave a recurring element as text-only continuity.
+Reference images are required for all newly introduced recurring characters, settings, and key items in a series issue. Do not leave a recurring element as text-only continuity. Minor one-off named characters may use concise text-only entries unless they later recur, need stable visual continuity, or the user asks for reference art.
 
 ## Promoting A Standalone One-Shot To Issue #1
 
@@ -103,6 +105,16 @@ Use concise Markdown entries that are easy for future agents to quote into promp
 - Visual identifiers: age range, face, hair, body type, outfit, color palette, posture, expression, signature prop.
 - Continuity notes: powers, relationships, injuries, transformations, or status changes.
 - Reference image: `../reference-images/name-character.png`
+```
+
+For a minor one-off named character, the entry may be shorter, but it must still include the character name and `First appears` line:
+
+```markdown
+## Character: Name
+
+- First appears: Issue #1, "Issue Title"
+- Role: minor named character, civilian, official, witness, etc.
+- Continuity notes: Brief note explaining their story function or status.
 ```
 
 Use the same structure for settings and key items, changing the field names as needed:

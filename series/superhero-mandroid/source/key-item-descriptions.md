@@ -97,3 +97,10 @@
 - Visual identifiers: compact Space Police translator device worn on GAL-XZ's wrist and sometimes held near her mouth like a translator badge, with chrome and emerald casing, a small circular speaker, green waveform display, and alien glyph interface.
 - Continuity notes: The communicator can translate known alien languages, but fails against the portal squid invader because its language comes from outside this dimension. The failure teaches GAL-XZ that Earth portal threats do not obey normal Space Police assumptions.
 - Reference image: `../reference-images/gal-xz-universal-communicator-key-item.png`
+
+## Key Item: Project Animax Scanner
+
+- First appears: Issue #24, "The Demon in the Scanner"
+- Visual identifiers: Large medical-industrial mind-transfer scanner with a transparent upright scan chamber, amber-blue neural light rings, animal-body android pods behind armored glass, a central terminal with emergency handles, thick cable bundles, white sterile panels, and Bulgarian lab labeling kept abstract or unreadable.
+- Continuity notes: The scanner can identify and upload mind patterns into Project Animax android bodies. In Issue #24 it detects that Protector Paul contains two minds, then obeys the demon-controlled command to ignore Paul's human half and upload the demon half into the humanoid-goat android body. Dawes and Moreau disable the scanner too late to prevent Goat-Bot's creation.
+- Reference image: `../reference-images/project-animax-scanner-key-item.png`

@@ -153,3 +153,10 @@
 - Visual identifiers: alien hell-world throne chamber built from black basalt, fossilized dinosaur bones, cybernetic cables, purple portal cracks, iron chains made from living shadow, demonic banners, red-black volcanic haze, and a massive throne sized for Emperor Rex with claw marks and rune-lit restraints.
 - Continuity notes: Emperor Rex rules from this realm before invading Earth. After Aurelia turns his demonic shadow ninjas against him, they drag him back through his portal and bind him to the throne with shadow chains. Rex remains alive and vengeful there.
 - Reference image: `../reference-images/emperor-rex-shadow-throne-world-setting.png`
+
+## Setting: Bulgarian Transhumanism Conference
+
+- First appears: Issue #24, "The Demon in the Scanner"
+- Visual identifiers: Modern conference hall in Bulgaria with glass-and-stone architecture, stage lighting, transhumanist researchers, assistive exoskeletons, neural-interface demos, projection screens, security barriers, European conference badges without readable small text, and Project Animax equipment on stage.
+- Continuity notes: Doctor Leona Vale and Doctor Elias Dawes travel here as conference participants after surviving the Crossmarked attack on their flight. Doctor Moreau publicly presents Biter and Project Animax here, and the Project Animax Scanner creates Goat-Bot during the demonstration crisis.
+- Reference image: `../reference-images/bulgarian-transhumanism-conference-setting.png`

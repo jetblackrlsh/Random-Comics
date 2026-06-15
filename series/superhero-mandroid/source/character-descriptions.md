@@ -166,7 +166,7 @@
 - First appears: Issue #16, "Guardian Demon"
 - Role: religious extremist paramilitary attackers who target transhumans as alleged violations of divine order.
 - Visual identifiers: coordinated group of imposing paramilitary attackers in matte black riot armor, heavy helmets, opaque visors, reinforced gloves, tactical boots, and blunt metal batons. Their armor is defaced with rough white cross graffiti, scratched scripture-like marks, and hand-painted crusader-style symbols. They look organized, intimidating, and zealot-like without belonging to ordinary police or military.
-- Continuity notes: The cell attacks the Transhuman Meet-Up Hall with batons while claiming attempts to become more than human are abominations. Paul Teethings drives them away with controlled demonic power, frightening the attackers without surrendering to the demon's cruelty.
+- Continuity notes: The cell attacks the Transhuman Meet-Up Hall with batons while claiming attempts to become more than human are abominations. Paul Teethings drives them away with controlled demonic power, frightening the attackers without surrendering to the demon's cruelty. In Issue #24, the cell escalates with stolen jet packs and laser rifles during an attempted airborne attack on transhuman conference speakers.
 - Reference image: `../reference-images/crossmarked-paramilitary-cell-character.png`
 
 ## Character: Backrooms-Mutated Pigeon
@@ -296,3 +296,27 @@
 - Visual identifiers: army of human-sized demonic ninja silhouettes made from black smoke, shadow cloth, and faint red ember seams, with horned masks, narrow glowing violet eyes, curved shadow blades, clawed fingers, tattered scarf tails, and smoky bodies that blur at the edges. They move as disciplined supernatural soldiers until commanded to bow.
 - Continuity notes: The shadow ninjas swarm battlefield targets in overwhelming numbers and obey Emperor Rex during the invasion of Earth. Because they are demonic, they recognize Aurelia, Daughter of Satan and Lilith, and obey her command to tackle Rex and drag him back through his portal.
 - Reference image: `../reference-images/demonic-shadow-ninjas-character.png`
+
+## Character: Biter / Petar Marinoff
+
+- First appears: Issue #24, "The Demon in the Scanner"
+- Role: crossover beetle-android hero, former Bulgarian air force pilot, Project Animax success case, and Protector Paul's new ally.
+- Visual identifiers: Human-sized but powerfully built beetle-android body; glossy black chitinous armor plates with burnt-orange chest and abdominal segments; orange compound-lens eyes; segmented mechanical faceplate with small mandible structures; two black antennae curving back from the helmet; translucent amber beetle wings folded from armored back casings; compact flight thrusters; clawed black mechanical gloves and boots.
+- Continuity notes: Biter was once Petar Marinoff, a Bulgarian air force pilot killed in a crash. Project Animax recovered and scanned his brain into a beetle android body designed for independent flight, armored protection, taser discharge, and rescue work. He secretly helped people across Bulgaria before Project Animax went public. He admires Protector Paul and becomes his ally after Paul's demon escapes into Goat-Bot.
+- Reference image: `../reference-images/biter-character.png`
+
+## Character: Doctor Moreau
+
+- First appears: Issue #24, "The Demon in the Scanner"
+- Role: head of Project Animax, public transhumanist scientist, and creator-presenter of the animal-ability android program.
+- Visual identifiers: Bulgarian transhumanist scientist in his late 50s with pale skin, swept-back iron-gray hair, narrow hazel eyes, sharp cheekbones, clean-shaven face, tailored graphite suit under a white lab coat with amber circuit embroidery, black nitrile gloves, discreet neural-interface earpiece, and proud theatrical posture.
+- Continuity notes: Moreau presents Biter as proof that Project Animax can preserve human minds in enhanced android bodies. He believes Animax can offer digital immortality and superhuman evolution, but Issue #24 proves the scanner can also extract and embody a dangerous nonhuman mind before its operators understand the risk.
+- Reference image: `../reference-images/doctor-moreau-character.png`
+
+## Character: Goat-Bot
+
+- First appears: Issue #24, "The Demon in the Scanner"
+- Role: escaped antagonist, humanoid-goat android carrying the demon brain scan extracted from Protector Paul.
+- Visual identifiers: Humanoid goat android with black-and-bronze cybernetic armor, backward-curving metal horns, goat-like angular skull face with ember-red sensor eyes, cloven steel hooves, digitigrade legs, cable-like beard, segmented armored torso, clawed mechanical hands, and sulfur-red diagnostic light leaking through chest seams.
+- Continuity notes: Goat-Bot is created when the demon inside Protector Paul hijacks the Project Animax Scanner and orders it to upload the demon half while ignoring Paul's human mind. After Dawes and Moreau shut the scanner down too late, Goat-Bot escapes into Bulgaria with the demon's malice copied into steel while Paul is left free of the whisper inside his head.
+- Reference image: `../reference-images/goat-bot-character.png`

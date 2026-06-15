@@ -252,3 +252,14 @@
 - New settings: Emperor Rex's Shadow Throne World.
 - New key items: None.
 - Reference images added: `emperor-rex-character.png`, `demonic-shadow-ninjas-character.png`, `emperor-rex-shadow-throne-world-setting.png`.
+
+## Issue #24: The Demon in the Scanner
+
+- Folder: `series/superhero-mandroid/issues/issue-24/`
+- Logline: On a guarded flight to a Bulgarian transhumanism conference, Protector Paul and Biter stop a Crossmarked jet-pack attack, only for Project Animax's mind-transfer scanner to offer Paul's demon the escape it has been waiting for.
+- Plot summary: Doctor Leona Vale and Doctor Elias Dawes travel by plane to Bulgaria while Protector Paul flies outside as a guardian against anti-transhuman threats. Crossmarked Paramilitary Cell members attack with jet packs and laser rifles, and Paul burns several packs before being overwhelmed. Biter arrives, disables the remaining jet packs with a taser pulse, and meets Paul after the safe landing. At the conference, Doctor Moreau presents Biter as Project Animax's proof that recovered minds can live again in animal-ability android bodies. Dawes studies the android engineering, Vale studies the promise of digital immortality, and the demon inside Paul sees a way to escape. The possessed Paul hijacks the Project Animax Scanner, which detects two minds and begins uploading the demon half into a humanoid-goat android. Biter is overheated by Paul's fire breath when he tries to intervene, but Vale's voice awakens Paul's human half long enough for Dawes and Moreau to shut down the scanner. Paul regains control and no longer hears the demon, but the upload has already completed. Goat-Bot escapes into Bulgaria, and Paul promises Biter that they will stop his runaway demon together.
+- Continuity changes: Biter crosses into Superhero Mandroid continuity as a Bulgarian Project Animax hero; Project Animax and Doctor Moreau are introduced as public transhumanist players; the Crossmarked cell escalates to jet-pack and laser-rifle attacks; Protector Paul is freed from the demon's internal whisper, but Goat-Bot now exists as an escaped android copy of that demon.
+- New characters: Biter / Petar Marinoff; Doctor Moreau; Goat-Bot.
+- New settings: Bulgarian Transhumanism Conference.
+- New key items: Project Animax Scanner.
+- Reference images added: `biter-character.png`, `doctor-moreau-character.png`, `goat-bot-character.png`, `bulgarian-transhumanism-conference-setting.png`, `project-animax-scanner-key-item.png`.

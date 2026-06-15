@@ -67,9 +67,11 @@ When the user asks how to prompt the agent, asks for a prompt template, or asks 
 
 - Treat series source files as continuity contracts, not optional notes.
 - Before creating a new issue in a series, read the existing series summary, issue summaries, character descriptions, setting descriptions, key item descriptions, and reference images.
+- When a series issue introduces any named character, add or update that character in `series/<series-folder>/source/character-descriptions.md` with a `First appears` line before finalizing the issue. This applies even when the named character is minor or not expected to recur.
 - When a series issue introduces a new recurring character, setting, or key item, create both:
   - a written description in the relevant `series/<series-folder>/source/*-descriptions.md` file
   - a matching reference image under `series/<series-folder>/reference-images/`
+- Minor one-off named characters may use concise character-description entries, but recurring characters need enough visual identifiers and continuity notes to support future issue prompts.
 - Create series reference images with the built-in chat AI image generation capability, using `image_gen`; do not require or route through an API key, external image API, CLI image generator, or manual asset service.
 - Series reference images must use the realistic candid photo-comic style: documentary phone-photo or handheld photojournalism feel, natural imperfect framing, believable real-world lighting, photoreal action or object detail where needed, and no anime or painted illustration style.
 - Reuse existing reference images and descriptions for recurring elements instead of redesigning them.
