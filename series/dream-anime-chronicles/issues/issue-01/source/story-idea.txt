@@ -1,0 +1,9 @@
+Create a new Random Comics series called Dream Anime Chronicles.
+
+Series premise: Dream Anime Chronicles is based on Dream Anime characters created using generative AI from the dreams of Nicholas Alexander Benson. Each character has distinct powers, personality, and lore.
+
+Series visual style: highly colorful modern anime, high saturation, high detail sharpness, bright glow, dynamic shots and posing.
+
+Issue one premise: a character introduction issue for Armor On, grounded in the Dream Anime Wiki article at https://dream-anime.fandom.com/wiki/Armor_On.
+
+Armor On source notes: Armor On is a glowing bald faceless blue-energy warrior wearing a silver armor chest plate. They are proud, obsessive, adventurous, and paranoid about a mysterious watching entity. They travel through virtual worlds as an astral warrior and armor collector. Their powers include flight, portal creation, armor acquisition after defeating warriors, and astral perception that senses the watcher. Their goal is to assemble the greatest armor set so they can survive or defeat the watcher.

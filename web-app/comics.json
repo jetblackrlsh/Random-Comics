@@ -56,6 +56,46 @@
       ]
     },
     {
+      "slug": "dream-anime-chronicles",
+      "title": "Dream Anime Chronicles",
+      "summary": "Dream Anime Chronicles follows the many AI-born Dream Anime characters of Nicholas Alexander Benson's dream mythology as they prove who they are through luminous anime battles, strange worlds, and power-defining choices.",
+      "characterDescriptions": "Character Descriptions Character: Armor On - First appears: Issue 1, \"Armor Against the Eye\" - Role: protagonist, astral warrior, armor collector, traveler through virtual worlds. - Visual identifiers: Bald faceless humanoid made of glowing blue energy, smooth featureless head, intense cyan inner light, silver armor chest plate, incomplete modular armor set that can gain new pieces, luminous blue aura, confident forward-leaning battle posture, gestures that shift between proud challenge and anxious vigilance. - Continuity notes: Armor On flies through virtual realms, opens portals between worlds, senses when the hidden watcher is near, and can absorb armor pieces after defeating warriors. Their pursuit of the ultimate armor is fueled by pride, collector obsession, and fear of the unknown entity that watches them. - Reference image: ../reference-images/armor-on-character.png Character: The Watching Eye - First appears: Issue 1, \"Armor Against the Eye\" - Role: hidden observer, long-term threat, source of Armor On's fear. - Visual identifiers: Huge unblinking eye partly hidden in darkness, gooey black-violet surface, wet feathered edges, pale gold iris, impossible scale, tendrils of shadow and drifting feathers, usually seen through reflections, portals, or the sky between virtual worlds. - Continuity notes: Armor On can sense the entity watching but cannot locate or confront it directly. The Eye's presence pushes Armor On to seek stronger armor, but it may also be testing whether fear controls them. - Reference image: ../reference-images/watching-eye-character.png Character: Mirror Champion - First appears: Issue 1, \"Armor Against the Eye\" - Role: obstacle warrior guarding the Prism Plate in the Mirror Bastion. - Visual identifiers: Tall armored anime warrior with faceless mirrored helmet, crystalline shoulder guards, reflective silver-and-rainbow armor, prism lance, cape made of angular glass shards, calm defensive stance. - Continuity notes: The Mirror Champion is defeated by Armor On in Issue 1 and loses the Prism Plate, but survives the duel. The character may recur as a rival or witness to Armor On's growth. - Reference image: ../reference-images/mirror-champion-character.png",
+      "settingDescriptions": "Setting Descriptions Setting: Fragmented Digital Sky - First appears: Issue 1, \"Armor Against the Eye\" - Visual identifiers: Vast saturated blue and violet sky filled with floating islands, glowing circuitry in the clouds, pixel-like star fields, luminous portal rings, drifting ruins, impossible horizon lines, and bright anime energy trails. - Continuity notes: Armor On travels through layered virtual worlds connected by this sky. It should feel like a dreamlike network of arenas, realms, and floating pathways. - Reference image: ../reference-images/fragmented-digital-sky-setting.png Setting: Mirror Bastion - First appears: Issue 1, \"Armor Against the Eye\" - Visual identifiers: Floating crystalline fortress suspended in the Fragmented Digital Sky, mirror walls, rainbow prism bridges, reflective battle platforms, glowing blue data runes, and fractured reflections that show different possible versions of a warrior. - Continuity notes: The Mirror Bastion houses the Prism Plate and tests challengers by reflecting the fear behind their ambition. - Reference image: ../reference-images/mirror-bastion-setting.png",
+      "keyItemDescriptions": "Key Item Descriptions Key Item: Prism Plate - First appears: Issue 1, \"Armor Against the Eye\" - Visual identifiers: Angular rainbow-silver armor plate sized for Armor On's chest, glasslike layered metal, bright internal glow, prism facets, luminous blue attachment seams when bonded to Armor On's existing armor. - Continuity notes: Armor On wins the Prism Plate from the Mirror Champion after learning to use astral perception instead of raw armor absorption. It becomes a visible new layer over their silver chest plate by the end of Issue 1. - Reference image: ../reference-images/prism-plate-key-item.png Key Item: Armor On's Incomplete Armor Set - First appears: Issue 1, \"Armor Against the Eye\" - Visual identifiers: Modular silver armor over a glowing blue-energy body, initially only a chest plate with partial shoulder and forearm hints, later gaining the Prism Plate as a rainbow-silver overlay. - Continuity notes: Armor On believes completing this armor set will make them invincible enough to survive the hidden watcher. Each new armor piece should feel like both a trophy and a shield against fear. - Reference image: ../reference-images/armor-on-character.png",
+      "issueSummaries": "Issue Summaries Issue 1: Armor Against the Eye - Folder: series/dream-anime-chronicles/issues/issue-01/ - Logline: Armor On invades the Mirror Bastion to claim the Prism Plate, but only wins after realizing the armor they need most is the power to see fear clearly. - Plot summary: Armor On races through the Fragmented Digital Sky toward the Mirror Bastion, convinced the Prism Plate will bring them closer to an invincible armor set. The Mirror Champion defeats their first attempts by reflecting Armor On's pride and fear back at them. When the Watching Eye appears in every mirrored surface, Armor On stops chasing raw protection and uses astral perception to identify the real opening, winning the duel and bonding the Prism Plate to their armor. - Continuity changes: Armor On gains the Prism Plate and learns that astral perception is not only a warning system but a strategic power. The Watching Eye remains unresolved and aware of Armor On's growth. - New characters: Armor On, The Watching Eye, Mirror Champion. - New settings: Fragmented Digital Sky, Mirror Bastion. - New key items: Prism Plate, Armor On's Incomplete Armor Set. - Reference images added: armor-on-character.png , watching-eye-character.png , mirror-champion-character.png , fragmented-digital-sky-setting.png , mirror-bastion-setting.png , prism-plate-key-item.png .",
+      "referenceImages": [
+        {
+          "path": "../series/dream-anime-chronicles/reference-images/armor-on-character.png",
+          "alt": "Dream Anime Chronicles reference image"
+        },
+        {
+          "path": "../series/dream-anime-chronicles/reference-images/fragmented-digital-sky-setting.png",
+          "alt": "Dream Anime Chronicles reference image"
+        },
+        {
+          "path": "../series/dream-anime-chronicles/reference-images/mirror-bastion-setting.png",
+          "alt": "Dream Anime Chronicles reference image"
+        },
+        {
+          "path": "../series/dream-anime-chronicles/reference-images/mirror-champion-character.png",
+          "alt": "Dream Anime Chronicles reference image"
+        },
+        {
+          "path": "../series/dream-anime-chronicles/reference-images/prism-plate-key-item.png",
+          "alt": "Dream Anime Chronicles reference image"
+        },
+        {
+          "path": "../series/dream-anime-chronicles/reference-images/watching-eye-character.png",
+          "alt": "Dream Anime Chronicles reference image"
+        }
+      ],
+      "url": "series/dream-anime-chronicles/",
+      "issueCount": 1,
+      "issues": [
+        "dream-anime-chronicles-issue-01"
+      ]
+    },
+    {
       "slug": "dream-caster",
       "title": "Dream Caster",
       "summary": "A tired local access technician becomes the wielder of a cosmic TV remote that can broadcast forgotten story-forms into reality, forcing him to defend Earth and the Dream Realm from Nightmare incursions.",
@@ -6828,6 +6868,72 @@
       "issueNumber": 24,
       "issueLabel": "Issue #24 of Superhero Mandroid",
       "url": "comics/superhero-mandroid-issue-24/"
+    },
+    {
+      "slug": "dream-anime-chronicles-issue-01",
+      "folder": "series/dream-anime-chronicles/issues/issue-01",
+      "title": "Armor Against the Eye",
+      "publishedDate": "2026-06-16",
+      "summary": "Armor On invades a floating mirror fortress to claim a legendary armor plate, but the duel forces them to admit that fear, not weakness, has been choosing their battles.",
+      "cover": "../series/dream-anime-chronicles/issues/issue-01/assets/comic-pages/page-01-cover.png",
+      "pdf": "../series/dream-anime-chronicles/issues/issue-01/output/pdf/dream-anime-chronicles-issue-01-armor-against-the-eye.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../series/dream-anime-chronicles/issues/issue-01/assets/comic-pages/page-01-cover.png",
+          "alt": "Armor Against the Eye comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../series/dream-anime-chronicles/issues/issue-01/assets/comic-pages/page-02.png",
+          "alt": "Armor Against the Eye comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../series/dream-anime-chronicles/issues/issue-01/assets/comic-pages/page-03.png",
+          "alt": "Armor Against the Eye comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../series/dream-anime-chronicles/issues/issue-01/assets/comic-pages/page-04.png",
+          "alt": "Armor Against the Eye comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../series/dream-anime-chronicles/issues/issue-01/assets/comic-pages/page-05.png",
+          "alt": "Armor Against the Eye comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../series/dream-anime-chronicles/issues/issue-01/assets/comic-pages/page-06.png",
+          "alt": "Armor Against the Eye comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../series/dream-anime-chronicles/issues/issue-01/assets/comic-pages/page-07.png",
+          "alt": "Armor Against the Eye comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../series/dream-anime-chronicles/issues/issue-01/assets/comic-pages/page-08.png",
+          "alt": "Armor Against the Eye comic page 8"
+        },
+        {
+          "number": 9,
+          "path": "../series/dream-anime-chronicles/issues/issue-01/assets/comic-pages/page-09-poster.png",
+          "alt": "Armor Against the Eye comic page 9"
+        }
+      ],
+      "pageCount": 9,
+      "series": {
+        "slug": "dream-anime-chronicles",
+        "title": "Dream Anime Chronicles",
+        "summary": "Dream Anime Chronicles follows the many AI-born Dream Anime characters of Nicholas Alexander Benson's dream mythology as they prove who they are through luminous anime battles, strange worlds, and power-defining choices.",
+        "url": "series/dream-anime-chronicles/"
+      },
+      "issueNumber": 1,
+      "issueLabel": "Issue #1 of Dream Anime Chronicles",
+      "url": "comics/dream-anime-chronicles-issue-01/"
     }
   ]
 }
