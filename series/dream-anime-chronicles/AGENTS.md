@@ -31,6 +31,7 @@ Character introduction stories should:
 - force the character to fail multiple times while testing the wrong power, tactic, or emotional approach
 - end with the character choosing the power or strategy that defines who they are
 - work as the first and last story a reader would need to understand the character
+- end with a ninth page that acts as both a character poster and full-issue summary page. This page must feature the introduced character in a strong poster composition plus one large readable caption box that summarizes the entire issue.
 
 Versus battles should:
 
@@ -46,3 +47,13 @@ Versus battles should:
 - All readable story text, title text, labels, captions, or dialogue must be generated directly inside the page art by `image_gen`.
 - Do not add story text after generation with code, image editing, PDF tooling, HTML/CSS, canvas drawing, or manual typesetting.
 - Use caption boxes for narration and rare short dialogue. Avoid speech bubbles and thought bubbles unless a user explicitly requests them for this series.
+
+## Recovering Built-In `image_gen` Outputs
+
+When `image_gen` renders an image in chat but does not save a local file path, recover the generated PNG from the active Codex session log instead of regenerating it with another tool.
+
+1. Find the current thread id from `nodeRepl.requestMeta["x-codex-turn-metadata"].thread_id` or from `.codex/session_index.jsonl`.
+2. Open the matching session log under `C:\Users\jetbl\.codex\sessions\<yyyy>\<mm>\<dd>\rollout-*-<thread-id>.jsonl`.
+3. Find the `event_msg` line for the image generation item. The generated-image id is stored in `payload.call_id`, and the base64 PNG is stored in `payload.result`. In `read_thread` output the same image may appear as an `imageGeneration` item with `result` and `savedPath: null`.
+4. Decode `payload.result` with `[Convert]::FromBase64String(...)` and save it to the intended repo path, such as `reference-images/<name>.png` or `issues/<issue>/assets/comic-pages/page-##.png`.
+5. Inspect the saved image before using it as continuity or assembling the PDF.
