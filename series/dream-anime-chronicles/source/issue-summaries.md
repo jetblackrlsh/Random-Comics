@@ -21,3 +21,14 @@
 - New settings: High Harbor City.
 - New key items: Jane's Enchanted Family Armor, Gravity Gallows.
 - Reference images added: `captain-lady-jane-character.png`, `high-harbor-city-setting.png`, `gravity-gallows-key-item.png`.
+
+## Issue #3: Feathers for the Crowd
+
+- Folder: `series/dream-anime-chronicles/issues/issue-03/`
+- Logline: Black Feather, the winged champion of Celebrity Deathmatch Island, nearly loses their crown when fame makes them fight for the cameras instead of the hunt.
+- Plot summary: Black Feather enters the ruined haunted boarding school arena as Celebrity Deathmatch Island's reigning champion, feeding on the crowd's fear and adoration. A masked challenger uses the show's drones, spotlights, and cable traps to punish every theatrical wing spread and camera-facing attack. After Black Feather realizes the applause has trained them into predictable performance, they cut the lights, fold into the shadows, and use enhanced sight, hearing, flight, and claws to win from silence.
+- Continuity changes: Black Feather enters the series as a fame-driven human-bird hybrid who learns that controlled silence can command the crowd more powerfully than constant spectacle. Deathmatch Island's haunted boarding school arena is introduced as Black Feather's home battlefield.
+- New characters: Black Feather.
+- New settings: Deathmatch Island Haunted Boarding School Arena.
+- New key items: None.
+- Reference images added: `black-feather-character.png`, `deathmatch-island-school-arena-setting.png`.

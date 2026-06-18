@@ -20,3 +20,10 @@
 - Visual identifiers: Bright modern anime coastal city with tall glass towers, harbor bridges, rooftop gardens, blue ocean light, heroic skyline, public plazas, and silver knight-family banners on memorial architecture.
 - Continuity notes: High Harbor City relies on Captain Lady Jane's family legacy for protection, but its people need Jane's responsibility more than her perfect record.
 - Reference image: `../reference-images/high-harbor-city-setting.png`
+
+## Setting: Deathmatch Island Haunted Boarding School Arena
+
+- First appears: Issue #3, "Feathers for the Crowd"
+- Visual identifiers: Secluded island arena built from a ruined haunted boarding school, cracked dormitory windows, broken classrooms, jungle pressing through fences and courtyards, red broadcast lights, hovering camera drones, floodlights, arena screens, and black-red danger lighting.
+- Continuity notes: The arena turns survival into entertainment. Black Feather is its reigning champion, but Issue #3 proves that the cameras can become a tactical weakness when a fighter performs for applause instead of listening to instinct.
+- Reference image: `../reference-images/deathmatch-island-school-arena-setting.png`

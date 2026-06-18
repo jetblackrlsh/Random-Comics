@@ -31,3 +31,11 @@
 - Visual identifiers: Young adult anime woman with black hair in a high ponytail, black sunglasses, polished silver enchanted knight armor, white cape, athletic build, confident grin, aggressive forward-leaning battle poses, and a family crest glowing at the armor chest.
 - Continuity notes: Jane's enchanted family armor grants flight, enhanced strength, and durability. She begins obsessed with preserving her family's undefeated reputation, but Issue #2 teaches her that honor means protecting people even when doing so requires being knocked down in public.
 - Reference image: `../reference-images/captain-lady-jane-character.png`
+
+## Character: Black Feather
+
+- First appears: Issue #3, "Feathers for the Crowd"
+- Role: protagonist, human-bird hybrid, reigning champion of Celebrity Deathmatch Island, fame-driven predator-showman.
+- Visual identifiers: Pale young anime human-bird hybrid with very short spiked black hair, sharp face, brown eyes with slit pupils, plain black T-shirt with no graphic, black pants, black sneakers, huge black feathered wings, long dark fingernails, clawed hands, lean agile build, ferocious stare, confident theatrical poses that can collapse into silent predatory stillness.
+- Continuity notes: Black Feather has flight, enhanced senses, sharp claws, and extreme agility. They crave fame and attention but Issue #3 teaches them that their strongest dominance comes from choosing silence, darkness, and precise predatory timing instead of performing every move for applause.
+- Reference image: `../reference-images/black-feather-character.png`
