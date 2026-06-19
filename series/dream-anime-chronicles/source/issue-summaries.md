@@ -32,3 +32,14 @@
 - New settings: Deathmatch Island Haunted Boarding School Arena.
 - New key items: None.
 - Reference images added: `black-feather-character.png`, `deathmatch-island-school-arena-setting.png`.
+
+## Issue #4: The World That Still Breathed
+
+- Folder: `series/dream-anime-chronicles/issues/issue-04/`
+- Logline: Arma Geddon returns to the planet they once split in half and must learn that controlling catastrophic power means accepting every part of themself before the new life in the cracks is destroyed.
+- Plot summary: Arma Geddon, a faceless purple cosmic wanderer with overwhelming white lightning life energy, returns to the shattered home world they destroyed in a panic. The planet's energy-rich fissures now shelter strange glowing gardens, but Arma's presence awakens a seismic storm. Arma first tries to protect the life by staying away, then by blasting the storm apart, then by commanding invisible demons formed from their own energy. Each attempt fails because fear makes the power wilder. At the crisis point, Arma realizes the demons are not outside monsters but pieces of their own consciousness, accepts them, and turns the energy into a protective lattice around the growing world.
+- Continuity changes: Arma Geddon enters the series as a peace-seeking but dangerous cosmic wanderer whose powers include space flight, survival in space, emotion-amplified energy blasts, and energy-demon summoning. Arma's shattered home world is established as a recurring sanctuary/prison where new life is growing from the catastrophe.
+- New characters: Arma Geddon.
+- New settings: Arma's Shattered Home World.
+- New key items: None.
+- Reference images added: `arma-geddon-character.png`, `armas-shattered-home-world-setting.png`.

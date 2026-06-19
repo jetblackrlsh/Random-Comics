@@ -27,3 +27,10 @@
 - Visual identifiers: Secluded island arena built from a ruined haunted boarding school, cracked dormitory windows, broken classrooms, jungle pressing through fences and courtyards, red broadcast lights, hovering camera drones, floodlights, arena screens, and black-red danger lighting.
 - Continuity notes: The arena turns survival into entertainment. Black Feather is its reigning champion, but Issue #3 proves that the cameras can become a tactical weakness when a fighter performs for applause instead of listening to instinct.
 - Reference image: `../reference-images/deathmatch-island-school-arena-setting.png`
+
+## Setting: Arma's Shattered Home World
+
+- First appears: Issue #4, "The World That Still Breathed"
+- Visual identifiers: Vast isolated planet split by deep luminous fissures, remnants of an ancient advanced civilization, half-submerged structures, cracked towers, floating debris, thin breathable atmosphere, strange glowing plant life growing from energy-rich cracks, and a constant visible hum of purple-white energy.
+- Continuity notes: Arma Geddon destroyed this planet in a panic-driven energy outburst, cutting it in half. The ruins now serve as both sanctuary and prison for Arma, and Issue #4 reveals that new life has begun thriving inside the energy-rich wounds.
+- Reference image: `../reference-images/armas-shattered-home-world-setting.png`

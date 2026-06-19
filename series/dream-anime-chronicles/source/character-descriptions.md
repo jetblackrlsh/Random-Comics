@@ -39,3 +39,11 @@
 - Visual identifiers: Pale young anime human-bird hybrid with very short spiked black hair, sharp face, brown eyes with slit pupils, plain black T-shirt with no graphic, black pants, black sneakers, huge black feathered wings, long dark fingernails, clawed hands, lean agile build, ferocious stare, confident theatrical poses that can collapse into silent predatory stillness.
 - Continuity notes: Black Feather has flight, enhanced senses, sharp claws, and extreme agility. They crave fame and attention but Issue #3 teaches them that their strongest dominance comes from choosing silence, darkness, and precise predatory timing instead of performing every move for applause.
 - Reference image: `../reference-images/black-feather-character.png`
+
+## Character: Arma Geddon
+
+- First appears: Issue #4, "The World That Still Breathed"
+- Role: protagonist, cosmic wanderer, life-energy powerhouse seeking control and atonement.
+- Visual identifiers: Young masculine anime figure with a faceless smooth head, long glowing purple dreadlocks without beads or ties, glowing purple skin, skinny toned build, plain orange T-shirt, black athletic pants with no lines or drawstring, white socks, plain white sneakers, and an overpowering aura of glowing white lightning energy.
+- Continuity notes: Arma can fly through space, survive without ordinary biological needs, fire emotion-amplified life-energy blasts, and summon invisible demons formed from their own energy and consciousness. They destroyed their home planet in a panic and exiled themself out of fear, but Issue #4 teaches them to accept the demons as parts of themself and shape their destructive energy into protection.
+- Reference image: `../reference-images/arma-geddon-character.png`
