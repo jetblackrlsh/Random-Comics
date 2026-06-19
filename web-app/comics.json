@@ -7024,6 +7024,62 @@
       "url": "comics/dream-anime-chronicles-issue-02/"
     },
     {
+      "slug": "eyes-above-the-storm",
+      "folder": "eyes-above-the-storm",
+      "title": "Eyes Above the Storm",
+      "publishedDate": "2026-06-18",
+      "summary": "In a comic based on a true story, a narrator invents a myth of heroic sky watchers to soften humanity's fear of chaotic weather, then sees that myth appear during a devastating tornado and return days later inside the Aurora Borealis.",
+      "cover": "../eyes-above-the-storm/assets/comic-pages/page-01-cover.png",
+      "pdf": "../eyes-above-the-storm/output/pdf/eyes-above-the-storm.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../eyes-above-the-storm/assets/comic-pages/page-01-cover.png",
+          "alt": "Eyes Above the Storm comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../eyes-above-the-storm/assets/comic-pages/page-02.png",
+          "alt": "Eyes Above the Storm comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../eyes-above-the-storm/assets/comic-pages/page-03.png",
+          "alt": "Eyes Above the Storm comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../eyes-above-the-storm/assets/comic-pages/page-04.png",
+          "alt": "Eyes Above the Storm comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../eyes-above-the-storm/assets/comic-pages/page-05.png",
+          "alt": "Eyes Above the Storm comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../eyes-above-the-storm/assets/comic-pages/page-06.png",
+          "alt": "Eyes Above the Storm comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../eyes-above-the-storm/assets/comic-pages/page-07.png",
+          "alt": "Eyes Above the Storm comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../eyes-above-the-storm/assets/comic-pages/page-08.png",
+          "alt": "Eyes Above the Storm comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
+      "url": "comics/eyes-above-the-storm/"
+    },
+    {
       "slug": "dream-anime-chronicles-issue-03",
       "folder": "series/dream-anime-chronicles/issues/issue-03",
       "title": "Feathers for the Crowd",
