@@ -47,3 +47,19 @@
 - Visual identifiers: Young masculine anime figure with a faceless smooth head, long glowing purple dreadlocks without beads or ties, glowing purple skin, skinny toned build, plain orange T-shirt, black athletic pants with no lines or drawstring, white socks, plain white sneakers, and an overpowering aura of glowing white lightning energy.
 - Continuity notes: Arma can fly through space, survive without ordinary biological needs, fire emotion-amplified life-energy blasts, and summon invisible demons formed from their own energy and consciousness. They destroyed their home planet in a panic and exiled themself out of fear, but Issue #4 teaches them to accept the demons as parts of themself and shape their destructive energy into protection.
 - Reference image: `../reference-images/arma-geddon-character.png`
+
+## Character: Auralite Prism
+
+- First appears: Issue #5, "The Essence That Imagined Back"
+- Role: protagonist, Keeper of the Ethereal Essence, serene magical guardian of a post-apocalyptic world.
+- Visual identifiers: Androgynous youthful anime guardian with a smooth delicate face, large luminous rainbow-prism eyes, pale mint/aqua hair with layered sweeping bangs and teal-green shadows, iridescent blue-purple-pink aura markings across the face and neck like living crystal slime, glossy translucent orb accents around the hair and aura, one large circular white-and-black mechanical earpiece/headset on the left side, white collared shirt, dark teal tie, slim white-and-silver futuristic shoulder/bodyguard harness, saturated rainbow glow, serene unreadable expression, and composed upright posture.
+- Continuity notes: Auralite is enigmatic, composed, profoundly intuitive, and peaceful amid chaos. They safeguard the Ethereal Essence, the iridescent cosmic slime that powers magic and anchors their world's balance. Their aura powers allow superhuman leaps, luminous shields, deep magical sensing, and the rare ability to materialize imaginary characters into physical reality. Issue #5 teaches Auralite that imagination becomes unstable when used as command or force, and strongest when it listens to the living essence.
+- Reference image: `../reference-images/auralite-prism-character.png`
+
+## Character: Auralite's Robot Bodyguard
+
+- First appears: Issue #5, "The Essence That Imagined Back"
+- Role: supporting character, loyal robotic protector created by Auralite Prism.
+- Visual identifiers: Tall sleek anime robot guardian with white ceramic armor, chrome joints, teal and magenta light seams, rounded shoulder pods, a single camera-lens face in a smooth black visor, small floating prism-orb drones around its back, long protective arms, and a calm defensive stance always angled between Auralite and danger.
+- Continuity notes: The bodyguard is loyal and literal. In Issue #5 it initially treats the Ethereal Essence crisis as a containment problem, but follows Auralite's growth by converting its drones from prison grids into bridge arcs for healing magic.
+- Reference image: `../reference-images/auralite-robot-bodyguard-character.png`

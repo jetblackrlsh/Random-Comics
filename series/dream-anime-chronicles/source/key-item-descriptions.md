@@ -27,3 +27,10 @@
 - Visual identifiers: Supernatural black-violet gallows-shaped gravity sigil, chains of dark light, floating stone fragments, clock-bell silhouettes, heavy downward distortion rings, and impact shadows that drag the sky toward the ground.
 - Continuity notes: The Gravity Gallows attacks High Harbor City by turning boastful pride into literal weight. Jane destroys its manifestation by grounding it through the harbor leyline anchor and her family armor.
 - Reference image: `../reference-images/gravity-gallows-key-item.png`
+
+## Key Item: Ethereal Essence
+
+- First appears: Issue #5, "The Essence That Imagined Back"
+- Visual identifiers: Iridescent cosmic slime that shifts through teal, pink, violet, blue, and gold; glossy liquid surface; tiny stars and prismatic particles suspended inside; able to flow like water, bloom like a plant, or rise as magical aura threads.
+- Continuity notes: The Ethereal Essence is the source of magic and the heart of Auralite Prism's world's power system. It is not inert fuel; it behaves like a living magical presence that responds to intuition, imagination, balance, and misuse.
+- Reference image: `../reference-images/ethereal-essence-key-item.png`

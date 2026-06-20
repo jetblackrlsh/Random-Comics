@@ -34,3 +34,10 @@
 - Visual identifiers: Vast isolated planet split by deep luminous fissures, remnants of an ancient advanced civilization, half-submerged structures, cracked towers, floating debris, thin breathable atmosphere, strange glowing plant life growing from energy-rich cracks, and a constant visible hum of purple-white energy.
 - Continuity notes: Arma Geddon destroyed this planet in a panic-driven energy outburst, cutting it in half. The ruins now serve as both sanctuary and prison for Arma, and Issue #4 reveals that new life has begun thriving inside the energy-rich wounds.
 - Reference image: `../reference-images/armas-shattered-home-world-setting.png`
+
+## Setting: Ethereal Essence Heartspring
+
+- First appears: Issue #5, "The Essence That Imagined Back"
+- Visual identifiers: Post-apocalyptic crater-garden surrounded by broken futuristic towers, luminous vines, cracked white ruins, pools and rivers of iridescent rainbow slime, floating translucent bubbles, prismatic flowers, and a central glowing spring that looks alive and cosmic.
+- Continuity notes: The Heartspring is Auralite Prism's home sanctuary and the living heart of the world's magic system. It responds to intention and balance: it destabilizes when treated as a weapon or captive resource and heals when Auralite listens to it as a living partner.
+- Reference image: `../reference-images/ethereal-essence-heartspring-setting.png`

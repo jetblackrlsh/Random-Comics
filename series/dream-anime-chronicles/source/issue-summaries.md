@@ -43,3 +43,14 @@
 - New settings: Arma's Shattered Home World.
 - New key items: None.
 - Reference images added: `arma-geddon-character.png`, `armas-shattered-home-world-setting.png`.
+
+## Issue #5: The Essence That Imagined Back
+
+- Folder: `series/dream-anime-chronicles/issues/issue-05/`
+- Logline: Auralite Prism, serene Keeper of the Ethereal Essence, must protect the magic-source slime of their ruined world from a draining rupture, but only succeeds when they stop commanding imagination and let the essence answer as a living partner.
+- Plot summary: Auralite Prism watches over the Ethereal Essence Heartspring with the robot bodyguard they created, guarding the iridescent cosmic slime that powers magic in their post-apocalyptic world. When a rupture begins draining the Heartspring, Auralite first tries elegant distance through aura leaps and shields, then materializes imagined warriors, then allows the bodyguard to seal the spring in hard containment. Each tactic fails because it treats the living essence as a surface, an enemy, or a captive resource. Remembering the first time the essence trusted them, Auralite listens instead of commands and imagines caretakers who work with the slime to close the wound.
+- Continuity changes: Auralite Prism enters the series as the serene Keeper of the Ethereal Essence, with aura-based superhuman leaps, deep intuition, a robot bodyguard, and the power to materialize imaginary characters into physical reality. The Ethereal Essence is established as a living magical source that responds to balance, imagination, intuition, and misuse rather than inert fuel.
+- New characters: Auralite Prism, Auralite's Robot Bodyguard.
+- New settings: Ethereal Essence Heartspring.
+- New key items: Ethereal Essence.
+- Reference images added: `auralite-prism-character.png`, `auralite-robot-bodyguard-character.png`, `ethereal-essence-heartspring-setting.png`, `ethereal-essence-key-item.png`.
