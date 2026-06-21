@@ -41,3 +41,10 @@
 - Visual identifiers: Post-apocalyptic crater-garden surrounded by broken futuristic towers, luminous vines, cracked white ruins, pools and rivers of iridescent rainbow slime, floating translucent bubbles, prismatic flowers, and a central glowing spring that looks alive and cosmic.
 - Continuity notes: The Heartspring is Auralite Prism's home sanctuary and the living heart of the world's magic system. It responds to intention and balance: it destabilizes when treated as a weapon or captive resource and heals when Auralite listens to it as a living partner.
 - Reference image: `../reference-images/ethereal-essence-heartspring-setting.png`
+
+## Setting: Halflight Technorealm
+
+- First appears: Issue #6, "The Bracelet That Chose Both"
+- Visual identifiers: Enchanted fragmented realm where glowing elfin forests, ancient moonstone ruins, and tall shrine gates overlap with sleek floating cities, renewable-energy towers, transparent transit bridges, holographic map altars, and luminous magic-tech circuitry. The palette mixes saturated emerald, gold, magenta, cyan, and warm pink light.
+- Continuity notes: Ash travels this divided world while seeking approval from the elf gods. The realm's cultural divide makes her feel incomplete, but its blended magic and technology also proves that mixed origins can create paths pure tradition cannot.
+- Reference image: `../reference-images/halflight-technorealm-setting.png`

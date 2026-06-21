@@ -63,3 +63,11 @@
 - Visual identifiers: Tall sleek anime robot guardian with white ceramic armor, chrome joints, teal and magenta light seams, rounded shoulder pods, a single camera-lens face in a smooth black visor, small floating prism-orb drones around its back, long protective arms, and a calm defensive stance always angled between Auralite and danger.
 - Continuity notes: The bodyguard is loyal and literal. In Issue #5 it initially treats the Ethereal Essence crisis as a containment problem, but follows Auralite's growth by converting its drones from prison grids into bridge arcs for healing magic.
 - Reference image: `../reference-images/auralite-robot-bodyguard-character.png`
+
+## Character: Ash Halfling
+
+- First appears: Issue #6, "The Bracelet That Chose Both"
+- Role: protagonist, wandering half-elf seeker, bridge between elfin magic and futuristic human society.
+- Visual identifiers: Young anime woman with long curly orange hair, red eyes, pointed ears, curvy/plump build, plain solid pink T-shirt, pink athletic skirt, white socks, plain pink sneakers, pink round glasses, expressive anxious-to-determined face, and small luminous illusion sparks around her hands.
+- Continuity notes: Ash was born to a human mother and an elfin father. She is faithful, adventurous, ambitious, and determined, but begins with the painful belief that she must become a pure elf before the elf gods will aid her or judge her worthy. Her limited elfin magic lets her cast small illusions, create fleeting light shows, and sense magical presences. Issue #6 teaches her that the fusion bracelet cannot make her whole by erasing half of her; it becomes strongest when she accepts both sides of her heritage and uses that dual identity to connect magic and technology.
+- Reference image: `../reference-images/ash-halfling-character.png`

@@ -54,3 +54,14 @@
 - New settings: Ethereal Essence Heartspring.
 - New key items: Ethereal Essence.
 - Reference images added: `auralite-prism-character.png`, `auralite-robot-bodyguard-character.png`, `ethereal-essence-heartspring-setting.png`, `ethereal-essence-key-item.png`.
+
+## Issue #6: The Bracelet That Chose Both
+
+- Folder: `series/dream-anime-chronicles/issues/issue-06/`
+- Logline: Ash Halfling searches the Halflight Technorealm for a fusion bracelet that might make her a pure elf, but the relic only awakens when she stops treating half her soul as something to erase.
+- Plot summary: Ash Halfling crosses glowing elfin forests and futuristic human cities while chasing the elf gods' approval. After the gods reject her plea for help because of her mixed heritage, Ash tries to prove herself through small illusions, copied elfin rituals, and finally the legendary Fusion Bracelet. Each attempt fails because she is using magic and technology to deny her human half rather than honor the life that made her brave. When the bracelet begins pulling her identity apart, Ash remembers the love of both parents and chooses to remain whole. The bracelet responds by merging elfin magic with futuristic human design, opening a bridge the elf gods could not make alone.
+- Continuity changes: Ash Halfling enters the series as a half-elf seeker whose limited illusion magic, magical sensing, loyalty, ambition, and insecurity are all tied to her mixed heritage. The Halflight Technorealm and Fusion Bracelet are introduced as recurring magic-tech continuity elements.
+- New characters: Ash Halfling.
+- New settings: Halflight Technorealm.
+- New key items: Fusion Bracelet.
+- Reference images added: `ash-halfling-character.png`, `halflight-technorealm-setting.png`, `fusion-bracelet-key-item.png`.

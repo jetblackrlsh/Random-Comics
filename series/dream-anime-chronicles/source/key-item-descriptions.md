@@ -34,3 +34,10 @@
 - Visual identifiers: Iridescent cosmic slime that shifts through teal, pink, violet, blue, and gold; glossy liquid surface; tiny stars and prismatic particles suspended inside; able to flow like water, bloom like a plant, or rise as magical aura threads.
 - Continuity notes: The Ethereal Essence is the source of magic and the heart of Auralite Prism's world's power system. It is not inert fuel; it behaves like a living magical presence that responds to intuition, imagination, balance, and misuse.
 - Reference image: `../reference-images/ethereal-essence-key-item.png`
+
+## Key Item: Fusion Bracelet
+
+- First appears: Issue #6, "The Bracelet That Chose Both"
+- Visual identifiers: Futuristic bracelet sized for Ash's wrist, rose-gold and white alloy frame, translucent pink crystal core, tiny emerald elfin runes, cyan holographic circuitry, twin crescent clasps, and a glow that splits into warm human-tech light and green-gold elfin magic before merging.
+- Continuity notes: Ash seeks the bracelet because legend says it can merge beings and might let her become a pure elf. In Issue #6 the bracelet rejects any fusion that is really self-erasure, then awakens when Ash accepts both her human and elfin heritage. Its true power is not purification but synthesis: joining divided energies without destroying either one.
+- Reference image: `../reference-images/fusion-bracelet-key-item.png`
