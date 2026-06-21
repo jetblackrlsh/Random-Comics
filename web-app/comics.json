@@ -7302,6 +7302,62 @@
       "issueNumber": 5,
       "issueLabel": "Issue #5 of Dream Anime Chronicles",
       "url": "comics/dream-anime-chronicles-issue-05/"
+    },
+    {
+      "slug": "grand-dale-first-road",
+      "folder": "grand-dale-first-road",
+      "title": "Grand Dale: The First Road",
+      "publishedDate": "2026-06-21",
+      "summary": "In Amberwood, a new human guild courier with the personal gift of hearing the emotions of metal must choose an elemental tool and carry a stormlight lantern across hostile climates before distrust between Grand Dale's kingdoms leaves a desert caravan stranded in the dark.",
+      "cover": "../grand-dale-first-road/assets/comic-pages/page-01-cover.png",
+      "pdf": "../grand-dale-first-road/output/pdf/grand-dale-first-road.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../grand-dale-first-road/assets/comic-pages/page-01-cover.png",
+          "alt": "Grand Dale: The First Road comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../grand-dale-first-road/assets/comic-pages/page-02.png",
+          "alt": "Grand Dale: The First Road comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../grand-dale-first-road/assets/comic-pages/page-03.png",
+          "alt": "Grand Dale: The First Road comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../grand-dale-first-road/assets/comic-pages/page-04.png",
+          "alt": "Grand Dale: The First Road comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../grand-dale-first-road/assets/comic-pages/page-05.png",
+          "alt": "Grand Dale: The First Road comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../grand-dale-first-road/assets/comic-pages/page-06.png",
+          "alt": "Grand Dale: The First Road comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../grand-dale-first-road/assets/comic-pages/page-07.png",
+          "alt": "Grand Dale: The First Road comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../grand-dale-first-road/assets/comic-pages/page-08.png",
+          "alt": "Grand Dale: The First Road comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
+      "url": "comics/grand-dale-first-road/"
     }
   ]
 }

@@ -9,11 +9,11 @@ Primary request: Create a complete realistic photo-comic page, not a single imag
 Story role: <what this page must accomplish in the narrative>
 Character/reference bible for continuity: <stable visible details for every recurring character, outfit, prop, and location>
 Page layout: <cover composition or panel grid, panel sizes, reading order>
-Caption boxes: <story-clarity narration and rare short speech to generate directly inside roomy rectangular caption boxes in the page art>
+Caption boxes: <story-clarity narration and rare short speech to generate directly inside roomy rectangular caption boxes in the page art; include only reader-facing story text, never panel labels or prompt scaffolding>
 Visual beats: <panel-by-panel actions and emotions>
 Setting and props: <recurring locations, objects, symbols>
 Photo style: realistic candid photo-comic, documentary phone-photo or handheld photojournalism look, natural imperfect framing, believable real-world lighting, photoreal action VFX, realistic depth of field and motion blur only where appropriate, clean rectangular caption boxes.
-Constraints: 4:5 portrait full page, caption boxes only, no speech bubbles, no thought bubbles, no floating dialogue, no subtitles, no watermark, no logo, no extra unreadable text. All readable story text must be generated directly inside the page art; do not leave blank caption boxes or art-only panels for later typesetting. Keep all recurring characters visually consistent with the character/reference bible.
+Constraints: 4:5 portrait full page, caption boxes only, no speech bubbles, no thought bubbles, no floating dialogue, no subtitles, no watermark, no logo, no extra unreadable text. All readable story text must be generated directly inside the page art; do not leave blank caption boxes or art-only panels for later typesetting. Caption boxes must not include labels or prefixes like "Panel 1:", "Panel 2", "Caption:", or "Top caption:"; include only the intended story sentences. Keep all recurring characters visually consistent with the character/reference bible.
 ```
 
 ## Page Count Guidance
@@ -30,11 +30,12 @@ Use caption boxes as the only text vehicle. Narration can be poetic, but story c
 
 Default captioning should be longer and more descriptive than terse comic fragments, especially for complex stories. Captions should clearly explain the premise, stakes, world rules, character motivation, and consequences that the image alone may not communicate. When a page needs more explanation, reduce the panel count and use fewer, larger panels with roomy caption boxes instead of squeezing long captions into many tiny panels.
 
-Good caption-box directions:
+Good caption-box directions should separate panel mapping from the text that appears in the art:
 
 ```text
-Panel 1 top caption: "Mira crossed the border at sunrise because the old city was the only place where broken machines still remembered their owners."
-Panel 2 top caption: "The gate opened only after she put the camera down, proving the city feared witnesses more than thieves."
+Top panel caption text: "Mira crossed the border at sunrise because the old city was the only place where broken machines still remembered their owners."
+Second panel caption text: "The gate opened only after she put the camera down, proving the city feared witnesses more than thieves."
+Do not include the words "Top panel", "Second panel", "Panel 1", or "caption text" in the generated artwork.
 ```
 
 Avoid:
@@ -42,6 +43,9 @@ Avoid:
 ```text
 Speech bubble saying...
 Thought bubble saying...
+Panel 1: ...
+Caption: ...
+Top caption: ...
 Large paragraphs squeezed into tiny text...
 Floating subtitles...
 Six or more panels when the page needs long explanatory captions...
