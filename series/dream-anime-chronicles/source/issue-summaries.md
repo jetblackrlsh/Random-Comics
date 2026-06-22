@@ -65,3 +65,14 @@
 - New settings: Halflight Technorealm.
 - New key items: Fusion Bracelet.
 - Reference images added: `ash-halfling-character.png`, `halflight-technorealm-setting.png`, `fusion-bracelet-key-item.png`.
+
+## Issue #7: The God Who Forgot Tomorrow
+
+- Folder: `series/dream-anime-chronicles/issues/issue-07/`
+- Logline: Amnie Zia, an amnesiac god who can only remember how to summon dinosaurs, tries to save a city from a bee-themed supervillain and the citizens' impossible expectations, but only wins after choosing one ordinary life to protect instead of chasing the full truth of their lost divinity.
+- Plot summary: Amnie Zia arrives in Mnemosyne Junction with the shape of a god, missing memories, and a reliable but narrow dinosaur-command power. A bee-themed supervillain turns the city crossing into a hive of amber walls, forcing Amnie to prove themself in public. Amnie first answers with oversized dinosaur spectacle, but the swarm redirects each roar into more danger. Civilians then ask why a god can save people from a crisis but not fix every ordinary pain around them. When a memory portal opens to a forgotten divine throne, Amnie almost chases the answer to their past, then chooses the trapped child in front of them instead. By directing small, precise dinosaur rescues, Amnie breaks the hive attack and accepts protection as the first real shape of their identity.
+- Continuity changes: Amnie Zia enters the series as an amnesiac god with latent reality manipulation, reliable dinosaur command, heroic instincts, and unresolved missing memories. Mnemosyne Junction and Amnie's Silver T-Rex Insignia are introduced as recurring continuity elements. The bee-themed supervillain remains unrevealed as a recurring threat silhouette tied to Amnie's doubt.
+- New characters: Amnie Zia.
+- New settings: Mnemosyne Junction.
+- New key items: Amnie's Silver T-Rex Insignia.
+- Reference images added: `amnie-zia-character.png`, `mnemosyne-junction-setting.png`, `amnie-silver-t-rex-insignia-key-item.png`.

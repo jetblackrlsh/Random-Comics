@@ -71,3 +71,11 @@
 - Visual identifiers: Young anime woman with long curly orange hair, red eyes, pointed ears, curvy/plump build, plain solid pink T-shirt, pink athletic skirt, white socks, plain pink sneakers, pink round glasses, expressive anxious-to-determined face, and small luminous illusion sparks around her hands.
 - Continuity notes: Ash was born to a human mother and an elfin father. She is faithful, adventurous, ambitious, and determined, but begins with the painful belief that she must become a pure elf before the elf gods will aid her or judge her worthy. Her limited elfin magic lets her cast small illusions, create fleeting light shows, and sense magical presences. Issue #6 teaches her that the fusion bracelet cannot make her whole by erasing half of her; it becomes strongest when she accepts both sides of her heritage and uses that dual identity to connect magic and technology.
 - Reference image: `../reference-images/ash-halfling-character.png`
+
+## Character: Amnie Zia
+
+- First appears: Issue #7, "The God Who Forgot Tomorrow"
+- Role: protagonist, amnesiac god, instinctive protector, reality manipulator whose reliable power currently manifests as dinosaur command.
+- Visual identifiers: Androgynous lean anime god with long flowing silver hair that looks like strands of light, pale skin with a subtle iridescent sheen, deep cosmic-blue eyes with tiny star-like specks, full body cosmic-blue unitard patterned with glowing star specks, bright silver trim, silver gloves, silver boots, and a silver T-Rex head insignia centered on the chest.
+- Continuity notes: Amnie once held a prominent place among the gods, but an unknown event stripped away their memories. They remain instinctually heroic and are driven to recover their past, believing it will unlock their full reality-shaping potential. For now, their demonstrated control centers on summoning and directing dinosaurs. Issue #7 teaches Amnie that protecting what is directly in front of them matters even before their complete memory or full godhood returns.
+- Reference image: `../reference-images/amnie-zia-character.png`

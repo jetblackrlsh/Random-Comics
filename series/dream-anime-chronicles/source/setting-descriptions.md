@@ -48,3 +48,10 @@
 - Visual identifiers: Enchanted fragmented realm where glowing elfin forests, ancient moonstone ruins, and tall shrine gates overlap with sleek floating cities, renewable-energy towers, transparent transit bridges, holographic map altars, and luminous magic-tech circuitry. The palette mixes saturated emerald, gold, magenta, cyan, and warm pink light.
 - Continuity notes: Ash travels this divided world while seeking approval from the elf gods. The realm's cultural divide makes her feel incomplete, but its blended magic and technology also proves that mixed origins can create paths pure tradition cannot.
 - Reference image: `../reference-images/halflight-technorealm-setting.png`
+
+## Setting: Mnemosyne Junction
+
+- First appears: Issue #7, "The God Who Forgot Tomorrow"
+- Visual identifiers: Bright modern anime city intersection layered with ancient divine ruins, cracked marble memory arches, neon crosswalks, floating amber honeycomb barriers, dinosaur-scale streets, old celestial statues, and starry blue-silver energy reflected in glass towers.
+- Continuity notes: Mnemosyne Junction exposes Amnie Zia's divided burden: ordinary citizens need practical rescue, ancient ruins tug at their missing divine memory, and villainous supernatural crises make their incomplete reality power dangerously visible.
+- Reference image: `../reference-images/mnemosyne-junction-setting.png`

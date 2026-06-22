@@ -41,3 +41,10 @@
 - Visual identifiers: Futuristic bracelet sized for Ash's wrist, rose-gold and white alloy frame, translucent pink crystal core, tiny emerald elfin runes, cyan holographic circuitry, twin crescent clasps, and a glow that splits into warm human-tech light and green-gold elfin magic before merging.
 - Continuity notes: Ash seeks the bracelet because legend says it can merge beings and might let her become a pure elf. In Issue #6 the bracelet rejects any fusion that is really self-erasure, then awakens when Ash accepts both her human and elfin heritage. Its true power is not purification but synthesis: joining divided energies without destroying either one.
 - Reference image: `../reference-images/fusion-bracelet-key-item.png`
+
+## Key Item: Amnie's Silver T-Rex Insignia
+
+- First appears: Issue #7, "The God Who Forgot Tomorrow"
+- Visual identifiers: Clean silver T-Rex head emblem centered on Amnie Zia's cosmic-blue chest unitard, metallic reflective edges, star-blue glow from behind, and a sharper shine whenever Amnie commands dinosaurs with focused protective intent.
+- Continuity notes: The insignia is Amnie's most reliable symbol of identity while their larger divine memory is missing. It does not restore their past, but Issue #7 shows it brightening when Amnie chooses focused rescue over panicked spectacle.
+- Reference image: `../reference-images/amnie-silver-t-rex-insignia-key-item.png`
