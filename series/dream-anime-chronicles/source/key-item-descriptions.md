@@ -48,3 +48,10 @@
 - Visual identifiers: Clean silver T-Rex head emblem centered on Amnie Zia's cosmic-blue chest unitard, metallic reflective edges, star-blue glow from behind, and a sharper shine whenever Amnie commands dinosaurs with focused protective intent.
 - Continuity notes: The insignia is Amnie's most reliable symbol of identity while their larger divine memory is missing. It does not restore their past, but Issue #7 shows it brightening when Amnie chooses focused rescue over panicked spectacle.
 - Reference image: `../reference-images/amnie-silver-t-rex-insignia-key-item.png`
+
+## Key Item: Purple Sand
+
+- First appears: Issue #8, "The Warlord Who Waited"
+- Visual identifiers: Luminous violet grains, hourglass-shaped storm trails, glittering particles orbiting claws and weapons, translucent time-ripple rings, fractured ghost images of past and future positions, and deep purple glow whenever Ahrimani Prime bends time.
+- Continuity notes: Purple sand lets Ahrimani Prime manipulate time, enhance speed and strength, and transport the Ahrimani pack across eras. Issue #8 establishes that its greatest danger is strategic rather than merely physical: Prime uses it to remove the Ahrimani from ancient history and launch an invasion against a future Earth that has forgotten how to fight them.
+- Reference image: `../reference-images/purple-sand-key-item.png`

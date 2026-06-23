@@ -79,3 +79,11 @@
 - Visual identifiers: Androgynous lean anime god with long flowing silver hair that looks like strands of light, pale skin with a subtle iridescent sheen, deep cosmic-blue eyes with tiny star-like specks, full body cosmic-blue unitard patterned with glowing star specks, bright silver trim, silver gloves, silver boots, and a silver T-Rex head insignia centered on the chest.
 - Continuity notes: Amnie once held a prominent place among the gods, but an unknown event stripped away their memories. They remain instinctually heroic and are driven to recover their past, believing it will unlock their full reality-shaping potential. For now, their demonstrated control centers on summoning and directing dinosaurs. Issue #7 teaches Amnie that protecting what is directly in front of them matters even before their complete memory or full godhood returns.
 - Reference image: `../reference-images/amnie-zia-character.png`
+
+## Character: Ahrimani Prime
+
+- First appears: Issue #8, "The Warlord Who Waited"
+- Role: antagonist-protagonist introduction character, leader of the surviving Ahrimani pack, purple-sand time warlord, future conqueror.
+- Visual identifiers: Towering humanoid purple reptilian anime warlord with violet scaled skin, massive barbarian build, ridged reptile face, glowing yellow eyes, sharp teeth, broad clawed hands, vivid purple mohawk crest, tattered dark shirt, rough loincloth, brown cloth wrappings around wrists and ankles, brown belt with a circular gold buckle, bare clawed feet, and a violent purple aura threaded with sand-like time particles.
+- Continuity notes: Ahrimani Prime commands the surviving Ahrimani with militant discipline and an obsession with conquering humanity before humans can push the species into extinction. They begin as an aggressive brute-force commander, but Issue #8 defines their true danger as strategic patience: using purple sand to fake extinction, move the pack through time, and ambush a future Earth that no longer remembers the Ahrimani.
+- Reference image: `../reference-images/ahrimani-prime-character.png`

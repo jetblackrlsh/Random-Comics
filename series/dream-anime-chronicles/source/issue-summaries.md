@@ -76,3 +76,14 @@
 - New settings: Mnemosyne Junction.
 - New key items: Amnie's Silver T-Rex Insignia.
 - Reference images added: `amnie-zia-character.png`, `mnemosyne-junction-setting.png`, `amnie-silver-t-rex-insignia-key-item.png`.
+
+## Issue #8: The Warlord Who Waited
+
+- Folder: `series/dream-anime-chronicles/issues/issue-08/`
+- Logline: Ahrimani Prime, a proud purple reptilian warlord, tries to save the Ahrimani from extinction by crushing the ancient monster hunters head-on, but only becomes truly dangerous after learning to use the purple sand to make time itself part of the invasion.
+- Plot summary: Ahrimani Prime leads the Ahrimani pack through an ancient war against human monster hunters, answering every defeat with more strength, more discipline, and more personal aggression. The hunters keep adapting, pushing Prime toward the fear that the Ahrimani will become extinct. In the ruins beneath the battlefield, Prime discovers the purple sand and first uses it recklessly as another combat enhancer, nearly scattering the pack across unstable moments. After realizing that the real victory is not a better charge but a better battlefield, Prime lets humanity believe the Ahrimani vanished, then transports the surviving pack into a future Earth that has forgotten them. Their first conquest defines Prime as a patient, strategic time warlord.
+- Continuity changes: Ahrimani Prime enters the series as the leader of the surviving Ahrimani, a purple reptilian conqueror whose time manipulation comes from purple sand. Ahrimani-Occupied Future Earth and Purple Sand are introduced as recurring continuity elements tied to Prime's future invasion.
+- New characters: Ahrimani Prime.
+- New settings: Ahrimani-Occupied Future Earth.
+- New key items: Purple Sand.
+- Reference images added: `ahrimani-prime-character.png`, `ahrimani-occupied-future-earth-setting.png`, `purple-sand-key-item.png`.

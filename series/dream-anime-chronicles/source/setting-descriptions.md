@@ -55,3 +55,10 @@
 - Visual identifiers: Bright modern anime city intersection layered with ancient divine ruins, cracked marble memory arches, neon crosswalks, floating amber honeycomb barriers, dinosaur-scale streets, old celestial statues, and starry blue-silver energy reflected in glass towers.
 - Continuity notes: Mnemosyne Junction exposes Amnie Zia's divided burden: ordinary citizens need practical rescue, ancient ruins tug at their missing divine memory, and villainous supernatural crises make their incomplete reality power dangerously visible.
 - Reference image: `../reference-images/mnemosyne-junction-setting.png`
+
+## Setting: Ahrimani-Occupied Future Earth
+
+- First appears: Issue #8, "The Warlord Who Waited"
+- Visual identifiers: Saturated modern anime dystopian Earth under violet skies, ruined skyscrapers, shattered highways, purple sandstorms, glowing time-rift scars, Ahrimani banners, frightened resistance hideouts, abandoned technology half-buried in violet sand, and ancient reptilian warbands moving through futuristic streets.
+- Continuity notes: This is the future Earth Ahrimani Prime chooses as the real battlefield after realizing ancient humanity can be bypassed. The setting should feel like an ambush across history: a technologically advanced world whose defenses fail because it no longer remembers the monsters that once hunted it.
+- Reference image: `../reference-images/ahrimani-occupied-future-earth-setting.png`
