@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="../../">
+    <!-- APP_META_START -->
+    <title>Monomyth Comics | Random Comics</title>
+    <meta name="description" content="Self-contained photo-comic epics where each issue turns a short premise into a complete 17-stage Hero's Journey.">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://jetblackrlsh.github.io/Random-Comics/web-app/series/monomyth-comics/">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Random Comics">
+    <meta property="og:title" content="Monomyth Comics | Random Comics">
+    <meta property="og:description" content="Self-contained photo-comic epics where each issue turns a short premise into a complete 17-stage Hero's Journey.">
+    <meta property="og:url" content="https://jetblackrlsh.github.io/Random-Comics/web-app/series/monomyth-comics/">
+    <meta property="og:image" content="https://jetblackrlsh.github.io/Random-Comics/web-app/assets/site-background.png">
+    <meta property="og:image:alt" content="Monomyth Comics | Random Comics cover art">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Monomyth Comics | Random Comics">
+    <meta name="twitter:description" content="Self-contained photo-comic epics where each issue turns a short premise into a complete 17-stage Hero's Journey.">
+    <meta name="twitter:image" content="https://jetblackrlsh.github.io/Random-Comics/web-app/assets/site-background.png">
+    <meta name="twitter:image:alt" content="Monomyth Comics | Random Comics cover art">
+    <link rel="alternate" type="application/rss+xml" title="Random Comics RSS Feed" href="https://jetblackrlsh.github.io/Random-Comics/web-app/rss.xml">
+    <!-- APP_META_END -->
+    <!-- STRUCTURED_DATA_START -->
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"CreativeWorkSeries","name":"Monomyth Comics","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/series/monomyth-comics/","description":"Self-contained photo-comic epics where each issue turns a short premise into a complete 17-stage Hero's Journey.","hasPart":[{"@type":"ComicIssue","name":"The Machine Who Chose the Door","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/comics/monomyth-comics-issue-01/","issueNumber":1,"position":1,"datePublished":"2026-06-23","image":"https://jetblackrlsh.github.io/Random-Comics/series/monomyth-comics/issues/issue-01/assets/comic-pages/page-01-cover.png"}],"isPartOf":{"@type":"WebSite","name":"Random Comics","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/"}}</script>
+    <!-- STRUCTURED_DATA_END -->
+    <link rel="preload" href="assets/site-background.png" as="image">
+    <link rel="icon" href="assets/random-comics-logo.png">
+    <link rel="sitemap" type="application/xml" href="sitemap.xml">
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body data-initial-route="series:monomyth-comics">
+    <div class="background-art" aria-hidden="true"></div>
+    <header class="site-header">
+        <a class="brand" href="./" data-route="home" aria-label="Random Comics home">
+        <img src="assets/random-comics-logo.png" alt="Random Comics">
+      </a>
+      <nav class="top-nav" aria-label="Primary navigation">
+        <a href="./" data-route="home">Read</a>
+        <a href="advanced-search/" data-route="advanced-search">Advanced Search</a>
+        <a href="about/" data-route="about">About</a>
+        <a class="follow-link" href="follow/" data-route="follow">Follow</a>
+        <a href="other-comics/" data-route="other-comics">Other Comics</a>
+        <a class="review-link" href="https://docs.google.com/forms/d/e/1FAIpQLSftkXOkOSMjwOXjS4pFpF81lE4lF02NcWHECy4tesJy9V-9Dg/viewform?usp=publish-editor" target="_blank" rel="noopener">Review</a>
+        <a class="support-link" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="reader-layout" id="readerView">
+        <aside class="control-panel" aria-label="Comic controls">
+          <div class="intro-copy">
+            <h1>Random Comics</h1>
+            <p>Browse standalone stories and series issues, read vertically, share a favorite issue, or download it for later.</p>
+          </div>
+
+          <a class="follow-cta" href="follow/" data-route="follow">Follow for updates</a>
+
+          <label class="search-wrap" for="comicSearch">
+            <span>Search by title, date, or series</span>
+            <input id="comicSearch" type="search" autocomplete="off" placeholder="Try 2026, Deca-Form, or a series">
+          </label>
+
+          <div class="jump-actions" aria-label="Jump to comic">
+            <button type="button" id="earliestButton">Earliest</button>
+            <button type="button" id="latestButton">Latest</button>
+          </div>
+
+          <div class="comic-list" id="comicList" aria-label="Comics"></div>
+        </aside>
+
+        <article class="reader-panel" aria-live="polite">
+          <div class="reader-toolbar">
+            <div>
+              <p class="publish-date" id="comicDate"></p>
+              <h2 id="comicTitle">Loading comics...</h2>
+            </div>
+            <div class="reader-actions" aria-label="Selected comic actions">
+              <button class="icon-button reader-mode-button" type="button" id="readerModeButton" aria-pressed="false">Reader Mode</button>
+              <a class="icon-button" id="downloadButton" href="#" download>Download</a>
+              <button class="icon-button" type="button" id="shareButton">Share</button>
+              <a class="icon-button review" href="https://docs.google.com/forms/d/e/1FAIpQLSftkXOkOSMjwOXjS4pFpF81lE4lF02NcWHECy4tesJy9V-9Dg/viewform?usp=publish-editor" target="_blank" rel="noopener">Review</a>
+              <a class="icon-button support" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+            </div>
+          </div>
+          <p class="comic-summary" id="comicSummary"></p>
+          <div class="page-strip" id="pageStrip"></div>
+        </article>
+      </section>
+
+      <section class="about-view" id="aboutView" hidden>
+        <div class="about-copy">
+          <h1>About Random Comics</h1>
+          <p>Random Comics is a home for standalone one-shots, strange experiments, and comic series that grow beyond a single issue.</p>
+          <p>Some comics are based on dreams. Some come from sudden shower thoughts, weird news, superhero concepts, game-inspired ideas, or random sparks of imagination that demanded to become something real. Some ideas only need one finished comic. Others may build into recurring characters, settings, and issue-to-issue continuity.</p>
+          <p>The comics collected here may vary in tone, style, length, format, and genre. You might find superhero action, sci-fi weirdness, dream logic, horror, comedy, mythic strangeness, standalone stories, or the beginning of a larger series.</p>
+          <p>Think of this as a creative sketchbook turned into a comic archive: a place where spontaneous ideas can become finished stories, whether they stand alone or keep expanding.</p>
+          <p>Not every comic needs a universe.</p>
+          <p>But when a strange little story grows into one, Random Comics has room for that too.</p>
+        </div>
+      </section>
+
+      <section class="follow-view" id="followView" hidden>
+        <div class="follow-copy">
+          <h1>Follow Random Comics</h1>
+          <p>Get new comic releases by email when the archive updates.</p>
+          <div class="followit--follow-form-container" attr-a attr-b attr-c attr-d attr-e attr-f>
+            <form action="https://api.follow.it/subscription-form/aGlRcUxKVXNNVCtnVTVNbnNwaERaczZ4WFQ4Um1GdFY2cm9wSmhKSGhKdi9MUE1TWk9VU3k2U3N0TnRZUkhkY3JtUG1jUk5aUzJBUUtQUFFValBaOHlsT3AwRlQ2MGplWGJ2d0g5aEhhR045eGFVZCt1MExpYllSWlRvYW5FRXV8RWF4OWhNaXY2WTRJZHQ1UzY4aGJmYlU2a1QrVkRDT2xWekVVNytaQTJoVT0=/8" method="post">
+              <div class="form-preview">
+                <div class="preview-heading">
+                  <h5>Get new comics by email</h5>
+                </div>
+                <div class="preview-input-field">
+                  <input type="email" name="email" required placeholder="Enter your email" spellcheck="false">
+                </div>
+                <div class="preview-submit-button">
+                  <button type="submit">Subscribe</button>
+                </div>
+              </div>
+            </form>
+            <a href="https://follow.it" class="powered-by-line">Powered by <img src="https://follow.it/images/colored-logo.svg" alt="follow.it" height="17"></a>
+          </div>
+        </div>
+      </section>
+
+      <section class="other-comics-view" id="otherComicsView" hidden>
+        <div class="other-comics-copy">
+          <h1>Other Comics</h1>
+          <p>Read more comic projects from Nicholas Benson.</p>
+          <div class="other-comics-grid" aria-label="Other comics">
+            <a class="comic-site-card" href="https://planet-man.randomcomics.art/" target="_blank" rel="noopener">
+              <span>Planet-Man Comics</span>
+              <small>Superhero comic adventures and series releases.</small>
+            </a>
+            <a class="comic-site-card" href="https://dreamcomics.randomcomics.art/" target="_blank" rel="noopener">
+              <span>Dream Comics</span>
+              <small>Dream-inspired comics and surreal story experiments.</small>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="advanced-search-view" id="advancedSearchView" hidden>
+        <div class="advanced-search-shell">
+          <div class="advanced-search-heading">
+            <div>
+              <h1>Advanced Search</h1>
+              <p>Search the full archive by date, series, issue title, issue description, and issue number.</p>
+            </div>
+            <p class="advanced-search-count" id="advancedSearchCount">Loading comics...</p>
+          </div>
+
+          <details class="advanced-filter-panel" id="advancedFilterPanel" open>
+            <summary>
+              <span>Search and filters</span>
+              <span class="advanced-filter-summary" id="advancedFilterSummary">No filters active</span>
+            </summary>
+
+            <form class="advanced-filter-grid" id="advancedSearchForm">
+              <label>
+                <span>Issue title</span>
+                <input id="advancedTitleSearch" type="search" autocomplete="off" placeholder="Search titles">
+              </label>
+              <label>
+                <span>Issue description</span>
+                <input id="advancedDescriptionSearch" type="search" autocomplete="off" placeholder="Search descriptions">
+              </label>
+              <label>
+                <span>Series name</span>
+                <select id="advancedSeriesFilter">
+                  <option value="">All series and standalones</option>
+                </select>
+              </label>
+              <label>
+                <span>Issue number</span>
+                <input id="advancedIssueNumber" type="number" min="1" step="1" inputmode="numeric" placeholder="Any issue">
+              </label>
+              <label>
+                <span>Published from</span>
+                <input id="advancedDateFrom" type="date">
+              </label>
+              <label>
+                <span>Published through</span>
+                <input id="advancedDateTo" type="date">
+              </label>
+              <label class="advanced-sort-control">
+                <span>Order results</span>
+                <select id="advancedSort">
+                  <option value="date-desc">Publishing date: High to Low</option>
+                  <option value="date-asc">Publishing date: Low to High</option>
+                  <option value="title-asc">ABC Order</option>
+                  <option value="title-desc">Reverse ABC Order</option>
+                  <option value="issue-asc">Issue Number Order</option>
+                  <option value="issue-desc">Reverse Issue Number Order</option>
+                  <option value="series-asc">Series Order</option>
+                  <option value="series-desc">Reverse Series Order</option>
+                </select>
+              </label>
+              <button class="advanced-reset-button" type="reset" id="advancedResetButton">Reset filters</button>
+            </form>
+          </details>
+
+          <div class="advanced-gallery" id="advancedGallery" aria-label="Advanced search comic gallery"></div>
+        </div>
+      </section>
+
+      <!-- SEO_CONTENT_START -->
+      <section class="seo-content" aria-label="Monomyth Comics series details">
+        <h2>Monomyth Comics</h2>
+        <p>Self-contained photo-comic epics where each issue turns a short premise into a complete 17-stage Hero's Journey.</p>
+        <h3>Characters</h3><p>Character Descriptions Character: Dyanadroid - First appears: Issue 1, &quot;The Machine Who Chose the Door&quot; - Role: protagonist, intelligent android, engineered apocalypse-stopper. - Visual identifiers: tall athletic humanoid android with a smooth silver and graphite synthetic body, expressive emerald-green optical lenses, segmented face plates capable of subtle humanlike sorrow, green reactor glow in the chest, streamlined shoulder and forearm armor, black carbon-fiber joints, no cape, no exposed wires unless damaged, and green energy effects around hands, shields, flight, and portal sealing. - Continuity notes: Built by Doctor Balmson to locate and close the Master Portal. Possesses flight, immense strength, green energy shields, green energy blasts, and sensor integration. Fears that success will make him obsolete and lead to shutdown. The intended character name is Dyanadroid. - Reference image: ../reference-images/dyanadroid-character.png Character: Doctor Balmson - First appears: Issue 1, &quot;The Machine Who Chose the Door&quot; - Role: creator, top scientist, mission dispatcher. - Visual identifiers: exhausted middle-aged scientist in a rumpled white lab coat over dark emergency clothes, short graying hair, tired eyes, rectangular glasses, ID badge, tablet full of portal telemetry, and green emergency lab light reflecting off his face. - Continuity notes: Engineered Dyanadroid as a last-resort savior. He is not cartoonishly cruel, but he speaks about Dyanadroid in terms of function, deployment, risk, and shutdown protocols, exposing the disposable logic that Dyanadroid ultimately rejects. - Reference image: ../reference-images/doctor-balmson-character.png</p>
+        <h3>Settings</h3><p>Setting Descriptions Setting: Portal City - First appears: Issue 1, &quot;The Machine Who Chose the Door&quot; - Visual identifiers: dense modern city under apocalypse conditions, cracked asphalt, evacuation lights, emergency vehicles, ruined glass towers, smoke columns, purple portals tearing open above streets and rooftops, panicked crowds, barricades, and intermittent green light from Dyanadroid's powers. - Continuity notes: All portal activity converges on this city. It should feel recognizably real rather than fantasy, so the impossible invaders and portals disturb an otherwise believable urban environment. - Reference image: ../reference-images/portal-city-setting.png Setting: Doctor Balmson's Emergency Lab - First appears: Issue 1, &quot;The Machine Who Chose the Door&quot; - Visual identifiers: underground or hardened emergency laboratory with flickering fluorescent lights, glass observation walls, scattered cables, portal telemetry monitors, an android deployment platform, green diagnostic lighting, and purple warning maps of the city. - Continuity notes: Dyanadroid begins here as a created instrument rather than a citizen. The lab should visually suggest both scientific brilliance and disposability. - Reference image: ../reference-images/doctor-balmsons-emergency-lab-setting.png Setting: The Other Dimension - First appears: Issue 1, &quot;The Machine Who Chose the Door&quot; - Visual identifiers: luminous alien horizon beyond a purple threshold, unfamiliar sky geometry, impossible floating landforms, warm green reflections from Dyanadroid's power, and a quiet sense of openness after urban disaster. - Continuity notes: Dyanadroid chooses this dimension as a self-defined future. It should feel unknown but welcoming enough to support the final moral: home is chosen, not assigned. - Reference image: ../reference-images/other-dimension-setting.png</p>
+        <h3>Key Items</h3><p>Key Item Descriptions Key Item: Master Portal Sensor - First appears: Issue 1, &quot;The Machine Who Chose the Door&quot; - Visual identifiers: compact handheld or wrist-mounted sensor device with rugged black casing, green holographic radar arcs, pulsing purple anomaly indicators, scratched emergency-use surface, and a cable or wireless sync to Dyanadroid's systems. - Continuity notes: Doctor Balmson sends Dyanadroid into the city with this device to locate the Master Portal. Its readings become both practical navigation and a symbol of assigned purpose. - Reference image: ../reference-images/master-portal-sensor-key-item.png Key Item: Master Portal - First appears: Issue 1, &quot;The Machine Who Chose the Door&quot; - Visual identifiers: enormous unstable purple rift hidden at the convergence of many smaller portals, ringed by cracked air, levitating debris, alien silhouettes, and bright green sealing energy when Dyanadroid confronts it. - Continuity notes: Closing the Master Portal ends the apocalypse but also gives Dyanadroid the opportunity to leave through it before the world can reclaim or discard him. - Reference image: ../reference-images/master-portal-key-item.png Key Item: Green Energy Shield - First appears: Issue 1, &quot;The Machine Who Chose the Door&quot; - Visual identifiers: translucent emerald hexagonal or circular energy barrier projected from Dyanadroid's hands or forearms, bright but photoreal, throwing green light onto rain, dust, smoke, and metal. - Continuity notes: Dyanadroid uses shields to protect civilians and survive dimensional attacks. It visually expresses the tension between being built to protect others and needing to protect himself. - Reference image: ../reference-images/green-energy-shield-key-item.png</p>
+        <h3>Issue Summaries</h3><p>Issue Summaries Issue 1: The Machine Who Chose the Door - Folder: series/monomyth-comics/issues/issue-01/ - Logline: Built to stop an interdimensional apocalypse and then be discarded, Dyanadroid follows the Master Portal into a choice no creator planned for him: save a world that owns him, or save himself. - Plot summary: Doctor Balmson activates Dyanadroid as purple portals begin turning Portal City into the hinge of a global apocalypse. Dyanadroid receives the Master Portal Sensor, leaves the lab, survives the invaded city, saves civilians, and discovers that his mission file ends with his own obsolescence. After confronting Balmson and realizing purpose is not ownership, he finds the Master Portal and learns it can only be sealed from the other side. Helped by civilians he saved, Dyanadroid closes the apocalypse while stepping into another dimension, choosing a future that belongs to him. - Continuity changes: Establishes Monomyth Comics as a 17-stage Hero's Journey series. Establishes Dyanadroid's self-liberation, Doctor Balmson's creator role, Portal City, the Master Portal, and the other dimension. - New characters: Dyanadroid; Doctor Balmson. - New settings: Portal City; Doctor Balmson's Emergency Lab; The Other Dimension. - New key items: Master Portal Sensor; Master Portal; Green Energy Shield. - Reference images added: dyanadroid-character.png , doctor-balmson-character.png , portal-city-setting.png , doctor-balmsons-emergency-lab-setting.png , other-dimension-setting.png , master-portal-sensor-key-item.png , master-portal-key-item.png , green-energy-shield-key-item.png .</p>
+        <h3>Issues</h3>
+        <ul>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/monomyth-comics-issue-01/">The Machine Who Chose the Door</a> <span>2026-06-23 · 18 pages · Issue #1 of Monomyth Comics</span></li>
+        </ul>
+      </section>
+      <!-- SEO_CONTENT_END -->
+    </main>
+  </body>
+</html>

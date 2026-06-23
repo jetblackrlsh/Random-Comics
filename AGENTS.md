@@ -22,7 +22,8 @@ These instructions apply to the whole Random Comics repository.
 1. Determine whether the comic is standalone or part of a series.
 2. For standalone comics, use the existing top-level comic folder layout.
 3. For series comics, read `series/SERIES_WORKFLOW.md` before writing story files, prompts, images, PDFs, catalog data, or web-app output.
-4. If using the repo-local photo comic workflow, follow `skills/photo-comic-book-pdf/SKILL.md`.
+4. If creating or editing a Monomyth Comics issue, follow `skills/monomyth-comic-book-pdf/SKILL.md`; Monomyth issues require a cover plus exactly 17 story pages, one for each Hero's Journey stage.
+5. If using the repo-local photo comic workflow for other comics, follow `skills/photo-comic-book-pdf/SKILL.md`.
 
 ## Adding Pages To An Existing Comic
 
@@ -49,6 +50,7 @@ Users can ask for comics with short prompts documented in `PROMPTING.md`. Treat 
 - `Create a new series called [Series Name] and make issue #1...` means create the series structure and the first issue.
 - `Add [n] pages to [Comic Title]...` means expand an existing standalone comic or series issue in place.
 - `Turn [One-Shot Title] into issue #1 of a new series called [Series Name]...` means promote the existing standalone comic into a new series without unnecessary regeneration.
+- `Create the next issue of Monomyth Comics from this premise: ...` means create a Monomyth issue with `skills/monomyth-comic-book-pdf/SKILL.md`, not the standard 8-page photo-comic limit.
 
 Do not require the user to restate folder conventions, continuity-file rules, reference-image requirements, or web-app build steps when they use these shorthands. Apply the relevant project workflow automatically.
 

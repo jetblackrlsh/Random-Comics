@@ -1,0 +1,7 @@
+interface:
+  display_name: "Monomyth Comic Book PDF"
+  short_description: "Create 17-stage Hero's Journey photo-comics"
+  default_prompt: "Use $monomyth-comic-book-pdf to create a Monomyth Comics issue from this premise."
+
+policy:
+  allow_implicit_invocation: true

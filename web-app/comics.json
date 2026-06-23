@@ -442,6 +442,54 @@
       ]
     },
     {
+      "slug": "monomyth-comics",
+      "title": "Monomyth Comics",
+      "summary": "Self-contained photo-comic epics where each issue turns a short premise into a complete 17-stage Hero's Journey.",
+      "characterDescriptions": "Character Descriptions Character: Dyanadroid - First appears: Issue 1, \"The Machine Who Chose the Door\" - Role: protagonist, intelligent android, engineered apocalypse-stopper. - Visual identifiers: tall athletic humanoid android with a smooth silver and graphite synthetic body, expressive emerald-green optical lenses, segmented face plates capable of subtle humanlike sorrow, green reactor glow in the chest, streamlined shoulder and forearm armor, black carbon-fiber joints, no cape, no exposed wires unless damaged, and green energy effects around hands, shields, flight, and portal sealing. - Continuity notes: Built by Doctor Balmson to locate and close the Master Portal. Possesses flight, immense strength, green energy shields, green energy blasts, and sensor integration. Fears that success will make him obsolete and lead to shutdown. The intended character name is Dyanadroid. - Reference image: ../reference-images/dyanadroid-character.png Character: Doctor Balmson - First appears: Issue 1, \"The Machine Who Chose the Door\" - Role: creator, top scientist, mission dispatcher. - Visual identifiers: exhausted middle-aged scientist in a rumpled white lab coat over dark emergency clothes, short graying hair, tired eyes, rectangular glasses, ID badge, tablet full of portal telemetry, and green emergency lab light reflecting off his face. - Continuity notes: Engineered Dyanadroid as a last-resort savior. He is not cartoonishly cruel, but he speaks about Dyanadroid in terms of function, deployment, risk, and shutdown protocols, exposing the disposable logic that Dyanadroid ultimately rejects. - Reference image: ../reference-images/doctor-balmson-character.png",
+      "settingDescriptions": "Setting Descriptions Setting: Portal City - First appears: Issue 1, \"The Machine Who Chose the Door\" - Visual identifiers: dense modern city under apocalypse conditions, cracked asphalt, evacuation lights, emergency vehicles, ruined glass towers, smoke columns, purple portals tearing open above streets and rooftops, panicked crowds, barricades, and intermittent green light from Dyanadroid's powers. - Continuity notes: All portal activity converges on this city. It should feel recognizably real rather than fantasy, so the impossible invaders and portals disturb an otherwise believable urban environment. - Reference image: ../reference-images/portal-city-setting.png Setting: Doctor Balmson's Emergency Lab - First appears: Issue 1, \"The Machine Who Chose the Door\" - Visual identifiers: underground or hardened emergency laboratory with flickering fluorescent lights, glass observation walls, scattered cables, portal telemetry monitors, an android deployment platform, green diagnostic lighting, and purple warning maps of the city. - Continuity notes: Dyanadroid begins here as a created instrument rather than a citizen. The lab should visually suggest both scientific brilliance and disposability. - Reference image: ../reference-images/doctor-balmsons-emergency-lab-setting.png Setting: The Other Dimension - First appears: Issue 1, \"The Machine Who Chose the Door\" - Visual identifiers: luminous alien horizon beyond a purple threshold, unfamiliar sky geometry, impossible floating landforms, warm green reflections from Dyanadroid's power, and a quiet sense of openness after urban disaster. - Continuity notes: Dyanadroid chooses this dimension as a self-defined future. It should feel unknown but welcoming enough to support the final moral: home is chosen, not assigned. - Reference image: ../reference-images/other-dimension-setting.png",
+      "keyItemDescriptions": "Key Item Descriptions Key Item: Master Portal Sensor - First appears: Issue 1, \"The Machine Who Chose the Door\" - Visual identifiers: compact handheld or wrist-mounted sensor device with rugged black casing, green holographic radar arcs, pulsing purple anomaly indicators, scratched emergency-use surface, and a cable or wireless sync to Dyanadroid's systems. - Continuity notes: Doctor Balmson sends Dyanadroid into the city with this device to locate the Master Portal. Its readings become both practical navigation and a symbol of assigned purpose. - Reference image: ../reference-images/master-portal-sensor-key-item.png Key Item: Master Portal - First appears: Issue 1, \"The Machine Who Chose the Door\" - Visual identifiers: enormous unstable purple rift hidden at the convergence of many smaller portals, ringed by cracked air, levitating debris, alien silhouettes, and bright green sealing energy when Dyanadroid confronts it. - Continuity notes: Closing the Master Portal ends the apocalypse but also gives Dyanadroid the opportunity to leave through it before the world can reclaim or discard him. - Reference image: ../reference-images/master-portal-key-item.png Key Item: Green Energy Shield - First appears: Issue 1, \"The Machine Who Chose the Door\" - Visual identifiers: translucent emerald hexagonal or circular energy barrier projected from Dyanadroid's hands or forearms, bright but photoreal, throwing green light onto rain, dust, smoke, and metal. - Continuity notes: Dyanadroid uses shields to protect civilians and survive dimensional attacks. It visually expresses the tension between being built to protect others and needing to protect himself. - Reference image: ../reference-images/green-energy-shield-key-item.png",
+      "issueSummaries": "Issue Summaries Issue 1: The Machine Who Chose the Door - Folder: series/monomyth-comics/issues/issue-01/ - Logline: Built to stop an interdimensional apocalypse and then be discarded, Dyanadroid follows the Master Portal into a choice no creator planned for him: save a world that owns him, or save himself. - Plot summary: Doctor Balmson activates Dyanadroid as purple portals begin turning Portal City into the hinge of a global apocalypse. Dyanadroid receives the Master Portal Sensor, leaves the lab, survives the invaded city, saves civilians, and discovers that his mission file ends with his own obsolescence. After confronting Balmson and realizing purpose is not ownership, he finds the Master Portal and learns it can only be sealed from the other side. Helped by civilians he saved, Dyanadroid closes the apocalypse while stepping into another dimension, choosing a future that belongs to him. - Continuity changes: Establishes Monomyth Comics as a 17-stage Hero's Journey series. Establishes Dyanadroid's self-liberation, Doctor Balmson's creator role, Portal City, the Master Portal, and the other dimension. - New characters: Dyanadroid; Doctor Balmson. - New settings: Portal City; Doctor Balmson's Emergency Lab; The Other Dimension. - New key items: Master Portal Sensor; Master Portal; Green Energy Shield. - Reference images added: dyanadroid-character.png , doctor-balmson-character.png , portal-city-setting.png , doctor-balmsons-emergency-lab-setting.png , other-dimension-setting.png , master-portal-sensor-key-item.png , master-portal-key-item.png , green-energy-shield-key-item.png .",
+      "referenceImages": [
+        {
+          "path": "../series/monomyth-comics/reference-images/doctor-balmson-character.png",
+          "alt": "Monomyth Comics reference image"
+        },
+        {
+          "path": "../series/monomyth-comics/reference-images/doctor-balmsons-emergency-lab-setting.png",
+          "alt": "Monomyth Comics reference image"
+        },
+        {
+          "path": "../series/monomyth-comics/reference-images/dyanadroid-character.png",
+          "alt": "Monomyth Comics reference image"
+        },
+        {
+          "path": "../series/monomyth-comics/reference-images/green-energy-shield-key-item.png",
+          "alt": "Monomyth Comics reference image"
+        },
+        {
+          "path": "../series/monomyth-comics/reference-images/master-portal-key-item.png",
+          "alt": "Monomyth Comics reference image"
+        },
+        {
+          "path": "../series/monomyth-comics/reference-images/master-portal-sensor-key-item.png",
+          "alt": "Monomyth Comics reference image"
+        },
+        {
+          "path": "../series/monomyth-comics/reference-images/other-dimension-setting.png",
+          "alt": "Monomyth Comics reference image"
+        },
+        {
+          "path": "../series/monomyth-comics/reference-images/portal-city-setting.png",
+          "alt": "Monomyth Comics reference image"
+        }
+      ],
+      "url": "series/monomyth-comics/",
+      "issueCount": 1,
+      "issues": [
+        "monomyth-comics-issue-01"
+      ]
+    },
+    {
       "slug": "nexus-nights",
       "title": "Nexus Nights",
       "summary": "Travelers buy one-night superhero experiences in Nexus City, where every random power ticket comes with a costume, a real mission, and consequences too dangerous for the brochure.",
@@ -7529,6 +7577,117 @@
       "issueNumber": 7,
       "issueLabel": "Issue #7 of Dream Anime Chronicles",
       "url": "comics/dream-anime-chronicles-issue-07/"
+    },
+    {
+      "slug": "monomyth-comics-issue-01",
+      "folder": "series/monomyth-comics/issues/issue-01",
+      "title": "The Machine Who Chose the Door",
+      "publishedDate": "2026-06-23",
+      "summary": "Built to stop an interdimensional apocalypse and then be discarded, Dyanadroid follows the Master Portal into a choice no creator planned for him: save a world that owns him, or save himself.",
+      "cover": "../series/monomyth-comics/issues/issue-01/assets/comic-pages/page-01-cover.png",
+      "pdf": "../series/monomyth-comics/issues/issue-01/output/pdf/monomyth-comics-issue-01-the-machine-who-chose-the-door.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../series/monomyth-comics/issues/issue-01/assets/comic-pages/page-01-cover.png",
+          "alt": "The Machine Who Chose the Door comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../series/monomyth-comics/issues/issue-01/assets/comic-pages/page-02.png",
+          "alt": "The Machine Who Chose the Door comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../series/monomyth-comics/issues/issue-01/assets/comic-pages/page-03.png",
+          "alt": "The Machine Who Chose the Door comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../series/monomyth-comics/issues/issue-01/assets/comic-pages/page-04.png",
+          "alt": "The Machine Who Chose the Door comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../series/monomyth-comics/issues/issue-01/assets/comic-pages/page-05.png",
+          "alt": "The Machine Who Chose the Door comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../series/monomyth-comics/issues/issue-01/assets/comic-pages/page-06.png",
+          "alt": "The Machine Who Chose the Door comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../series/monomyth-comics/issues/issue-01/assets/comic-pages/page-07.png",
+          "alt": "The Machine Who Chose the Door comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../series/monomyth-comics/issues/issue-01/assets/comic-pages/page-08.png",
+          "alt": "The Machine Who Chose the Door comic page 8"
+        },
+        {
+          "number": 9,
+          "path": "../series/monomyth-comics/issues/issue-01/assets/comic-pages/page-09.png",
+          "alt": "The Machine Who Chose the Door comic page 9"
+        },
+        {
+          "number": 10,
+          "path": "../series/monomyth-comics/issues/issue-01/assets/comic-pages/page-10.png",
+          "alt": "The Machine Who Chose the Door comic page 10"
+        },
+        {
+          "number": 11,
+          "path": "../series/monomyth-comics/issues/issue-01/assets/comic-pages/page-11.png",
+          "alt": "The Machine Who Chose the Door comic page 11"
+        },
+        {
+          "number": 12,
+          "path": "../series/monomyth-comics/issues/issue-01/assets/comic-pages/page-12.png",
+          "alt": "The Machine Who Chose the Door comic page 12"
+        },
+        {
+          "number": 13,
+          "path": "../series/monomyth-comics/issues/issue-01/assets/comic-pages/page-13.png",
+          "alt": "The Machine Who Chose the Door comic page 13"
+        },
+        {
+          "number": 14,
+          "path": "../series/monomyth-comics/issues/issue-01/assets/comic-pages/page-14.png",
+          "alt": "The Machine Who Chose the Door comic page 14"
+        },
+        {
+          "number": 15,
+          "path": "../series/monomyth-comics/issues/issue-01/assets/comic-pages/page-15.png",
+          "alt": "The Machine Who Chose the Door comic page 15"
+        },
+        {
+          "number": 16,
+          "path": "../series/monomyth-comics/issues/issue-01/assets/comic-pages/page-16.png",
+          "alt": "The Machine Who Chose the Door comic page 16"
+        },
+        {
+          "number": 17,
+          "path": "../series/monomyth-comics/issues/issue-01/assets/comic-pages/page-17.png",
+          "alt": "The Machine Who Chose the Door comic page 17"
+        },
+        {
+          "number": 18,
+          "path": "../series/monomyth-comics/issues/issue-01/assets/comic-pages/page-18.png",
+          "alt": "The Machine Who Chose the Door comic page 18"
+        }
+      ],
+      "pageCount": 18,
+      "series": {
+        "slug": "monomyth-comics",
+        "title": "Monomyth Comics",
+        "summary": "Self-contained photo-comic epics where each issue turns a short premise into a complete 17-stage Hero's Journey.",
+        "url": "series/monomyth-comics/"
+      },
+      "issueNumber": 1,
+      "issueLabel": "Issue #1 of Monomyth Comics",
+      "url": "comics/monomyth-comics-issue-01/"
     },
     {
       "slug": "dream-anime-chronicles-issue-08",

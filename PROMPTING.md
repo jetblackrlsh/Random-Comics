@@ -30,6 +30,14 @@ Create the next issue of [Series Name] from this premise: [premise]
 
 Use this for a comic that belongs to an existing series under `series/<series-folder>/`.
 
+For Monomyth Comics, use:
+
+```text
+Create the next issue of Monomyth Comics from this premise: [premise]
+```
+
+Use this for an issue that must follow all 17 Hero's Journey stages. The agent should use `skills/monomyth-comic-book-pdf/SKILL.md`, create a cover plus exactly 17 story pages, generate all comic imagery with `image_gen`, assemble the PDF/previews, update continuity, and rebuild the web app.
+
 ## New Series Shell
 
 ```text
