@@ -87,3 +87,14 @@
 - New settings: Ahrimani-Occupied Future Earth.
 - New key items: Purple Sand.
 - Reference images added: `ahrimani-prime-character.png`, `ahrimani-occupied-future-earth-setting.png`, `purple-sand-key-item.png`.
+
+## Issue #9: The Tornado That Asked Why
+
+- Folder: `series/dream-anime-chronicles/issues/issue-09/`
+- Logline: Cheun Yi, a curious new shoulder bearer, tries to force answers from the ghoulish gray book that chose him, but only becomes worthy of recruiting others when he uses his purple tornado power to protect a stranger before he understands the mission.
+- Plot summary: Cheun Yi's restless ordinary life ends when a ghoulish gray book bonds him to stone shoulder armor and reveals the Bat-Top Spirit. Cheun first treats the armor as proof that destiny owes him answers, then loses control of his purple tornado power when excitement outruns discipline. At the Shoulder-Bearer Crossroads, he frightens the first recruit by arriving with too many words and too much storm. When gray-page wraiths threaten the recruit, Cheun stops demanding the book's secret and uses precise tornado control to carry, shield, and protect. The book still hides the final purpose, but Cheun accepts the mission to find other shoulder bearers.
+- Continuity changes: Cheun Yi enters the series as a charismatic shoulder bearer whose stone armor channels purple tornadoes through the Bat-Top Spirit. The ghoulish gray book, Cheun's Stone Shoulder Armor, and the Shoulder-Bearer Crossroads are introduced as recurring continuity elements tied to the shoulder-bearer recruitment mission.
+- New characters: Cheun Yi, Bat-Top Spirit.
+- New settings: Shoulder-Bearer Crossroads.
+- New key items: Ghoulish Gray Book, Cheun's Stone Shoulder Armor.
+- Reference images added: `cheun-yi-character.png`, `bat-top-spirit-character.png`, `shoulder-bearer-crossroads-setting.png`, `ghoulish-gray-book-key-item.png`, `cheuns-stone-shoulder-armor-key-item.png`.

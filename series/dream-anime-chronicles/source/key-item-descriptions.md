@@ -55,3 +55,17 @@
 - Visual identifiers: Luminous violet grains, hourglass-shaped storm trails, glittering particles orbiting claws and weapons, translucent time-ripple rings, fractured ghost images of past and future positions, and deep purple glow whenever Ahrimani Prime bends time.
 - Continuity notes: Purple sand lets Ahrimani Prime manipulate time, enhance speed and strength, and transport the Ahrimani pack across eras. Issue #8 establishes that its greatest danger is strategic rather than merely physical: Prime uses it to remove the Ahrimani from ancient history and launch an invasion against a future Earth that has forgotten how to fight them.
 - Reference image: `../reference-images/purple-sand-key-item.png`
+
+## Key Item: Ghoulish Gray Book
+
+- First appears: Issue #9, "The Tornado That Asked Why"
+- Visual identifiers: Heavy gray spellbook with a grotesque living face embossed into the cover, small uneven teeth around the cover seam, one cloudy purple eye, cracked stone-like binding, torn page edges, violet mist, and black-purple bookmark tendrils.
+- Continuity notes: The book chooses Cheun Yi, bonds him to the stone shoulder armor, and directs him to recruit other shoulder bearers while refusing to reveal the final purpose of the mission. It can show glimpses of other chosen people and release gray-page wraiths as tests or threats.
+- Reference image: `../reference-images/ghoulish-gray-book-key-item.png`
+
+## Key Item: Cheun's Stone Shoulder Armor
+
+- First appears: Issue #9, "The Tornado That Asked Why"
+- Visual identifiers: Pair of rough stone shoulder pads and cylindrical stone wrist guards sized for Cheun Yi, all cracked with inner purple light, weathered gray surfaces, glowing violet seams, and faint bat-wing and spinning-ring motifs.
+- Continuity notes: The armor connects Cheun to the Bat-Top Spirit and channels his ability to create purple tornadoes by spinning. It glows brighter when Cheun uses controlled wind for protection instead of frantic spectacle.
+- Reference image: `../reference-images/cheuns-stone-shoulder-armor-key-item.png`

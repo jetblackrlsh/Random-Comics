@@ -87,3 +87,19 @@
 - Visual identifiers: Towering humanoid purple reptilian anime warlord with violet scaled skin, massive barbarian build, ridged reptile face, glowing yellow eyes, sharp teeth, broad clawed hands, vivid purple mohawk crest, tattered dark shirt, rough loincloth, brown cloth wrappings around wrists and ankles, brown belt with a circular gold buckle, bare clawed feet, and a violent purple aura threaded with sand-like time particles.
 - Continuity notes: Ahrimani Prime commands the surviving Ahrimani with militant discipline and an obsession with conquering humanity before humans can push the species into extinction. They begin as an aggressive brute-force commander, but Issue #8 defines their true danger as strategic patience: using purple sand to fake extinction, move the pack through time, and ambush a future Earth that no longer remembers the Ahrimani.
 - Reference image: `../reference-images/ahrimani-prime-character.png`
+
+## Character: Cheun Yi
+
+- First appears: Issue #9, "The Tornado That Asked Why"
+- Role: protagonist, shoulder bearer, adventurous recruiter, purple-tornado hero searching for the purpose behind the ghoulish gray book.
+- Visual identifiers: Young adult Asian anime man with straight black bowl-cut hair, expressive dark eyes, lean toned build, bare chest, brown pants, black belt with a rectangular silver buckle, rough stone shoulder pads cracked with purple glow, stone cylindrical wrist guards cracked with purple glow, and bright violet wind aura around his spinning limbs.
+- Continuity notes: Cheun is determined, charismatic, adventure-seeking, heroic, curious, inquisitive, and talkative. The ghoulish gray book chooses him and bonds him to stone shoulder armor connected to the Bat-Top Spirit. His power lets him summon and control purple tornadoes by spinning his body or individual limbs. Issue #9 teaches him that the mission to recruit shoulder bearers begins with protecting chosen people before the book reveals the final purpose.
+- Reference image: `../reference-images/cheun-yi-character.png`
+
+## Character: Bat-Top Spirit
+
+- First appears: Issue #9, "The Tornado That Asked Why"
+- Role: supporting spirit, otherworldly force bonded to Cheun Yi's stone shoulder armor.
+- Visual identifiers: Small supernatural anime spirit shaped like a fusion of a black bat and a spinning top, triangular bat ears, folded wings, purple glowing eyes, tapered spinning-point lower body, circular violet motion rings, and a mischievous watchful expression.
+- Continuity notes: The spirit grants Cheun access to purple tornado power through the stone shoulder armor. It communicates more through spinning motion and instinct than clear answers, teaching Cheun that centered control makes stronger wind than frantic speed.
+- Reference image: `../reference-images/bat-top-spirit-character.png`

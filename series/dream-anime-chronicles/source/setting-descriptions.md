@@ -62,3 +62,10 @@
 - Visual identifiers: Saturated modern anime dystopian Earth under violet skies, ruined skyscrapers, shattered highways, purple sandstorms, glowing time-rift scars, Ahrimani banners, frightened resistance hideouts, abandoned technology half-buried in violet sand, and ancient reptilian warbands moving through futuristic streets.
 - Continuity notes: This is the future Earth Ahrimani Prime chooses as the real battlefield after realizing ancient humanity can be bypassed. The setting should feel like an ambush across history: a technologically advanced world whose defenses fail because it no longer remembers the monsters that once hunted it.
 - Reference image: `../reference-images/ahrimani-occupied-future-earth-setting.png`
+
+## Setting: Shoulder-Bearer Crossroads
+
+- First appears: Issue #9, "The Tornado That Asked Why"
+- Visual identifiers: Dreamlike anime crossroads suspended between realms, floating stone paths, purple wind spirals, torn pages orbiting like birds, distant portals shaped like shoulder armor, and a sky split between twilight blue and glowing violet storm clouds.
+- Continuity notes: The ghoulish gray book points Cheun Yi here to find another chosen shoulder bearer. The crossroads tests whether Cheun can protect a recruit and accept the mission without receiving the book's full explanation.
+- Reference image: `../reference-images/shoulder-bearer-crossroads-setting.png`
