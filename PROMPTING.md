@@ -38,6 +38,14 @@ Create the next issue of Monomyth Comics from this premise: [premise]
 
 Use this for an issue that must follow all 17 Hero's Journey stages. The agent should use `skills/monomyth-comic-book-pdf/SKILL.md`, create a cover plus exactly 17 story pages, generate all comic imagery with `image_gen`, assemble the PDF/previews, update continuity, and rebuild the web app.
 
+For American Monomyth Comics, use:
+
+```text
+Create the next issue of American Monomyth Comics from this premise: [premise]
+```
+
+Use this for a complete 22-page superhero issue that follows the 10-step American Monomyth structure. The agent should use `skills/american-monomyth-comic-book-pdf/SKILL.md`, create a full-art cover, 20 story pages, and a poster-style back cover, use bright anime-inspired superhero comic art, generate all comic imagery with `image_gen`, assemble the PDF/previews, update continuity, and rebuild the web app.
+
 ## New Series Shell
 
 ```text

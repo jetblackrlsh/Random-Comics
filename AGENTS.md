@@ -23,7 +23,8 @@ These instructions apply to the whole Random Comics repository.
 2. For standalone comics, use the existing top-level comic folder layout.
 3. For series comics, read `series/SERIES_WORKFLOW.md` before writing story files, prompts, images, PDFs, catalog data, or web-app output.
 4. If creating or editing a Monomyth Comics issue, follow `skills/monomyth-comic-book-pdf/SKILL.md`; Monomyth issues require a cover plus exactly 17 story pages, one for each Hero's Journey stage.
-5. If using the repo-local photo comic workflow for other comics, follow `skills/photo-comic-book-pdf/SKILL.md`.
+5. If creating or editing an American Monomyth Comics issue, follow `skills/american-monomyth-comic-book-pdf/SKILL.md`; American Monomyth issues require exactly 22 pages: a full-art cover, 20 story pages paced as two pages per American Monomyth beat, and a poster-style back cover.
+6. If using the repo-local photo comic workflow for other comics, follow `skills/photo-comic-book-pdf/SKILL.md`.
 
 ## Adding Pages To An Existing Comic
 
@@ -51,6 +52,7 @@ Users can ask for comics with short prompts documented in `PROMPTING.md`. Treat 
 - `Add [n] pages to [Comic Title]...` means expand an existing standalone comic or series issue in place.
 - `Turn [One-Shot Title] into issue #1 of a new series called [Series Name]...` means promote the existing standalone comic into a new series without unnecessary regeneration.
 - `Create the next issue of Monomyth Comics from this premise: ...` means create a Monomyth issue with `skills/monomyth-comic-book-pdf/SKILL.md`, not the standard 8-page photo-comic limit.
+- `Create the next issue of American Monomyth Comics from this premise: ...` means create an American Monomyth issue with `skills/american-monomyth-comic-book-pdf/SKILL.md`, not the standard 8-page photo-comic limit or the realistic Monomyth Comics style.
 
 Do not require the user to restate folder conventions, continuity-file rules, reference-image requirements, or web-app build steps when they use these shorthands. Apply the relevant project workflow automatically.
 
@@ -75,7 +77,7 @@ When the user asks how to prompt the agent, asks for a prompt template, or asks 
   - a matching reference image under `series/<series-folder>/reference-images/`
 - Minor one-off named characters may use concise character-description entries, but recurring characters need enough visual identifiers and continuity notes to support future issue prompts.
 - Create series reference images with the built-in chat AI image generation capability, using `image_gen`; do not require or route through an API key, external image API, CLI image generator, or manual asset service.
-- Series reference images must use the realistic candid photo-comic style: documentary phone-photo or handheld photojournalism feel, natural imperfect framing, believable real-world lighting, photoreal action or object detail where needed, and no anime or painted illustration style.
+- Series reference images must use the realistic candid photo-comic style unless a series-specific skill explicitly defines a different visual style. For the default series workflow, use documentary phone-photo or handheld photojournalism feel, natural imperfect framing, believable real-world lighting, photoreal action or object detail where needed, and no anime or painted illustration style. For American Monomyth Comics, follow `skills/american-monomyth-comic-book-pdf/SKILL.md` and use its bright anime-inspired superhero reference-image style.
 - Reuse existing reference images and descriptions for recurring elements instead of redesigning them.
 - Update `series/<series-folder>/source/issue-summaries.md` after each completed issue.
 

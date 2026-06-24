@@ -1,0 +1,7 @@
+interface:
+  display_name: "American Monomyth Comic Book PDF"
+  short_description: "Create 22-page anime-superhero American Monomyth comics"
+  default_prompt: "Use $american-monomyth-comic-book-pdf to create an American Monomyth Comics issue from this premise."
+
+policy:
+  allow_implicit_invocation: true
