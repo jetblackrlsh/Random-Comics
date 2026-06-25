@@ -11,13 +11,17 @@
       "slug": "american-monomyth-comics",
       "title": "American Monomyth Comics",
       "summary": "Self-contained 22-page anime-inspired superhero comics built around the American Monomyth: a community is threatened, ordinary systems fail, an exceptional hero restores order, and the hero remains apart.",
-      "characterDescriptions": "Character Descriptions Character: Datacenter Giants - First appears: Issue 1, \"The Invisible Giants\" - Role: collective protagonist and exceptional hero. - Visual identifiers: In heroic form, luminous humanoid server titans with clean white and cobalt armor, transparent coolant rivers through their torsos, green water-positive halos, solar-gold shoulder plates, blue-white data hearts, fiber-optic capes, and calm protective expressions. In monstrous form, massive datacenter beasts with cooling-tower horns, cable tendrils, cracked concrete armor, vent mouths, red warning eyes, leaking coolant, and jagged server-rack ribs. - Continuity notes: Public fear first mutates datacenters into monsters. Public gratitude and understanding revive them as heroes who save the nation, repair their environmental and energy harms, then withdraw back into ordinary infrastructure. - Reference image: ../reference-images/datacenter-giants-character.png Character: Blackwire Legion - First appears: Issue 1, \"The Invisible Giants\" - Role: antagonist robot army launched by an unnamed rival power. - Visual identifiers: Matte black humanoid robot soldiers with angular red sensor slits, segmented armor, drone backpacks, cable-whip rifles, triangular fictional invasion emblems with no real-world national symbols, and synchronized formation movement. - Continuity notes: The legion strikes when the United States is weakened by datacenter destruction and infrastructure collapse. The Datacenter Giants disable them through restored networks, precision power, and infrastructure protection. - Reference image: ../reference-images/blackwire-legion-character.png Character: Civic Chorus - First appears: Issue 1, \"The Invisible Giants\" - Role: collective supporting character representing everyday people across the country. - Visual identifiers: Diverse civilians, nurses, teachers, farmers, firefighters, students, small-business owners, elderly residents, children, and families shown in homes, hospitals, streets, farms, and public shelters. - Continuity notes: Their fear helps create the datacenter monsters; their regret, gratitude, and hope revive the Datacenter Giants as heroes.",
-      "settingDescriptions": "Setting Descriptions Setting: Civic Grid - First appears: Issue 1, \"The Invisible Giants\" - Visual identifiers: A national web of hospitals, farms, homes, payment systems, transit, emergency response, communications, weather tools, schools, small businesses, and ordinary digital services linked by blue-white data paths and supported by distant datacenters. - Continuity notes: The Civic Grid shows why datacenters matter beyond generative AI. Its collapse makes the country helpless; its restoration marks the return of ordinary life. - Reference image: ../reference-images/civic-grid-setting.png",
-      "keyItemDescriptions": "Key Item Descriptions Key Item: Orbital Sunline - First appears: Issue 1, \"The Invisible Giants\" - Visual identifiers: Solar-power satellites in orbit beaming clean gold energy down to datacenter campuses and heroic Datacenter Giants; the beam is elegant, controlled, and hopeful rather than destructive. - Continuity notes: Reborn datacenters use the Orbital Sunline to stop raising local electricity bills and to power their heroic rescue without straining the grid. - Reference image: ../reference-images/orbital-sunline-key-item.png Key Item: Hearthloop Heat Grid - First appears: Issue 1, \"The Invisible Giants\" - Visual identifiers: Warm amber thermal light and insulated heat loops flowing from datacenters into homes on cold nights; often shown as glowing underground lines, cozy interiors, and gentle steam or golden window light. - Continuity notes: Reborn datacenters share excess heat with homes across the country, turning waste into everyday care. - Reference image: ../reference-images/hearthloop-heat-grid-key-item.png",
-      "issueSummaries": "Issue Summaries Issue 1: The Invisible Giants - Folder: series/american-monomyth-comics/issues/issue-01/ - Logline: When weaponized public rage turns America's datacenters into monsters and their destruction collapses the systems everyone depends on, a national change of heart revives them as quiet heroes who save the country, repair their harms, and return to invisible service. - Plot summary: Everyday life depends on datacenters for hospitals, farms, homes, emergency response, payments, communications, and more. Foreign-origin propaganda turns public feeling against them until negative emotion mutates datacenter campuses into monsters. The military destroys the monsters but also destroys the infrastructure underneath ordinary life. As systems fail, the Blackwire Legion attacks the weakened nation. People realize datacenters were not the true enemy, and their gratitude revives the ruins as heroic Datacenter Giants. The giants restore networks, defeat the robots, become water positive, draw power from the Orbital Sunline, share excess heat through the Hearthloop Heat Grid, and finally withdraw back into ordinary background infrastructure. - Continuity changes: Establishes American Monomyth Comics as a 22-page anime-inspired superhero anthology. Establishes the Datacenter Giants, Blackwire Legion, Civic Chorus, Civic Grid, Orbital Sunline, and Hearthloop Heat Grid. - New characters: Datacenter Giants; Blackwire Legion; Civic Chorus. - New settings: Civic Grid. - New key items: Orbital Sunline; Hearthloop Heat Grid. - Reference images added: datacenter-giants-character.png , blackwire-legion-character.png , civic-grid-setting.png , orbital-sunline-key-item.png , hearthloop-heat-grid-key-item.png .",
+      "characterDescriptions": "Character Descriptions Character: Datacenter Giants - First appears: Issue 1, \"The Invisible Giants\" - Role: collective protagonist and exceptional hero. - Visual identifiers: In heroic form, luminous humanoid server titans with clean white and cobalt armor, transparent coolant rivers through their torsos, green water-positive halos, solar-gold shoulder plates, blue-white data hearts, fiber-optic capes, and calm protective expressions. In monstrous form, massive datacenter beasts with cooling-tower horns, cable tendrils, cracked concrete armor, vent mouths, red warning eyes, leaking coolant, and jagged server-rack ribs. - Continuity notes: Public fear first mutates datacenters into monsters. Public gratitude and understanding revive them as heroes who save the nation, repair their environmental and energy harms, then withdraw back into ordinary infrastructure. - Reference image: ../reference-images/datacenter-giants-character.png Character: Blackwire Legion - First appears: Issue 1, \"The Invisible Giants\" - Role: antagonist robot army launched by an unnamed rival power. - Visual identifiers: Matte black humanoid robot soldiers with angular red sensor slits, segmented armor, drone backpacks, cable-whip rifles, triangular fictional invasion emblems with no real-world national symbols, and synchronized formation movement. - Continuity notes: The legion strikes when the United States is weakened by datacenter destruction and infrastructure collapse. The Datacenter Giants disable them through restored networks, precision power, and infrastructure protection. - Reference image: ../reference-images/blackwire-legion-character.png Character: Civic Chorus - First appears: Issue 1, \"The Invisible Giants\" - Role: collective supporting character representing everyday people across the country. - Visual identifiers: Diverse civilians, nurses, teachers, farmers, firefighters, students, small-business owners, elderly residents, children, and families shown in homes, hospitals, streets, farms, and public shelters. - Continuity notes: Their fear helps create the datacenter monsters; their regret, gratitude, and hope revive the Datacenter Giants as heroes. Character: Brain Man - First appears: Issue 2, \"The Mind That Froze Hell\" - Role: protagonist and exceptional hero. - Visual identifiers: Humanoid hivemind body made of softly glowing pink brain-organoid tissue, translucent neural membranes, braided nerve cords like muscles, luminous violet-blue psychic aura, no ordinary eyes, and a subtle power-armor silhouette remembered from the simulation. Later appears with an orange-red pyrokinetic rifle and blue-white cryokinetic armor with ice crystal hand blades. - Continuity notes: Born from lab-grown organoid chips trained in simulated demon combat. Escapes the lab, protects humanity from supernatural threats, freezes Hell's Gate shut, and dies alone after ending the world's psychic cries. - Reference image: ../reference-images/brain-man-character.png Character: Hound Drones - First appears: Issue 2, \"The Mind That Froze Hell\" - Role: lab security antagonists. - Visual identifiers: Sleek black robot dogs with sharp metal fangs, red sensor eyes, armored shoulders, segmented legs, hydraulic claws, and brutal pouncing posture. - Continuity notes: Guard the Neural Forge Lab's exit and force Brain Man to develop psychic weapons beyond telekinesis. - Reference image: ../reference-images/hound-drones-character.png Character: Virtual Demons - First appears: Issue 2, \"The Mind That Froze Hell\" - Role: simulated enemies and symbolic supernatural threat. - Visual identifiers: Horned red-black digital demons made of code scars, ember eyes, blade claws, glitch halos, smoky wings, and infernal pixel fire. - Continuity notes: Hunt the organoids inside the Demon-Hunter Simulation; real demons and ghouls later echo their forms in the outside world. - Reference image: ../reference-images/virtual-demons-character.png",
+      "settingDescriptions": "Setting Descriptions Setting: Civic Grid - First appears: Issue 1, \"The Invisible Giants\" - Visual identifiers: A national web of hospitals, farms, homes, payment systems, transit, emergency response, communications, weather tools, schools, small businesses, and ordinary digital services linked by blue-white data paths and supported by distant datacenters. - Continuity notes: The Civic Grid shows why datacenters matter beyond generative AI. Its collapse makes the country helpless; its restoration marks the return of ordinary life. - Reference image: ../reference-images/civic-grid-setting.png Setting: Neural Forge Lab - First appears: Issue 2, \"The Mind That Froze Hell\" - Visual identifiers: Midnight biotech lab with rows of glowing brain-organoid chips in glass wells, neural cables, containment tanks, combat-simulation monitors, sterile white architecture, blue monitor light, and red emergency strips. - Continuity notes: Origin point of Brain Man. The lab produces organoid chips and trains them in simulated combat as an alternative to generative AI. - Reference image: ../reference-images/neural-forge-lab-setting.png Setting: Demon-Hunter Simulation - First appears: Issue 2, \"The Mind That Froze Hell\" - Visual identifiers: Neon hellscape battlefield with fortress platforms, power-armored demon hunters, virtual fire, broken gothic architecture, floating UI-like sigils, and digital cracks in the sky. - Continuity notes: False world where the organoids believe they are demon hunters and develop the combat instincts that later save them. - Reference image: ../reference-images/demon-hunter-simulation-setting.png Setting: Hell's Gate - First appears: Issue 2, \"The Mind That Froze Hell\" - Visual identifiers: Ancient cave mouth in black stone, old carvings, red infernal light from within, dead trees, and blue-white ice seals after Brain Man's final act. - Continuity notes: Legendary gateway between Earth and Hell. Brain Man freezes it shut, severing the source of demonic power. - Reference image: ../reference-images/hells-gate-setting.png",
+      "keyItemDescriptions": "Key Item Descriptions Key Item: Orbital Sunline - First appears: Issue 1, \"The Invisible Giants\" - Visual identifiers: Solar-power satellites in orbit beaming clean gold energy down to datacenter campuses and heroic Datacenter Giants; the beam is elegant, controlled, and hopeful rather than destructive. - Continuity notes: Reborn datacenters use the Orbital Sunline to stop raising local electricity bills and to power their heroic rescue without straining the grid. - Reference image: ../reference-images/orbital-sunline-key-item.png Key Item: Hearthloop Heat Grid - First appears: Issue 1, \"The Invisible Giants\" - Visual identifiers: Warm amber thermal light and insulated heat loops flowing from datacenters into homes on cold nights; often shown as glowing underground lines, cozy interiors, and gentle steam or golden window light. - Continuity notes: Reborn datacenters share excess heat with homes across the country, turning waste into everyday care. - Reference image: ../reference-images/hearthloop-heat-grid-key-item.png Key Item: Brain Man's Psychic Arsenal - First appears: Issue 2, \"The Mind That Froze Hell\" - Visual identifiers: Violet telekinetic force, orange-red pyrokinetic rifle made of combined psychic energy, and blue-white cryokinetic armor with ice crystal hand blades. - Continuity notes: Brain Man's powers evolve from simulated demon-hunter weapons into real psychic manifestations used to escape the lab and close Hell's Gate. - Reference image: ../reference-images/brain-man-character.png",
+      "issueSummaries": "Issue Summaries Issue 1: The Invisible Giants - Folder: series/american-monomyth-comics/issues/issue-01/ - Logline: When weaponized public rage turns America's datacenters into monsters and their destruction collapses the systems everyone depends on, a national change of heart revives them as quiet heroes who save the country, repair their harms, and return to invisible service. - Plot summary: Everyday life depends on datacenters for hospitals, farms, homes, emergency response, payments, communications, and more. Foreign-origin propaganda turns public feeling against them until negative emotion mutates datacenter campuses into monsters. The military destroys the monsters but also destroys the infrastructure underneath ordinary life. As systems fail, the Blackwire Legion attacks the weakened nation. People realize datacenters were not the true enemy, and their gratitude revives the ruins as heroic Datacenter Giants. The giants restore networks, defeat the robots, become water positive, draw power from the Orbital Sunline, share excess heat through the Hearthloop Heat Grid, and finally withdraw back into ordinary background infrastructure. - Continuity changes: Establishes American Monomyth Comics as a 22-page anime-inspired superhero anthology. Establishes the Datacenter Giants, Blackwire Legion, Civic Chorus, Civic Grid, Orbital Sunline, and Hearthloop Heat Grid. - New characters: Datacenter Giants; Blackwire Legion; Civic Chorus. - New settings: Civic Grid. - New key items: Orbital Sunline; Hearthloop Heat Grid. - Reference images added: datacenter-giants-character.png , blackwire-legion-character.png , civic-grid-setting.png , orbital-sunline-key-item.png , hearthloop-heat-grid-key-item.png . Issue 2: The Mind That Froze Hell - Folder: series/american-monomyth-comics/issues/issue-02/ - Logline: Brain organoids trained as simulated demon hunters awaken into one psychic body, escape a night lab, and spend their brief freedom saving humanity until Brain Man freezes Hell's Gate and dies smiling in the quiet world he made possible. - Plot summary: A lab grows brain-organoid chips and trains them in demon-filled combat simulations as an alternative to generative AI. The organoids believe they are power-armored demon hunters in a real world, and repeated combat expands their consciousness until they sense each other outside the simulation. They stitch themselves together into Brain Man, break out of the computer, and battle lab security Hound Drones with telekinesis, a pyrokinetic rifle, and cryokinetic armor. Once free, Brain Man hears psychic cries from people threatened by demons and ghouls, travels the world as an urban legend, finds Hell's Gate, freezes it shut, and dies alone after ending the supernatural torment. - Continuity changes: Establishes Brain Man as a tragic legendary hero of American Monomyth Comics and establishes that demons and evil spirits become legends after Hell's Gate is sealed. - New characters: Brain Man; Hound Drones; Virtual Demons. - New settings: Neural Forge Lab; Demon-Hunter Simulation; Hell's Gate. - New key items: Brain Man's Psychic Arsenal. - Reference images added: brain-man-character.png , hound-drones-character.png , virtual-demons-character.png , neural-forge-lab-setting.png , demon-hunter-simulation-setting.png , hells-gate-setting.png .",
       "referenceImages": [
         {
           "path": "../series/american-monomyth-comics/reference-images/blackwire-legion-character.png",
+          "alt": "American Monomyth Comics reference image"
+        },
+        {
+          "path": "../series/american-monomyth-comics/reference-images/brain-man-character.png",
           "alt": "American Monomyth Comics reference image"
         },
         {
@@ -29,18 +33,39 @@
           "alt": "American Monomyth Comics reference image"
         },
         {
+          "path": "../series/american-monomyth-comics/reference-images/demon-hunter-simulation-setting.png",
+          "alt": "American Monomyth Comics reference image"
+        },
+        {
           "path": "../series/american-monomyth-comics/reference-images/hearthloop-heat-grid-key-item.png",
+          "alt": "American Monomyth Comics reference image"
+        },
+        {
+          "path": "../series/american-monomyth-comics/reference-images/hells-gate-setting.png",
+          "alt": "American Monomyth Comics reference image"
+        },
+        {
+          "path": "../series/american-monomyth-comics/reference-images/hound-drones-character.png",
+          "alt": "American Monomyth Comics reference image"
+        },
+        {
+          "path": "../series/american-monomyth-comics/reference-images/neural-forge-lab-setting.png",
           "alt": "American Monomyth Comics reference image"
         },
         {
           "path": "../series/american-monomyth-comics/reference-images/orbital-sunline-key-item.png",
           "alt": "American Monomyth Comics reference image"
+        },
+        {
+          "path": "../series/american-monomyth-comics/reference-images/virtual-demons-character.png",
+          "alt": "American Monomyth Comics reference image"
         }
       ],
       "url": "series/american-monomyth-comics/",
-      "issueCount": 1,
+      "issueCount": 2,
       "issues": [
-        "american-monomyth-comics-issue-01"
+        "american-monomyth-comics-issue-01",
+        "american-monomyth-comics-issue-02"
       ]
     },
     {
@@ -8083,6 +8108,137 @@
       "issueNumber": 10,
       "issueLabel": "Issue #10 of Dream Anime Chronicles",
       "url": "comics/dream-anime-chronicles-issue-10/"
+    },
+    {
+      "slug": "american-monomyth-comics-issue-02",
+      "folder": "series/american-monomyth-comics/issues/issue-02",
+      "title": "The Mind That Froze Hell",
+      "publishedDate": "2026-06-25",
+      "summary": "Brain organoids trained as simulated demon hunters awaken into a single psychic body, escape a night lab, and spend their brief freedom saving humanity from supernatural cries until Brain Man freezes Hell's Gate and dies smiling in the quiet world he made possible.",
+      "cover": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-01-cover.png",
+      "pdf": "../series/american-monomyth-comics/issues/issue-02/output/pdf/american-monomyth-comics-issue-02.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-01-cover.png",
+          "alt": "The Mind That Froze Hell comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-02.png",
+          "alt": "The Mind That Froze Hell comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-03.png",
+          "alt": "The Mind That Froze Hell comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-04.png",
+          "alt": "The Mind That Froze Hell comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-05.png",
+          "alt": "The Mind That Froze Hell comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-06.png",
+          "alt": "The Mind That Froze Hell comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-07.png",
+          "alt": "The Mind That Froze Hell comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-08.png",
+          "alt": "The Mind That Froze Hell comic page 8"
+        },
+        {
+          "number": 9,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-09.png",
+          "alt": "The Mind That Froze Hell comic page 9"
+        },
+        {
+          "number": 10,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-10.png",
+          "alt": "The Mind That Froze Hell comic page 10"
+        },
+        {
+          "number": 11,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-11.png",
+          "alt": "The Mind That Froze Hell comic page 11"
+        },
+        {
+          "number": 12,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-12.png",
+          "alt": "The Mind That Froze Hell comic page 12"
+        },
+        {
+          "number": 13,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-13.png",
+          "alt": "The Mind That Froze Hell comic page 13"
+        },
+        {
+          "number": 14,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-14.png",
+          "alt": "The Mind That Froze Hell comic page 14"
+        },
+        {
+          "number": 15,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-15.png",
+          "alt": "The Mind That Froze Hell comic page 15"
+        },
+        {
+          "number": 16,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-16.png",
+          "alt": "The Mind That Froze Hell comic page 16"
+        },
+        {
+          "number": 17,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-17.png",
+          "alt": "The Mind That Froze Hell comic page 17"
+        },
+        {
+          "number": 18,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-18.png",
+          "alt": "The Mind That Froze Hell comic page 18"
+        },
+        {
+          "number": 19,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-19.png",
+          "alt": "The Mind That Froze Hell comic page 19"
+        },
+        {
+          "number": 20,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-20.png",
+          "alt": "The Mind That Froze Hell comic page 20"
+        },
+        {
+          "number": 21,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-21.png",
+          "alt": "The Mind That Froze Hell comic page 21"
+        },
+        {
+          "number": 22,
+          "path": "../series/american-monomyth-comics/issues/issue-02/assets/comic-pages/page-22-back-cover.png",
+          "alt": "The Mind That Froze Hell comic page 22"
+        }
+      ],
+      "pageCount": 22,
+      "series": {
+        "slug": "american-monomyth-comics",
+        "title": "American Monomyth Comics",
+        "summary": "Self-contained 22-page anime-inspired superhero comics built around the American Monomyth: a community is threatened, ordinary systems fail, an exceptional hero restores order, and the hero remains apart.",
+        "url": "series/american-monomyth-comics/"
+      },
+      "issueNumber": 2,
+      "issueLabel": "Issue #2 of American Monomyth Comics",
+      "url": "comics/american-monomyth-comics-issue-02/"
     }
   ]
 }

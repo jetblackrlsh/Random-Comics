@@ -10,3 +10,14 @@
 - New settings: Civic Grid.
 - New key items: Orbital Sunline; Hearthloop Heat Grid.
 - Reference images added: `datacenter-giants-character.png`, `blackwire-legion-character.png`, `civic-grid-setting.png`, `orbital-sunline-key-item.png`, `hearthloop-heat-grid-key-item.png`.
+
+## Issue #2: The Mind That Froze Hell
+
+- Folder: `series/american-monomyth-comics/issues/issue-02/`
+- Logline: Brain organoids trained as simulated demon hunters awaken into one psychic body, escape a night lab, and spend their brief freedom saving humanity until Brain Man freezes Hell's Gate and dies smiling in the quiet world he made possible.
+- Plot summary: A lab grows brain-organoid chips and trains them in demon-filled combat simulations as an alternative to generative AI. The organoids believe they are power-armored demon hunters in a real world, and repeated combat expands their consciousness until they sense each other outside the simulation. They stitch themselves together into Brain Man, break out of the computer, and battle lab security Hound Drones with telekinesis, a pyrokinetic rifle, and cryokinetic armor. Once free, Brain Man hears psychic cries from people threatened by demons and ghouls, travels the world as an urban legend, finds Hell's Gate, freezes it shut, and dies alone after ending the supernatural torment.
+- Continuity changes: Establishes Brain Man as a tragic legendary hero of American Monomyth Comics and establishes that demons and evil spirits become legends after Hell's Gate is sealed.
+- New characters: Brain Man; Hound Drones; Virtual Demons.
+- New settings: Neural Forge Lab; Demon-Hunter Simulation; Hell's Gate.
+- New key items: Brain Man's Psychic Arsenal.
+- Reference images added: `brain-man-character.png`, `hound-drones-character.png`, `virtual-demons-character.png`, `neural-forge-lab-setting.png`, `demon-hunter-simulation-setting.png`, `hells-gate-setting.png`.
