@@ -69,3 +69,10 @@
 - Visual identifiers: Dreamlike anime crossroads suspended between realms, floating stone paths, purple wind spirals, torn pages orbiting like birds, distant portals shaped like shoulder armor, and a sky split between twilight blue and glowing violet storm clouds.
 - Continuity notes: The ghoulish gray book points Cheun Yi here to find another chosen shoulder bearer. The crossroads tests whether Cheun can protect a recruit and accept the mission without receiving the book's full explanation.
 - Reference image: `../reference-images/shoulder-bearer-crossroads-setting.png`
+
+## Setting: Pie-Cake Broadcast Arena
+
+- First appears: Issue #10, "The Champion of Pie"
+- Visual identifiers: Gigantic neon anime television studio split between pie loyalist red-gold crust motifs and cake defender pastel frosting motifs, floating cameras, debate desks, dessert crowd stands, glowing ovens, tiered cake podiums, lattice pie counters, and a central dessert reactor shaped like a glowing divided pie-cake stage.
+- Continuity notes: Cherry Garry was born here when a pie-versus-cake television debate became powerful enough to create him. The arena amplifies dessert arguments into physical energy, but fear and forced applause make that energy unstable.
+- Reference image: `../reference-images/pie-cake-broadcast-arena-setting.png`

@@ -103,3 +103,11 @@
 - Visual identifiers: Small supernatural anime spirit shaped like a fusion of a black bat and a spinning top, triangular bat ears, folded wings, purple glowing eyes, tapered spinning-point lower body, circular violet motion rings, and a mischievous watchful expression.
 - Continuity notes: The spirit grants Cheun access to purple tornado power through the stone shoulder armor. It communicates more through spinning motion and instinct than clear answers, teaching Cheun that centered control makes stronger wind than frantic speed.
 - Reference image: `../reference-images/bat-top-spirit-character.png`
+
+## Character: Cherry Garry
+
+- First appears: Issue #10, "The Champion of Pie"
+- Role: protagonist, Champion of Pie, dessert-debate-born zealot and argument fighter.
+- Visual identifiers: Black silhouetted humanoid anime body with glossy highlights, glossy red cherry head with a short brown stem, wide sharp white fanged grin, no ordinary human face, clawlike black hands, aggressive forward debate posture, and cherry-red sticky laser energy around both hands.
+- Continuity notes: Cherry Garry was born from a televised argument over whether pie is better than cake. He despises cake praise, senses weak points in arguments, fires sticky red laser blasts, and gains strength from genuine love of pie. Issue #10 teaches him that coerced chants do not feed his power; he is strongest when he proves pie's greatness well enough that people choose it freely.
+- Reference image: `../reference-images/cherry-garry-character.png`

@@ -98,3 +98,14 @@
 - New settings: Shoulder-Bearer Crossroads.
 - New key items: Ghoulish Gray Book, Cheun's Stone Shoulder Armor.
 - Reference images added: `cheun-yi-character.png`, `bat-top-spirit-character.png`, `shoulder-bearer-crossroads-setting.png`, `ghoulish-gray-book-key-item.png`, `cheuns-stone-shoulder-armor-key-item.png`.
+
+## Issue #10: The Champion of Pie
+
+- Folder: `series/dream-anime-chronicles/issues/issue-10/`
+- Logline: Cherry Garry, the vicious cherry-headed Champion of Pie, tries to win the eternal pie-versus-cake argument with sticky red lasers, but only discovers his true strength when he protects the people whose free love of pie powers him.
+- Plot summary: Cherry Garry rises from the Pie-Cake Broadcast Arena, born from a televised dessert argument and convinced that cake praise insults his purpose. He first attacks cake symbols with sticky red lasers, then uses debate-sensing instincts to crush weak arguments, then demands forced pie chants from the crowd. Each attempt fails because fear does not create real love of pie, and the arena's dessert reactor overloads from coerced energy. When both pie loyalists and cake defenders are threatened, Cherry uses his sticky red lasers to hold the arena together and save the crowd. A cake defender then freely chooses cherry pie, proving Cherry's strength is tied to inspired devotion rather than forced applause.
+- Continuity changes: Cherry Garry enters the series as the Champion of Pie, with a black silhouetted body, cherry head, sharp white teeth, sticky red lasers, debate-sensing instincts, and strength tied to genuine love of pie. The Pie-Cake Broadcast Arena is established as his birthplace and recurring symbolic battlefield.
+- New characters: Cherry Garry.
+- New settings: Pie-Cake Broadcast Arena.
+- New key items: None.
+- Reference images added: `cherry-garry-character.png`, `pie-cake-broadcast-arena-setting.png`.
