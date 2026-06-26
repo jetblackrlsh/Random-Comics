@@ -109,3 +109,14 @@
 - New settings: Pie-Cake Broadcast Arena.
 - New key items: None.
 - Reference images added: `cherry-garry-character.png`, `pie-cake-broadcast-arena-setting.png`.
+
+## Issue #11: The Slayer Who Studied Gate
+
+- Folder: `series/dream-anime-chronicles/issues/issue-11/`
+- Logline: Anima Slayer, a lower-city nuclear wielder in integrated blue-purple armor, faces Gate, a portal-mouthed kaiju that turns every nuclear blast against the city, and only wins after proving that study, duty, and precision are stronger than raw power.
+- Plot summary: Anima Slayer begins in the lower city, studying kaiju breach maps while elite officials question whether someone from their background deserves nuclear-wielder armor. When Gate attacks the rebuilt city, Anima first tries a direct nuclear blast, then aerial speed, then a dangerous suit overload, but Gate's portal-mouth swallows each show of force and returns it through new breaches. Anima finally stops firing, protects civilians with their armored bat wings, studies the rhythm of Gate's portal rings, and defeats the kaiju with one precise nuclear pulse timed to the quiet second between openings.
+- Continuity changes: Anima Slayer enters the series as a secure, studious, duty-driven kaiju defender whose integrated nuclear armor is powerful but not enough without strategy. Gate Breach City establishes Anima's class-divided kaiju-defense world, and Gate establishes a dimensional kaiju threat whose portal-mouth punishes brute force.
+- New characters: Anima Slayer, Gate.
+- New settings: Gate Breach City.
+- New key items: Anima's Biomechanical Nuclear Armor.
+- Reference images added: `anima-slayer-character.png`, `gate-kaiju-character.png`, `gate-breach-city-setting.png`.

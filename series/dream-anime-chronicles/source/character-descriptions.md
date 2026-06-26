@@ -111,3 +111,19 @@
 - Visual identifiers: Black silhouetted humanoid anime body with glossy highlights, glossy red cherry head with a short brown stem, wide sharp white fanged grin, no ordinary human face, clawlike black hands, aggressive forward debate posture, and cherry-red sticky laser energy around both hands.
 - Continuity notes: Cherry Garry was born from a televised argument over whether pie is better than cake. He despises cake praise, senses weak points in arguments, fires sticky red laser blasts, and gains strength from genuine love of pie. Issue #10 teaches him that coerced chants do not feed his power; he is strongest when he proves pie's greatness well enough that people choose it freely.
 - Reference image: `../reference-images/cherry-garry-character.png`
+
+## Character: Anima Slayer
+
+- First appears: Issue #11, "The Slayer Who Studied Gate"
+- Role: protagonist, lower-city kaiju slayer, nuclear wielder, studious protector of humanity.
+- Visual identifiers: Androgynous lean athletic anime defender with long sleek iridescent blue hair with purple highlights, pale skin with a subtle metallic sheen, electric blue glowing eyes, integrated blue and purple biomechanical armor covering the body, matching combat helmet, purple armored bat wings, and luminescent nuclear-energy lines running through the suit.
+- Continuity notes: Anima grew up lower-class and faced discrimination before being chosen as one of the world's two nuclear wielders. Their armor grants flight, hand-fired nuclear blasts, enhanced physical ability, and extreme mobility, but the suit is also a vulnerability when Anima relies on output instead of strategy. Issue #11 defines Anima as a kaiju slayer whose real strength is study, timing, and duty-driven protection.
+- Reference image: `../reference-images/anima-slayer-character.png`
+
+## Character: Gate
+
+- First appears: Issue #11, "The Slayer Who Studied Gate"
+- Role: antagonist kaiju, dimensional breach monster, defining first test for Anima Slayer.
+- Visual identifiers: Gigantic obsidian-violet kaiju with armored hide, hunched city-breaking posture, long forelimbs, jagged white teeth, a massive circular blue-purple portal inside its mouth, concentric dimensional rings in its throat, and breach-light leaking from cracks across its chest and jaw.
+- Continuity notes: Gate's mouth acts as a portal to another dimension. It can swallow attacks and return their force through other breaches, making brute power dangerous. Issue #11 establishes that Gate can be defeated when the timing between its portal rings is studied and struck precisely.
+- Reference image: `../reference-images/gate-kaiju-character.png`

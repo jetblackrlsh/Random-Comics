@@ -76,3 +76,10 @@
 - Visual identifiers: Gigantic neon anime television studio split between pie loyalist red-gold crust motifs and cake defender pastel frosting motifs, floating cameras, debate desks, dessert crowd stands, glowing ovens, tiered cake podiums, lattice pie counters, and a central dessert reactor shaped like a glowing divided pie-cake stage.
 - Continuity notes: Cherry Garry was born here when a pie-versus-cake television debate became powerful enough to create him. The arena amplifies dessert arguments into physical energy, but fear and forced applause make that energy unstable.
 - Reference image: `../reference-images/pie-cake-broadcast-arena-setting.png`
+
+## Setting: Gate Breach City
+
+- First appears: Issue #11, "The Slayer Who Studied Gate"
+- Visual identifiers: Bright futuristic anime metropolis rebuilt around kaiju-defense architecture, lower-city neighborhoods beneath reinforced sky bridges, evacuation towers, glowing blue emergency lanes, biomechanical repair cranes, nuclear-shield pylons, elite platforms high above the streets, and old kaiju scars visible beneath sleek reconstruction.
+- Continuity notes: Gate Breach City represents Anima Slayer's world: advanced, rebuilt, class-divided, and constantly threatened by kaiju attacks. Issue #11 establishes the lower city as the place Anima protects first and the place that shaped their monster studies.
+- Reference image: `../reference-images/gate-breach-city-setting.png`

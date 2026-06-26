@@ -69,3 +69,10 @@
 - Visual identifiers: Pair of rough stone shoulder pads and cylindrical stone wrist guards sized for Cheun Yi, all cracked with inner purple light, weathered gray surfaces, glowing violet seams, and faint bat-wing and spinning-ring motifs.
 - Continuity notes: The armor connects Cheun to the Bat-Top Spirit and channels his ability to create purple tornadoes by spinning. It glows brighter when Cheun uses controlled wind for protection instead of frantic spectacle.
 - Reference image: `../reference-images/cheuns-stone-shoulder-armor-key-item.png`
+
+## Key Item: Anima's Biomechanical Nuclear Armor
+
+- First appears: Issue #11, "The Slayer Who Studied Gate"
+- Visual identifiers: Integrated blue and purple full-body biomechanical armor with a matching helmet, purple armored bat wings, luminescent nuclear-energy conduits, hand emitters for nuclear blasts, sleek agile plating, and stress flares that burn white-blue when the output is pushed too hard.
+- Continuity notes: The armor makes Anima Slayer one of humanity's nuclear wielders and gives them flight, nuclear blasts, and enhanced physical ability. It is also a vulnerability because Anima relies on it heavily; Issue #11 clarifies that the armor becomes strongest when guided by Anima's study and timing rather than used as blunt spectacle.
+- Reference image: `../reference-images/anima-slayer-character.png`
