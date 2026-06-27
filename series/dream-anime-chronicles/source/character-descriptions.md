@@ -127,3 +127,18 @@
 - Visual identifiers: Gigantic obsidian-violet kaiju with armored hide, hunched city-breaking posture, long forelimbs, jagged white teeth, a massive circular blue-purple portal inside its mouth, concentric dimensional rings in its throat, and breach-light leaking from cracks across its chest and jaw.
 - Continuity notes: Gate's mouth acts as a portal to another dimension. It can swallow attacks and return their force through other breaches, making brute power dangerous. Issue #11 establishes that Gate can be defeated when the timing between its portal rings is studied and struck precisely.
 - Reference image: `../reference-images/gate-kaiju-character.png`
+
+## Character: Barrier Bear
+
+- First appears: Issue #12, "The Bear Who Closed the Door"
+- Role: protagonist, Superhero Academy student, barrier wielder, remorseful dimensional traveler seeking atonement.
+- Visual identifiers: Young adult anime bear-man superhero with furry yellow body, white belly, white hands, crescent-shaped eyes with tiny black pupils, small black horizontal oval nose, simple W-shaped mouth, black domino mask, red cape with a square gold clasp, sturdy athletic build, and expressive body language that shifts from reckless lunges to careful protective stances.
+- Continuity notes: Barrier Bear can open and close barriers between worlds, including the spirit world. They can shape barriers as shields, prisons, portals, and farewell windows, but Issue #12 teaches them that atonement requires restraint instead of forcing every door open to undo guilt. Their central wound is the accidental death of an innocent bystander during a rival battle at Superhero Academy.
+- Reference image: `../reference-images/barrier-bear-character.png`
+
+## Character: The Lost Soul
+
+- First appears: Issue #12, "The Bear Who Closed the Door"
+- Role: quiet spiritual presence, innocent person whose accidental death drives Barrier Bear's quest for atonement.
+- Visual identifiers: Small translucent human-shaped spirit silhouette made of soft white-gold and pale blue light, gentle outline, no detailed face, calm floating posture, surrounded by tiny star motes.
+- Continuity notes: The lost soul teaches Barrier Bear that redemption cannot mean stealing death backward by force. Their farewell helps Barrier Bear choose careful protection over reckless self-punishment.

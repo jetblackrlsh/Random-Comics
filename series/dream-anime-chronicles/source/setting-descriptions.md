@@ -83,3 +83,17 @@
 - Visual identifiers: Bright futuristic anime metropolis rebuilt around kaiju-defense architecture, lower-city neighborhoods beneath reinforced sky bridges, evacuation towers, glowing blue emergency lanes, biomechanical repair cranes, nuclear-shield pylons, elite platforms high above the streets, and old kaiju scars visible beneath sleek reconstruction.
 - Continuity notes: Gate Breach City represents Anima Slayer's world: advanced, rebuilt, class-divided, and constantly threatened by kaiju attacks. Issue #11 establishes the lower city as the place Anima protects first and the place that shaped their monster studies.
 - Reference image: `../reference-images/gate-breach-city-setting.png`
+
+## Setting: Superhero Academy
+
+- First appears: Issue #12, "The Bear Who Closed the Door"
+- Visual identifiers: Bright modern anime hero school with gold-and-blue academy banners, glass training domes, floating safety barriers, holographic lesson boards, reinforced courtyard tiles, student silhouettes, colorful power-testing lanes, and luminous emergency wards for dangerous training incidents.
+- Continuity notes: Barrier Bear studies here and caused the accidental bystander death here during a reckless rival battle. After Issue #12, the academy represents both the wound they must answer for and the place where their changed barrier discipline can protect future students.
+- Reference image: `../reference-images/superhero-academy-setting.png`
+
+## Setting: Spirit World Nexus
+
+- First appears: Issue #12, "The Bear Who Closed the Door"
+- Visual identifiers: Ethereal outer-space realm with saturated starfields, glowing planets, translucent spirits, alien-spirit silhouettes with shifting forms, radiant barrier pathways, floating door-rings, emotional weather, and a central luminous nexus shining white, gold, cyan, and violet.
+- Continuity notes: The spirit world reacts to the intentions of anyone manipulating barriers. Reckless guilt makes pathways crack and multiply, while careful acceptance lets the nexus stabilize into a respectful window between life and death. The realm raises Barrier Bear's unresolved question of whether aliens and spirits may be connected.
+- Reference image: `../reference-images/spirit-world-nexus-setting.png`

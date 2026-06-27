@@ -120,3 +120,14 @@
 - New settings: Gate Breach City.
 - New key items: Anima's Biomechanical Nuclear Armor.
 - Reference images added: `anima-slayer-character.png`, `gate-kaiju-character.png`, `gate-breach-city-setting.png`.
+
+## Issue #12: The Bear Who Closed the Door
+
+- Folder: `series/dream-anime-chronicles/issues/issue-12/`
+- Logline: Barrier Bear enters the spirit world to retrieve the soul lost in their reckless academy battle, but only finds redemption after learning that closing dangerous barriers can be as heroic as opening them.
+- Plot summary: Barrier Bear, a remorseful Superhero Academy student with the power to open and close barriers between worlds, tears into the spirit world hoping to undo an accidental bystander death. Their first attempts fail: a protective shield becomes a cage, a prison for guilt multiplies the threat, and a shortcut toward the lost soul nearly breaks both worlds open. At the luminous Spirit World Nexus, the lost soul teaches Barrier Bear that atonement cannot erase consequence by force. Barrier Bear closes the unstable doors, opens one gentle farewell window, and returns to the academy with a new vow to make every barrier serve care instead of guilt.
+- Continuity changes: Barrier Bear enters the series as a caring but reckless barrier wielder whose true heroic discipline is restraint. Superhero Academy becomes Barrier Bear's origin setting, and the Spirit World Nexus becomes a recurring threshold realm where spirits, alien-like beings, emotional intent, and barrier magic overlap.
+- New characters: Barrier Bear, The Lost Soul.
+- New settings: Superhero Academy, Spirit World Nexus.
+- New key items: None.
+- Reference images added: `barrier-bear-character.png`, `superhero-academy-setting.png`, `spirit-world-nexus-setting.png`.
