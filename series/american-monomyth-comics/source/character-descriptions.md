@@ -46,3 +46,19 @@
 - Visual identifiers: Horned red-black digital demons made of code scars, ember eyes, blade claws, glitch halos, smoky wings, and infernal pixel fire.
 - Continuity notes: Hunt the organoids inside the Demon-Hunter Simulation; real demons and ghouls later echo their forms in the outside world.
 - Reference image: `../reference-images/virtual-demons-character.png`
+
+## Character: Y-Man
+
+- First appears: Issue #3, "The Last Hour of Y-Man"
+- Role: protagonist, exceptional hero, elderly former superhero, recovering addict, and creator of Super Steroid Y.
+- Visual identifiers: In his elderly natural form, a slender man with deep-set kind eyes, silver-white swept-back hair, lined face, neat gray travel coat, white shirt, dark trousers, worn leather gloves, and a hidden belt case for the final blue-gold vial. In his restored heroic form, a youthful tall muscular superhero with the same silver-white hair, a blue-and-gold bodysuit, a clean white Y-shaped chest emblem, golden-blue aura, and luminous lightning-like veins under the skin.
+- Continuity notes: Created Super Steroid Y, used it to protect the innocent, became addicted to its one-hour miracle, then stayed sober for years. Takes one final dose to stop Z-Man, refuses to combine the formulas, destroys Super Steroid Z and the last Super Steroid Y vial, and dies after reverting to elderly age.
+- Reference image: `../reference-images/y-man-character.png`
+
+## Character: Z-Man
+
+- First appears: Issue #3, "The Last Hour of Y-Man"
+- Role: antagonist, gang leader, chemically empowered tyrant, and cautionary mirror of Y-Man.
+- Visual identifiers: Huge hyper-muscular gang leader with jagged black hair, red chemically glowing eyes, cracked red-orange vein patterns across swollen arms and neck, black armored street coat torn open over a red Z-shaped chest harness, heavy boots, spiked belt, and a predatory grin that collapses into fear after withdrawal.
+- Continuity notes: Uses Super Steroid Z to conquer Edenbright City, becomes immune to bullets and ordinary force, tempts Y-Man with a combined god-form formula, loses his power when the supply is destroyed, and swears to abandon drugs after witnessing Y-Man die from the transition.
+- Reference image: `../reference-images/z-man-character.png`

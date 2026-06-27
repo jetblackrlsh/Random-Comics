@@ -20,3 +20,17 @@
 - Visual identifiers: Violet telekinetic force, orange-red pyrokinetic rifle made of combined psychic energy, and blue-white cryokinetic armor with ice crystal hand blades.
 - Continuity notes: Brain Man's powers evolve from simulated demon-hunter weapons into real psychic manifestations used to escape the lab and close Hell's Gate.
 - Reference image: `../reference-images/brain-man-character.png`
+
+## Key Item: Super Steroid Y
+
+- First appears: Issue #3, "The Last Hour of Y-Man"
+- Visual identifiers: Small glass vial of luminous blue-gold serum with a white Y insignia, hourglass-shaped inner glow, polished metal cap, warning bands, golden-blue energy motes, and temporary-youth light effects.
+- Continuity notes: Created by Y-Man, grants greater-than-Z-Man strength for exactly one hour, temporarily restores youth, and is extremely addictive. Y-Man destroys the final vial after using one last dose to save Edenbright City.
+- Reference image: `../reference-images/super-steroid-y-key-item.png`
+
+## Key Item: Super Steroid Z
+
+- First appears: Issue #3, "The Last Hour of Y-Man"
+- Visual identifiers: Crates of red-orange vials with black Z markings, harsh hazard lights, thick glowing fluid, cracked injection ampoules, chemical smoke, and red steroid aura.
+- Continuity notes: Derived from the formula lineage of Super Steroid Y. Z-Man uses it to become a bulletproof one-man army and conquer Edenbright City. Y-Man destroys the supply before Z-Man can combine it with Super Steroid Y.
+- Reference image: `../reference-images/super-steroid-z-key-item.png`

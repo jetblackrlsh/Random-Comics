@@ -21,3 +21,14 @@
 - New settings: Neural Forge Lab; Demon-Hunter Simulation; Hell's Gate.
 - New key items: Brain Man's Psychic Arsenal.
 - Reference images added: `brain-man-character.png`, `hound-drones-character.png`, `virtual-demons-character.png`, `neural-forge-lab-setting.png`, `demon-hunter-simulation-setting.png`, `hells-gate-setting.png`.
+
+## Issue #3: The Last Hour of Y-Man
+
+- Folder: `series/american-monomyth-comics/issues/issue-03/`
+- Logline: When a Super Steroid Z gang emperor conquers Edenbright City, elderly former hero Y-Man risks one final dose of his own addictive Super Steroid Y to destroy both formulas, save the city, and die before peace can remember him.
+- Plot summary: Edenbright City begins as a luminous utopia whose systems are built for cooperation rather than war. A gang leader injects Super Steroid Z, becomes Z-Man, and turns bulletproof strength into a one-man takeover. Ordinary institutions fail, civilians become helpless, and elderly traveler Y-Man recognizes that Z is descended from his own Super Steroid Y. After years of sobriety, Y-Man takes his last Y vial, becomes young and stronger than Z-Man for one hour, defeats him, rejects the offer to combine both steroids into a godlike formula, and destroys every remaining vial. The transition back to old age kills Y-Man, which scares powerless Z-Man into swearing off drugs. Edenbright rebuilds, mourns, and eventually becomes peaceful enough that Y-Man's memory fades into quiet obscurity.
+- Continuity changes: Establishes Edenbright City, Super Steroid Y, Super Steroid Z, Y-Man's final sacrifice, and Z-Man's survival as a powerless repentant former villain.
+- New characters: Y-Man; Z-Man.
+- New settings: Edenbright City.
+- New key items: Super Steroid Y; Super Steroid Z.
+- Reference images added: `y-man-character.png`, `z-man-character.png`, `edenbright-city-setting.png`, `super-steroid-y-key-item.png`, `super-steroid-z-key-item.png`.
