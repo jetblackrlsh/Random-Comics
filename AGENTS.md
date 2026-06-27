@@ -26,6 +26,14 @@ These instructions apply to the whole Random Comics repository.
 5. If creating or editing an American Monomyth Comics issue, follow `skills/american-monomyth-comic-book-pdf/SKILL.md`; American Monomyth issues require exactly 22 pages: a full-art cover, 20 story pages paced as two pages per American Monomyth beat, and a poster-style back cover.
 6. If using the repo-local photo comic workflow for other comics, follow `skills/photo-comic-book-pdf/SKILL.md`.
 
+## American Monomyth Comics Text Requirement
+
+- For American Monomyth Comics, all readable narration, speech, and character thoughts must be generated directly inside caption boxes in the image art.
+- Speech bubbles, dialogue balloons, thought bubbles, manga bubble tails, floating character dialogue, and unboxed spoken or thought text are not allowed in American Monomyth Comics.
+- Rewrite speech and thoughts as short caption-box text attributed by context.
+- Caption text may be detailed and long when needed for story clarity, as long as it remains readable and fits cleanly in caption boxes.
+- Prioritize story clarity over minimalism: American Monomyth Comics should be easy to read and understand, with enough caption text to make plot, motivation, cause-and-effect, stakes, and page-to-page continuity clear.
+
 ## Adding Pages To An Existing Comic
 
 When the user asks to add more pages to an existing comic:
