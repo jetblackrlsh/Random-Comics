@@ -76,3 +76,10 @@
 - Visual identifiers: Integrated blue and purple full-body biomechanical armor with a matching helmet, purple armored bat wings, luminescent nuclear-energy conduits, hand emitters for nuclear blasts, sleek agile plating, and stress flares that burn white-blue when the output is pushed too hard.
 - Continuity notes: The armor makes Anima Slayer one of humanity's nuclear wielders and gives them flight, nuclear blasts, and enhanced physical ability. It is also a vulnerability because Anima relies on it heavily; Issue #11 clarifies that the armor becomes strongest when guided by Anima's study and timing rather than used as blunt spectacle.
 - Reference image: `../reference-images/anima-slayer-character.png`
+
+## Key Item: Elemental Counterdeck
+
+- First appears: Issue #13, "The Inventor Who Bet on Balance"
+- Visual identifiers: Fan of luminous playing-card-like circuit plates held in a compact mechanical deck frame, with card-suit symbols fused with fire, water, wind, and earth glyphs, cyan circuitry, violet spirit motes, brass hinges, and a balanced four-color glow when activated.
+- Continuity notes: Alexi Venturas creates the Counterdeck to neutralize werewolf elemental absorption without poisoning the environment. It fails when used as a brute-force weapon or pure gamble, but awakens when Alexi lets spirits, technology, and living elemental flow share the same circuit.
+- Reference image: `../reference-images/elemental-counterdeck-key-item.png`

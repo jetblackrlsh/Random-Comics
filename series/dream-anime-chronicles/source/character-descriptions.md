@@ -142,3 +142,19 @@
 - Role: quiet spiritual presence, innocent person whose accidental death drives Barrier Bear's quest for atonement.
 - Visual identifiers: Small translucent human-shaped spirit silhouette made of soft white-gold and pale blue light, gentle outline, no detailed face, calm floating posture, surrounded by tiny star motes.
 - Continuity notes: The lost soul teaches Barrier Bear that redemption cannot mean stealing death backward by force. Their farewell helps Barrier Bear choose careful protection over reckless self-punishment.
+
+## Character: Alexi Venturas
+
+- First appears: Issue #13, "The Inventor Who Bet on Balance"
+- Role: protagonist, inventor, gambler, spirit-factory worker, environmental defender.
+- Visual identifiers: Androgynous youthful anime inventor with short vibrant silver hair in an asymmetrical gravity-defying cut, pale luminescent blue skin, deep violet eyes shimmering with elemental magic, slender agile build, fitted dark factory-worker jacket with bright cyan seams, utility belt with cards and tools, fingerless gloves, and glowing circuit-like tattoos running along both arms. Some tattoos resemble playing-card suits and others resemble elemental symbols, and they glow brighter when Alexi invents, gambles, or channels magic.
+- Continuity notes: Alexi grew up between ancestor-spirit reverence and modern technology. They imbue inventions with elemental magic, trust uncanny gambling luck they believe is influenced by factory spirits, and work to stop werewolf-driven climate damage after a childhood friend's disappearance put them on the path from vengeance toward environmental harmony.
+- Reference image: `../reference-images/alexi-venturas-character.png`
+
+## Character: Climate Werewolves
+
+- First appears: Issue #13, "The Inventor Who Bet on Balance"
+- Role: supernatural environmental threat, elemental absorbers, antagonist force tied to Alexi Venturas's mission.
+- Visual identifiers: Hulking anime werewolves with storm-gray and ash-black fur, ember-orange eyes, frost and flame scars in their coats, clawed hands wrapped in stolen elemental auras, and weather distortions swirling around their bodies as they absorb fire, water, wind, and earth magic.
+- Continuity notes: These werewolves accelerate climate damage by absorbing and twisting elemental powers. Their threat pushes Alexi to build devices that do not simply overpower nature, but restore balance between technology, spirits, and the living world.
+- Reference image: `../reference-images/climate-werewolves-character.png`

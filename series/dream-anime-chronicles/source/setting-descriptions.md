@@ -97,3 +97,10 @@
 - Visual identifiers: Ethereal outer-space realm with saturated starfields, glowing planets, translucent spirits, alien-spirit silhouettes with shifting forms, radiant barrier pathways, floating door-rings, emotional weather, and a central luminous nexus shining white, gold, cyan, and violet.
 - Continuity notes: The spirit world reacts to the intentions of anyone manipulating barriers. Reckless guilt makes pathways crack and multiply, while careful acceptance lets the nexus stabilize into a respectful window between life and death. The realm raises Barrier Bear's unresolved question of whether aliens and spirits may be connected.
 - Reference image: `../reference-images/spirit-world-nexus-setting.png`
+
+## Setting: Spirit-Loom Factory
+
+- First appears: Issue #13, "The Inventor Who Bet on Balance"
+- Visual identifiers: Mystical anime factory where the living and spirits work side by side, with brass-and-cyan machinery, glowing conveyor sigils, translucent ancestor workers, elemental furnaces, hanging card-suit talismans, glass greenhouse walls, storm-warning gauges, and workbenches filled with tools, playing cards, and prototype devices.
+- Continuity notes: Alexi Venturas works here as an inventor, gambler, and factory worker. The factory is both workplace and battleground: it forges elemental gadgets against werewolf climate damage, but its machines become unstable whenever technology ignores the spirits or treats nature as raw fuel.
+- Reference image: `../reference-images/spirit-loom-factory-setting.png`

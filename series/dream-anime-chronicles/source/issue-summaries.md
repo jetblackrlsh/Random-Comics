@@ -131,3 +131,14 @@
 - New settings: Superhero Academy, Spirit World Nexus.
 - New key items: None.
 - Reference images added: `barrier-bear-character.png`, `superhero-academy-setting.png`, `spirit-world-nexus-setting.png`.
+
+## Issue #13: The Inventor Who Bet on Balance
+
+- Folder: `series/dream-anime-chronicles/issues/issue-13/`
+- Logline: Alexi Venturas, a silver-haired inventor and gambler in a spirit-haunted factory, tries to stop climate werewolves by forcing elemental magic into machines, but only wins after learning that luck, technology, spirits, and nature must share the same circuit.
+- Plot summary: Alexi works in the Spirit-Loom Factory, where living workers and ancestor spirits build elemental devices against werewolf-driven climate damage. When climate werewolves attack the greenhouse district and absorb elemental force, Alexi first fires a beautiful all-element machine, then wagers factory power on a spirit-guided card draw, then asks the dead for a shortcut to the truth behind a missing childhood friend. Each answer fails because it treats nature, luck, or spirits as fuel. Alexi finally listens to the factory's balanced flow and rebuilds the failed prototypes into the Elemental Counterdeck, which redirects stolen weather out of the werewolves and back into living climate, stable machinery, and spirit memory.
+- Continuity changes: Alexi Venturas enters the series as an inventor, gambler, spirit-factory worker, and environmental defender whose true genius is designing balance between technology, spirits, luck, and nature. The climate werewolves are established as elemental absorbers tied to climate damage and Alexi's missing-friend wound. The Spirit-Loom Factory and Elemental Counterdeck become reusable continuity elements for Alexi's world.
+- New characters: Alexi Venturas, Climate Werewolves.
+- New settings: Spirit-Loom Factory.
+- New key items: Elemental Counterdeck.
+- Reference images added: `alexi-venturas-character.png`, `climate-werewolves-character.png`, `spirit-loom-factory-setting.png`, `elemental-counterdeck-key-item.png`.
