@@ -62,3 +62,19 @@
 - Visual identifiers: Huge hyper-muscular gang leader with jagged black hair, red chemically glowing eyes, cracked red-orange vein patterns across swollen arms and neck, black armored street coat torn open over a red Z-shaped chest harness, heavy boots, spiked belt, and a predatory grin that collapses into fear after withdrawal.
 - Continuity notes: Uses Super Steroid Z to conquer Edenbright City, becomes immune to bullets and ordinary force, tempts Y-Man with a combined god-form formula, loses his power when the supply is destroyed, and swears to abandon drugs after witnessing Y-Man die from the transition.
 - Reference image: `../reference-images/z-man-character.png`
+
+## Character: Aria Flint
+
+- First appears: Issue #4, "The Pestbright Piper"
+- Role: protagonist, exceptional hero, wandering artificer-adventurer.
+- Visual identifiers: Athletic young adult woman with warm brown skin, short wind-swept black hair with copper streaks, amber eyes, confident focused expression, teal travel cloak with brass clasps, fitted ivory-and-cobalt adventurer armor, brown utility belts, fingerless gloves, knee boots, small tool satchel, and glowing brass-and-crystal devices clipped to her gear.
+- Continuity notes: Enters Edenbright during the Pestborn Brood outbreak, builds the Resonance Translator, refuses the rats' treasure bribe, drives them out through the emergency broadcast network, then leaves to follow the scattered plague toward other cities.
+- Reference image: `../reference-images/aria-flint-character.png`
+
+## Character: Pestborn Brood
+
+- First appears: Issue #4, "The Pestbright Piper"
+- Role: collective antagonist, poison-immune super-rats.
+- Visual identifiers: Enormous intelligent rats the size of large dogs or bigger, thick bristling charcoal-gray and oil-black fur that deflects bullets, glowing sickly green pesticide scars, oversized claws and teeth, bright cunning yellow eyes, armored hunched bodies, tunnel-digging forearms, and organized swarm formations.
+- Continuity notes: Descended from the few rodents that survived Edenbright's powerful pesticides. They raid restaurants, burrow through walls, spread disease, attempt to bribe Aria with stolen treasure, and scatter beyond Edenbright after her broadcast overwhelms them.
+- Reference image: `../reference-images/pestborn-brood-character.png`

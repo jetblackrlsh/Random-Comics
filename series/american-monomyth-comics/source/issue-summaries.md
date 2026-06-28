@@ -32,3 +32,14 @@
 - New settings: Edenbright City.
 - New key items: Super Steroid Y; Super Steroid Z.
 - Reference images added: `y-man-character.png`, `z-man-character.png`, `edenbright-city-setting.png`, `super-steroid-y-key-item.png`, `super-steroid-z-key-item.png`.
+
+## Issue #4: The Pestbright Piper
+
+- Folder: `series/american-monomyth-comics/issues/issue-04/`
+- Logline: When Edenbright's pesticides breed poison-immune super-rats that overrun restaurants, streets, and clinics, wandering artificer Aria Flint builds a translation resonator, refuses the rats' stolen treasure, and drives them out through the city's emergency broadcast system.
+- Plot summary: Edenbright thrives again as a peaceful utopia until its pesticide system leaves behind a few evolved survivors: the Pestborn Brood, huge intelligent rats with bullet-resistant fur, toxic scars, burrowing claws, and disease-bearing swarms. Police, medics, sanitation engineers, and pesticide drones fail against them. Aria Flint enters the city, builds the Resonance Translator, learns that the rats are frightened and clever as well as cruel, and connects her device to Edenbright's emergency network. Her broadcast panics the rats. They beg for quiet and bring stolen gold, amulets, and silver as a bribe, but Aria refuses to sell out the sick. She raises the volume until the Brood flees Edenbright and swears never to return. The city repairs its walls, heals its people, raises monuments to Aria, then forgets her as peace returns, while Aria follows the scattered rats toward the next threatened city.
+- Continuity changes: Establishes Aria Flint, the Pestborn Brood, and the Resonance Translator. Confirms Edenbright can become peaceful enough after repeated crises that it turns heroes into monuments and eventually forgets the actual person behind the rescue.
+- New characters: Aria Flint; Pestborn Brood.
+- New settings: None.
+- New key items: Resonance Translator.
+- Reference images added: `aria-flint-character.png`, `pestborn-brood-character.png`, `resonance-translator-key-item.png`.

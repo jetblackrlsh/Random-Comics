@@ -34,3 +34,10 @@
 - Visual identifiers: Crates of red-orange vials with black Z markings, harsh hazard lights, thick glowing fluid, cracked injection ampoules, chemical smoke, and red steroid aura.
 - Continuity notes: Derived from the formula lineage of Super Steroid Y. Z-Man uses it to become a bulletproof one-man army and conquer Edenbright City. Y-Man destroys the supply before Z-Man can combine it with Super Steroid Y.
 - Reference image: `../reference-images/super-steroid-z-key-item.png`
+
+## Key Item: Resonance Translator
+
+- First appears: Issue #4, "The Pestbright Piper"
+- Visual identifiers: Hand-built brass-and-crystal shoulder device with a circular gramophone-like emitter, teal glowing circuit rings, amber lenses, silver tuning forks, small glyph dials, cable leads that connect to civic emergency systems, and visible teal-gold sound-wave halos.
+- Continuity notes: Built by Aria Flint from artificer tools and Edenbright emergency components. It translates animal thought into meaningful language and can broadcast that meaning through citywide speakers at overwhelming intensity.
+- Reference image: `../reference-images/resonance-translator-key-item.png`
