@@ -142,3 +142,14 @@
 - New settings: Spirit-Loom Factory.
 - New key items: Elemental Counterdeck.
 - Reference images added: `alexi-venturas-character.png`, `climate-werewolves-character.png`, `spirit-loom-factory-setting.png`, `elemental-counterdeck-key-item.png`.
+
+## Issue #14: The Gauntlet That Chose Mercy
+
+- Folder: `series/dream-anime-chronicles/issues/issue-14/`
+- Logline: Ameryx Xyr, a serene student chosen by a divine computerized gauntlet after a classroom possession disaster, must save their peers from demonic influence without letting reality-warping power become another kind of erasure.
+- Plot summary: Ameryx begins as an ordinary student watching a class demonstration open a demonic breach. The possession spreads through their peers and briefly claims Ameryx until a divine computerized gauntlet chooses them, frees them, and offers purge, reality warping, AI strategy, and temporal foresight. Ameryx first uses forceful purge, then reality edits, then fast future paths, but each tactic risks hurting, erasing, or abandoning the possessed victims. Remembering what it felt like to be trapped inside possession, Ameryx guides the gauntlet with mercy and performs a restorative purge that frees the classmates while collapsing the breach into a safer convergence sanctuary.
+- Continuity changes: Ameryx Xyr enters the series as Guardian of Realities, a former possessed student whose gauntlet-based powers are strongest when tempered by empathy. The Reality Convergence Ruins and Divine Reality Gauntlet become recurring continuity elements tied to demonic influence, temporal choices, and mercy-guided reality protection.
+- New characters: Ameryx Xyr.
+- New settings: Reality Convergence Ruins.
+- New key items: Divine Reality Gauntlet.
+- Reference images added: `ameryx-xyr-character.png`, `reality-convergence-ruins-setting.png`, `divine-reality-gauntlet-key-item.png`.

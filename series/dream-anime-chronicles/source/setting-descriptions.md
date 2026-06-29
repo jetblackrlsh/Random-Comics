@@ -104,3 +104,10 @@
 - Visual identifiers: Mystical anime factory where the living and spirits work side by side, with brass-and-cyan machinery, glowing conveyor sigils, translucent ancestor workers, elemental furnaces, hanging card-suit talismans, glass greenhouse walls, storm-warning gauges, and workbenches filled with tools, playing cards, and prototype devices.
 - Continuity notes: Alexi Venturas works here as an inventor, gambler, and factory worker. The factory is both workplace and battleground: it forges elemental gadgets against werewolf climate damage, but its machines become unstable whenever technology ignores the spirits or treats nature as raw fuel.
 - Reference image: `../reference-images/spirit-loom-factory-setting.png`
+
+## Setting: Reality Convergence Ruins
+
+- First appears: Issue #14, "The Gauntlet That Chose Mercy"
+- Visual identifiers: Bright surreal anime battleground where a ruined classroom overlaps with broken city towers, untouched natural sanctuary fragments, floating reality seams, shattered archways from fallen civilizations, thin luminous cracks in the sky, and black-violet demonic infection pushing against gold-white divine light.
+- Continuity notes: The realm manifests when Ameryx Xyr's classroom demonstration disaster opens into a broader place where realities converge. It is dangerous because demonic influence can move through thin reality seams, but Issue #14 transforms part of it into a sanctuary threshold after Ameryx uses mercy-guided demonic purge instead of erasure.
+- Reference image: `../reference-images/reality-convergence-ruins-setting.png`

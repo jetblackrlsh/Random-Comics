@@ -83,3 +83,10 @@
 - Visual identifiers: Fan of luminous playing-card-like circuit plates held in a compact mechanical deck frame, with card-suit symbols fused with fire, water, wind, and earth glyphs, cyan circuitry, violet spirit motes, brass hinges, and a balanced four-color glow when activated.
 - Continuity notes: Alexi Venturas creates the Counterdeck to neutralize werewolf elemental absorption without poisoning the environment. It fails when used as a brute-force weapon or pure gamble, but awakens when Alexi lets spirits, technology, and living elemental flow share the same circuit.
 - Reference image: `../reference-images/elemental-counterdeck-key-item.png`
+
+## Key Item: Divine Reality Gauntlet
+
+- First appears: Issue #14, "The Gauntlet That Chose Mercy"
+- Visual identifiers: Advanced computerized gauntlet fused to Ameryx Xyr's right arm, sleek divine-tech metal, glowing orange LED at the back of the hand or wrist, esoteric symbols etched into layered plates, violet-gold circuit seams, translucent holographic strategy panels, and reality-warping glyph rings.
+- Continuity notes: The gauntlet chose Ameryx during a demonic possession disaster, freed them, and grants divine reality warping, demonic purge, AI-assisted strategy, and temporal awareness. Issue #14 establishes that the gauntlet becomes most powerful when Ameryx guides it with mercy rather than using its predictions as permission to erase victims.
+- Reference image: `../reference-images/divine-reality-gauntlet-key-item.png`

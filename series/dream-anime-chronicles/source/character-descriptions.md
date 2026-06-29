@@ -158,3 +158,11 @@
 - Visual identifiers: Hulking anime werewolves with storm-gray and ash-black fur, ember-orange eyes, frost and flame scars in their coats, clawed hands wrapped in stolen elemental auras, and weather distortions swirling around their bodies as they absorb fire, water, wind, and earth magic.
 - Continuity notes: These werewolves accelerate climate damage by absorbing and twisting elemental powers. Their threat pushes Alexi to build devices that do not simply overpower nature, but restore balance between technology, spirits, and the living world.
 - Reference image: `../reference-images/climate-werewolves-character.png`
+
+## Character: Ameryx Xyr
+
+- First appears: Issue #14, "The Gauntlet That Chose Mercy"
+- Role: protagonist, Guardian of Realities, former possessed student, divine gauntlet wielder.
+- Visual identifiers: Slim androgynous anime guardian with short jagged silver hair carrying a holographic rainbow sheen, pale almost translucent skin with an ethereal glow under moonlight, deep violet eyes flecked with gold, calm but fiercely resolved expression, agile upright posture, and an advanced computerized gauntlet fused to the right forearm and hand. The gauntlet is covered in esoteric divine symbols, luminous violet-gold circuit seams, and one large orange LED pulsing with divine energy.
+- Continuity notes: Ameryx was once an ordinary student until a class demonstration unleashed demonic possession among their peers and briefly claimed Ameryx too. A divine reality gauntlet chose them, freed them, and granted reality warping, demonic purge, AI-assisted strategy, and temporal awareness. Issue #14 defines Ameryx's guardianship as mercy-guided power: they save possessed victims without erasing the people trapped inside.
+- Reference image: `../reference-images/ameryx-xyr-character.png`
