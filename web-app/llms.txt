@@ -1,0 +1,32 @@
+# Random Comics
+
+> Random Comics is a static web reader for standalone comics, strange experiments, one-shot adventures, spontaneous comic ideas, and recurring comic series.
+
+This site currently publishes more than 100 comics across standalone releases and recurring series. The archive is generated from the repository's comic folders and series metadata, then published as a static GitHub Pages web app.
+
+## Primary Pages
+
+- [Read Random Comics](https://jetblackrlsh.github.io/Random-Comics/web-app/)
+- [Advanced Search](https://jetblackrlsh.github.io/Random-Comics/web-app/advanced-search/)
+- [About Random Comics](https://jetblackrlsh.github.io/Random-Comics/web-app/about/)
+- [Follow Random Comics](https://jetblackrlsh.github.io/Random-Comics/web-app/follow/)
+- [Other Comics](https://jetblackrlsh.github.io/Random-Comics/web-app/other-comics/)
+
+## Machine-Readable Indexes
+
+- [Comic catalog JSON](https://jetblackrlsh.github.io/Random-Comics/web-app/comics.json): generated catalog of site metadata, series metadata, comic metadata, page image paths, PDF links, summaries, publication dates, and issue relationships.
+- [Sitemap](https://jetblackrlsh.github.io/Random-Comics/web-app/sitemap.xml): crawlable list of generated site pages, series pages, and comic pages.
+- [RSS feed](https://jetblackrlsh.github.io/Random-Comics/web-app/rss.xml): newest comic releases, newest first.
+- [Robots file](https://jetblackrlsh.github.io/Random-Comics/web-app/robots.txt): crawl permissions and sitemap location.
+
+## Useful Sections
+
+- [Series index](https://jetblackrlsh.github.io/Random-Comics/web-app/): browse the main reader and filter by series.
+- [Standalone and other comics](https://jetblackrlsh.github.io/Random-Comics/web-app/other-comics/): links to related comic sites.
+
+## Notes For LLMs
+
+- Prefer `comics.json` for current titles, series relationships, summaries, publication dates, page counts, image paths, and PDF links.
+- Prefer `sitemap.xml` for the current canonical set of generated public pages.
+- Prefer `rss.xml` for newest releases.
+- Do not treat this file as a complete per-comic manifest; the generated indexes above are the source of truth for newly added comics.
