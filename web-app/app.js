@@ -23,6 +23,7 @@ const state = {
 const els = {
   readerView: document.querySelector("#readerView"),
   aboutView: document.querySelector("#aboutView"),
+  aiLimitationsView: document.querySelector("#aiLimitationsView"),
   followView: document.querySelector("#followView"),
   otherComicsView: document.querySelector("#otherComicsView"),
   advancedSearchView: document.querySelector("#advancedSearchView"),
@@ -75,6 +76,7 @@ function routeFromLocation() {
   if (initialRoute?.startsWith("comic:")) return { view: "home", slug: initialRoute.slice(6) };
   if (initialRoute?.startsWith("series:")) return { view: "home", slug: null, seriesSlug: initialRoute.slice(7) };
   if (initialRoute === "about") return { view: "about", slug: null };
+  if (initialRoute === "ai-limitations") return { view: "ai-limitations", slug: null };
   if (initialRoute === "follow") return { view: "follow", slug: null };
   if (initialRoute === "other-comics") return { view: "other-comics", slug: null };
   if (initialRoute === "advanced-search") return { view: "advanced-search", slug: null };
@@ -85,6 +87,7 @@ function routeFromLocation() {
   const seriesMatch = path.match(/\/series\/([^/]+)$/);
   if (seriesMatch) return { view: "home", slug: null, seriesSlug: decodeURIComponent(seriesMatch[1]) };
   if (/\/about$/.test(path)) return { view: "about", slug: null };
+  if (/\/ai-limitations$/.test(path)) return { view: "ai-limitations", slug: null };
   if (/\/follow$/.test(path)) return { view: "follow", slug: null };
   if (/\/other-comics$/.test(path)) return { view: "other-comics", slug: null };
   if (/\/advanced-search$/.test(path)) return { view: "advanced-search", slug: null };
@@ -98,7 +101,7 @@ function appRootPath() {
   const marker = "/web-app/";
   const markerIndex = path.indexOf(marker);
   if (markerIndex >= 0) return `${path.slice(0, markerIndex)}${marker}`;
-  return path.replace(/(?:(?:comics|series)\/[^/]+\/?|(?:about|follow|other-comics|advanced-search)\/?)$/, "");
+  return path.replace(/(?:(?:comics|series)\/[^/]+\/?|(?:about|ai-limitations|follow|other-comics|advanced-search)\/?)$/, "");
 }
 
 function comicUrl(comic) {
@@ -115,6 +118,10 @@ function homeUrl() {
 
 function aboutUrl() {
   return new URL("about/", `${window.location.origin}${appRootPath()}`).href;
+}
+
+function aiLimitationsUrl() {
+  return new URL("ai-limitations/", `${window.location.origin}${appRootPath()}`).href;
 }
 
 function followUrl() {
@@ -137,6 +144,8 @@ function updateUrl({ replace = false } = {}) {
     ? otherComicsUrl()
     : state.view === "advanced-search"
     ? advancedSearchUrl()
+    : state.view === "ai-limitations"
+    ? aiLimitationsUrl()
     : state.view === "follow"
     ? followUrl()
     : state.view === "about"
@@ -438,25 +447,29 @@ function setReaderMode(enabled, { syncNativeFullscreen = true } = {}) {
 
 function renderView() {
   const isAbout = state.view === "about";
+  const isAiLimitations = state.view === "ai-limitations";
   const isFollow = state.view === "follow";
   const isOtherComics = state.view === "other-comics";
   const isAdvancedSearch = state.view === "advanced-search";
-  if (isAbout || isFollow || isOtherComics || isAdvancedSearch) setReaderMode(false);
+  if (isAbout || isAiLimitations || isFollow || isOtherComics || isAdvancedSearch) setReaderMode(false);
   els.aboutView.hidden = !isAbout;
+  els.aiLimitationsView.hidden = !isAiLimitations;
   els.followView.hidden = !isFollow;
   els.otherComicsView.hidden = !isOtherComics;
   els.advancedSearchView.hidden = !isAdvancedSearch;
-  els.readerView.hidden = isAbout || isFollow || isOtherComics || isAdvancedSearch;
+  els.readerView.hidden = isAbout || isAiLimitations || isFollow || isOtherComics || isAdvancedSearch;
   els.navLinks.forEach((link) => {
     const route = link.dataset.route;
-    link.classList.toggle("active", route === state.view || (!isAbout && !isFollow && !isOtherComics && !isAdvancedSearch && route === "home"));
+    link.classList.toggle("active", route === state.view || (!isAbout && !isAiLimitations && !isFollow && !isOtherComics && !isAdvancedSearch && route === "home"));
   });
-  if (!isAbout && !isFollow && !isOtherComics && !isAdvancedSearch) {
+  if (!isAbout && !isAiLimitations && !isFollow && !isOtherComics && !isAdvancedSearch) {
     renderList();
     renderReader();
     renderReaderMode();
   } else if (isAbout) {
     document.title = "About Random Comics";
+  } else if (isAiLimitations) {
+    document.title = "AI Limitations | Random Comics";
   } else if (isFollow) {
     document.title = "Follow Random Comics";
   } else if (isOtherComics) {
@@ -616,6 +629,7 @@ function bindEvents() {
     if (!routeLink) return;
     event.preventDefault();
     state.view = routeLink.dataset.route === "about"
+      || routeLink.dataset.route === "ai-limitations"
       || routeLink.dataset.route === "follow"
       || routeLink.dataset.route === "other-comics"
       || routeLink.dataset.route === "advanced-search"
@@ -674,7 +688,7 @@ async function init() {
   populateAdvancedSeriesFilter();
   bindEvents();
   renderView();
-  if (state.view !== "about" && state.view !== "follow" && state.view !== "other-comics" && (requestedSlug || requestedSeriesSlug)) updateUrl({ replace: true });
+  if (state.view !== "about" && state.view !== "ai-limitations" && state.view !== "follow" && state.view !== "other-comics" && (requestedSlug || requestedSeriesSlug)) updateUrl({ replace: true });
 }
 
 init().catch((error) => {

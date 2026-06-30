@@ -174,7 +174,8 @@ main {
 
 .control-panel,
 .reader-panel,
-.about-copy {
+.about-copy,
+.ai-limitations-copy {
   border: 3px solid rgba(17, 18, 43, 0.13);
   border-radius: 8px;
   background: var(--panel);
@@ -194,7 +195,8 @@ main {
 }
 
 .intro-copy h1,
-.about-copy h1 {
+.about-copy h1,
+.ai-limitations-copy h1 {
   margin: 0 0 10px;
   max-width: 10ch;
   font-size: clamp(2.45rem, 6vw, 4.7rem);
@@ -213,7 +215,8 @@ main {
 
 .intro-copy p,
 .comic-summary,
-.about-copy p {
+.about-copy p,
+.ai-limitations-copy p {
   margin: 0;
   color: var(--muted);
   font-size: 1rem;
@@ -483,6 +486,7 @@ body.reader-mode .comic-page {
 }
 
 .about-view,
+.ai-limitations-view,
 .follow-view,
 .other-comics-view,
 .advanced-search-view {
@@ -491,6 +495,7 @@ body.reader-mode .comic-page {
 }
 
 .about-copy,
+.ai-limitations-copy,
 .follow-copy,
 .other-comics-copy {
   width: min(900px, 100%);
@@ -498,6 +503,7 @@ body.reader-mode .comic-page {
 }
 
 .about-copy h1,
+.ai-limitations-copy h1,
 .follow-copy h1,
 .other-comics-copy h1 {
   max-width: 12ch;
@@ -505,6 +511,29 @@ body.reader-mode .comic-page {
 
 .about-copy p + p {
   margin-top: 18px;
+}
+
+.ai-limitations-copy {
+  background:
+    linear-gradient(135deg, rgba(255, 215, 46, 0.2), transparent 34%),
+    linear-gradient(315deg, rgba(3, 191, 245, 0.14), transparent 42%),
+    var(--panel);
+}
+
+.ai-limitations-copy h1 {
+  max-width: 13ch;
+  font-size: clamp(2.25rem, 6vw, 4.35rem);
+  text-shadow: 4px 4px 0 var(--yellow), 8px 8px 0 rgba(3, 191, 245, 0.22);
+}
+
+.ai-limitations-copy p {
+  font-weight: 650;
+}
+
+.ai-limitations-copy p:first-of-type {
+  color: var(--ink);
+  font-size: 1.08rem;
+  font-weight: 850;
 }
 
 .follow-copy {
@@ -1136,6 +1165,7 @@ body.reader-mode .comic-page {
 
   .intro-copy h1,
   .about-copy h1,
+  .ai-limitations-copy h1,
   .follow-copy h1,
   .other-comics-copy h1,
   .advanced-search-heading h1 {

@@ -78,7 +78,7 @@ function writeRedirectPage(route) {
   );
 }
 
-for (const route of ["about", "advanced-search", "follow", "other-comics"]) {
+for (const route of ["about", "advanced-search", "ai-limitations", "follow", "other-comics"]) {
   writeRedirectPage(route);
 }
 

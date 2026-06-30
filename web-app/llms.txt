@@ -9,6 +9,7 @@ This site currently publishes more than 100 comics across standalone releases an
 - [Read Random Comics](https://jetblackrlsh.github.io/Random-Comics/web-app/)
 - [Advanced Search](https://jetblackrlsh.github.io/Random-Comics/web-app/advanced-search/)
 - [About Random Comics](https://jetblackrlsh.github.io/Random-Comics/web-app/about/)
+- [AI Limitations](https://jetblackrlsh.github.io/Random-Comics/web-app/ai-limitations/)
 - [Follow Random Comics](https://jetblackrlsh.github.io/Random-Comics/web-app/follow/)
 - [Other Comics](https://jetblackrlsh.github.io/Random-Comics/web-app/other-comics/)
 

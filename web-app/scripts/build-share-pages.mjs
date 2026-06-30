@@ -8,6 +8,7 @@ const catalog = JSON.parse(readFileSync(path.join(webAppDir, "comics.json"), "ut
 const template = readFileSync(path.join(webAppDir, "index.html"), "utf8");
 const comicsDir = path.join(webAppDir, "comics");
 const aboutDir = path.join(webAppDir, "about");
+const aiLimitationsDir = path.join(webAppDir, "ai-limitations");
 const followDir = path.join(webAppDir, "follow");
 const otherComicsDir = path.join(webAppDir, "other-comics");
 const advancedSearchDir = path.join(webAppDir, "advanced-search");
@@ -172,6 +173,15 @@ function aboutSeoContent() {
       </section>`;
 }
 
+function aiLimitationsSeoContent() {
+  return `<section class="seo-content" aria-label="AI Limitations">
+        <h2>AI Limitations</h2>
+        <p>All comics and stories on Random Comics are created utilizing AI as part of the process. The archive openly retains AI visual inconsistencies, mistakes, and story clarity issues instead of hiding them.</p>
+        <p>Readers are invited to accept the AI nature of the comics, including the rough edges, while the technology continues to improve over time.</p>
+        <p><a href="${escapeHtml(catalog.site.baseUrl)}/">Read the Random Comics archive</a></p>
+      </section>`;
+}
+
 function followSeoContent() {
   return `<section class="seo-content" aria-label="Follow Random Comics">
         <h2>Follow Random Comics</h2>
@@ -271,6 +281,21 @@ function aboutStructuredData() {
     name: "About Random Comics",
     url: `${catalog.site.baseUrl}/about/`,
     description: "About Random Comics, a home for standalone one-shot comic stories, spontaneous comic ideas, and series that can grow through recurring issues.",
+    isPartOf: {
+      "@type": "WebSite",
+      name: catalog.site.title,
+      url: `${catalog.site.baseUrl}/`,
+    },
+  });
+}
+
+function aiLimitationsStructuredData() {
+  return jsonLd({
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name: "AI Limitations",
+    url: `${catalog.site.baseUrl}/ai-limitations/`,
+    description: "An explanation that Random Comics uses AI as part of the creative process and openly retains AI mistakes, visual inconsistencies, and story clarity issues.",
     isPartOf: {
       "@type": "WebSite",
       name: catalog.site.title,
@@ -430,6 +455,7 @@ function sitemapXml() {
   const urls = [
     { loc: `${catalog.site.baseUrl}/`, lastmod: latestDate, priority: "1.0" },
     { loc: `${catalog.site.baseUrl}/about/`, lastmod: latestDate, priority: "0.5" },
+    { loc: `${catalog.site.baseUrl}/ai-limitations/`, lastmod: latestDate, priority: "0.5" },
     { loc: `${catalog.site.baseUrl}/follow/`, lastmod: latestDate, priority: "0.6" },
     { loc: `${catalog.site.baseUrl}/other-comics/`, lastmod: latestDate, priority: "0.5" },
     { loc: `${catalog.site.baseUrl}/advanced-search/`, lastmod: latestDate, priority: "0.8" },
@@ -503,12 +529,14 @@ ${items
 }
 
 rmSync(comicsDir, { recursive: true, force: true });
+rmSync(aiLimitationsDir, { recursive: true, force: true });
 rmSync(followDir, { recursive: true, force: true });
 rmSync(otherComicsDir, { recursive: true, force: true });
 rmSync(advancedSearchDir, { recursive: true, force: true });
 rmSync(seriesDir, { recursive: true, force: true });
 mkdirSync(comicsDir, { recursive: true });
 mkdirSync(aboutDir, { recursive: true });
+mkdirSync(aiLimitationsDir, { recursive: true });
 mkdirSync(followDir, { recursive: true });
 mkdirSync(otherComicsDir, { recursive: true });
 mkdirSync(advancedSearchDir, { recursive: true });
@@ -556,6 +584,22 @@ writeFileSync(
     structuredData: aboutStructuredData(),
     seoContent: aboutSeoContent(),
     appRoute: "about",
+  }),
+);
+
+writeFileSync(
+  path.join(aiLimitationsDir, "index.html"),
+  pageFromTemplate({
+    baseHref: "../",
+    meta: metaBlock({
+      title: "AI Limitations | Random Comics",
+      description: "Random Comics uses AI as part of the creative process and openly retains AI mistakes, visual inconsistencies, and story clarity issues.",
+      url: `${catalog.site.baseUrl}/ai-limitations/`,
+      image: `${catalog.site.baseUrl}/assets/site-background.png`,
+    }),
+    structuredData: aiLimitationsStructuredData(),
+    seoContent: aiLimitationsSeoContent(),
+    appRoute: "ai-limitations",
   }),
 );
 
