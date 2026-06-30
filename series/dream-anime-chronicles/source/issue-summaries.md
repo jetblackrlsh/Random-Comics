@@ -153,3 +153,14 @@
 - New settings: Reality Convergence Ruins.
 - New key items: Divine Reality Gauntlet.
 - Reference images added: `ameryx-xyr-character.png`, `reality-convergence-ruins-setting.png`, `divine-reality-gauntlet-key-item.png`.
+
+## Issue #15: The Temple That Answered Back
+
+- Folder: `series/dream-anime-chronicles/issues/issue-15/`
+- Logline: Aurum Gold wakes in a shifting sandy temple and tries to force a way home with spell stones, but only escapes the temple's deadliest chamber after realizing the ruins respond to curiosity, not conquest.
+- Plot summary: Aurum wakes in endless sand with no memory of arriving and enters an otherworldly temple looking for a way home. Early spell-stone success convinces Aurum that power can solve the ruins, but brute force makes the defenses copy and escalate, careful navigation fails because impatient choices redraw the map, and a false memory almost lures Aurum into a trap. In the question chamber, Aurum finally understands that the spell stones are not just keys or weapons but words in the temple's language. By arranging them as a question, Aurum opens a memory chamber, sees a clue about being transported from their own world, and receives a living compass-light toward the deeper path home.
+- Continuity changes: Aurum Gold enters the series as a transported temple explorer whose powers come from spell stones, but whose defining strength is curiosity-guided puzzle-solving. The Otherworldly Sandy Temple Complex and Spell Stones become recurring continuity elements tied to Aurum's search for home.
+- New characters: Aurum Gold.
+- New settings: Otherworldly Sandy Temple Complex.
+- New key items: Spell Stones.
+- Reference images added: `aurum-gold-character.png`, `otherworldly-sandy-temple-setting.png`, `spell-stones-key-item.png`.

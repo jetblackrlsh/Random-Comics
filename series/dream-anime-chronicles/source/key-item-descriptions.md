@@ -90,3 +90,10 @@
 - Visual identifiers: Advanced computerized gauntlet fused to Ameryx Xyr's right arm, sleek divine-tech metal, glowing orange LED at the back of the hand or wrist, esoteric symbols etched into layered plates, violet-gold circuit seams, translucent holographic strategy panels, and reality-warping glyph rings.
 - Continuity notes: The gauntlet chose Ameryx during a demonic possession disaster, freed them, and grants divine reality warping, demonic purge, AI-assisted strategy, and temporal awareness. Issue #14 establishes that the gauntlet becomes most powerful when Ameryx guides it with mercy rather than using its predictions as permission to erase victims.
 - Reference image: `../reference-images/divine-reality-gauntlet-key-item.png`
+
+## Key Item: Spell Stones
+
+- First appears: Issue #15, "The Temple That Answered Back"
+- Visual identifiers: Palm-sized polished gemstones in ruby, amber, sapphire, emerald, violet, and clear crystal colors, each carved with tiny luminous runes; stones float in geometric rings when activated and cast colored light onto sand and temple carvings.
+- Continuity notes: Aurum Gold can harness spell stones to enhance physical abilities and manipulate the environment. Issue #15 establishes that the stones are also the temple's puzzle language: when used as commands they trigger stronger defenses, but when arranged as questions that match the temple carvings they reveal safe paths, stored memories, and the compass-light that guides Aurum deeper toward home.
+- Reference image: `../reference-images/spell-stones-key-item.png`

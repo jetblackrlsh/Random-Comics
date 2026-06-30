@@ -166,3 +166,11 @@
 - Visual identifiers: Slim androgynous anime guardian with short jagged silver hair carrying a holographic rainbow sheen, pale almost translucent skin with an ethereal glow under moonlight, deep violet eyes flecked with gold, calm but fiercely resolved expression, agile upright posture, and an advanced computerized gauntlet fused to the right forearm and hand. The gauntlet is covered in esoteric divine symbols, luminous violet-gold circuit seams, and one large orange LED pulsing with divine energy.
 - Continuity notes: Ameryx was once an ordinary student until a class demonstration unleashed demonic possession among their peers and briefly claimed Ameryx too. A divine reality gauntlet chose them, freed them, and granted reality warping, demonic purge, AI-assisted strategy, and temporal awareness. Issue #14 defines Ameryx's guardianship as mercy-guided power: they save possessed victims without erasing the people trapped inside.
 - Reference image: `../reference-images/ameryx-xyr-character.png`
+
+## Character: Aurum Gold
+
+- First appears: Issue #15, "The Temple That Answered Back"
+- Role: protagonist, temple explorer, transported survivor, puzzle-solving adventurer.
+- Visual identifiers: Androgynous athletic anime adventurer with golden-brown skin, amber eyes, sandy blonde short spiky messy hair, a small intricate ruby gemstone tattoo on the right temple of the forehead, a scar on the right cheek from a laser rifle encounter, and a sleek full-body black leather unitard with shimmering rainbow colored gemstone-textured trim.
+- Continuity notes: Aurum was transported from their own world into a vast sandy otherworldly temple with no memory of how they arrived. They are curiosity-driven, adventurous, resourceful, quick-thinking, skilled in navigation and combat, and able to harness spell stones to enhance physical abilities and manipulate the environment. Issue #15 defines Aurum's true strength as respectful curiosity: they survive the temple by reading its questions instead of forcing answers from it.
+- Reference image: `../reference-images/aurum-gold-character.png`

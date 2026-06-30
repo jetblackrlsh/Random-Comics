@@ -111,3 +111,10 @@
 - Visual identifiers: Bright surreal anime battleground where a ruined classroom overlaps with broken city towers, untouched natural sanctuary fragments, floating reality seams, shattered archways from fallen civilizations, thin luminous cracks in the sky, and black-violet demonic infection pushing against gold-white divine light.
 - Continuity notes: The realm manifests when Ameryx Xyr's classroom demonstration disaster opens into a broader place where realities converge. It is dangerous because demonic influence can move through thin reality seams, but Issue #14 transforms part of it into a sanctuary threshold after Ameryx uses mercy-guided demonic purge instead of erasure.
 - Reference image: `../reference-images/reality-convergence-ruins-setting.png`
+
+## Setting: Otherworldly Sandy Temple Complex
+
+- First appears: Issue #15, "The Temple That Answered Back"
+- Visual identifiers: Vast ancient anime temple complex buried in endless golden sand, colossal sandstone halls, shifting staircases, buried courtyards, ruby and amber gemstone inlays, floating carved slabs, hidden trap mechanisms, sunbeams through broken ceilings, star-map carvings, and maze corridors that change when spell stones are used carelessly.
+- Continuity notes: Aurum Gold is transported here from their own world with no memory of arrival. The temple responds to intent: it escalates against force, confusion, and careless command, but opens paths when Aurum studies relationships between stones, sand, carvings, and memory symbols.
+- Reference image: `../reference-images/otherworldly-sandy-temple-setting.png`
