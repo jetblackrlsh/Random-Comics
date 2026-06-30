@@ -29,6 +29,9 @@ jobs:
           enablement: true
 
       - name: Build static catalog and share pages
+        env:
+          ASSET_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.sha }}
+          WEB_APP_EXTERNAL_ASSETS: "1"
         run: |
           node web-app/scripts/build-catalog.mjs
           node web-app/scripts/build-share-pages.mjs

@@ -57,6 +57,7 @@ function truncateDescription(value, maxLength = 180) {
 
 function absoluteAssetUrl(assetPath) {
   if (!assetPath) return `${catalog.site.baseUrl}/assets/site-background.png`;
+  if (/^https?:\/\//i.test(assetPath)) return assetPath;
   const rootRelative = assetPath.replace(/^\.\.\//, "");
   const repoBase = catalog.site.baseUrl.replace(/\/web-app$/, "");
   return `${repoBase}/${rootRelative}`;

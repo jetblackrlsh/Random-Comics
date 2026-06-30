@@ -6,6 +6,7 @@ import process from "node:process";
 
 const repoRoot = path.resolve(fileURLToPath(new URL("../..", import.meta.url)));
 const webAppDir = path.join(repoRoot, "web-app");
+const assetBaseUrl = process.env.ASSET_BASE_URL?.replace(/\/+$/, "") || "";
 
 const excludedDirs = new Set([
   ".git",
@@ -118,6 +119,11 @@ function issueNumberFromSlug(slug) {
   return match ? Number.parseInt(match[1], 10) : null;
 }
 
+function publicAssetPath(relativePath) {
+  const normalized = relativePath.split(path.sep).join("/");
+  return assetBaseUrl ? `${assetBaseUrl}/${normalized}` : `../${normalized}`;
+}
+
 function pagesForComic(relativeDir, title = slugToTitle(path.basename(relativeDir))) {
   const pagesDir = path.join(repoRoot, relativeDir, "assets", "comic-pages");
   return readdirSync(pagesDir)
@@ -125,7 +131,7 @@ function pagesForComic(relativeDir, title = slugToTitle(path.basename(relativeDi
     .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }))
     .map((file, index) => ({
       number: index + 1,
-      path: `../${relativeDir}/assets/comic-pages/${file}`,
+      path: publicAssetPath(`${relativeDir}/assets/comic-pages/${file}`),
       alt: `${title} comic page ${index + 1}`,
     }));
 }
@@ -137,7 +143,7 @@ function pdfPath(relativeDir) {
     .filter((file) => /\.pdf$/i.test(file))
     .sort()
     .at(0);
-  return pdf ? `../${relativeDir}/output/pdf/${pdf}` : null;
+  return pdf ? publicAssetPath(`${relativeDir}/output/pdf/${pdf}`) : null;
 }
 
 function canonicalBaseUrl() {
@@ -177,7 +183,7 @@ function referenceImagesForSeries(seriesSlug, seriesDir) {
     .filter((file) => /\.(png|jpe?g|webp|avif)$/i.test(file))
     .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }))
     .map((file) => ({
-      path: `../series/${seriesSlug}/${referenceRootName}/${file}`,
+      path: publicAssetPath(`series/${seriesSlug}/${referenceRootName}/${file}`),
       alt: `${slugToTitle(seriesSlug)} reference image`,
     }));
 }
