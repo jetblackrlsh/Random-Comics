@@ -41,3 +41,10 @@
 - Visual identifiers: Hand-built brass-and-crystal shoulder device with a circular gramophone-like emitter, teal glowing circuit rings, amber lenses, silver tuning forks, small glyph dials, cable leads that connect to civic emergency systems, and visible teal-gold sound-wave halos.
 - Continuity notes: Built by Aria Flint from artificer tools and Edenbright emergency components. It translates animal thought into meaningful language and can broadcast that meaning through citywide speakers at overwhelming intensity.
 - Reference image: `../reference-images/resonance-translator-key-item.png`
+
+## Key Item: Master Rod
+
+- First appears: Issue #5, "The Master Rod"
+- Visual identifiers: Tall white-and-gold lightning staff with a glowing blue-white core, forked crown, storm rings, troll-horn motifs, and controlled lightning that can lift, heal, and protect.
+- Continuity notes: Held by The Master, claimed by Purple Climber after she learns balance, and passed peacefully to later trolls across generations.
+- Reference image: `../reference-images/master-rod-key-item.png`

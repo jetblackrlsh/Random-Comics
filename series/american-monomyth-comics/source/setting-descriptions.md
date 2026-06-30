@@ -34,3 +34,17 @@
 - Visual identifiers: Luminous clean utopian city of white glass towers, vertical sky gardens, blue transit ribbons, solar crowns, free clinics, school terraces, public art plazas, soft gold civic lights, transparent council halls, and flowering memorial parks.
 - Continuity notes: A cooperative city designed for peace rather than war. Z-Man's Super Steroid Z conquest scars its civic plaza and public systems, then Y-Man's sacrifice lets Edenbright rebuild so completely that his memory eventually fades into quiet obscurity.
 - Reference image: `../reference-images/edenbright-city-setting.png`
+
+## Setting: Troll Land
+
+- First appears: Issue #5, "The Master Rod"
+- Visual identifiers: Impossible bright paradise of green grass, pink flowers, rivers flowing uphill in glittering arcs, villages of shaggy horned trolls with bell-shaped heads and red eyes, and huge mountains under a clean blue sky.
+- Continuity notes: Threatened by the possibility that Purple Climber will claim the Master Rod while ruled by greed; remains peaceful after she learns balance and becomes a generous rod-bearer.
+- Reference image: `../reference-images/troll-land-setting.png`
+
+## Setting: Mount Master
+
+- First appears: Issue #5, "The Master Rod"
+- Visual identifiers: Largest mountain in Troll Land, impossibly tall with bright cliffs, flowered lower slopes, uphill rivers climbing its sides, and a divine white summit crowned by blue-white lightning where The Master appears.
+- Continuity notes: Sacred home of The Master and the race site where the Master Rod descends.
+- Reference image: `../reference-images/mount-master-setting.png`

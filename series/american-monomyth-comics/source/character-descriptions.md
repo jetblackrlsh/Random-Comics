@@ -78,3 +78,34 @@
 - Visual identifiers: Enormous intelligent rats the size of large dogs or bigger, thick bristling charcoal-gray and oil-black fur that deflects bullets, glowing sickly green pesticide scars, oversized claws and teeth, bright cunning yellow eyes, armored hunched bodies, tunnel-digging forearms, and organized swarm formations.
 - Continuity notes: Descended from the few rodents that survived Edenbright's powerful pesticides. They raid restaurants, burrow through walls, spread disease, attempt to bribe Aria with stolen treasure, and scatter beyond Edenbright after her broadcast overwhelms them.
 - Reference image: `../reference-images/pestborn-brood-character.png`
+
+## Character: Purple Climber
+
+- First appears: Issue #5, "The Master Rod"
+- Role: central threatened redeemer, elite troll climber, feared future goddess.
+- Visual identifiers: Athletic female troll with shaggy violet-purple fur, a bell-shaped head, short curved ivory horns, glowing red eyes, climbing wraps, gold climbing clasps, purple lightning streaks around hands and feet, proud posture that softens after the journey.
+- Continuity notes: Begins greedy because her parents died after giving away too much. Learns balance from the Wandering Hero, wins the Master Rod, and uses it to protect Troll Land rather than hoard power.
+- Reference image: `../reference-images/purple-climber-character.png`
+
+## Character: The Wandering Hero
+
+- First appears: Issue #5, "The Master Rod"
+- Role: protagonist and exceptional hero.
+- Visual identifiers: Androgynous human-like traveler with calm eyes, weathered white-and-teal cloak, simple travel armor, brown boots, plain walking staff, no crown, no government emblem, and a steady compassionate expression.
+- Continuity notes: Enters Troll Land, leads Purple Climber away from the race to prevent disaster, teaches her balance after learning the grief beneath her greed, returns her in time to change, then leaves before gratitude can become dependence.
+- Reference image: `../reference-images/wandering-hero-character.png`
+
+## Character: The Master
+
+- First appears: Issue #5, "The Master Rod"
+- Role: mythic troll god and keeper of the Master Rod.
+- Visual identifiers: Giant ghostly white-furred troll deity with a bell-shaped head, enormous curved horns, calm red star-like eyes, flowing spectral fur, mountain-sized silhouette, white mist, and blue-white divine lightning.
+- Continuity notes: Promised that a race to the top of Mount Master would decide the next wielder of the Master Rod.
+- Reference image: `../reference-images/the-master-character.png`
+
+## Character: Seven Elite Climbers
+
+- First appears: Issue #5, "The Master Rod"
+- Role: supporting collective of top troll climbers.
+- Visual identifiers: Seven athletic shaggy trolls with bell-shaped heads, horns, and red eyes, each marked by a different fur color and climbing gear; Purple Climber is the fastest and most feared member.
+- Continuity notes: Their tradition says the Master Rod race must be open to the best climbers, even when Purple's magic gives her an unfair advantage.

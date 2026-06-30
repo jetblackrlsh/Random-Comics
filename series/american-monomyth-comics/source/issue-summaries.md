@@ -43,3 +43,14 @@
 - New settings: None.
 - New key items: Resonance Translator.
 - Reference images added: `aria-flint-character.png`, `pestborn-brood-character.png`, `resonance-translator-key-item.png`.
+
+## Issue #5: The Master Rod
+
+- Folder: `series/american-monomyth-comics/issues/issue-05/`
+- Logline: When greedy Purple Climber seems certain to win a divine lightning staff and rule Troll Land selfishly, a nameless wandering hero leads her away, teaches her balance, and returns her in time to become the generous guardian everyone feared she could never be.
+- Plot summary: Troll Land begins as a strange utopia of green grass, pink flowers, uphill rivers, massive mountains, and shaggy horned trolls. The Master, a giant ghostly white-furred troll god, has promised that a race up Mount Master will decide who claims the Master Rod. Purple Climber's purple lightning makes her faster than the other six elite climbers, and her greed makes the land fear she will become a selfish goddess. The Wandering Hero arrives, invites Purple to a false faraway race with a supposedly greater prize, and leads her away on a winding road to nowhere. During the journey, Purple reveals that her parents died after giving away too much, so she became greedy from fear. The hero teaches her balance: keep enough to live and share enough to keep others living too. Purple returns as the race begins, wins the Master Rod, and immediately uses its power to help Troll Land instead of hoarding it. She searches for the hero, finds only the road, and raises a statue in thanks. Generations later the rod passes peacefully to other trolls, the statue crumbles, and the hero is forgotten because peace lasted.
+- Continuity changes: Establishes Troll Land, Mount Master, The Master, the Master Rod, Purple Climber, the Wandering Hero, and the Seven Elite Climbers. Establishes that the Master Rod becomes a peaceful inherited guardian artifact after Purple's change.
+- New characters: Purple Climber; The Wandering Hero; The Master; Seven Elite Climbers.
+- New settings: Troll Land; Mount Master.
+- New key items: Master Rod.
+- Reference images added: `purple-climber-character.png`, `wandering-hero-character.png`, `the-master-character.png`, `troll-land-setting.png`, `mount-master-setting.png`, `master-rod-key-item.png`.
