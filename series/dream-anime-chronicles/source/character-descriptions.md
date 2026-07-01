@@ -174,3 +174,11 @@
 - Visual identifiers: Androgynous athletic anime adventurer with golden-brown skin, amber eyes, sandy blonde short spiky messy hair, a small intricate ruby gemstone tattoo on the right temple of the forehead, a scar on the right cheek from a laser rifle encounter, and a sleek full-body black leather unitard with shimmering rainbow colored gemstone-textured trim.
 - Continuity notes: Aurum was transported from their own world into a vast sandy otherworldly temple with no memory of how they arrived. They are curiosity-driven, adventurous, resourceful, quick-thinking, skilled in navigation and combat, and able to harness spell stones to enhance physical abilities and manipulate the environment. Issue #15 defines Aurum's true strength as respectful curiosity: they survive the temple by reading its questions instead of forcing answers from it.
 - Reference image: `../reference-images/aurum-gold-character.png`
+
+## Character: Bato Leo
+
+- First appears: Issue #16, "The Show That Needed A Battery"
+- Role: protagonist, living battery, lazy event coordinator at an interdimensional hotel.
+- Visual identifiers: Slim androgynous anime humanoid with glossy metallic silver skin, elongated limbs, medium-length electric-blue hair styled in jagged energy-like spikes, glowing neon-blue eyes, a neon sky-blue lightning insignia centered on the chest, a sleeveless dark navy cropped hotel-staff jacket, fitted blue-black shorts or leggings, silver utility belt, headset earpiece, and blue-white electric seams that glow when charging or discharging.
+- Continuity notes: Bato stores and discharges electricity and works as an event coordinator at a hotel between worlds. They are lazy and easygoing but want acceptance and respect. Bato fears animals, and supernatural animals dislike Bato's uncontrolled electric aura. Issue #16 defines Bato's real strength as controlled coordination: they save guests and creatures by turning raw electricity into gentle, careful event leadership.
+- Reference image: `../reference-images/bato-leo-character.png`

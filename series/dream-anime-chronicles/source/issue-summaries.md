@@ -164,3 +164,14 @@
 - New settings: Otherworldly Sandy Temple Complex.
 - New key items: Spell Stones.
 - Reference images added: `aurum-gold-character.png`, `otherworldly-sandy-temple-setting.png`, `spell-stones-key-item.png`.
+
+## Issue #16: The Show That Needed A Battery
+
+- Folder: `series/dream-anime-chronicles/issues/issue-16/`
+- Logline: Bato Leo, a lazy living battery at an interdimensional hotel, tries to coast through a supernatural animal show, but only earns respect after facing the animals they fear and powering the hotel with careful coordination instead of panic.
+- Plot summary: Bato Leo wants an easy event shift at the interdimensional hotel and tries to coordinate the Celestial Creature Showcase from a safe distance because supernatural animals dislike Bato's electric aura and Bato fears them back. When a portal surge cuts hotel power and traps guests and creatures between worlds, Bato's first raw lightning blast scares the animals and worsens the crisis. In the blackout, Bato realizes the creatures are frightened by uncontrolled current just as Bato is frightened by them. Bato then uses gentle rhythmic electricity to restore the grid, open safe portal paths, guide guests home, and lead the animals without panic.
+- Continuity changes: Bato Leo enters the series as a living battery and event coordinator whose real strength is controlled coordination rather than raw electricity or avoidance. The Interdimensional Hotel is introduced as Bato's workplace and a recurring portal-powered event setting.
+- New characters: Bato Leo.
+- New settings: Interdimensional Hotel.
+- New key items: None.
+- Reference images added: `bato-leo-character.png`, `interdimensional-hotel-setting.png`.

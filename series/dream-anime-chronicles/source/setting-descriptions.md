@@ -118,3 +118,10 @@
 - Visual identifiers: Vast ancient anime temple complex buried in endless golden sand, colossal sandstone halls, shifting staircases, buried courtyards, ruby and amber gemstone inlays, floating carved slabs, hidden trap mechanisms, sunbeams through broken ceilings, star-map carvings, and maze corridors that change when spell stones are used carelessly.
 - Continuity notes: Aurum Gold is transported here from their own world with no memory of arrival. The temple responds to intent: it escalates against force, confusion, and careless command, but opens paths when Aurum studies relationships between stones, sand, carvings, and memory symbols.
 - Reference image: `../reference-images/otherworldly-sandy-temple-setting.png`
+
+## Setting: Interdimensional Hotel
+
+- First appears: Issue #16, "The Show That Needed A Battery"
+- Visual identifiers: Vast polished anime hotel between worlds, silver floors, glowing blue-white electrical conduit lines, impossible windows full of stars, floating portal doorways with colored rims, central concierge desk, event banners with abstract non-readable symbols, and an attached animal-show arena.
+- Continuity notes: Bato Leo works here as an event coordinator. The hotel depends on stable portal power and careful event management because guests and creatures arrive from many worlds at once. Issue #16 establishes that Bato can power and stabilize the hotel when they use electricity gently and coordinate frightened guests and animals instead of blasting raw current.
+- Reference image: `../reference-images/interdimensional-hotel-setting.png`
