@@ -54,3 +54,14 @@
 - New settings: Troll Land; Mount Master.
 - New key items: Master Rod.
 - Reference images added: `purple-climber-character.png`, `wandering-hero-character.png`, `the-master-character.png`, `troll-land-setting.png`, `mount-master-setting.png`, `master-rod-key-item.png`.
+
+## Issue #6: The Dragon Blade of Moon Lantern Temple
+
+- Folder: `series/american-monomyth-comics/issues/issue-06/`
+- Logline: When a dropped ceremony candle burns away the seal that imprisoned clawed spirits beneath a sacred rabbit temple, wandering red-armored samurai Akaryu calls on the Dragon God, destroys the spirits with golden blade-light, saves Tsukihana Village, and leaves before gratitude can make him stay.
+- Plot summary: Tsukihana Village begins as a peaceful feudal-Japan utopia of humanoid rabbits who gather for a candle lighting ceremony at Moon Lantern Temple. The temple's Spirit Seal has contained the Ashen Claw Spirits for generations, but young Kiko trips and drops her candle on the seal. Fire burns the seal away, the spirits attack, the Candle-Keeper Monks' prayer beads are sliced apart, and the Moon Gate Guards' spears pass harmlessly through the spirits' incorporeal bodies. Akaryu, a wandering rabbit samurai in red dragon armor, arrives, stands between the helpless village and the spirits, calls on the Dragon God, and fills the Dragonlit Katana with golden light. The spirits stop mocking him when the blade cuts their smoke bodies, and Akaryu destroys them with controlled acrobatic swordwork that protects the villagers. The Spirit Seal reforms, Kiko is forgiven, the village builds Akaryu a statue, and Akaryu refuses to stay because other towns need him. Generations later, the statue crumbles and Akaryu's name is forgotten because Tsukihana's peace endured.
+- Continuity changes: Establishes Tsukihana Village, Moon Lantern Temple, Akaryu, Kiko, the Ashen Claw Spirits, the Candle-Keeper Monks, the Moon Gate Guards, the Dragon God, the Spirit Seal, and the Dragonlit Katana.
+- New characters: Akaryu; Kiko; Ashen Claw Spirits; Candle-Keeper Monks; Moon Gate Guards; Dragon God.
+- New settings: Tsukihana Village; Moon Lantern Temple.
+- New key items: Spirit Seal; Dragonlit Katana.
+- Reference images added: `akaryu-character.png`, `ashen-claw-spirits-character.png`, `dragon-god-character.png`, `tsukihana-village-setting.png`, `moon-lantern-temple-setting.png`, `spirit-seal-key-item.png`, `dragonlit-katana-key-item.png`.

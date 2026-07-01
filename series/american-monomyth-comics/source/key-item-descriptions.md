@@ -48,3 +48,17 @@
 - Visual identifiers: Tall white-and-gold lightning staff with a glowing blue-white core, forked crown, storm rings, troll-horn motifs, and controlled lightning that can lift, heal, and protect.
 - Continuity notes: Held by The Master, claimed by Purple Climber after she learns balance, and passed peacefully to later trolls across generations.
 - Reference image: `../reference-images/master-rod-key-item.png`
+
+## Key Item: Spirit Seal
+
+- First appears: Issue #6, "The Dragon Blade of Moon Lantern Temple"
+- Visual identifiers: Circular gold-and-white sacred seal made of brushstroke rings, moon petals, dragon scale marks, and rabbit temple glyphs set into stone at Moon Lantern Temple.
+- Continuity notes: Holds the Ashen Claw Spirits behind the temple threshold until candle fire burns it away. Restored by Akaryu's dragon-lit blade after the spirits are defeated.
+- Reference image: `../reference-images/spirit-seal-key-item.png`
+
+## Key Item: Dragonlit Katana
+
+- First appears: Issue #6, "The Dragon Blade of Moon Lantern Temple"
+- Visual identifiers: Elegant katana with red lacquer scabbard, gold dragon guard, white grip wrap, moon-shaped pommel charm, and a blade that becomes golden when the Dragon God answers.
+- Continuity notes: Can cut incorporeal spirits only when used in calm sacred service, not anger or vanity. Akaryu carries it as he wanders between threatened towns.
+- Reference image: `../reference-images/dragonlit-katana-key-item.png`

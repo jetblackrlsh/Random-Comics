@@ -48,3 +48,17 @@
 - Visual identifiers: Largest mountain in Troll Land, impossibly tall with bright cliffs, flowered lower slopes, uphill rivers climbing its sides, and a divine white summit crowned by blue-white lightning where The Master appears.
 - Continuity notes: Sacred home of The Master and the race site where the Master Rod descends.
 - Reference image: `../reference-images/mount-master-setting.png`
+
+## Setting: Tsukihana Village
+
+- First appears: Issue #6, "The Dragon Blade of Moon Lantern Temple"
+- Visual identifiers: Peaceful feudal-Japan village of humanoid rabbits with lantern streets, rice terraces, moon bridges, wooden homes, tile roofs, koi ponds, cherry blossoms, candle ceremony banners, and a sacred temple above stone steps.
+- Continuity notes: Survives the Ashen Claw Spirits' attack, honors Akaryu with a statue, then remains peaceful for generations until the statue crumbles and the hero is forgotten.
+- Reference image: `../reference-images/tsukihana-village-setting.png`
+
+## Setting: Moon Lantern Temple
+
+- First appears: Issue #6, "The Dragon Blade of Moon Lantern Temple"
+- Visual identifiers: Red-and-white wooden temple above broad stone steps, moon lanterns, gold roof ornaments, carved rabbit guardians, candle terraces, and a glowing circular Spirit Seal on the upper stair landing.
+- Continuity notes: Built to contain the Ashen Claw Spirits. Its Spirit Seal burns during Kiko's candle accident and is restored by Dragon God light through Akaryu's blade.
+- Reference image: `../reference-images/moon-lantern-temple-setting.png`

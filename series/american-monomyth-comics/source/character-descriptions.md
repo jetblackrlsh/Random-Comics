@@ -109,3 +109,48 @@
 - Role: supporting collective of top troll climbers.
 - Visual identifiers: Seven athletic shaggy trolls with bell-shaped heads, horns, and red eyes, each marked by a different fur color and climbing gear; Purple Climber is the fastest and most feared member.
 - Continuity notes: Their tradition says the Master Rod race must be open to the best climbers, even when Purple's magic gives her an unfair advantage.
+
+## Character: Akaryu
+
+- First appears: Issue #6, "The Dragon Blade of Moon Lantern Temple"
+- Role: protagonist, exceptional hero, wandering rabbit samurai.
+- Visual identifiers: Tall athletic humanoid rabbit samurai with white fur, calm amber eyes, long swept-back rabbit ears, layered red lacquer dragon armor, gold horned dragon crest, crimson haori panels, black hakama, dragon-scale shoulder guards, and a golden-sheathed katana.
+- Continuity notes: Arrives when the Ashen Claw Spirits escape Moon Lantern Temple, calls on the Dragon God, destroys the spirits with the Dragonlit Katana, saves Tsukihana Village, refuses to stay as its permanent guardian, and continues wandering to protect other towns.
+- Reference image: `../reference-images/akaryu-character.png`
+
+## Character: Kiko
+
+- First appears: Issue #6, "The Dragon Blade of Moon Lantern Temple"
+- Role: young candle bearer whose accident releases the spirits.
+- Visual identifiers: Small humanoid rabbit girl with cream fur, round dark eyes, short festival kimono in pale pink and moon-white, red sash, flower hairpin near one ear, and a small ceremonial candle cup.
+- Continuity notes: Trips during the candle lighting ceremony, accidentally burns the Spirit Seal, then is forgiven after Akaryu saves the village. She represents innocence and the need to rebuild without blaming a child for ancient evil.
+
+## Character: Ashen Claw Spirits
+
+- First appears: Issue #6, "The Dragon Blade of Moon Lantern Temple"
+- Role: collective antagonist and mythic evil.
+- Visual identifiers: Smoky black-and-indigo incorporeal spirits with rabbit-skull hints, long white clawed hands, ember eyes, torn mist bodies, ash trails, and sharp crescent silhouettes.
+- Continuity notes: Imprisoned behind Moon Lantern Temple's Spirit Seal until Kiko's dropped candle burns it away. They slice through prayer beads, ignore physical spears, mock Akaryu, then fear and dissolve before Dragon God light.
+- Reference image: `../reference-images/ashen-claw-spirits-character.png`
+
+## Character: Candle-Keeper Monks
+
+- First appears: Issue #6, "The Dragon Blade of Moon Lantern Temple"
+- Role: ordinary religious institution and supporting collective.
+- Visual identifiers: Adult humanoid rabbit monks in saffron, ivory, and indigo robes, wooden sandals, long prayer beads, tied fur patterns, and lantern charms.
+- Continuity notes: Maintain the candle ceremony and the Spirit Seal's traditions. Their beads preserve ordinary peace but fail against the freed Ashen Claw Spirits.
+
+## Character: Moon Gate Guards
+
+- First appears: Issue #6, "The Dragon Blade of Moon Lantern Temple"
+- Role: ordinary civic defenders and supporting collective.
+- Visual identifiers: Disciplined humanoid rabbit guards in blue-gray lamellar armor, crescent helmets shaped around rabbit ears, long yari spears, and protective gate banners.
+- Continuity notes: Bravely defend Tsukihana Village, but their physical spears pass through incorporeal spirits without harm.
+
+## Character: Dragon God
+
+- First appears: Issue #6, "The Dragon Blade of Moon Lantern Temple"
+- Role: sacred power source aiding Akaryu.
+- Visual identifiers: Enormous luminous golden dragon spirit with antler-like horns, pearl whiskers, sunlit scales, warm wise eyes, and a body made of clouds, flame, and shrine light.
+- Continuity notes: Answers Akaryu's calm prayer, fills the Dragonlit Katana with golden light, lets the blade cut spirits, and helps reseal Moon Lantern Temple.
+- Reference image: `../reference-images/dragon-god-character.png`
