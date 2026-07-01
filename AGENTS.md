@@ -32,7 +32,9 @@ These instructions apply to the whole Random Comics repository.
 - Speech bubbles, dialogue balloons, thought bubbles, manga bubble tails, floating character dialogue, and unboxed spoken or thought text are not allowed in American Monomyth Comics.
 - Rewrite speech and thoughts as short caption-box text attributed by context.
 - Caption text may be detailed and long when needed for story clarity, as long as it remains readable and fits cleanly in caption boxes.
-- Prioritize story clarity over minimalism: American Monomyth Comics should be easy to read and understand, with enough caption text to make plot, motivation, cause-and-effect, stakes, and page-to-page continuity clear.
+- Prioritize story clarity over minimalism: American Monomyth Comics should be incredibly clear, easy to understand, and obvious to the reader.
+- Do not make the reader infer what the story is about or what is happening; avoid ambiguity, overly complicated plotting, and unclear page-to-page action.
+- Prefer long captions when they communicate more information, because detailed captions make plot, motivation, cause-and-effect, stakes, and continuity clearer and easier to understand.
 
 ## Adding Pages To An Existing Comic
 
