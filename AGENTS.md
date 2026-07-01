@@ -17,6 +17,15 @@ These instructions apply to the whole Random Comics repository.
 - PDF assembly and preview generation may normalize, resize, package, or contact-sheet the completed generated page images, but must not create the comic art, caption text, title text, or page content as a substitute for `image_gen`.
 - All readable story text in comic pages must be generated directly inside the page art by `image_gen`; do not add narration, dialogue, titles, labels, or caption text afterward with code, image editing, canvas drawing, HTML/CSS, or PDF tooling.
 
+## Story Crafting Requirement
+
+- Make every comic story incredibly clear and easy to understand.
+- Do not make the reader infer what the story is about or what is happening in the story.
+- The story should feel very obvious to the reader, with clear plot, motivation, cause-and-effect, stakes, continuity, and page-to-page action.
+- Avoid ambiguity, overly complicated plotting, unclear character goals, and unclear scene transitions.
+- Long captions are preferred when they communicate more information to the reader, because they make the story clearer and easier to understand.
+- Captions should explain the important context directly while still fitting cleanly and remaining readable inside the generated page art.
+
 ## Before Creating Or Editing A Comic
 
 1. Determine whether the comic is standalone or part of a series.
