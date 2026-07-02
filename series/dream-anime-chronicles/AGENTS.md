@@ -28,10 +28,15 @@ Character introduction stories should:
 
 - introduce a specific Dream Anime character's backstory, powers, personality, and motivations
 - tie the main conflict directly to that character's personal goal
-- force the character to fail multiple times while testing the wrong power, tactic, or emotional approach
-- end with the character choosing the power or strategy that defines who they are
+- force the character to fail twice before the final solution, with each failure testing a clearly explained wrong power, tactic, assumption, or emotional approach
+- make each failure readable as cause-and-effect: state what the character is trying, why they believe it should work, exactly why it fails, and what new information the failure reveals
+- make the second failure escalate or clarify the first failure instead of repeating it; the second failure should narrow the real problem and point toward what the final solution must address
+- end with the character choosing the power or strategy that defines who they are, and make that final solution feel earned because it directly answers the specific lessons from both failures
+- explain the final solution in concrete story terms: what changes in the character's understanding, what tactic or power changes, why that change works now, and what visible result proves it worked
 - work as the first and last story a reader would need to understand the character
 - end with a ninth page that acts as both a character poster and full-issue summary page. This page must feature the introduced character in a strong poster composition plus one large readable caption box that summarizes the entire issue.
+
+Before writing page prompts for a character introduction issue, define the issue's clarity chain in the treatment: central problem, first failed attempt, reason the first attempt fails, second failed attempt, reason the second attempt fails, final solution, and reason the final solution works. Do not leave the failures or solution as vague spectacle, unexplained power escalation, sudden intuition, or arbitrary anime logic.
 
 Versus battles should:
 
