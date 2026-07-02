@@ -62,3 +62,10 @@
 - Visual identifiers: Elegant katana with red lacquer scabbard, gold dragon guard, white grip wrap, moon-shaped pommel charm, and a blade that becomes golden when the Dragon God answers.
 - Continuity notes: Can cut incorporeal spirits only when used in calm sacred service, not anger or vanity. Akaryu carries it as he wanders between threatened towns.
 - Reference image: `../reference-images/dragonlit-katana-key-item.png`
+
+## Key Item: Orange's Roller Skates
+
+- First appears: Issue #7, "The Orange Hero of Candy World"
+- Visual identifiers: Blue-and-white heroic roller skates with citrus-green wheels, leaf emblems, polished silver axles, and glowing green-and-gold speed trails.
+- Continuity notes: Let Orange evade Giant Sugar Ant mandibles, circle the swarm, rescue Candy World citizens quickly, and lure the ants into the rock-candy canyon without being caught.
+- Reference image: `../reference-images/oranges-roller-skates-key-item.png`

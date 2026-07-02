@@ -62,3 +62,17 @@
 - Visual identifiers: Red-and-white wooden temple above broad stone steps, moon lanterns, gold roof ornaments, carved rabbit guardians, candle terraces, and a glowing circular Spirit Seal on the upper stair landing.
 - Continuity notes: Built to contain the Ashen Claw Spirits. Its Spirit Seal burns during Kiko's candle accident and is restored by Dragon God light through Akaryu's blade.
 - Reference image: `../reference-images/moon-lantern-temple-setting.png`
+
+## Setting: Candy World
+
+- First appears: Issue #7, "The Orange Hero of Candy World"
+- Visual identifiers: Candy utopia with gingerbread houses, frosting roads, gumdrop gardens, sugar fountains, chocolate bridges, lollipop lampposts, candy-cane arches, bright skies, and gingerbread men, gummy bears, and chocolate bunnies living together peacefully.
+- Continuity notes: Starts as a harmonious but sugar-dependent society whose citizens are too weak to stop the Giant Sugar Ants. After Orange saves it, Candy World adds fruit gardens, exercise paths, stronger homes, and healthier habits while keeping its sweetness.
+- Reference image: `../reference-images/candy-world-setting.png`
+
+## Setting: Fruit World
+
+- First appears: Issue #7, "The Orange Hero of Candy World"
+- Visual identifiers: Healthy utopia of bright orchards, fruit-shaped homes, vegetable gardens, training paths, smoothie waterfalls, clean sunlight, athletic fruit citizens, and green-and-gold healthy energy.
+- Continuity notes: Orange's homeland. Its culture of healthy food, exercise, and daily discipline explains Orange's strength and speed.
+- Reference image: `../reference-images/fruit-world-setting.png`

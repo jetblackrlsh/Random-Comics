@@ -154,3 +154,27 @@
 - Visual identifiers: Enormous luminous golden dragon spirit with antler-like horns, pearl whiskers, sunlit scales, warm wise eyes, and a body made of clouds, flame, and shrine light.
 - Continuity notes: Answers Akaryu's calm prayer, fills the Dragonlit Katana with golden light, lets the blade cut spirits, and helps reseal Moon Lantern Temple.
 - Reference image: `../reference-images/dragon-god-character.png`
+
+## Character: Orange
+
+- First appears: Issue #7, "The Orange Hero of Candy World"
+- Role: protagonist, exceptional hero, athletic fruit-world rescuer.
+- Visual identifiers: Athletic anthropomorphic orange fruit hero with bright orange peel texture, expressive heroic eyes, white gloves, green-and-white sweatbands on wrists and forehead, compact muscular limbs, blue-and-white roller skates with fruit-leaf emblems, and a confident protective grin.
+- Continuity notes: Comes from Fruit World, eats healthy food, exercises every day, wears sweatbands, and uses roller skates to evade Giant Sugar Ant attacks. Saves Candy World by rescuing citizens, luring the ants away, trapping the swarm in a rock-candy canyon, inspiring healthier habits, and leaving to protect others.
+- Reference image: `../reference-images/orange-character.png`
+
+## Character: Candy World Denizens
+
+- First appears: Issue #7, "The Orange Hero of Candy World"
+- Role: threatened innocent community.
+- Visual identifiers: Friendly gingerbread men with icing faces, translucent gummy bears in jewel colors, chocolate bunnies with candy-button clothes, frosting hats, sprinkle accessories, soft round shapes, and expressive frightened or joyful faces.
+- Continuity notes: Begin as kind, harmonious sugar-dependent citizens who are too weak to resist the Giant Sugar Ants. After Orange saves them, they add fruit, vegetables, and daily exercise to Candy World and grow stronger over generations.
+- Reference image: `../reference-images/candy-world-denizens-character.png`
+
+## Character: Giant Sugar Ants
+
+- First appears: Issue #7, "The Orange Hero of Candy World"
+- Role: collective antagonist and mythic invasion.
+- Visual identifiers: Enormous armored sugar ants with glossy red-brown shells, crystal-sugar mandibles, bright hungry eyes, segmented bodies as large as houses, clawed legs gripping candy streets, and sugar grains stuck to their armor.
+- Continuity notes: Invade Candy World to eat its sugar. Each ant can lift things ten times its size and tear through gingerbread houses. Orange defeats the swarm by using strength, speed, and discipline to lure and trap them away from civilians.
+- Reference image: `../reference-images/giant-sugar-ants-character.png`

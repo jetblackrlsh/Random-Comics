@@ -65,3 +65,14 @@
 - New settings: Tsukihana Village; Moon Lantern Temple.
 - New key items: Spirit Seal; Dragonlit Katana.
 - Reference images added: `akaryu-character.png`, `ashen-claw-spirits-character.png`, `dragon-god-character.png`, `tsukihana-village-setting.png`, `moon-lantern-temple-setting.png`, `spirit-seal-key-item.png`, `dragonlit-katana-key-item.png`.
+
+## Issue #7: The Orange Hero of Candy World
+
+- Folder: `series/american-monomyth-comics/issues/issue-07/`
+- Logline: When giant sugar ants invade Candy World and tear through its gingerbread homes because the sugar-fed citizens are too weak to resist, Orange rolls in from Fruit World on skates, uses healthy strength and daily discipline to defeat the ants, inspires Candy World to become healthier, and leaves before his monument can become more important than the next people who need help.
+- Plot summary: Candy World begins as a cheerful utopia where gingerbread men, gummy bears, and chocolate bunnies live peacefully on sugar. Their constant sugar diet has made them lazy and weak, which becomes disastrous when Giant Sugar Ants invade to eat every sugar source. Candy World's guards, bakers, builders, syrup pumps, licorice nets, and frosting barricades fail because the ants can lift things ten times their size and rip through gingerbread homes. Orange arrives from Fruit World wearing sweatbands and roller skates, shows that healthy food and daily exercise have made him strong, rescues trapped citizens, dodges ant attacks, studies the sugar trail, lures the ants away from the central sugar fountain, and traps the swarm in a rock-candy canyon. Candy World rebuilds with fruit gardens, vegetables, training paths, and stronger homes. The citizens honor Orange with a monument and offer him a palace, but he skates away to protect others. Generations later, Candy World is stronger and healthier, while Orange's name fades because peace has become normal.
+- Continuity changes: Establishes Candy World, Fruit World, Orange, the Candy World Denizens, the Giant Sugar Ants, and Orange's Roller Skates. Establishes Candy World's long-term change from sugar-dependent weakness to balanced health and strength.
+- New characters: Orange; Candy World Denizens; Giant Sugar Ants.
+- New settings: Candy World; Fruit World.
+- New key items: Orange's Roller Skates.
+- Reference images added: `orange-character.png`, `candy-world-denizens-character.png`, `giant-sugar-ants-character.png`, `candy-world-setting.png`, `fruit-world-setting.png`, `oranges-roller-skates-key-item.png`.
