@@ -76,3 +76,14 @@
 - New settings: Candy World; Fruit World.
 - New key items: Orange's Roller Skates.
 - Reference images added: `orange-character.png`, `candy-world-denizens-character.png`, `giant-sugar-ants-character.png`, `candy-world-setting.png`, `fruit-world-setting.png`, `oranges-roller-skates-key-item.png`.
+
+## Issue #8: The Angel Who Remembered Eden
+
+- Folder: `series/american-monomyth-comics/issues/issue-08/`
+- Logline: When God's flood forgets the innocent Garden of Eden, exiled angel Seraphiel defies Heaven, gives the Tree of Life to Eden's doomed guardians and talking animals, and leaves paradise to become humanity's guardian angel.
+- Plot summary: After Adam and Eve are cast out, Eden remains a peaceful sealed paradise of talking animals, gate angels, the Tree of Life, and the Tree of Knowledge of Good and Evil. Generations later, God's wrath at humanity becomes the Great Flood and forgets Eden entirely. The gate angels try to defend their post, but the waves extinguish their flaming swords, and Jacob's Ladder offers only escape, not rescue. Seraphiel notices Eden's absence from Heaven, descends without permission, and leads the ashamed guards to the submerged Tree of Life. She eats the fruit first, accepts transformation, and shares it with Eden's angels and animals, making them immortal and water-adapted with luminous gills. When the flood passes, Eden is repaired and the flaming swords reignite. The garden invites Seraphiel to stay, but she refuses because her mercy defied God's will and changed Eden forever. She leaves paradise in exile and turns that exile into repentance by protecting humanity as a guardian angel.
+- Continuity changes: Establishes Seraphiel, God as Divine Wrath, Eden's gate angels, Eden's talking animals, the Garden of Eden, Jacob's Ladder, the twin trees of Eden, and the Eden flaming swords. Establishes that Eden survived the Great Flood because Seraphiel made its inhabitants immortal and water-adapted.
+- New characters: Seraphiel; God as Divine Wrath; Eden Gate Angels; Eden's Talking Animals; Adam and Eve.
+- New settings: Garden of Eden; Jacob's Ladder.
+- New key items: Twin Trees of Eden; Eden Flaming Swords.
+- Reference images added: `seraphiel-character.png`, `divine-wrath-character.png`, `eden-gate-angels-character.png`, `eden-talking-animals-character.png`, `garden-of-eden-setting.png`, `jacobs-ladder-setting.png`, `twin-trees-of-eden-key-item.png`, `flaming-swords-key-item.png`.

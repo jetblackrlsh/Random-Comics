@@ -178,3 +178,41 @@
 - Visual identifiers: Enormous armored sugar ants with glossy red-brown shells, crystal-sugar mandibles, bright hungry eyes, segmented bodies as large as houses, clawed legs gripping candy streets, and sugar grains stuck to their armor.
 - Continuity notes: Invade Candy World to eat its sugar. Each ant can lift things ten times its size and tear through gingerbread houses. Orange defeats the swarm by using strength, speed, and discipline to lure and trap them away from civilians.
 - Reference image: `../reference-images/giant-sugar-ants-character.png`
+
+## Character: Seraphiel
+
+- First appears: Issue #8, "The Angel Who Remembered Eden"
+- Role: protagonist, exceptional hero, outsider angel, and future guardian angel of humanity.
+- Visual identifiers: Tall androgynous angel with warm brown skin, luminous silver eyes, long dark curls threaded with starlight, six white-and-gold wings, pearl-and-gold celestial armor over a white robe, bare glowing hands, blue-gold halo ring, and later delicate radiant gills along the neck after eating the Tree of Life fruit.
+- Continuity notes: Remembers Eden from Heaven after God forgets it during the Great Flood, descends Jacob's Ladder without permission, saves Eden's angels and talking animals with fruit from the Tree of Life, refuses to remain in paradise, and accepts exile as a guardian angel for humanity.
+- Reference image: `../reference-images/seraphiel-character.png`
+
+## Character: God as Divine Wrath
+
+- First appears: Issue #8, "The Angel Who Remembered Eden"
+- Role: mythic antagonist force.
+- Visual identifiers: Not shown as a normal human figure; represented by colossal storm-cloud radiance, golden-white lightning, vast hands of light in the sky, unreadable eye-like sunbursts, and flood clouds that feel conscious and overwhelming.
+- Continuity notes: God's anger at humanity consumes the world in the Great Flood and forgets innocent Eden, forcing Seraphiel to choose mercy against divine wrath.
+- Reference image: `../reference-images/divine-wrath-character.png`
+
+## Character: Eden Gate Angels
+
+- First appears: Issue #8, "The Angel Who Remembered Eden"
+- Role: ordinary institution, devoted guardians, and saved community.
+- Visual identifiers: Disciplined angels in white-and-scarlet gate armor, two or four wings each, bronze-gold helmets, solemn devoted faces, flaming swords with orange-white fire, and after transformation luminous gills and water-glow halos.
+- Continuity notes: Guard Eden from humanity after Adam and Eve's exile. They enjoy their work, fail against the flood, help Seraphiel distribute Tree of Life fruit, survive as immortal water-adapted angels, and return to guarding Eden.
+- Reference image: `../reference-images/eden-gate-angels-character.png`
+
+## Character: Eden's Talking Animals
+
+- First appears: Issue #8, "The Angel Who Remembered Eden"
+- Role: innocent threatened community.
+- Visual identifiers: Expressive paradise animals including lions, lambs, peacocks, foxes, deer, doves, serpents, rabbits, and turtles with gentle intelligent faces, tiny garlands, jewel-bright eyes, and after transformation delicate luminous gills and faint halo markings.
+- Continuity notes: Live peacefully in Eden without sinful humans, nearly drown during the flood, eat the Tree of Life fruit, become immortal, repair Eden after the waters pass, and keep paradise alive.
+- Reference image: `../reference-images/eden-talking-animals-character.png`
+
+## Character: Adam and Eve
+
+- First appears: Issue #8, "The Angel Who Remembered Eden"
+- Role: prologue figures whose exile defines Eden's sealed status.
+- Continuity notes: Cast out of Eden before the main story begins. They appear only as distant prologue silhouettes beyond the eastern gate.

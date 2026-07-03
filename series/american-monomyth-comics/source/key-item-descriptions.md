@@ -69,3 +69,17 @@
 - Visual identifiers: Blue-and-white heroic roller skates with citrus-green wheels, leaf emblems, polished silver axles, and glowing green-and-gold speed trails.
 - Continuity notes: Let Orange evade Giant Sugar Ant mandibles, circle the swarm, rescue Candy World citizens quickly, and lure the ants into the rock-candy canyon without being caught.
 - Reference image: `../reference-images/oranges-roller-skates-key-item.png`
+
+## Key Item: Twin Trees of Eden
+
+- First appears: Issue #8, "The Angel Who Remembered Eden"
+- Visual identifiers: The Tree of Life bears blue-gold fruit, healing light, and living water roots; the Tree of Knowledge of Good and Evil bears red-gold fruit, sharp knowledge light, and serpent-like branch curves.
+- Continuity notes: The Tree of Life saves Eden during the Great Flood when Seraphiel shares its fruit with the angels and talking animals, making them immortal and water-adapted. The Tree of Knowledge remains a mystical landmark that marks Eden's original moral history.
+- Reference image: `../reference-images/twin-trees-of-eden-key-item.png`
+
+## Key Item: Eden Flaming Swords
+
+- First appears: Issue #8, "The Angel Who Remembered Eden"
+- Visual identifiers: Elegant angelic swords with white-gold blades wrapped in orange-white holy flame, bronze guards, wing motifs, and a contrast between flood-extinguished blades and reignited post-flood blades.
+- Continuity notes: Given to the gate angels to keep humanity from reentering Eden. The flood extinguishes them, proving the guards' ordinary mission cannot save paradise from divine wrath, but the swords reignite after Eden is restored.
+- Reference image: `../reference-images/flaming-swords-key-item.png`

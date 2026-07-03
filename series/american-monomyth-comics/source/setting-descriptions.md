@@ -76,3 +76,17 @@
 - Visual identifiers: Healthy utopia of bright orchards, fruit-shaped homes, vegetable gardens, training paths, smoothie waterfalls, clean sunlight, athletic fruit citizens, and green-and-gold healthy energy.
 - Continuity notes: Orange's homeland. Its culture of healthy food, exercise, and daily discipline explains Orange's strength and speed.
 - Reference image: `../reference-images/fruit-world-setting.png`
+
+## Setting: Garden of Eden
+
+- First appears: Issue #8, "The Angel Who Remembered Eden"
+- Visual identifiers: Sealed paradise with luminous rivers, jewel flowers, giant living trees, talking animals in peace, a golden eastern gate, and two mystical landmark trees: the Tree of Life glowing blue-gold and the Tree of Knowledge glowing red-gold.
+- Continuity notes: Remains alive after Adam and Eve are cast out, is guarded from humanity by angels with flaming swords, is forgotten during the Great Flood, survives underwater when Seraphiel shares the Tree of Life fruit, and is restored by immortal angels and talking animals after the waters pass.
+- Reference image: `../reference-images/garden-of-eden-setting.png`
+
+## Setting: Jacob's Ladder
+
+- First appears: Issue #8, "The Angel Who Remembered Eden"
+- Visual identifiers: Towering stairway of white-gold light descending from starry Heaven through clouds toward Earth, with angelic silhouettes moving along it and storm clouds below.
+- Continuity notes: Offers Eden's gate angels a way to flee back to Heaven during the flood, but not a way to save Eden. Seraphiel uses it in the opposite direction, descending without permission to rescue the forgotten garden.
+- Reference image: `../reference-images/jacobs-ladder-setting.png`
