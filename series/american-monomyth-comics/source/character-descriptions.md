@@ -216,3 +216,27 @@
 - First appears: Issue #8, "The Angel Who Remembered Eden"
 - Role: prologue figures whose exile defines Eden's sealed status.
 - Continuity notes: Cast out of Eden before the main story begins. They appear only as distant prologue silhouettes beyond the eastern gate.
+
+## Character: Vinaura
+
+- First appears: Issue #9, "The Vines Beneath Cyberdon"
+- Role: protagonist, exceptional hero, wandering cyber fairy.
+- Visual identifiers: Athletic young adult cyber fairy with warm tan skin, sharp emerald eyes, long flowing hair streaked green and pink, translucent circuit-veined fairy wings, sleek black-and-silver cyber armor with bright magenta and emerald glowing panels, white winglike ear fins, luminous vine filigree on gauntlets and boots, and a fierce protective expression.
+- Continuity notes: Controls vines, roots, tendrils, leaves, and living green growth. Her cyber armor scans toxins, filters air, projects wing light, and resists poison for a limited time. She saves Cyberdon by sealing the toxic inflow pipe, refuses to become the city's permanent guardian, and returns to the wilderness.
+- Reference image: `../reference-images/vinaura-character.png`
+
+## Character: Rotspire
+
+- First appears: Issue #9, "The Vines Beneath Cyberdon"
+- Role: antagonist and living pollution abomination.
+- Visual identifiers: Towering humanoid mass of black-green sludge and rotten root-like pollution, corroded pipe spines, toxic foam shoulders, fungus-like growths, cracked concrete armor plates, glowing acid-green waste orbs, sewer-grate chest cavity, dripping clawed hands, long tendrils, and a skull-like face suggested by molten waste light rather than normal skin.
+- Continuity notes: Born from Cyberdon's hidden sewer pollution. Draws strength from the toxic inflow pipe, reforms when damaged, and telepathically controls sewer creatures twisted by poison. Defeated when Vinaura seals the pipe that feeds him.
+- Reference image: `../reference-images/rotspire-and-sewer-mutants-character.png`
+
+## Character: Sewer Mutants
+
+- First appears: Issue #9, "The Vines Beneath Cyberdon"
+- Role: collective antagonist army and victims of pollution.
+- Visual identifiers: Giant rats with bristling oily fur and glowing green scars, huge sewer alligators with armored toxic scales, and warped fish and insects in the background, all with acid-green eyes while Rotspire controls them.
+- Continuity notes: Twisted by sewer poison and telepathically commanded by Rotspire. Once the toxic flow stops, surviving mutants lose his control and some can be healed.
+- Reference image: `../reference-images/rotspire-and-sewer-mutants-character.png`

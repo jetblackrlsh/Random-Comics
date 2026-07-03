@@ -87,3 +87,14 @@
 - New settings: Garden of Eden; Jacob's Ladder.
 - New key items: Twin Trees of Eden; Eden Flaming Swords.
 - Reference images added: `seraphiel-character.png`, `divine-wrath-character.png`, `eden-gate-angels-character.png`, `eden-talking-animals-character.png`, `garden-of-eden-setting.png`, `jacobs-ladder-setting.png`, `twin-trees-of-eden-key-item.png`, `flaming-swords-key-item.png`.
+
+## Issue #9: The Vines Beneath Cyberdon
+
+- Folder: `series/american-monomyth-comics/issues/issue-09/`
+- Logline: When Cyberdon's hidden waste stream births Rotspire, a living pollution tyrant who commands sewer-mutant rats and alligators, wandering cyber fairy Vinaura descends beneath the city, seals the toxic inflow with living vines, forces the utopia to clean its own foundations, and leaves before peace can make her belong.
+- Plot summary: Cyberdon begins as a bright cyberpunk utopia of towers, sky rails, clinics, schools, and gardens, but its hidden sewer inflow pipe pours toxic waste below the streets. That pollution twists sewer creatures into giant rats and alligators and births Rotspire, a living pollution abomination who telepathically commands every creature changed by the poison. Cyberdon's guards, drones, plasma cannons, and hazard engineers damage Rotspire, but the continual waste flow rebuilds him faster than they can harm him. Vinaura, a wandering cyber fairy from the wilderness, sees that Rotspire is being fed from below, enters the sewer despite the danger, fights through mutants, finds the toxic inflow pipe, and seals it with a dense plug of living vines. With the flow cut off, Rotspire collapses, the mutants lose his control, and Cyberdon builds a visible filtration system where denial had been. The city honors Vinaura and asks her to stay, but she returns to the wilderness. Generations of peace follow until Cyberdon forgets her name because the lesson lasted.
+- Continuity changes: Establishes Cyberdon, Vinaura, Rotspire, the Sewer Mutants, and the Toxic Inflow Pipe. Establishes that Cyberdon reforms its hidden waste system into transparent filtration and remains peaceful for generations after Vinaura leaves.
+- New characters: Vinaura; Rotspire; Sewer Mutants.
+- New settings: Cyberdon.
+- New key items: Toxic Inflow Pipe.
+- Reference images added: `vinaura-character.png`, `rotspire-and-sewer-mutants-character.png`, `cyberdon-setting.png`, `toxic-inflow-pipe-key-item.png`.

@@ -90,3 +90,10 @@
 - Visual identifiers: Towering stairway of white-gold light descending from starry Heaven through clouds toward Earth, with angelic silhouettes moving along it and storm clouds below.
 - Continuity notes: Offers Eden's gate angels a way to flee back to Heaven during the flood, but not a way to save Eden. Seraphiel uses it in the opposite direction, descending without permission to rescue the forgotten garden.
 - Reference image: `../reference-images/jacobs-ladder-setting.png`
+
+## Setting: Cyberdon
+
+- First appears: Issue #9, "The Vines Beneath Cyberdon"
+- Visual identifiers: Futuristic cyberpunk utopia with clean glass towers, neon sky rails, vertical gardens, luminous clinics, free schools, public plazas, holographic civic signs with fictional symbols, cyan and magenta city light, and hidden storm drains leading to old toxic sewers.
+- Continuity notes: A beautiful city worth saving that unknowingly pollutes the world around it through a hidden sewer inflow pipe. After Vinaura exposes the source of Rotspire's power, Cyberdon builds a transparent filtration system, cleans its sewers, and remains peaceful for generations until Vinaura is forgotten.
+- Reference image: `../reference-images/cyberdon-setting.png`

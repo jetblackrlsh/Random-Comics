@@ -83,3 +83,10 @@
 - Visual identifiers: Elegant angelic swords with white-gold blades wrapped in orange-white holy flame, bronze guards, wing motifs, and a contrast between flood-extinguished blades and reignited post-flood blades.
 - Continuity notes: Given to the gate angels to keep humanity from reentering Eden. The flood extinguishes them, proving the guards' ordinary mission cannot save paradise from divine wrath, but the swords reignite after Eden is restored.
 - Reference image: `../reference-images/flaming-swords-key-item.png`
+
+## Key Item: Toxic Inflow Pipe
+
+- First appears: Issue #9, "The Vines Beneath Cyberdon"
+- Visual identifiers: Massive rusted sewer pipe in a cracked concrete tunnel, pouring neon green toxic waste into black water, with warning stripes, corroded bolts, chemical mist, oily reflections, and later a dense braided plug of glowing emerald and magenta vines sealing the opening.
+- Continuity notes: The hidden source that feeds Rotspire and mutates sewer creatures. Vinaura seals it with living vines, forcing Cyberdon to replace hidden dumping with a proper transparent filtration system.
+- Reference image: `../reference-images/toxic-inflow-pipe-key-item.png`
