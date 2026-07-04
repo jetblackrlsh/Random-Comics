@@ -26,6 +26,8 @@ This skill is a series-specific variant of `skills/photo-comic-book-pdf`, but it
 - All readable narration, speech, and character thoughts must appear inside caption boxes generated directly in the art.
 - Speech bubbles, dialogue balloons, thought bubbles, floating dialogue text, manga speech balloons, and comic-style bubble tails are not allowed in American Monomyth Comics.
 - Caption text may be detailed and long when needed for story clarity, as long as it remains readable and fits cleanly in caption boxes.
+- Do not include redundant caption boxes that literally repeat the same wording as an earlier caption on the same page.
+- Do not number caption boxes or include caption labels such as "Caption 1" or "Caption 2" in the generated artwork.
 - Prioritize story clarity over minimalism: readers should easily understand what happened, why it happened, what each character wants, what is at stake, and how each page connects to the next.
 - Do not add narration, dialogue, titles, labels, captions, poster text, back-cover copy, or page text afterward with code, PDF tooling, image editing, canvas drawing, HTML/CSS, or any other typesetting step.
 
@@ -45,6 +47,8 @@ This skill is a series-specific variant of `skills/photo-comic-book-pdf`, but it
 - If a character speaks or thinks, rewrite that information as a caption box attributed by context instead of using a bubble.
 - Caption boxes should be short, rectangular, visually clean, and placed where they do not cover important faces, action, or continuity details.
 - Caption boxes may be longer or more detailed when the page would otherwise be ambiguous; use enough caption text to make plot, motivation, cause-and-effect, and emotional stakes easy to read and understand.
+- Caption boxes must not be numbered, labeled, or written with prefixes like "Caption 1:".
+- No caption box on a page may literally repeat the same wording as another caption box on that page.
 - Do not make pages cryptic for the sake of brevity. American Monomyth Comics should be clear, accessible, and easy to follow.
 - For poster-style back covers, any tagline or recap text should be integrated as clean poster caption boxes or rectangular text panels, not speech or thought bubbles.
 
@@ -77,8 +81,9 @@ This skill is a series-specific variant of `skills/photo-comic-book-pdf`, but it
      - `page-02.png` through `page-21.png`
      - `page-22-back-cover.png`
    - For each story page, include the American Monomyth step name, step function, panel layout, visual beats, readable caption-box text, continuity notes, action clarity notes, color palette, glow effects, and emotional intent.
-   - Keep visible page text reader-facing only. Do not include prompt scaffolding, panel labels, prefixes, or step labels inside the generated artwork unless the user explicitly wants visible step labels.
+   - Keep visible page text reader-facing only. Do not include prompt scaffolding, panel labels, caption numbers, caption labels, prefixes, or step labels inside the generated artwork unless the user explicitly wants visible step labels.
    - Prefer readable comic panels with integrated caption boxes. Short captions are fine for simple beats, but detailed captions are allowed and preferred when they improve comprehension. Avoid text so dense that image generation is unlikely to render it legibly.
+   - Do not script two caption boxes on the same page with identical wording.
    - Do not script speech bubbles, dialogue balloons, thought bubbles, or unboxed spoken/thought text.
 
 5. Generate images.
@@ -89,6 +94,7 @@ This skill is a series-specific variant of `skills/photo-comic-book-pdf`, but it
    - Repeat the issue's dominant style phrase: "high-saturation, high-detail, sharp crisp line art, bright glow effects, modern anime-inspired American superhero comic aesthetic."
    - Repeat that all readable story text must be generated directly inside caption boxes in the page art and that blank text boxes are not acceptable.
    - Repeat that speech bubbles, dialogue balloons, thought bubbles, and bubble tails are not allowed.
+   - Repeat that caption boxes must not include caption numbers or caption labels and must not literally repeat the same wording as another caption on the same page.
 
 6. Assemble the PDF and previews.
    - Run from the issue root:
@@ -105,7 +111,7 @@ python ../../../../skills/american-monomyth-comic-book-pdf/scripts/assemble_amer
 
 7. Verify and finalize.
    - Inspect the contact sheet and at least the cover, pages 2, 6, 10, 14, 18, 21, and 22.
-   - Confirm exact page count, 4:5 portrait pages, all 10 steps covered, page-turn hooks on pages 3, 5, 7, 9, 11, 13, 15, 17, 19, and 21, readable integrated caption-box text, no speech or thought bubbles, no later text overlays, bright anime-inspired superhero style, and consistent recurring visuals.
+   - Confirm exact page count, 4:5 portrait pages, all 10 steps covered, page-turn hooks on pages 3, 5, 7, 9, 11, 13, 15, 17, 19, and 21, readable integrated caption-box text, no numbered caption boxes, no duplicate same-page caption wording, no speech or thought bubbles, no later text overlays, bright anime-inspired superhero style, and consistent recurring visuals.
    - Confirm the story works as a standalone issue.
    - Regenerate any page that fails core requirements before assembling the final PDF.
    - Append a completed issue entry to `series/american-monomyth-comics/source/issue-summaries.md`.

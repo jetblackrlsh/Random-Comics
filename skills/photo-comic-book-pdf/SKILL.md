@@ -20,6 +20,8 @@ This is a style variant of `comic-book-pdf`. Keep the original skill's comic-boo
 - Default to story-clarity captions: longer, more descriptive narration that explains the premise, stakes, world rules, character motivation, and consequences clearly enough for the page to stand on its own.
 - The caption-box text belongs inside the generated image itself. Do not generate art and text as separate assets or layers.
 - Caption boxes must contain only reader-facing story text. Do not include prompt scaffolding, panel labels, or prefixes such as "Panel 1:", "Panel 2", "Caption:", or "Top caption:" inside the generated artwork.
+- Do not include redundant caption boxes that literally repeat the same wording as an earlier caption on the same page.
+- Do not number caption boxes or include caption labels such as "Caption 1" or "Caption 2" in the generated artwork.
 - Do not use speech bubbles, thought bubbles, floating dialogue, subtitles, watermarks, logos, or unreadable decorative text.
 - Keep dialogue minimal. Prefer narration that advances the story.
 - Keep the story complete and satisfying within the chosen page count.
@@ -53,7 +55,7 @@ This is a style variant of `comic-book-pdf`. Keep the original skill's comic-boo
    - Make captions descriptive enough for story clarity. Prefer fewer, larger panels with roomy caption boxes over many small panels when the story has lore, rules, politics, mystery, continuity, or complex emotional stakes.
    - Keep each caption short enough to plausibly fit inside its generated caption box, but do not reduce captions to cryptic fragments when the reader needs context.
    - Treat the caption-box text as part of the image prompt, not as later overlay copy.
-   - When prompts map captions to panels, make the mapping instruction separate from the text to generate. Explicitly tell the image model to omit panel numbers, caption labels, and any prompt scaffolding from the artwork.
+   - When prompts map captions to panels, make the mapping instruction separate from the text to generate. Explicitly tell the image model to omit panel numbers, caption numbers, caption labels, and any prompt scaffolding from the artwork.
 
 5. Generate full-page images.
    - Use the built-in `image_gen` tool.
@@ -61,7 +63,8 @@ This is a style variant of `comic-book-pdf`. Keep the original skill's comic-boo
    - Prompt for "full realistic candid photo-comic page, 4:5 portrait aspect ratio" every time.
    - Repeat "caption boxes only, no speech bubbles, no thought bubbles" every time.
    - Repeat that all caption-box text, title text, and any other readable story text must be generated directly in the page art, with no blank text boxes to fill later.
-   - Repeat that caption boxes must not include panel labels or prefixes such as "Panel 1:"; they should contain only the intended story sentences.
+   - Repeat that caption boxes must not include panel labels, caption numbers, or prefixes such as "Panel 1:" or "Caption 1:"; they should contain only the intended story sentences.
+   - Repeat that no caption may literally repeat the same wording as another caption on that same page.
    - Repeat the character/reference bible every time.
    - Save generated images into the project, usually `assets/comic-pages/page-01-cover.png`, `page-02.png`, etc.
 

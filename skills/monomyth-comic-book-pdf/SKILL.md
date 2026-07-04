@@ -20,6 +20,8 @@ This skill is a series-specific variant of `skills/photo-comic-book-pdf`, but it
 - Make each image a complete realistic candid photo-comic page with its own panels and caption boxes.
 - Use caption boxes only. Do not use speech bubbles, thought bubbles, floating subtitles, watermarks, logos, or later text overlays.
 - Generate all readable story text directly inside the page art with `image_gen`.
+- Do not include redundant caption boxes that literally repeat the same wording as an earlier caption on the same page.
+- Do not number caption boxes or include caption labels such as "Caption 1" or "Caption 2" in the generated artwork.
 - Do not add narration, dialogue, title text, labels, captions, or page text afterward with code, PDF tooling, image editing, canvas drawing, HTML/CSS, or any other typesetting step.
 - Keep the issue self-contained even when it belongs to the Monomyth Comics series.
 
@@ -51,7 +53,8 @@ This skill is a series-specific variant of `skills/photo-comic-book-pdf`, but it
      - `page-01-cover.png`
      - `page-02.png` through `page-18.png`
    - For each story page, include the stage name, stage function, panel layout, visual beats, caption-box text, continuity notes, camera feel, and lighting.
-   - Keep caption text reader-facing only. Do not include prompt scaffolding, panel labels, prefixes, or stage labels inside the generated artwork unless the user explicitly wants visible stage labels.
+   - Keep caption text reader-facing only. Do not include prompt scaffolding, panel labels, caption numbers, caption labels, prefixes, or stage labels inside the generated artwork unless the user explicitly wants visible stage labels.
+   - Do not script two caption boxes on the same page with identical wording.
    - Prefer 3-4 large panels on lore-heavy or emotionally dense pages; use more panels only for compact action beats.
 
 5. Generate images.
@@ -61,6 +64,7 @@ This skill is a series-specific variant of `skills/photo-comic-book-pdf`, but it
    - Prompt for "full realistic candid photo-comic page, 4:5 portrait aspect ratio" every time.
    - Repeat "caption boxes only, no speech bubbles, no thought bubbles" every time.
    - Repeat that all readable story text must be generated directly inside the page art and that blank caption boxes are not acceptable.
+   - Repeat that caption boxes must not include caption numbers or caption labels and must not literally repeat the same wording as another caption on the same page.
 
 6. Assemble the PDF and previews.
    - Run from the issue root:
@@ -77,7 +81,7 @@ python ../../../skills/monomyth-comic-book-pdf/scripts/assemble_monomyth_comic_b
 
 7. Verify and finalize.
    - Inspect the contact sheet and at least the cover, pages 2, 6, 10, 14, and 18.
-   - Confirm exact page count, 4:5 portrait pages, stage coverage, readable caption boxes, no speech bubbles, no later text overlays, realistic candid-photo style, and consistent recurring visuals.
+   - Confirm exact page count, 4:5 portrait pages, stage coverage, readable caption boxes, no numbered caption boxes, no duplicate same-page caption wording, no speech bubbles, no later text overlays, realistic candid-photo style, and consistent recurring visuals.
    - Regenerate any page that fails core requirements before assembling the final PDF.
    - Append a completed issue entry to `series/monomyth-comics/source/issue-summaries.md`.
    - Rebuild the web app from the repo root:
