@@ -175,3 +175,14 @@
 - New settings: Interdimensional Hotel.
 - New key items: None.
 - Reference images added: `bato-leo-character.png`, `interdimensional-hotel-setting.png`.
+
+## Issue #17: The Vigilante Who Renovated Hope
+
+- Folder: `series/dream-anime-chronicles/issues/issue-17/`
+- Logline: Blue Bird, a hooded vigilante who hates gun violence, tries to erase an arms syndicate with hacking and stealth, but only wins when he uses renovation itself as a weapon of protection, turning neglected city spaces into a network of hope.
+- Plot summary: Blue Bird hunts illegal weapons in a corrupt dockside city while secretly renovating abandoned spaces into safer rooms. He first asks the World Editor supercomputer to map and disable every weapons route, but the syndicate has hidden itself inside false records, dead cameras, and buildings the city has ignored. Blue Bird then raids one shipment directly with stealth and combat, but the surviving couriers move the rest of the weapons into civilian shelter spaces. After finding a child protected by a repaired window and bluebird stencil he left behind, Blue Bird realizes renovation is not separate from justice. He rebuilds the plan around repaired doors, witness signals, safe rooms, and the World Editor, then lures the syndicate into his warehouse disposal bay, neutralizes the weapons, and exposes the full route.
+- Continuity changes: Blue Bird enters the series as a severe anti-gun-violence vigilante and renovator whose real strength is combining hacking, stealth, combat, and restored safe spaces. The Dockside Warehouse HQ and World Editor are introduced as recurring continuity elements tied to Blue Bird's mission.
+- New characters: Blue Bird.
+- New settings: Blue Bird's Dockside Warehouse HQ.
+- New key items: World Editor.
+- Reference images added: `blue-bird-character.png`, `blue-bird-dockside-warehouse-hq-setting.png`, `world-editor-key-item.png`.

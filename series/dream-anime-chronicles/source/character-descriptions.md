@@ -182,3 +182,11 @@
 - Visual identifiers: Slim androgynous anime humanoid with glossy metallic silver skin, elongated limbs, medium-length electric-blue hair styled in jagged energy-like spikes, glowing neon-blue eyes, a neon sky-blue lightning insignia centered on the chest, a sleeveless dark navy cropped hotel-staff jacket, fitted blue-black shorts or leggings, silver utility belt, headset earpiece, and blue-white electric seams that glow when charging or discharging.
 - Continuity notes: Bato stores and discharges electricity and works as an event coordinator at a hotel between worlds. They are lazy and easygoing but want acceptance and respect. Bato fears animals, and supernatural animals dislike Bato's uncontrolled electric aura. Issue #16 defines Bato's real strength as controlled coordination: they save guests and creatures by turning raw electricity into gentle, careful event leadership.
 - Reference image: `../reference-images/bato-leo-character.png`
+
+## Character: Blue Bird
+
+- First appears: Issue #17, "The Vigilante Who Renovated Hope"
+- Role: protagonist, vigilante, renovator, anti-gun-violence hero.
+- Visual identifiers: Male anime vigilante in gray boots, gray gloves, gray belt, shoulder pads made of layered navy blue feathers, a navy blue shirt with a yellow diamond insignia in the center, long navy blue sleeves, navy blue pants, and a navy blue feathered hood with a stylized beak image so the hood resembles a bird face. The hood casts shadows so dark that his face is fully obscured except for faint cold blue eye glints. His silhouette is agile, focused, and methodical, with feather-like cape edges and bluebird-shaped tech motifs.
+- Continuity notes: Blue Bird is a computer genius, stealth expert, and trained combatant who despises gun violence and targets illegal weapons routes in a corrupt city. He believes failed institutions force him to take justice into his own hands, but Issue #17 defines his deeper strength as renovation: repairing neglected spaces so fear, silence, and illegal weapons lose their hiding places.
+- Reference image: `../reference-images/blue-bird-character.png`

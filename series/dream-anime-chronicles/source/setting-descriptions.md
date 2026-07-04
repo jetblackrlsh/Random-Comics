@@ -125,3 +125,10 @@
 - Visual identifiers: Vast polished anime hotel between worlds, silver floors, glowing blue-white electrical conduit lines, impossible windows full of stars, floating portal doorways with colored rims, central concierge desk, event banners with abstract non-readable symbols, and an attached animal-show arena.
 - Continuity notes: Bato Leo works here as an event coordinator. The hotel depends on stable portal power and careful event management because guests and creatures arrive from many worlds at once. Issue #16 establishes that Bato can power and stabilize the hotel when they use electricity gently and coordinate frightened guests and animals instead of blasting raw current.
 - Reference image: `../reference-images/interdimensional-hotel-setting.png`
+
+## Setting: Blue Bird's Dockside Warehouse HQ
+
+- First appears: Issue #17, "The Vigilante Who Renovated Hope"
+- Visual identifiers: Abandoned dockside warehouse renovated into a hidden high-tech vigilante base, rusted exterior by dark water, navy-blue bird-stencil markings, repaired steel doors, blue neon conduit lines, workbenches with tools, exposed brick, catwalks, surveillance screens, weapon-disposal bays, and windows patched with clean geometric blue glass.
+- Continuity notes: Blue Bird uses the warehouse as both headquarters and proof of his worldview: broken places can become useful and safe again. In Issue #17 the HQ expands from a private command center into the hub of a dockside safety network that exposes and neutralizes an illegal weapons route.
+- Reference image: `../reference-images/blue-bird-dockside-warehouse-hq-setting.png`

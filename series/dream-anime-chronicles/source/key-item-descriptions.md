@@ -97,3 +97,10 @@
 - Visual identifiers: Palm-sized polished gemstones in ruby, amber, sapphire, emerald, violet, and clear crystal colors, each carved with tiny luminous runes; stones float in geometric rings when activated and cast colored light onto sand and temple carvings.
 - Continuity notes: Aurum Gold can harness spell stones to enhance physical abilities and manipulate the environment. Issue #15 establishes that the stones are also the temple's puzzle language: when used as commands they trigger stronger defenses, but when arranged as questions that match the temple carvings they reveal safe paths, stored memories, and the compass-light that guides Aurum deeper toward home.
 - Reference image: `../reference-images/spell-stones-key-item.png`
+
+## Key Item: World Editor
+
+- First appears: Issue #17, "The Vigilante Who Renovated Hope"
+- Visual identifiers: Massive angular supercomputer built into Blue Bird's warehouse wall, stacked holographic blue screens, city maps, weapon-route simulations, bird-wing interface arcs, yellow diamond cursor motif matching Blue Bird's chest insignia, and glowing navy-cyan data streams.
+- Continuity notes: Blue Bird uses the World Editor to hack systems, track illegal weapons, simulate outcomes, and plan missions. In Issue #17 the computer fails when it trusts corrupted official data, then succeeds when Blue Bird adds witness reports, renovated safe spaces, and real patrol knowledge to the model.
+- Reference image: `../reference-images/world-editor-key-item.png`
