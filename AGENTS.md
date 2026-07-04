@@ -25,6 +25,8 @@ These instructions apply to the whole Random Comics repository.
 - Avoid ambiguity, overly complicated plotting, unclear character goals, and unclear scene transitions.
 - Long captions are preferred when they communicate more information to the reader, because they make the story clearer and easier to understand.
 - Captions should explain the important context directly while still fitting cleanly and remaining readable inside the generated page art.
+- Do not include redundant captions that literally repeat the same wording as an earlier caption on the same page.
+- Do not number caption boxes. Caption boxes should contain story text only, not labels like `Caption 1`, `Caption 2`, or numbered prefixes.
 
 ## Before Creating Or Editing A Comic
 
@@ -41,6 +43,8 @@ These instructions apply to the whole Random Comics repository.
 - Speech bubbles, dialogue balloons, thought bubbles, manga bubble tails, floating character dialogue, and unboxed spoken or thought text are not allowed in American Monomyth Comics.
 - Rewrite speech and thoughts as short caption-box text attributed by context.
 - Caption text may be detailed and long when needed for story clarity, as long as it remains readable and fits cleanly in caption boxes.
+- Do not include redundant caption boxes that literally repeat the same wording as an earlier caption on the same page.
+- Do not number caption boxes or include caption labels such as `Caption 1` or `Caption 2` in the generated art.
 - Prioritize story clarity over minimalism: American Monomyth Comics should be incredibly clear, easy to understand, and obvious to the reader.
 - Do not make the reader infer what the story is about or what is happening; avoid ambiguity, overly complicated plotting, and unclear page-to-page action.
 - Prefer long captions when they communicate more information, because detailed captions make plot, motivation, cause-and-effect, stakes, and continuity clearer and easier to understand.

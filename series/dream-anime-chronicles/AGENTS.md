@@ -52,6 +52,8 @@ Versus battles should:
 - All readable story text, title text, labels, captions, or dialogue must be generated directly inside the page art by `image_gen`.
 - Do not add story text after generation with code, image editing, PDF tooling, HTML/CSS, canvas drawing, or manual typesetting.
 - Use caption boxes for narration and rare short dialogue. Avoid speech bubbles and thought bubbles unless a user explicitly requests them for this series.
+- Do not include redundant caption boxes that literally repeat the same wording as an earlier caption on the same page.
+- Do not number caption boxes or include caption labels such as `Caption 1` or `Caption 2` in the generated art.
 
 ## Recovering Built-In `image_gen` Outputs
 

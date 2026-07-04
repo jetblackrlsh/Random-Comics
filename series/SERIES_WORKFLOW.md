@@ -47,6 +47,11 @@ Create missing required source files before generating a new series issue.
 5. Create the issue folder under `series/<series-folder>/issues/<issue-folder>/`.
 6. Add `## Issue Number` to the issue treatment so the web app can label the issue correctly.
 
+## Caption Text Rules
+
+- Do not include redundant captions that literally repeat the same wording as an earlier caption on the same page.
+- Do not number caption boxes. Caption boxes should contain story text only, not labels like `Caption 1`, `Caption 2`, or numbered prefixes.
+
 ## New Continuity Elements
 
 When the issue introduces any named character, add or update that character in `source/character-descriptions.md` before finalizing the issue. Every named character entry must include a `First appears` line with the issue number and title, even if the character is minor or not expected to recur.
