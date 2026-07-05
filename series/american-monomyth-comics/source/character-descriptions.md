@@ -240,3 +240,41 @@
 - Visual identifiers: Giant rats with bristling oily fur and glowing green scars, huge sewer alligators with armored toxic scales, and warped fish and insects in the background, all with acid-green eyes while Rotspire controls them.
 - Continuity notes: Twisted by sewer poison and telepathically commanded by Rotspire. Once the toxic flow stops, surviving mutants lose his control and some can be healed.
 - Reference image: `../reference-images/rotspire-and-sewer-mutants-character.png`
+
+## Character: Rimecable
+
+- First appears: Issue #10, "The Ice Walls of Everbite"
+- Role: protagonist, exceptional hero, barbarian ice spirit from a future time and colder climate.
+- Visual identifiers: Tall imposing spirit-warrior in futuristic white power armor, neon cyan-white visor on a full helmet, spiked icy shoulder plates, glowing cyan chest rune, tattered translucent white-blue cape covered in glowing frosty blue runes, long black cable dreadlocks tipped with icy fragments and sparking with controlled white-blue electricity, heavy armored boots, frost vapor around the armor joints, and a powerful double-headed crystalline blue-white ice axe.
+- Continuity notes: Answers the Solekin prayers, refuses to kill the crowded dragons, stuns the fighting reptiles with cable-dreadlock electricity, raises permanent mystical ice walls with the ice axe, and vanishes when other lands and times call for help.
+- Reference image: `../reference-images/rimecable-character.png`
+
+## Character: Solekin Islanders
+
+- First appears: Issue #10, "The Ice Walls of Everbite"
+- Role: threatened innocent community.
+- Visual identifiers: Small humans with large strong bare feet, warm island skin tones, expressive faces, woven leaf-and-shell clothing, waist pouches, scavenging baskets, shell tools, painted foot charms, and low tropical villages sized around broad-footed movement.
+- Continuity notes: Live on Everbite Island by scavenging safe leftovers from komodo dragon meals instead of hunting or gathering. Their survival depends on the dragons surviving, so dragon territorial violence threatens both species.
+- Reference image: `../reference-images/solekin-and-komodo-dragons-character.png`
+
+## Character: Everbite Komodo Dragons
+
+- First appears: Issue #10, "The Ice Walls of Everbite"
+- Role: powerful provider species, threatened population, and crisis source.
+- Visual identifiers: Huge komodo dragons with dark green, charcoal, bronze, and ocher scales; thick tails; heavy claws; muscular necks; forked tongues; scarred hides; amber eyes; and animalistic territorial posture.
+- Continuity notes: Their leftover meals sustain the Solekin. Population growth causes territorial fights that nearly wipe them out until Rimecable divides their ranges with permanent mystical ice walls.
+- Reference image: `../reference-images/solekin-and-komodo-dragons-character.png`
+
+## Character: Solekin Elders and Mapkeepers
+
+- First appears: Issue #10, "The Ice Walls of Everbite"
+- Role: ordinary institutions and supporting collective.
+- Visual identifiers: Older Solekin with shell necklaces, painted walking staffs, woven map cloths, drum crews, territory stones, and solemn footstep markings.
+- Continuity notes: Try old customs, offerings, drums, and maps to calm the dragons, but lack the strength and combat experience needed to intervene directly.
+
+## Character: Everbite Children
+
+- First appears: Issue #10, "The Ice Walls of Everbite"
+- Role: vulnerable civilians and future memory of the island.
+- Visual identifiers: Tiny Solekin children with oversized bare feet, bright shell anklets, woven tunics, curious eyes, and small baskets.
+- Continuity notes: Embody what the island could lose if the dragons die. Generations later they play near the ice walls without remembering Rimecable's name.

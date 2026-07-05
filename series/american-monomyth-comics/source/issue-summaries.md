@@ -98,3 +98,14 @@
 - New settings: Cyberdon.
 - New key items: Toxic Inflow Pipe.
 - Reference images added: `vinaura-character.png`, `rotspire-and-sewer-mutants-character.png`, `cyberdon-setting.png`, `toxic-inflow-pipe-key-item.png`.
+
+## Issue #10: The Ice Walls of Everbite
+
+- Folder: `series/american-monomyth-comics/issues/issue-10/`
+- Logline: When Everbite Island's harmony between the small large-footed Solekin people and their komodo dragons collapses into territorial fighting that could kill both species, future-born ice spirit Rimecable uses stunning lightning and permanent frost walls to stop the violence without becoming another predator.
+- Plot summary: Everbite Island begins as a hidden tropical utopia where the Solekin survive by respectfully scavenging the leftovers of komodo dragon meals. The dragons hunt, the Solekin clean the remains, and both species live in balance until the dragon population grows too large for the old territories. Fighting dragons wrestle, bite, and wound one another so often that the Solekin face starvation if their providers die out. Solekin elders, mapkeepers, drummers, and feast stewards try old customs but cannot stand between the giant reptiles. Their prayers call Rimecable, a barbarian ice spirit from a future winter, who arrives in white power armor with cable dreadlocks, a rune cape, and a double-headed ice axe. Rimecable refuses to kill the dragons, stuns them with controlled electricity, and raises permanent mystical ice walls that divide territories evenly and repel the cold-blooded dragons. The dragon population stabilizes, the Solekin eat again, and Rimecable refuses the island's invitation to stay before vanishing into other lands and times. Generations later, the Solekin forget the hero's name while the ice walls remain as a monument to peace.
+- Continuity changes: Establishes Everbite Island, the Solekin Islanders, Everbite Komodo Dragons, Rimecable, Rimecable's Ice Axe, and the permanent Everbite Ice Walls. Establishes that the walls hold in tropical weather and remain after Rimecable vanishes.
+- New characters: Rimecable; Solekin Islanders; Everbite Komodo Dragons; Solekin Elders and Mapkeepers; Everbite Children.
+- New settings: Everbite Island.
+- New key items: Rimecable's Ice Axe; Everbite Ice Walls.
+- Reference images added: `rimecable-character.png`, `solekin-and-komodo-dragons-character.png`, `everbite-island-setting.png`, `frost-axe-and-ice-walls-key-item.png`.

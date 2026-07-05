@@ -51,6 +51,7 @@ Create missing required source files before generating a new series issue.
 
 - Do not include redundant captions that literally repeat the same wording as an earlier caption on the same page.
 - Do not number caption boxes. Caption boxes should contain story text only, not labels like `Caption 1`, `Caption 2`, or numbered prefixes.
+- Do not include page numbers in the page artwork.
 
 ## New Continuity Elements
 

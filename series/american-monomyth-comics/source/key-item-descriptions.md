@@ -90,3 +90,17 @@
 - Visual identifiers: Massive rusted sewer pipe in a cracked concrete tunnel, pouring neon green toxic waste into black water, with warning stripes, corroded bolts, chemical mist, oily reflections, and later a dense braided plug of glowing emerald and magenta vines sealing the opening.
 - Continuity notes: The hidden source that feeds Rotspire and mutates sewer creatures. Vinaura seals it with living vines, forcing Cyberdon to replace hidden dumping with a proper transparent filtration system.
 - Reference image: `../reference-images/toxic-inflow-pipe-key-item.png`
+
+## Key Item: Rimecable's Ice Axe
+
+- First appears: Issue #10, "The Ice Walls of Everbite"
+- Visual identifiers: Powerful double-headed crystalline blue-white ice axe with a futuristic white-metal haft, glowing frosty blue runes, frost vapor, electrical sparks, and broad frosted blades that seem carved from permanent winter.
+- Continuity notes: Rimecable uses the axe to raise permanent mystical ice walls across Everbite Island without killing the dragons.
+- Reference image: `../reference-images/frost-axe-and-ice-walls-key-item.png`
+
+## Key Item: Everbite Ice Walls
+
+- First appears: Issue #10, "The Ice Walls of Everbite"
+- Visual identifiers: Tall translucent blue-white walls of mystical ice crossing tropical jungle and beaches, glowing rune light inside, cold mist at the base, palm leaves rimed with frost, and komodo dragons recoiling from the supernatural chill.
+- Continuity notes: Divide dragon territories evenly, repel cold-blooded dragons from crossing, hold regardless of tropical weather, and become a forgotten monument after Rimecable vanishes.
+- Reference image: `../reference-images/frost-axe-and-ice-walls-key-item.png`

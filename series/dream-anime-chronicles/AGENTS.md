@@ -54,6 +54,7 @@ Versus battles should:
 - Use caption boxes for narration and rare short dialogue. Avoid speech bubbles and thought bubbles unless a user explicitly requests them for this series.
 - Do not include redundant caption boxes that literally repeat the same wording as an earlier caption on the same page.
 - Do not number caption boxes or include caption labels such as `Caption 1` or `Caption 2` in the generated art.
+- Do not include page numbers in the page artwork.
 
 ## Recovering Built-In `image_gen` Outputs
 

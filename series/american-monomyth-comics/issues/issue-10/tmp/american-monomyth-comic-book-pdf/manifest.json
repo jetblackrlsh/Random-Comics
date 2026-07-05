@@ -1,0 +1,186 @@
+{
+  "page_count": 22,
+  "target_size": [
+    1600,
+    2000
+  ],
+  "fit": "blur-fill",
+  "source_pages": [
+    {
+      "file": "assets/comic-pages/page-01-cover.png",
+      "width": 1023,
+      "height": 1537,
+      "aspect_ratio": 0.66558,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.13442
+    },
+    {
+      "file": "assets/comic-pages/page-02.png",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.13333
+    },
+    {
+      "file": "assets/comic-pages/page-03.png",
+      "width": 992,
+      "height": 1586,
+      "aspect_ratio": 0.62547,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.17453
+    },
+    {
+      "file": "assets/comic-pages/page-04.png",
+      "width": 1122,
+      "height": 1402,
+      "aspect_ratio": 0.80029,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.00029
+    },
+    {
+      "file": "assets/comic-pages/page-05.png",
+      "width": 1017,
+      "height": 1546,
+      "aspect_ratio": 0.65783,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.14217
+    },
+    {
+      "file": "assets/comic-pages/page-06.png",
+      "width": 1023,
+      "height": 1537,
+      "aspect_ratio": 0.66558,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.13442
+    },
+    {
+      "file": "assets/comic-pages/page-07.png",
+      "width": 1023,
+      "height": 1537,
+      "aspect_ratio": 0.66558,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.13442
+    },
+    {
+      "file": "assets/comic-pages/page-08.png",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.13333
+    },
+    {
+      "file": "assets/comic-pages/page-09.png",
+      "width": 1023,
+      "height": 1537,
+      "aspect_ratio": 0.66558,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.13442
+    },
+    {
+      "file": "assets/comic-pages/page-10.png",
+      "width": 1023,
+      "height": 1537,
+      "aspect_ratio": 0.66558,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.13442
+    },
+    {
+      "file": "assets/comic-pages/page-11.png",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.13333
+    },
+    {
+      "file": "assets/comic-pages/page-12.png",
+      "width": 1023,
+      "height": 1537,
+      "aspect_ratio": 0.66558,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.13442
+    },
+    {
+      "file": "assets/comic-pages/page-13.png",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.13333
+    },
+    {
+      "file": "assets/comic-pages/page-14.png",
+      "width": 1023,
+      "height": 1537,
+      "aspect_ratio": 0.66558,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.13442
+    },
+    {
+      "file": "assets/comic-pages/page-15.png",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.13333
+    },
+    {
+      "file": "assets/comic-pages/page-16.png",
+      "width": 1023,
+      "height": 1537,
+      "aspect_ratio": 0.66558,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.13442
+    },
+    {
+      "file": "assets/comic-pages/page-17.png",
+      "width": 1023,
+      "height": 1537,
+      "aspect_ratio": 0.66558,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.13442
+    },
+    {
+      "file": "assets/comic-pages/page-18.png",
+      "width": 1023,
+      "height": 1537,
+      "aspect_ratio": 0.66558,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.13442
+    },
+    {
+      "file": "assets/comic-pages/page-19.png",
+      "width": 1023,
+      "height": 1537,
+      "aspect_ratio": 0.66558,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.13442
+    },
+    {
+      "file": "assets/comic-pages/page-20.png",
+      "width": 1023,
+      "height": 1537,
+      "aspect_ratio": 0.66558,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.13442
+    },
+    {
+      "file": "assets/comic-pages/page-21.png",
+      "width": 1023,
+      "height": 1537,
+      "aspect_ratio": 0.66558,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.13442
+    },
+    {
+      "file": "assets/comic-pages/page-22-back-cover.png",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "target_aspect_ratio": 0.8,
+      "delta": 0.13333
+    }
+  ]
+}

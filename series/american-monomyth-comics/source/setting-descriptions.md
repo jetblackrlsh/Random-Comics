@@ -97,3 +97,10 @@
 - Visual identifiers: Futuristic cyberpunk utopia with clean glass towers, neon sky rails, vertical gardens, luminous clinics, free schools, public plazas, holographic civic signs with fictional symbols, cyan and magenta city light, and hidden storm drains leading to old toxic sewers.
 - Continuity notes: A beautiful city worth saving that unknowingly pollutes the world around it through a hidden sewer inflow pipe. After Vinaura exposes the source of Rotspire's power, Cyberdon builds a transparent filtration system, cleans its sewers, and remains peaceful for generations until Vinaura is forgotten.
 - Reference image: `../reference-images/cyberdon-setting.png`
+
+## Setting: Everbite Island
+
+- First appears: Issue #10, "The Ice Walls of Everbite"
+- Visual identifiers: Hidden tropical island utopia with lush jungle, bright cliffs, turquoise lagoons, volcanic stone meal grounds, low Solekin villages of woven platforms, shell bridges, dragon trails through tall grass, and later permanent blue-white mystical ice walls dividing the territory.
+- Continuity notes: The Solekin and Everbite Komodo Dragons share a scavenger-provider balance here. After Rimecable raises the ice walls, dragon territories stabilize and the walls remain as a forgotten monument to the hero.
+- Reference image: `../reference-images/everbite-island-setting.png`

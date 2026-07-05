@@ -9,11 +9,11 @@ Primary request: Create a complete realistic photo-comic page, not a single imag
 Story role: <what this page must accomplish in the narrative>
 Character/reference bible for continuity: <stable visible details for every recurring character, outfit, prop, and location>
 Page layout: <cover composition or panel grid, panel sizes, reading order>
-Caption boxes: <story-clarity narration and rare short speech to generate directly inside roomy rectangular caption boxes in the page art; include only reader-facing story text, never panel labels, caption numbers, caption labels, repeated same-page wording, or prompt scaffolding>
+Caption boxes: <story-clarity narration and rare short speech to generate directly inside roomy rectangular caption boxes in the page art; include only reader-facing story text, never page numbers, panel labels, caption numbers, caption labels, repeated same-page wording, or prompt scaffolding>
 Visual beats: <panel-by-panel actions and emotions>
 Setting and props: <recurring locations, objects, symbols>
 Photo style: realistic candid photo-comic, documentary phone-photo or handheld photojournalism look, natural imperfect framing, believable real-world lighting, photoreal action VFX, realistic depth of field and motion blur only where appropriate, clean rectangular caption boxes.
-Constraints: 4:5 portrait full page, caption boxes only, no speech bubbles, no thought bubbles, no floating dialogue, no subtitles, no watermark, no logo, no extra unreadable text. All readable story text must be generated directly inside the page art; do not leave blank caption boxes or art-only panels for later typesetting. Caption boxes must not include labels, numbers, or prefixes like "Panel 1:", "Panel 2", "Caption:", "Caption 1:", or "Top caption:"; include only the intended story sentences. No caption may literally repeat the same wording as another caption on the same page. Keep all recurring characters visually consistent with the character/reference bible.
+Constraints: 4:5 portrait full page, caption boxes only, no speech bubbles, no thought bubbles, no floating dialogue, no subtitles, no watermark, no logo, no extra unreadable text. All readable story text must be generated directly inside the page art; do not leave blank caption boxes or art-only panels for later typesetting. Page numbers must not appear anywhere in the page artwork. Caption boxes must not include labels, numbers, or prefixes like "Panel 1:", "Panel 2", "Caption:", "Caption 1:", or "Top caption:"; include only the intended story sentences. No caption may literally repeat the same wording as another caption on the same page. Keep all recurring characters visually consistent with the character/reference bible.
 ```
 
 ## Page Count Guidance
@@ -35,7 +35,7 @@ Good caption-box directions should separate panel mapping from the text that app
 ```text
 Top panel caption text: "Mira crossed the border at sunrise because the old city was the only place where broken machines still remembered their owners."
 Second panel caption text: "The gate opened only after she put the camera down, proving the city feared witnesses more than thieves."
-Do not include the words "Top panel", "Second panel", "Panel 1", "Caption 1", or "caption text" in the generated artwork.
+Do not include page numbers or the words "Top panel", "Second panel", "Panel 1", "Caption 1", or "caption text" in the generated artwork.
 Do not repeat the same caption wording in more than one caption box on this page.
 ```
 
