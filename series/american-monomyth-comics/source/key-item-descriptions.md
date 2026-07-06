@@ -1,5 +1,12 @@
 # Key Item Descriptions
 
+## Key Item: Chaos Crystal
+
+- First appears: Issue #11, "The World Inside the Chaos Crystal"
+- Visual identifiers: Fist-sized many-faceted crystal gem containing a visible miniature living planet with forests, rivers, cities, and golden atmosphere inside. Healthy light is cyan, emerald, pearl, and gold; corrupted draining tendrils glow orange-red and black-magenta.
+- Continuity notes: Contains a living utopian world rather than only magical power. Techadon drains it to augment himself until Shadow Zone Hero calls on Gaia and Natural Law to restore the world inside.
+- Reference image: `../reference-images/chaos-crystal-key-item.png`
+
 ## Key Item: Orbital Sunline
 
 - First appears: Issue #1, "The Invisible Giants"

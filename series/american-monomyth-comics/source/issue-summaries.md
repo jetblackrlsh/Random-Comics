@@ -1,5 +1,16 @@
 # Issue Summaries
 
+## Issue #11: The World Inside the Chaos Crystal
+
+- Folder: `series/american-monomyth-comics/issues/issue-11/`
+- Logline: When Techadon drains the living utopia hidden inside the Chaos Crystal, Shadow Zone Hero calls on Gaia and Natural Law to unite the crystal-world against him, saving a civilization that will never know its rescuer's name.
+- Plot summary: The Chaos Crystal contains a peaceful living planet of crystal cities, luminous forests, rivers, animal spirits, and utopian citizens. Techadon steals the crystal and drains its life force from a dank outer chamber to augment his speed, heat, and strength. The crystal-world's guardians, healers, geomancers, and engineers try to seal the wound, but they cannot reach a thief who stands outside their reality. Shadow Zone Hero confronts Techadon, attempts a Shadow Zone teleport strike, and is blasted back by searing crystal heat as falling debris wounds the hero's shoulder. Techadon mocks the hidden world as a dying rock, but Shadow Zone Hero names intentional planetary murder as a crime against Natural Law and calls on Gaia. Gaia rises through root, stone, storm, river, and crystal, turning Techadon's stolen power against him. The crystal-world is restored and inherits lasting peace, while Shadow Zone Hero leaves for Hero Hospital unknown to the people saved.
+- Continuity changes: Establishes Shadow Zone Hero, Techadon, Gaia and Natural Law, the Chaos Crystal Utopia, the Dank Crystal Chamber, the Shadow Zone, Hero Hospital, and the Chaos Crystal. Establishes that Shadow Zone Hero's heroic legacy can be peace left behind in a world that never learns the hero's name.
+- New characters: Shadow Zone Hero; Techadon; Gaia and Natural Law; Chaos Crystal Utopians; Crystal-World Guardians and Healers; Hero Hospital Staff.
+- New settings: Chaos Crystal Utopia; Dank Crystal Chamber; Shadow Zone; Hero Hospital.
+- New key items: Chaos Crystal.
+- Reference images added: `shadow-zone-hero-character.png`, `techadon-character.png`, `gaia-natural-law-character.png`, `chaos-crystal-utopians-character.png`, `chaos-crystal-utopia-setting.png`, `dank-crystal-chamber-setting.png`, `shadow-zone-setting.png`, `hero-hospital-setting.png`, `chaos-crystal-key-item.png`.
+
 ## Issue #1: The Invisible Giants
 
 - Folder: `series/american-monomyth-comics/issues/issue-01/`

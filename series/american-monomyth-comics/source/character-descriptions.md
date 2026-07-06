@@ -1,5 +1,51 @@
 # Character Descriptions
 
+## Character: Shadow Zone Hero
+
+- First appears: Issue #11, "The World Inside the Chaos Crystal"
+- Role: protagonist, exceptional hero, outsider rescuer.
+- Visual identifiers: Athletic masked superhero in matte black and deep indigo armor with silver edge lines, a crescent-shaped shadow emblem on the chest, glowing violet-blue eyes behind a smooth mask, a short torn dark cape, fingerless gauntlets trailing black smoke, and blue-violet portal energy around the boots and hands.
+- Continuity notes: Can slip into the Shadow Zone to teleport and act from outside ordinary limits. Saves the living world inside the Chaos Crystal by calling on Gaia and Natural Law, then leaves for Hero Hospital with a wounded shoulder while the saved world never learns the hero's name.
+- Reference image: `../reference-images/shadow-zone-hero-character.png`
+
+## Character: Techadon
+
+- First appears: Issue #11, "The World Inside the Chaos Crystal"
+- Role: antagonist, behemoth thief from beyond the crystal-world's reality.
+- Visual identifiers: Tall sharp-featured humanoid behemoth in a torn charcoal hooded cloak, angular predatory face, pale gray skin, long black hair, clawed gauntlets, jagged bronze-black armor under the cloak, heat-cracked orange crystal veins across the chest and arms, and a cruel smirk lit by the Chaos Crystal.
+- Continuity notes: Steals the Chaos Crystal and drains the living utopian world inside it to augment speed, heat, and strength. Defeated when Shadow Zone Hero calls on Gaia and Techadon's stolen life force turns against him.
+- Reference image: `../reference-images/techadon-character.png`
+
+## Character: Gaia and Natural Law
+
+- First appears: Issue #11, "The World Inside the Chaos Crystal"
+- Role: redemptive force and living super-organism of nature.
+- Visual identifiers: Colossal green-gold feminine planetary presence formed from roots, mountains, storm clouds, river light, leaves, vines, animal silhouettes, crystal shards, and a calm severe face that appears through clouds, fissures, and the Chaos Crystal's glow.
+- Continuity notes: Answers Shadow Zone Hero's rallying cry when Techadon intentionally murders a planet for power. Manifests through the crystal-world, the outer chamber, and the Chaos Crystal to enforce Natural Law.
+- Reference image: `../reference-images/gaia-natural-law-character.png`
+
+## Character: Chaos Crystal Utopians
+
+- First appears: Issue #11, "The World Inside the Chaos Crystal"
+- Role: innocent threatened community.
+- Visual identifiers: Graceful humanoid citizens with luminous skin tones in pearl, blue, gold, and rose; crystalline hair ornaments; flowing robes; leaf-and-gem jewelry; peaceful expressive faces; and small animal companions made of light and crystal.
+- Continuity notes: Live inside the Chaos Crystal in balance with rivers, forests, floating cities, crystal gardens, and animal spirits. They inherit lasting peace after Shadow Zone Hero saves them, but never know the hero's name.
+- Reference image: `../reference-images/chaos-crystal-utopians-character.png`
+
+## Character: Crystal-World Guardians and Healers
+
+- First appears: Issue #11, "The World Inside the Chaos Crystal"
+- Role: ordinary institutions of the crystal-world.
+- Visual identifiers: Crystal-robed healers, geomancers, civic engineers, river-song elders, and guardian sentries with glowing staffs, prism shields, botanical crowns, and worried but disciplined expressions.
+- Continuity notes: Try to repair the rupture and protect citizens, but cannot reach Techadon because he attacks from outside their reality.
+
+## Character: Hero Hospital Staff
+
+- First appears: Issue #11, "The World Inside the Chaos Crystal"
+- Role: aftermath caretakers and ordinary outside-world support.
+- Visual identifiers: Calm superhero medics in clean white-and-teal uniforms with fictional star medical emblems, glowing diagnostic tablets, bandage tools, and efficient protective posture.
+- Continuity notes: Treat Shadow Zone Hero's wounded shoulder after the battle, emphasizing that the hero's reward is quiet recovery outside the saved world rather than celebration by that world.
+
 ## Character: Datacenter Giants
 
 - First appears: Issue #1, "The Invisible Giants"

@@ -1,5 +1,33 @@
 # Setting Descriptions
 
+## Setting: Chaos Crystal Utopia
+
+- First appears: Issue #11, "The World Inside the Chaos Crystal"
+- Visual identifiers: Living utopian planet inside the Chaos Crystal with crystal cities, luminous forests, floating villages, bright rivers, animal spirits, gardens, and a blue-gold sky contained within faceted cyan, emerald, pearl, rose, and gold light.
+- Continuity notes: Techadon drains its life force from outside reality until Shadow Zone Hero calls on Gaia and Natural Law. Its people are saved and inherit peace without learning the hero's name.
+- Reference image: `../reference-images/chaos-crystal-utopia-setting.png`
+
+## Setting: Dank Crystal Chamber
+
+- First appears: Issue #11, "The World Inside the Chaos Crystal"
+- Visual identifiers: Ancient dank stone chamber with cracked pillars, wet reflective floor stones, falling debris, dark arches, green moss, black shadows, fissures, and a central battle space lit by the glowing Chaos Crystal.
+- Continuity notes: Outer battlefield where Techadon drains the Chaos Crystal, Shadow Zone Hero confronts him, Gaia manifests through the stone, and falling debris wounds the hero's shoulder.
+- Reference image: `../reference-images/dank-crystal-chamber-setting.png`
+
+## Setting: Shadow Zone
+
+- First appears: Issue #11, "The World Inside the Chaos Crystal"
+- Visual identifiers: Black-blue transit dimension of layered darkness, violet-blue portals, drifting silver shards, smoky pathways, cold mist, and silhouettes stretched by impossible perspective.
+- Continuity notes: Shadow Zone Hero uses it to teleport behind Techadon, escape the collapsing chamber, and remain an outsider who saves worlds from between realities.
+- Reference image: `../reference-images/shadow-zone-setting.png`
+
+## Setting: Hero Hospital
+
+- First appears: Issue #11, "The World Inside the Chaos Crystal"
+- Visual identifiers: Advanced hospital for superheroes with white-and-teal medical bays, glowing diagnostic screens, fictional star medical emblems, portal-safe recovery rooms, bandage stations, and calm superhero medics.
+- Continuity notes: Shadow Zone Hero receives shoulder treatment here after saving the Chaos Crystal Utopia, reinforcing that the hero withdraws into quiet recovery instead of joining the community saved.
+- Reference image: `../reference-images/hero-hospital-setting.png`
+
 ## Setting: Civic Grid
 
 - First appears: Issue #1, "The Invisible Giants"
