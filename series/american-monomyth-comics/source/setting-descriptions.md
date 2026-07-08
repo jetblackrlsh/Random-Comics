@@ -1,5 +1,19 @@
 # Setting Descriptions
 
+## Setting: Witch High
+
+- First appears: Issue #12, "The Arrows Above Witch High"
+- Visual identifiers: Utopian all-girl academy for upper-year young adult witches with moon-silver towers, emerald gardens, violet banners, floating classrooms, potion greenhouses, astronomy balconies, broom practice fields, warm library windows, and magical pets roaming safely among students.
+- Continuity notes: Nearly destroyed by Warlock High's demon pact attack, then restored as part of a united magical future where witches and freed warlocks share learning, love, and family.
+- Reference image: `../reference-images/witch-high-setting.png`
+
+## Setting: Warlock High
+
+- First appears: Issue #12, "The Arrows Above Witch High"
+- Visual identifiers: Storm-black all-boy academy for upper-year young adult warlocks with jagged towers, crimson windows, infernal sigils, demon-chain bridges, red-black spellbooks, pact marks glowing on hands, and distant horned smoke shadows.
+- Continuity notes: Begins as the source of the demon-powered attack on Witch High. After Cupid's arrows break the pacts, Warlock High's students reject demon contracts and help create a peaceful combined magical civilization.
+- Reference image: `../reference-images/warlock-high-setting.png`
+
 ## Setting: Chaos Crystal Utopia
 
 - First appears: Issue #11, "The World Inside the Chaos Crystal"

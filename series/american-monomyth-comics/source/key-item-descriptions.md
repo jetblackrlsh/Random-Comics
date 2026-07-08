@@ -1,5 +1,12 @@
 # Key Item Descriptions
 
+## Key Item: Cupid's Holy Love Arrows
+
+- First appears: Issue #12, "The Arrows Above Witch High"
+- Visual identifiers: Rose-gold arrows made of pearl-white light, heart-shaped radiant arrowheads, soft blue halos, and trails of flower-like sparks where they dissolve red-black demon pact chains and burning sigils.
+- Continuity notes: Cleanse demon-fueled rage, dissolve pact marks, and reveal sincere compassion and love without forcing false affection. They end the Witch High and Warlock High war by freeing hearts instead of destroying bodies.
+- Reference image: `../reference-images/holy-love-arrows-key-item.png`
+
 ## Key Item: Chaos Crystal
 
 - First appears: Issue #11, "The World Inside the Chaos Crystal"

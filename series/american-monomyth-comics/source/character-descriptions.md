@@ -1,5 +1,43 @@
 # Character Descriptions
 
+## Character: Cupid
+
+- First appears: Issue #12, "The Arrows Above Witch High"
+- Role: protagonist, exceptional hero, hidden angelic rescuer.
+- Visual identifiers: Androgynous youthful adult angel with warm brown skin, soft gold eyes, short rose-gold curls, white-and-pink celestial armor over flowing white robes, four luminous feathered wings, a small halo shaped like a glowing heart-ring, and a graceful rose-gold bow that fires holy love arrows.
+- Continuity notes: Saves Witch High and Warlock High by firing holy love arrows from the clouds. The arrows cleanse demon-fueled rage, dissolve infernal pact chains, and reveal sincere love without forcing false affection. Cupid remains hidden and accepts generations of happy families as the only reward needed.
+- Reference image: `../reference-images/cupid-character.png`
+
+## Character: Witch High Students
+
+- First appears: Issue #12, "The Arrows Above Witch High"
+- Role: threatened innocent community and disciplined defenders.
+- Visual identifiers: Upper-year young adult witches in elegant navy, violet, white, and emerald academy uniforms; crescent hats or hair ornaments; wand belts; spellbooks; expressive determined faces; and magical pets including winged cats, tiny dragons, crystal owls, star rabbits, and floating koi spirits.
+- Continuity notes: Their school is nearly destroyed by demon-powered Warlock High, but they survive, reconcile, and help build a future where disciplined witchcraft and cleansed warlock power work together.
+- Reference image: `../reference-images/witch-high-setting.png`
+
+## Character: Warlock High Students
+
+- First appears: Issue #12, "The Arrows Above Witch High"
+- Role: attacking school, victims of demon pacts, and future partners in restoration.
+- Visual identifiers: Upper-year young adult warlocks in black, crimson, and gold academy coats; sharp collars; infernal spellbooks; glowing pact marks on hands and chests; red-black aura chains; and faces that shift from demon-driven anger to regret and tenderness after Cupid's arrows cleanse them.
+- Continuity notes: Their demon pacts make them far stronger than Witch High in battle while also feeding on anger and reducing their freedom. After Cupid breaks the pacts, they choose apology, love, and peace.
+- Reference image: `../reference-images/warlock-high-setting.png`
+
+## Character: Demon Pact Shadows
+
+- First appears: Issue #12, "The Arrows Above Witch High"
+- Role: mythic evil and infernal force behind Warlock High's attack.
+- Visual identifiers: Red-black demonic silhouettes, horned smoke faces, clawed contract chains, burning pact sigils, and shadowy hands emerging from spellbooks and pact marks rather than ordinary bodies.
+- Continuity notes: Feed on anger and rivalry. Cupid's holy love arrows burn away their pact marks and remove the emotional fuel they need.
+
+## Character: Witch-Warlock Descendants
+
+- First appears: Issue #12, "The Arrows Above Witch High"
+- Role: restored future community and living legacy.
+- Visual identifiers: Young magical descendants with mixed witch and warlock visual motifs: bright academy uniforms combining violet, white, black, rose-gold, and emerald; clean glowing pact-free magic; beloved magical pets; and confident faces using disciplined power without demon chains.
+- Continuity notes: Inherit disciplined witchcraft and immense warlock power without demonic influence, proving that Cupid's hidden act created a stronger peaceful future.
+
 ## Character: Shadow Zone Hero
 
 - First appears: Issue #11, "The World Inside the Chaos Crystal"

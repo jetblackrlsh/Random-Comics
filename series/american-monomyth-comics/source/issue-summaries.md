@@ -1,5 +1,16 @@
 # Issue Summaries
 
+## Issue #12: The Arrows Above Witch High
+
+- Folder: `series/american-monomyth-comics/issues/issue-12/`
+- Logline: When demon-powered Warlock High overwhelms peaceful Witch High, hidden angel Cupid fires holy love arrows that break the demon pacts, end the war through restored hearts, and leave generations of stronger families as a legacy no one credits to the hero above the clouds.
+- Plot summary: Witch High begins as a luminous all-girl academy where upper-year young adult witches study disciplined magic in harmony with magical pets. Warlock High attacks with upper-year young adult warlocks empowered by demon pacts that feed on anger, making them far stronger than the better-trained witches. Witch High's leaders, healers, wardens, shield captains, and familiar keepers respond bravely, but every defense gives the demon pacts more fear and rage to consume. Cupid sees that the witches need rescue and the warlocks need freedom from demonic influence. Cupid fires holy love arrows from the clouds, piercing pact marks, dissolving infernal chains, and restoring clear hearts without forcing false affection. The warlocks feel remorse, the witches lower their defenses, both schools rebuild together, and generations of descendants inherit disciplined witchcraft and cleansed warlock power. Cupid remains hidden above the clouds, satisfied that peace and happy families are the true legacy.
+- Continuity changes: Establishes Cupid, Witch High, Warlock High, Demon Pact Shadows, Witch-Warlock Descendants, and Cupid's Holy Love Arrows. Establishes that holy love magic can defeat demon pact power by cleansing rage and restoring free choice instead of destroying the pact-bound students.
+- New characters: Cupid; Witch High Students; Warlock High Students; Demon Pact Shadows; Witch-Warlock Descendants.
+- New settings: Witch High; Warlock High.
+- New key items: Cupid's Holy Love Arrows.
+- Reference images added: `cupid-character.png`, `witch-high-setting.png`, `warlock-high-setting.png`, `holy-love-arrows-key-item.png`.
+
 ## Issue #11: The World Inside the Chaos Crystal
 
 - Folder: `series/american-monomyth-comics/issues/issue-11/`
