@@ -1,5 +1,16 @@
 # Issue Summaries
 
+## Issue #13: The Equal World Split
+
+- Folder: `series/american-monomyth-comics/issues/issue-13/`
+- Logline: When immortal dark elf Lord Veyr brainwashes Equalia's humans for refusing to worship him, orphan troll Grum rejects the excuse of a better alternate universe, uses the Universe Splitter to choose rescue in his own world, and restores a city that honors him by treating him like everyone else.
+- Plot summary: Equalia begins as a human utopia where no one receives special treatment and everyone receives equal respect. The city welcomes orphan troll Grum, raises him kindly, and treats him as an equal neighbor rather than a monster, servant, weapon, or celebrity. Lord Veyr arrives demanding worship because he is immortal and magically powerful, but Equalia refuses because equal respect cannot become worship. Veyr brainwashes every human in the city, but the spell only works on humans, leaving Grum free. Veyr uses the Universe Splitter to create a branch where he retreats and a branch where he keeps ruling, then tells Grum to accept that a better Equalia exists somewhere else. Grum refuses to abandon the world in front of him, takes the device, creates one branch where he leaves in shame and one branch where he uppercuts Veyr across the planet, and this issue follows the rescue branch. Veyr is thrown too far away to hold the spell, Equalia awakens, and Grum explains that the shame-branch version of himself likely sought help from a hero's guild. Equalia returns to normal by refusing to build a monument or treat Grum as superior; he remains an equal neighbor, exactly as he wants.
+- Continuity changes: Establishes Equalia Utopia, Grum, Lord Veyr, the Equalia Citizens, and the Universe Splitter. Establishes that the Universe Splitter creates real choice-based branches, and that Grum interprets branching realities as proof that there is always another way to try rather than a reason to abandon the world where he stands.
+- New characters: Grum; Lord Veyr; Equalia Citizens.
+- New settings: Equalia Utopia.
+- New key items: Universe Splitter.
+- Reference images added: `grum-character.png`, `lord-veyr-character.png`, `equalia-citizens-character.png`, `equalia-utopia-setting.png`, `universe-splitter-key-item.png`.
+
 ## Issue #12: The Arrows Above Witch High
 
 - Folder: `series/american-monomyth-comics/issues/issue-12/`

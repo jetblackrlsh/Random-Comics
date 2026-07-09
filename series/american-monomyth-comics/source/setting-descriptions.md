@@ -1,5 +1,12 @@
 # Setting Descriptions
 
+## Setting: Equalia Utopia
+
+- First appears: Issue #13, "The Equal World Split"
+- Visual identifiers: Peaceful human city of white stone and teal glass, open gates, transparent council halls, public gardens, shared tables, equal schools, coral flowers, warm gold sunlight, and civic plazas designed with no royal palace or privileged high platform.
+- Continuity notes: Built around the civic principle that no one receives special treatment and everyone receives equal respect and kindness. Welcomes orphan troll Grum, falls under Lord Veyr's human-only brainwashing spell, and returns to ordinary equality after Grum sends Veyr too far away to maintain control.
+- Reference image: `../reference-images/equalia-utopia-setting.png`
+
 ## Setting: Witch High
 
 - First appears: Issue #12, "The Arrows Above Witch High"

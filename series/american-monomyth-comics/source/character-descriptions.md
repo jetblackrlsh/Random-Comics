@@ -1,5 +1,29 @@
 # Character Descriptions
 
+## Character: Grum
+
+- First appears: Issue #13, "The Equal World Split"
+- Role: protagonist, orphan troll raised by Equalia, exceptional hero, equal neighbor.
+- Visual identifiers: Massive adult troll with moss-green skin, short ivory horns, kind amber eyes, broad jaw, heavy arms, gentle posture, dark teal sleeveless civic tunic, warm ocher sash, simple leather sandals, and a small Equalia sun-circle pin given to every citizen. As a child, he is much smaller with oversized hands, a patched travel cloak, frightened amber eyes, and the same tiny horns.
+- Continuity notes: Welcomed into Equalia as an orphan child and raised with equal kindness. Immune to Lord Veyr's human-only brainwashing spell, rejects the idea that a saved alternate universe is enough, uses the Universe Splitter to choose rescue in his own world, and returns to ordinary equal life without accepting hero worship.
+- Reference image: `../reference-images/grum-character.png`
+
+## Character: Lord Veyr
+
+- First appears: Issue #13, "The Equal World Split"
+- Role: antagonist, immortal dark elf sorcerer, tyrant who demands worship.
+- Visual identifiers: Tall slender dark elf with ash-violet skin, long silver-white hair, sharp ears, narrow glowing magenta eyes, black and amethyst royal armor robes, high collar, silver claw rings, starless crown circlet, and violet-black domination magic.
+- Continuity notes: Arrives in Equalia demanding worship, brainwashes every human when the city refuses, uses the Universe Splitter to create a branch where he retreats and a branch where he keeps ruling, then is uppercut to the other side of the planet so his spell breaks from distance.
+- Reference image: `../reference-images/lord-veyr-character.png`
+
+## Character: Equalia Citizens
+
+- First appears: Issue #13, "The Equal World Split"
+- Role: threatened innocent community and restored civic body.
+- Visual identifiers: Diverse human citizens of many ages and appearances wearing bright simple civic clothing in white, teal, gold, coral, and sky blue; everyone carries the same small sun-circle citizen pin; no crowns, noble uniforms, or caste markers.
+- Continuity notes: Live by equal respect and kindness, welcome orphan troll Grum as an ordinary child, refuse to worship Lord Veyr, are brainwashed by his human-only spell, awaken when he is thrown too far away, and preserve equality by refusing to make Grum a superior class of hero.
+- Reference image: `../reference-images/equalia-citizens-character.png`
+
 ## Character: Cupid
 
 - First appears: Issue #12, "The Arrows Above Witch High"

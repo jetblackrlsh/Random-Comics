@@ -1,5 +1,12 @@
 # Key Item Descriptions
 
+## Key Item: Universe Splitter
+
+- First appears: Issue #13, "The Equal World Split"
+- Visual identifiers: Palm-sized prism-and-gold device with two rotating halo rings, a central crystal lens, tiny star gears, and branching cyan-white reality lines splitting into alternate worlds around it.
+- Continuity notes: Divides reality by chosen options. Lord Veyr uses it to make one world where he retreats and one where he keeps ruling, then tells Grum the existence of the better branch should be enough. Grum uses it again to make one world where he leaves in shame and one where he uppercuts Veyr away from Equalia; this issue follows the rescue branch.
+- Reference image: `../reference-images/universe-splitter-key-item.png`
+
 ## Key Item: Cupid's Holy Love Arrows
 
 - First appears: Issue #12, "The Arrows Above Witch High"
