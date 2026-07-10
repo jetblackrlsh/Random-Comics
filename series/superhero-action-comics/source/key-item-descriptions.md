@@ -83,3 +83,10 @@
 - Visual identifiers: Portable but heavy medical-industrial console with a reinforced metal frame, transparent brain-scan cylinder, neural cable bundles, cracked monitor showing an abstract human brain scan, emergency battery packs, shipping-case clamps, sterile white panels scuffed by black-market handling, and amber-blue diagnostic lights.
 - Continuity notes: The device can preserve or transfer human minds into artificial bodies. Biter treats it as a second-life technology because a larger Animax system saved him after his crash. Green Mamba fears it can imprison minds inside weaponized bodies. At the end of Issue #7, Biter sends its location to an independent medical ethics council instead of returning it blindly to Project Animax.
 - Reference image: `../reference-images/animax-brain-transfer-equipment-key-item.png`
+
+## Key Item: Lyra's Crystal Vessel
+
+- First appears: Issue #8, "The Last Bloodline"
+- Visual identifiers: Human-length faceted crystal cradle, clear outer shell with pale turquoise light inside, bronze family runes around both pointed ends, suspended pearl-like control stones, and a soft protective field around its passenger.
+- Continuity notes: Ardan seals infant Lyra inside and sends the vessel thousands of years into the future beyond Maelor's reach. It eventually opens in Meridian, where Caelum discovers Lyra.
+- Reference image: None. The vessel is an issue-specific protective artifact.

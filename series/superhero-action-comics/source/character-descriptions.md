@@ -183,3 +183,34 @@
 - Visual identifiers: Athletic Kenyan man in a black tactical ninja suit with green snake-scale armor bands across the brow, torso straps, forearms, and shins; magenta-pink eye lenses; green ribbon tails from the mask; cobra-head chest emblem or armored snake chest plate; long anti-metal claws extending from both gloves; compact staff when needed; precise martial arts posture.
 - Continuity notes: Trained under the Youdu Clan to destroy dangerous technologies before they enslave people. His anti-metal claws can dissolve advanced alloys, his venom strikes can paralyze or disrupt exposed systems, and his heightened awareness lets him read movement from breath, air pressure, and intent. He accepts Biter's oversight compromise but promises to return if the Animax machine becomes a prison.
 - Reference image: `../reference-images/green-mamba-character.png`
+
+## Character: Lyra / Radiant
+
+- First appears: Issue #8, "The Last Bloodline"
+- Role: protagonist, ancient magical heir mistaken for an alien survivor.
+- Visual identifiers: Athletic woman in her mid-20s with warm olive-brown skin, expressive amber eyes that blaze white-gold when powered, long black curls with one natural silver-white streak at the right temple, strong oval face, indigo fitted flight suit with pearl-white armored shoulders and ribs, gold sun-disc chest emblem, pearl-white gauntlets and boots, short translucent pale-gold cape, and a soft white-gold aura in flight.
+- Continuity notes: Ardan transformed infant Lyra with flight, immense strength, blazing eyes, freezing breath, and nearly indestructible flesh, then sent her thousands of years forward. In Meridian she becomes Radiant. Maelor's death transfers the bloodline's complete magic into her. She and Caelum become romantic partners after learning they are not related.
+- Reference image: `../reference-images/lyra-radiant-character.png`
+
+## Character: Caelum
+
+- First appears: Issue #8, "The Last Bloodline"
+- Role: co-protagonist, world's greatest champion, last known survivor of an alien planet, Lyra's mentor and eventual romantic partner.
+- Visual identifiers: Tall, extremely muscular Black man in his early 30s with deep brown skin, calm ice-blue eyes, close-cropped black hair with a silver sheen, broad square face, cobalt-blue fitted superhero suit with white armored ribs and shoulders, silver eight-point star chest emblem, silver gauntlets and boots, short white cape, and cool blue-white energy around his hands and feet in flight.
+- Continuity notes: Caelum finds Lyra's vessel, trains her, and believes she is the only other survivor of his species. Maelor's magic severely injures him. After learning Lyra is human and magical rather than alien, he accepts that chosen family is still real and begins a romantic relationship with her.
+- Reference image: `../reference-images/caelum-character.png`
+
+## Character: Maelor
+
+- First appears: Issue #8, "The Last Bloodline"
+- Role: ageless bloodline murderer and primary antagonist.
+- Visual identifiers: Lean, imposing man who appears in his late 50s, pale olive skin, sharp cheekbones, deep-set violet eyes, shoulder-length wet-black hair with silver at both temples, trimmed black-and-silver beard, black-green layered sorcerer robes over barnacle-dark scale armor, long hands covered in luminous red-violet family runes, and a cracked-circle bloodline sigil at his throat.
+- Continuity notes: Maelor murders relatives to inherit their portions of family magic, defeats Ardan, becomes ageless, and hunts Lyra across time and dimensions. Lyra and Caelum kill him together in Meridian, transferring the bloodline's remaining power into Lyra.
+- Reference image: `../reference-images/maelor-character.png`
+
+## Character: Ardan
+
+- First appears: Issue #8, "The Last Bloodline"
+- Role: minor named character, Lyra's grandfather and protector.
+- Visual identifiers: Elderly undersea sorcerer with warm olive-brown skin, long white beard, kind amber eyes, flowing white hair, layered sea-blue robes, pearl-and-bronze charms, and pale turquoise magic around his hands.
+- Continuity notes: Ardan discovers Maelor's murders, transforms infant Lyra to protect her, seals her in a crystal vessel, sends her thousands of years into the future, and is defeated soon afterward.

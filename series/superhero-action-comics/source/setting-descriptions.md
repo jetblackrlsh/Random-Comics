@@ -83,3 +83,17 @@
 - Visual identifiers: Nighttime container port near the Kenyan coast; stacked blue, red, and rusted shipping containers; wet concrete; sodium harbor lights; tall cranes; chain-link fences; tarps; illegal medical-tech crates; cracked warehouse monitors; ocean mist; and orange dawn light by the resolution.
 - Continuity notes: A black-market transfer point for stolen Animax brain-transfer equipment and the battlefield where Biter and Green Mamba first clash over whether the machinery should be preserved or destroyed.
 - Reference image: `../reference-images/hidden-kenyan-port-facility-setting.png`
+
+## Setting: Meridian
+
+- First appears: Issue #8, "The Last Bloodline"
+- Visual identifiers: Optimistic contemporary coastal metropolis with pale-gold glass towers, white stone civic terraces, a broad blue river entering the sea, radial avenues, elevated rail lines, rooftop gardens, rescue beacons, and a distinctive needle-shaped central tower with a circular observation crown.
+- Continuity notes: Lyra's crystal vessel opens here. Meridian becomes Lyra and Caelum's home, Maelor's final battlefield, and the city above which the heroes share their first kiss.
+- Reference image: `../reference-images/meridian-city-setting.png`
+
+## Setting: Ardan's Undersea Sanctuary
+
+- First appears: Issue #8, "The Last Bloodline"
+- Visual identifiers: Ancient dry chamber beneath the sea with curved dark-stone walls, thick glass windows holding back blue ocean water, bronze family runes, pearl lamps, shallow ritual pools, coral-encrusted arches, and a central pale-turquoise magic circle.
+- Continuity notes: Ardan discovers the bloodline murders here, transforms infant Lyra, and launches her crystal vessel into the future. Maelor defeats him shortly afterward.
+- Reference image: None. This is an issue-specific ancient location.
