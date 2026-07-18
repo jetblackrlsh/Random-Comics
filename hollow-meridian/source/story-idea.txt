@@ -1,0 +1,9 @@
+Create a 22-page standalone one-shot based on a father-and-child tabletop fantasy campaign played in early 2026.
+
+The story follows Blastar, a half-orc warrior with a greataxe and a silly cat mask, and Jack Russel, a Veyran cultivator who channels star-heart chi. They heal the poisoned Shattered Vale, learn that the machine intelligence Archivist Null catalogued the destruction of Jack's homeworld Veyra, rescue Veyran prisoners from the Null Expanse, survive a retaliatory drone attack, and defeat Archivist Null by earning intervention from the Assembly of Free Realms.
+
+The comic must contain no references to any pre-existing superhero-comics universe. Its cosmology, worlds, species, prison dimension, villain, and diplomatic institutions must be original.
+
+Story clarity is the first priority. Use descriptive, detailed caption boxes that explicitly explain motivations, causes, consequences, stakes, locations, transitions, and the meaning of every major choice. Avoid vague storytelling and unexplained spectacle.
+
+The 22 images are a cover, 20 story pages, and a poster-style back cover. All art and all readable text must be generated directly inside the page images with the built-in image generation capability. Do not add story text afterward.

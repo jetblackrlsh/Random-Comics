@@ -10566,6 +10566,132 @@
       "issueNumber": 8,
       "issueLabel": "Issue #8 of Superhero Action Comics",
       "url": "comics/superhero-action-comics-issue-08/"
+    },
+    {
+      "slug": "hollow-meridian",
+      "folder": "hollow-meridian",
+      "title": "The Hollow Meridian",
+      "publishedDate": "2026-07-18",
+      "summary": "After a half-orc warrior and a star-powered exile heal a valley poisoned by a wound in reality, their search for the force behind that wound grows into a rescue campaign against an interdimensional machine archivist, forcing them to prove that alliances can accomplish what even their combined strength cannot.",
+      "cover": "../hollow-meridian/assets/comic-pages/page-01-cover.png",
+      "pdf": "../hollow-meridian/output/pdf/the-hollow-meridian.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../hollow-meridian/assets/comic-pages/page-01-cover.png",
+          "alt": "The Hollow Meridian comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../hollow-meridian/assets/comic-pages/page-02.png",
+          "alt": "The Hollow Meridian comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../hollow-meridian/assets/comic-pages/page-03.png",
+          "alt": "The Hollow Meridian comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../hollow-meridian/assets/comic-pages/page-04.png",
+          "alt": "The Hollow Meridian comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../hollow-meridian/assets/comic-pages/page-05.png",
+          "alt": "The Hollow Meridian comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../hollow-meridian/assets/comic-pages/page-06.png",
+          "alt": "The Hollow Meridian comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../hollow-meridian/assets/comic-pages/page-07.png",
+          "alt": "The Hollow Meridian comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../hollow-meridian/assets/comic-pages/page-08.png",
+          "alt": "The Hollow Meridian comic page 8"
+        },
+        {
+          "number": 9,
+          "path": "../hollow-meridian/assets/comic-pages/page-09.png",
+          "alt": "The Hollow Meridian comic page 9"
+        },
+        {
+          "number": 10,
+          "path": "../hollow-meridian/assets/comic-pages/page-10.png",
+          "alt": "The Hollow Meridian comic page 10"
+        },
+        {
+          "number": 11,
+          "path": "../hollow-meridian/assets/comic-pages/page-11.png",
+          "alt": "The Hollow Meridian comic page 11"
+        },
+        {
+          "number": 12,
+          "path": "../hollow-meridian/assets/comic-pages/page-12.png",
+          "alt": "The Hollow Meridian comic page 12"
+        },
+        {
+          "number": 13,
+          "path": "../hollow-meridian/assets/comic-pages/page-13.png",
+          "alt": "The Hollow Meridian comic page 13"
+        },
+        {
+          "number": 14,
+          "path": "../hollow-meridian/assets/comic-pages/page-14.png",
+          "alt": "The Hollow Meridian comic page 14"
+        },
+        {
+          "number": 15,
+          "path": "../hollow-meridian/assets/comic-pages/page-15.png",
+          "alt": "The Hollow Meridian comic page 15"
+        },
+        {
+          "number": 16,
+          "path": "../hollow-meridian/assets/comic-pages/page-16.png",
+          "alt": "The Hollow Meridian comic page 16"
+        },
+        {
+          "number": 17,
+          "path": "../hollow-meridian/assets/comic-pages/page-17.png",
+          "alt": "The Hollow Meridian comic page 17"
+        },
+        {
+          "number": 18,
+          "path": "../hollow-meridian/assets/comic-pages/page-18.png",
+          "alt": "The Hollow Meridian comic page 18"
+        },
+        {
+          "number": 19,
+          "path": "../hollow-meridian/assets/comic-pages/page-19.png",
+          "alt": "The Hollow Meridian comic page 19"
+        },
+        {
+          "number": 20,
+          "path": "../hollow-meridian/assets/comic-pages/page-20.png",
+          "alt": "The Hollow Meridian comic page 20"
+        },
+        {
+          "number": 21,
+          "path": "../hollow-meridian/assets/comic-pages/page-21.png",
+          "alt": "The Hollow Meridian comic page 21"
+        },
+        {
+          "number": 22,
+          "path": "../hollow-meridian/assets/comic-pages/page-22-back-cover.png",
+          "alt": "The Hollow Meridian comic page 22"
+        }
+      ],
+      "pageCount": 22,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
+      "url": "comics/hollow-meridian/"
     }
   ]
 }
