@@ -10692,6 +10692,87 @@
       "issueNumber": null,
       "issueLabel": "Standalone issue",
       "url": "comics/hollow-meridian/"
+    },
+    {
+      "slug": "chain-of-embers",
+      "folder": "chain-of-embers",
+      "title": "Chain of Embers",
+      "publishedDate": "2026-07-24",
+      "summary": "After a clean-energy experiment merges a modern city with a dying demon realm, an infernal rift-cartographer and a paramedic forcibly transformed into a feral gladiator disguise their voluntary magical partnership as ownership, then use the dictatorship's championship arena to prove that cooperation can power the city's wards more safely than bloodshed.",
+      "cover": "../chain-of-embers/assets/comic-pages/page-01-cover.png",
+      "pdf": "../chain-of-embers/output/pdf/chain-of-embers.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../chain-of-embers/assets/comic-pages/page-01-cover.png",
+          "alt": "Chain of Embers comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../chain-of-embers/assets/comic-pages/page-02.png",
+          "alt": "Chain of Embers comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../chain-of-embers/assets/comic-pages/page-03.png",
+          "alt": "Chain of Embers comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../chain-of-embers/assets/comic-pages/page-04.png",
+          "alt": "Chain of Embers comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../chain-of-embers/assets/comic-pages/page-05.png",
+          "alt": "Chain of Embers comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../chain-of-embers/assets/comic-pages/page-06.png",
+          "alt": "Chain of Embers comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../chain-of-embers/assets/comic-pages/page-07.png",
+          "alt": "Chain of Embers comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../chain-of-embers/assets/comic-pages/page-08.png",
+          "alt": "Chain of Embers comic page 8"
+        },
+        {
+          "number": 9,
+          "path": "../chain-of-embers/assets/comic-pages/page-09.png",
+          "alt": "Chain of Embers comic page 9"
+        },
+        {
+          "number": 10,
+          "path": "../chain-of-embers/assets/comic-pages/page-10.png",
+          "alt": "Chain of Embers comic page 10"
+        },
+        {
+          "number": 11,
+          "path": "../chain-of-embers/assets/comic-pages/page-11.png",
+          "alt": "Chain of Embers comic page 11"
+        },
+        {
+          "number": 12,
+          "path": "../chain-of-embers/assets/comic-pages/page-12.png",
+          "alt": "Chain of Embers comic page 12"
+        },
+        {
+          "number": 13,
+          "path": "../chain-of-embers/assets/comic-pages/page-13.png",
+          "alt": "Chain of Embers comic page 13"
+        }
+      ],
+      "pageCount": 13,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
+      "url": "comics/chain-of-embers/"
     }
   ]
 }
