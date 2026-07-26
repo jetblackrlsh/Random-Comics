@@ -5,8 +5,15 @@
     <link>https://jetblackrlsh.github.io/Random-Comics/web-app/</link>
     <description>Standalone comics, strange experiments, one-shot adventures, spontaneous comic ideas, and future comic series.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://jetblackrlsh.github.io/Random-Comics/web-app/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lucid Sun</title>
+      <link>https://jetblackrlsh.github.io/Random-Comics/web-app/comics/lucid-sun/</link>
+      <guid isPermaLink="true">https://jetblackrlsh.github.io/Random-Comics/web-app/comics/lucid-sun/</guid>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
+      <description>When an armored alien steals a compressed piece of the sun and leaves forty train passengers hanging above Crownspire City, cybersecurity developer and superhero Jet Black must turn the train into a rescue mecha, hack the thief&apos;s armor, and sacrifice his physical future to become the Guardian of the Heliosphere. Standalone issue. 8 pages.</description>
+    </item>
     <item>
       <title>Chain of Embers</title>
       <link>https://jetblackrlsh.github.io/Random-Comics/web-app/comics/chain-of-embers/</link>

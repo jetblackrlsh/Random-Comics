@@ -10773,6 +10773,62 @@
       "issueNumber": null,
       "issueLabel": "Standalone issue",
       "url": "comics/chain-of-embers/"
+    },
+    {
+      "slug": "lucid-sun",
+      "folder": "lucid-sun",
+      "title": "Lucid Sun",
+      "publishedDate": "2026-07-26",
+      "summary": "When an armored alien steals a compressed piece of the sun and leaves forty train passengers hanging above Crownspire City, cybersecurity developer and superhero Jet Black must turn the train into a rescue mecha, hack the thief's armor, and sacrifice his physical future to become the Guardian of the Heliosphere.",
+      "cover": "../lucid-sun/assets/comic-pages/page-01-cover.png",
+      "pdf": "../lucid-sun/output/pdf/lucid-sun.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../lucid-sun/assets/comic-pages/page-01-cover.png",
+          "alt": "Lucid Sun comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../lucid-sun/assets/comic-pages/page-02.png",
+          "alt": "Lucid Sun comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../lucid-sun/assets/comic-pages/page-03.png",
+          "alt": "Lucid Sun comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../lucid-sun/assets/comic-pages/page-04.png",
+          "alt": "Lucid Sun comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../lucid-sun/assets/comic-pages/page-05.png",
+          "alt": "Lucid Sun comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../lucid-sun/assets/comic-pages/page-06.png",
+          "alt": "Lucid Sun comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../lucid-sun/assets/comic-pages/page-07.png",
+          "alt": "Lucid Sun comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../lucid-sun/assets/comic-pages/page-08.png",
+          "alt": "Lucid Sun comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
+      "url": "comics/lucid-sun/"
     }
   ]
 }
