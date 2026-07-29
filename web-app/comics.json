@@ -10829,6 +10829,62 @@
       "issueNumber": null,
       "issueLabel": "Standalone issue",
       "url": "comics/lucid-sun/"
+    },
+    {
+      "slug": "the-last-witness",
+      "folder": "the-last-witness",
+      "title": "The Last Witness",
+      "publishedDate": "2026-07-29",
+      "summary": "In a shattered arena, exiled archmage Kaelus survives an Invisible Stalker’s relentless assassination order by exposing the elemental, outmaneuvering it, and turning its dying confession into proof that the royal conspiracy he once revealed still fears him.",
+      "cover": "../the-last-witness/assets/comic-pages/page-01-cover.png",
+      "pdf": "../the-last-witness/output/pdf/the-last-witness.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../the-last-witness/assets/comic-pages/page-01-cover.png",
+          "alt": "The Last Witness comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../the-last-witness/assets/comic-pages/page-02.png",
+          "alt": "The Last Witness comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../the-last-witness/assets/comic-pages/page-03.png",
+          "alt": "The Last Witness comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../the-last-witness/assets/comic-pages/page-04.png",
+          "alt": "The Last Witness comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../the-last-witness/assets/comic-pages/page-05.png",
+          "alt": "The Last Witness comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../the-last-witness/assets/comic-pages/page-06.png",
+          "alt": "The Last Witness comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../the-last-witness/assets/comic-pages/page-07.png",
+          "alt": "The Last Witness comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../the-last-witness/assets/comic-pages/page-08.png",
+          "alt": "The Last Witness comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
+      "url": "comics/the-last-witness/"
     }
   ]
 }
