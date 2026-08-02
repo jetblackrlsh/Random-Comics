@@ -700,6 +700,32 @@ for (const comic of catalog.comics) {
   );
 }
 
+for (const comic of catalog.comics) {
+  for (const legacySlug of comic.legacySlugs || []) {
+    if (legacySlug === comic.slug) continue;
+    const dir = path.join(comicsDir, legacySlug);
+    const target = `${catalog.site.baseUrl}/comics/${comic.slug}/`;
+    mkdirSync(dir, { recursive: true });
+    writeFileSync(
+      path.join(dir, "index.html"),
+      `<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>${escapeHtml(comic.title)} | Random Comics</title>
+    <meta http-equiv="refresh" content="0; url=${escapeHtml(target)}">
+    <link rel="canonical" href="${escapeHtml(target)}">
+  </head>
+  <body>
+    <p><a href="${escapeHtml(target)}">Open ${escapeHtml(comic.title)} as ${escapeHtml(comicIssueLabel(comic))}</a></p>
+  </body>
+</html>
+`,
+    );
+  }
+}
+
 writeFileSync(path.join(webAppDir, "sitemap.xml"), sitemapXml());
 writeFileSync(path.join(webAppDir, "robots.txt"), robotsTxt());
 writeFileSync(path.join(webAppDir, "rss.xml"), rssFeedXml());

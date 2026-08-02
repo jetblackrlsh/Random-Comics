@@ -4,9 +4,21 @@
 
 Clifford and Angora's First Adventure
 
+## Issue Number
+
+1
+
+## Publication Date
+
+2026-08-01
+
+## Legacy Slugs
+
+- `clifford-and-angoras-first-adventure`
+
 ## Format
 
-Standalone one-shot, eight pages total: one cover and seven story pages.
+Series issue #1, eight pages total: one cover and seven story pages.
 
 ## Logline
 

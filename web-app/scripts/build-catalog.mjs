@@ -7,6 +7,18 @@ import process from "node:process";
 const repoRoot = path.resolve(fileURLToPath(new URL("../..", import.meta.url)));
 const webAppDir = path.join(repoRoot, "web-app");
 const assetBaseUrl = process.env.ASSET_BASE_URL?.replace(/\/+$/, "") || "";
+const catalogPath = path.join(webAppDir, "comics.json");
+
+let previousCatalog = null;
+try {
+  previousCatalog = JSON.parse(readFileSync(catalogPath, "utf8"));
+} catch {
+  // A first build has no prior catalog to preserve.
+}
+
+const previousPublishedDates = new Map(
+  (previousCatalog?.comics || []).map((comic) => [comic.slug, comic.publishedDate]),
+);
 
 const excludedDirs = new Set([
   ".git",
@@ -112,6 +124,18 @@ function firstExistingFile(paths) {
 function numericSection(filePath, heading) {
   const value = markdownSection(filePath, heading).replace(/[^\d]/g, "");
   return value ? Number.parseInt(value, 10) : null;
+}
+
+function dateSection(filePath, heading) {
+  const value = markdownSection(filePath, heading).trim();
+  return /^\d{4}-\d{2}-\d{2}$/.test(value) ? value : null;
+}
+
+function slugListSection(filePath, heading) {
+  return markdownSection(filePath, heading)
+    .split(/\n/)
+    .map((line) => line.replace(/^\s*[-*]\s*/, "").replace(/`/g, "").trim())
+    .filter((line) => /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(line));
 }
 
 function issueNumberFromSlug(slug) {
@@ -253,7 +277,11 @@ function comicFromDirectory({ relativeDir, slug, series = null, issueNumber = nu
   const title = treatmentTitle(treatment) || slugToTitle(path.basename(relativeDir));
   const pages = pagesForComic(relativeDir, title);
   const cover = pages.find((page) => /cover/i.test(page.path)) || pages[0];
-  const publishedDate = gitFirstCommitDate(relativeDir) || fileDate(path.join(repoRoot, relativeDir));
+  const publishedDate = dateSection(treatment, "Publication Date")
+    || previousPublishedDates.get(slug)
+    || gitFirstCommitDate(relativeDir)
+    || fileDate(path.join(repoRoot, relativeDir));
+  const legacySlugs = slugListSection(treatment, "Legacy Slugs");
   const issueLabel = series
     ? `Issue #${issueNumber} of ${series.title}`
     : "Standalone issue";
@@ -271,6 +299,7 @@ function comicFromDirectory({ relativeDir, slug, series = null, issueNumber = nu
     series,
     issueNumber,
     issueLabel,
+    ...(legacySlugs.length ? { legacySlugs } : {}),
     url: `comics/${slug}/`,
   };
 }
@@ -348,5 +377,5 @@ const catalog = {
   comics,
 };
 
-writeFileSync(path.join(webAppDir, "comics.json"), `${JSON.stringify(catalog, null, 2)}\n`);
+writeFileSync(catalogPath, `${JSON.stringify(catalog, null, 2)}\n`);
 console.log(`Wrote ${comics.length} comics and ${catalog.series.length} series to web-app/comics.json`);

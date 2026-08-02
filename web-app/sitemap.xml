@@ -36,6 +36,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://jetblackrlsh.github.io/Random-Comics/web-app/series/clifford-and-angora/</loc>
+    <lastmod>2026-08-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://jetblackrlsh.github.io/Random-Comics/web-app/series/divine-repo/</loc>
     <lastmod>2026-08-01</lastmod>
     <priority>0.8</priority>
@@ -756,7 +761,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://jetblackrlsh.github.io/Random-Comics/web-app/comics/clifford-and-angoras-first-adventure/</loc>
+    <loc>https://jetblackrlsh.github.io/Random-Comics/web-app/comics/clifford-and-angora-issue-01/</loc>
     <lastmod>2026-08-01</lastmod>
     <priority>0.9</priority>
   </url>

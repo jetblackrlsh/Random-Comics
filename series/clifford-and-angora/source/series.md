@@ -1,0 +1,35 @@
+# Clifford and Angora
+
+## Title
+
+Clifford and Angora
+
+## Logline
+
+A towering goliath bard whose magical songs rarely behave as expected and a red-haired elf fighter whose psychic blade answers to her mind travel a high-fantasy realm, surviving strange quests through improvisation, mutual encouragement, and the strengths they recognize in each other.
+
+## Premise
+
+Clifford is a gentle giant who thinks of himself as a musician rather than a warrior, even though his intimidating size makes strangers expect the opposite. Angora is a disciplined elf fighter eager to test herself against worthy challenges. After a disastrous but ultimately triumphant first adventure, they choose to continue traveling together. Each issue follows the pair into a new fantasy problem where Clifford's sincere but unreliable magical music complicates the danger and Angora's mental discipline turns apparent mistakes into unexpected solutions.
+
+## Tone
+
+Warm, adventurous high-fantasy comedy with sincere friendship at its center. Dangers and magical consequences are real, but victories come through character, ingenuity, empathy, and good-hearted encouragement rather than flawless power. Humor grows naturally from Clifford's unpredictable songs, Angora's direct determination, and the contrast between their heroic appearances and imperfect methods.
+
+## Recurring Visual Language
+
+- Realistic candid photo-comic style with documentary phone-photo or handheld photojournalism framing.
+- Believable live-action fantasy costumes, props, creatures, environments, skin texture, fabric wear, metal damage, and physical magical effects.
+- Clifford's magic appears as green-gold musical notes and ribbon-like sound trails around his ornate lute.
+- Angora's psychic power appears as bright pink-violet plasma, fine electrical arcs, and focused light in her green eyes.
+- Clifford remains visually identifiable by his immense scale, deep brown skin, long bundled locs, full beard, symmetrical white tribal paint, and layered green-and-purple bardic clothing.
+- Angora remains visually identifiable by her pointed ears, freckles, vivid red ponytail, spiked gunmetal armor, green accents, round wooden shield, and pink-violet psychic sword.
+- Story pages use clean rectangular caption boxes only, with no speech bubbles, thought bubbles, page numbers, caption labels, or repeated same-page wording.
+
+## Continuity Notes
+
+- Issue #1 begins with Clifford and Angora meeting in a lively tavern and ends with them leaving the river as true companions.
+- Clifford knows magical songs but does not yet understand or perform them reliably. His mistakes can reverse, distort, weaken, insult, summon, or otherwise misapply a spell.
+- Angora's sword is psychic rather than merely physical. Its strength depends upon focus, conviction, and mental discipline.
+- Clifford believes Angora's greatest fighting power is in her mind. Angora believes Clifford's true music is in his heart.
+- Their friendship is collaborative and nonjudgmental: each recognizes genuine value in the other's imperfect efforts.

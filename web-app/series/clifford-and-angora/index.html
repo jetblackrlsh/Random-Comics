@@ -1,0 +1,238 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="../../">
+    <!-- APP_META_START -->
+    <title>Clifford and Angora | Random Comics</title>
+    <meta name="description" content="A towering goliath bard whose magical songs rarely behave as expected and a red-haired elf fighter whose psychic blade answers to her mind travel a high-fantasy realm, surviving...">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://jetblackrlsh.github.io/Random-Comics/web-app/series/clifford-and-angora/">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Random Comics">
+    <meta property="og:title" content="Clifford and Angora | Random Comics">
+    <meta property="og:description" content="A towering goliath bard whose magical songs rarely behave as expected and a red-haired elf fighter whose psychic blade answers to her mind travel a high-fantasy realm, surviving...">
+    <meta property="og:url" content="https://jetblackrlsh.github.io/Random-Comics/web-app/series/clifford-and-angora/">
+    <meta property="og:image" content="https://jetblackrlsh.github.io/Random-Comics/web-app/assets/site-background.png">
+    <meta property="og:image:alt" content="Clifford and Angora | Random Comics cover art">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Clifford and Angora | Random Comics">
+    <meta name="twitter:description" content="A towering goliath bard whose magical songs rarely behave as expected and a red-haired elf fighter whose psychic blade answers to her mind travel a high-fantasy realm, surviving...">
+    <meta name="twitter:image" content="https://jetblackrlsh.github.io/Random-Comics/web-app/assets/site-background.png">
+    <meta name="twitter:image:alt" content="Clifford and Angora | Random Comics cover art">
+    <link rel="alternate" type="application/rss+xml" title="Random Comics RSS Feed" href="https://jetblackrlsh.github.io/Random-Comics/web-app/rss.xml">
+    <!-- APP_META_END -->
+    <!-- STRUCTURED_DATA_START -->
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"CreativeWorkSeries","name":"Clifford and Angora","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/series/clifford-and-angora/","description":"A towering goliath bard whose magical songs rarely behave as expected and a red-haired elf fighter whose psychic blade answers to her mind travel a high-fantasy realm, surviving strange quests through improvisation, mutual encouragement, and the strengths they recognize in each other.","hasPart":[{"@type":"ComicIssue","name":"Clifford and Angora's First Adventure","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/comics/clifford-and-angora-issue-01/","issueNumber":1,"position":1,"datePublished":"2026-08-01","image":"https://jetblackrlsh.github.io/Random-Comics/series/clifford-and-angora/issues/issue-01/assets/comic-pages/page-01-cover.png"}],"isPartOf":{"@type":"WebSite","name":"Random Comics","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/"}}</script>
+    <!-- STRUCTURED_DATA_END -->
+    <link rel="preload" href="assets/site-background.png" as="image">
+    <link rel="icon" href="assets/random-comics-logo.png">
+    <link rel="sitemap" type="application/xml" href="sitemap.xml">
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body data-initial-route="series:clifford-and-angora">
+    <div class="background-art" aria-hidden="true"></div>
+    <header class="site-header">
+        <a class="brand" href="./" data-route="home" aria-label="Random Comics home">
+        <img src="assets/random-comics-logo.png" alt="Random Comics">
+      </a>
+      <nav class="top-nav" aria-label="Primary navigation">
+        <a href="./" data-route="home">Read</a>
+        <a href="advanced-search/" data-route="advanced-search">Advanced Search</a>
+        <a href="about/" data-route="about">About</a>
+        <a href="ai-limitations/" data-route="ai-limitations">AI Limitations</a>
+        <a class="follow-link" href="follow/" data-route="follow">Follow</a>
+        <a href="other-comics/" data-route="other-comics">Other Comics</a>
+        <a class="review-link" href="https://docs.google.com/forms/d/e/1FAIpQLSftkXOkOSMjwOXjS4pFpF81lE4lF02NcWHECy4tesJy9V-9Dg/viewform?usp=publish-editor" target="_blank" rel="noopener">Review</a>
+        <a class="support-link" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="reader-layout" id="readerView">
+        <aside class="control-panel" aria-label="Comic controls">
+          <div class="intro-copy">
+            <h1>Random Comics</h1>
+            <p>Browse standalone stories and series issues, read vertically, share a favorite issue, or download it for later.</p>
+          </div>
+
+          <a class="follow-cta" href="follow/" data-route="follow">Follow for updates</a>
+
+          <label class="search-wrap" for="comicSearch">
+            <span>Search by title, date, or series</span>
+            <input id="comicSearch" type="search" autocomplete="off" placeholder="Try 2026, Deca-Form, or a series">
+          </label>
+
+          <div class="jump-actions" aria-label="Jump to comic">
+            <button type="button" id="earliestButton">Earliest</button>
+            <button type="button" id="latestButton">Latest</button>
+          </div>
+
+          <div class="comic-list" id="comicList" aria-label="Comics"></div>
+        </aside>
+
+        <article class="reader-panel" aria-live="polite">
+          <div class="reader-toolbar">
+            <div>
+              <p class="publish-date" id="comicDate"></p>
+              <h2 id="comicTitle">Loading comics...</h2>
+            </div>
+            <div class="reader-actions" aria-label="Selected comic actions">
+              <button class="icon-button reader-mode-button" type="button" id="readerModeButton" aria-pressed="false">Reader Mode</button>
+              <a class="icon-button" id="downloadButton" href="#" download>Download</a>
+              <button class="icon-button" type="button" id="shareButton">Share</button>
+              <a class="icon-button review" href="https://docs.google.com/forms/d/e/1FAIpQLSftkXOkOSMjwOXjS4pFpF81lE4lF02NcWHECy4tesJy9V-9Dg/viewform?usp=publish-editor" target="_blank" rel="noopener">Review</a>
+              <a class="icon-button support" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+            </div>
+          </div>
+          <p class="comic-summary" id="comicSummary"></p>
+          <div class="page-strip" id="pageStrip"></div>
+        </article>
+      </section>
+
+      <section class="about-view" id="aboutView" hidden>
+        <div class="about-copy">
+          <h1>About Random Comics</h1>
+          <p>Random Comics is a home for standalone one-shots, strange experiments, and comic series that grow beyond a single issue.</p>
+          <p>Some comics are based on dreams. Some come from sudden shower thoughts, weird news, superhero concepts, game-inspired ideas, or random sparks of imagination that demanded to become something real. Some ideas only need one finished comic. Others may build into recurring characters, settings, and issue-to-issue continuity.</p>
+          <p>The comics collected here may vary in tone, style, length, format, and genre. You might find superhero action, sci-fi weirdness, dream logic, horror, comedy, mythic strangeness, standalone stories, or the beginning of a larger series.</p>
+          <p>Think of this as a creative sketchbook turned into a comic archive: a place where spontaneous ideas can become finished stories, whether they stand alone or keep expanding.</p>
+          <p>Not every comic needs a universe.</p>
+          <p>But when a strange little story grows into one, Random Comics has room for that too.</p>
+        </div>
+      </section>
+
+      <section class="ai-limitations-view" id="aiLimitationsView" hidden>
+        <div class="ai-limitations-copy">
+          <h1>AI Limitations</h1>
+          <p>All of the comics and stories on Random Comics are created utilizing AI as part of the creative process.</p>
+          <p>That process can introduce visual inconsistencies, mistakes, awkward details, and story clarity issues. Characters may not look perfectly identical from page to page. Objects may shift. Text may be imperfect. Some scenes may explain too much, too little, or not quite land the way a fully controlled traditional production would.</p>
+          <p>Random Comics does not try to hide that AI is part of how these comics are made. The archive keeps many of those mistakes, inconsistencies, and rough edges as part of the finished work.</p>
+          <p>Readers are invited to accept the AI nature of these comics and appreciate them for what they are: strange, experimental, imperfect stories made with a developing creative technology.</p>
+          <p>As AI tools improve, visual mistakes and story issues will likely decrease over time. For now, the limitations are part of the texture of the project.</p>
+        </div>
+      </section>
+
+      <section class="follow-view" id="followView" hidden>
+        <div class="follow-copy">
+          <h1>Follow Random Comics</h1>
+          <p>Get new comic releases by email when the archive updates.</p>
+          <div class="followit--follow-form-container" attr-a attr-b attr-c attr-d attr-e attr-f>
+            <form action="https://api.follow.it/subscription-form/aGlRcUxKVXNNVCtnVTVNbnNwaERaczZ4WFQ4Um1GdFY2cm9wSmhKSGhKdi9MUE1TWk9VU3k2U3N0TnRZUkhkY3JtUG1jUk5aUzJBUUtQUFFValBaOHlsT3AwRlQ2MGplWGJ2d0g5aEhhR045eGFVZCt1MExpYllSWlRvYW5FRXV8RWF4OWhNaXY2WTRJZHQ1UzY4aGJmYlU2a1QrVkRDT2xWekVVNytaQTJoVT0=/8" method="post">
+              <div class="form-preview">
+                <div class="preview-heading">
+                  <h5>Get new comics by email</h5>
+                </div>
+                <div class="preview-input-field">
+                  <input type="email" name="email" required placeholder="Enter your email" spellcheck="false">
+                </div>
+                <div class="preview-submit-button">
+                  <button type="submit">Subscribe</button>
+                </div>
+              </div>
+            </form>
+            <a href="https://follow.it" class="powered-by-line">Powered by <img src="https://follow.it/images/colored-logo.svg" alt="follow.it" height="17"></a>
+          </div>
+        </div>
+      </section>
+
+      <section class="other-comics-view" id="otherComicsView" hidden>
+        <div class="other-comics-copy">
+          <h1>Other Comics</h1>
+          <p>Read more comic projects from Nicholas Benson.</p>
+          <div class="other-comics-grid" aria-label="Other comics">
+            <a class="comic-site-card" href="https://planet-man.randomcomics.art/" target="_blank" rel="noopener">
+              <span>Planet-Man Comics</span>
+              <small>Superhero comic adventures and series releases.</small>
+            </a>
+            <a class="comic-site-card" href="https://dreamcomics.randomcomics.art/" target="_blank" rel="noopener">
+              <span>Dream Comics</span>
+              <small>Dream-inspired comics and surreal story experiments.</small>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="advanced-search-view" id="advancedSearchView" hidden>
+        <div class="advanced-search-shell">
+          <div class="advanced-search-heading">
+            <div>
+              <h1>Advanced Search</h1>
+              <p>Search the full archive by date, series, issue title, issue description, and issue number.</p>
+            </div>
+            <p class="advanced-search-count" id="advancedSearchCount">Loading comics...</p>
+          </div>
+
+          <details class="advanced-filter-panel" id="advancedFilterPanel" open>
+            <summary>
+              <span>Search and filters</span>
+              <span class="advanced-filter-summary" id="advancedFilterSummary">No filters active</span>
+            </summary>
+
+            <form class="advanced-filter-grid" id="advancedSearchForm">
+              <label>
+                <span>Issue title</span>
+                <input id="advancedTitleSearch" type="search" autocomplete="off" placeholder="Search titles">
+              </label>
+              <label>
+                <span>Issue description</span>
+                <input id="advancedDescriptionSearch" type="search" autocomplete="off" placeholder="Search descriptions">
+              </label>
+              <label>
+                <span>Series name</span>
+                <select id="advancedSeriesFilter">
+                  <option value="">All series and standalones</option>
+                </select>
+              </label>
+              <label>
+                <span>Issue number</span>
+                <input id="advancedIssueNumber" type="number" min="1" step="1" inputmode="numeric" placeholder="Any issue">
+              </label>
+              <label>
+                <span>Published from</span>
+                <input id="advancedDateFrom" type="date">
+              </label>
+              <label>
+                <span>Published through</span>
+                <input id="advancedDateTo" type="date">
+              </label>
+              <label class="advanced-sort-control">
+                <span>Order results</span>
+                <select id="advancedSort">
+                  <option value="date-desc">Publishing date: High to Low</option>
+                  <option value="date-asc">Publishing date: Low to High</option>
+                  <option value="title-asc">ABC Order</option>
+                  <option value="title-desc">Reverse ABC Order</option>
+                  <option value="issue-asc">Issue Number Order</option>
+                  <option value="issue-desc">Reverse Issue Number Order</option>
+                  <option value="series-asc">Series Order</option>
+                  <option value="series-desc">Reverse Series Order</option>
+                </select>
+              </label>
+              <button class="advanced-reset-button" type="reset" id="advancedResetButton">Reset filters</button>
+            </form>
+          </details>
+
+          <div class="advanced-gallery" id="advancedGallery" aria-label="Advanced search comic gallery"></div>
+        </div>
+      </section>
+
+      <!-- SEO_CONTENT_START -->
+      <section class="seo-content" aria-label="Clifford and Angora series details">
+        <h2>Clifford and Angora</h2>
+        <p>A towering goliath bard whose magical songs rarely behave as expected and a red-haired elf fighter whose psychic blade answers to her mind travel a high-fantasy realm, surviving strange quests through improvisation, mutual encouragement, and the strengths they recognize in each other.</p>
+        <h3>Characters</h3><p>Character Descriptions Character: Clifford - First appears: Issue 1, &quot;Clifford and Angora's First Adventure&quot; - Role: Co-protagonist, gentle goliath bard, well-meaning magical musician, and Angora's traveling companion. - Visual identifiers: Black/African goliath man in his early thirties, approximately eight feet tall, immensely broad and muscular, deep brown skin, broad handsome face, warm brown eyes, full shaped black beard, and very long black locs gathered into a high bundled ponytail with loose locs and small gold cuffs. Symmetrical white tribal paint forms curving lines and dots across his forehead, cheeks, nose, shoulders, and upper arms. He wears layered green and royal-purple bardic garments with gold trim, a green shoulder mantle, leather belts, gold jewelry, a fang necklace, bracers, and ornate circular brooches. He carries a giant ornate wooden magical lute. - Personality: Warm, eager to help, nonthreatening despite his size, easily embarrassed by magical mistakes, and quick to encourage Angora. - Abilities: Channels magic through learned songs played on his lute, but inaccurate performance or incomplete knowledge can reverse, distort, weaken, summon, insult, or otherwise misapply a spell. - Continuity notes: He considers himself a musician rather than a fighter. By the end of Issue 1, he admits that he needs music lessons and recognizes that his true strength comes from his heart. - Reference image: ../reference-images/clifford-character.jpg Character: Angora - First appears: Issue 1, &quot;Clifford and Angora's First Adventure&quot; - Role: Co-protagonist, disciplined elf fighter, psychic swordswoman, and Clifford's traveling companion. - Visual identifiers: Fair-skinned elf woman in her mid-twenties with an athletic compact build, lightly freckled cheeks, long sharply pointed ears, angular heart-shaped face, green eyes, strong brows, and vivid deep-red hair in a high practical ponytail with loose strands. She wears dark gunmetal plate-and-leather armor with dramatic spikes on the shoulders and forearms, a deep green undersuit, short green cloak accents, and sturdy dark boots. She carries a round wooden shield and a one-handed psychic sword with a pink-violet energy blade. - Personality: Direct, competitive, compassionate toward harmless creatures, protective of Clifford, intellectually curious, mentally disciplined, and reassuring when a companion makes a mistake. - Abilities: Skilled shield fighter whose psychic sword answers to focus, conviction, and mental discipline. She can channel its power into a pink-violet energy blast. - Continuity notes: She begins Issue 1 seeking a worthy opponent. By the end, she has internalized the magical library's lesson that her greatest fighting power comes from her mind. - Reference image: ../reference-images/angora-character.jpg</p>
+        <h3>Settings</h3><p>Setting Descriptions Setting: The Tavern - First appears: Issue 1, &quot;Clifford and Angora's First Adventure&quot; - Visual identifiers: Crowded timber-and-stone fantasy tavern with amber lanterns, communal tables, travelers, mugs, a busy bar, and a clear open floor where magical trouble can erupt. - Continuity notes: Clifford and Angora meet here. Clifford's summon brings twelve angry tiefling women into the room, and Angora's blazing psychic sword frightens them away. Setting: The Magical Library - First appears: Issue 1, &quot;Clifford and Angora's First Adventure&quot; - Visual identifiers: Vast stone library with Gothic blue windows, carved wooden shelves, floating books, violet-blue magical light, reading tables, and open illuminated volumes. - Continuity notes: Angora learns that a warrior's deepest power comes from the mind. Clifford finds the Tune of the Astral Blade here. Setting: The River And Woodland - First appears: Issue 1, &quot;Clifford and Angora's First Adventure&quot; - Visual identifiers: Broad rushing river bordered by green woodland, rocky banks, and a shallow stony margin. Natural daylight contrasts with vivid green-gold music magic and pink-violet psychic energy. - Continuity notes: Shark bandits ambush Clifford and Angora here. Angora's missed psychic blast temporarily opens a crater in the rushing current and frightens the bandits into retreat.</p>
+        <h3>Key Items</h3><p>Key Item Descriptions Key Item: Clifford's Magical Lute - First appears: Issue 1, &quot;Clifford and Angora's First Adventure&quot; - Visual identifiers: Very large ornate wooden lute proportioned for Clifford's giant hands, with carved gold filigree, a curled decorative headstock, multiple strings, visible travel wear, and green-gold musical notes and ribbon-like sound trails when magic is active. - Continuity notes: Channels learned magical songs. The result depends upon Clifford's accuracy and understanding; mistakes can reverse, distort, weaken, summon, insult, or otherwise misapply a spell. - Reference image: ../reference-images/clifford-magical-lute.jpg Key Item: Angora's Psychic Sword - First appears: Issue 1, &quot;Clifford and Angora's First Adventure&quot; - Visual identifiers: One-handed weapon with a solid dark hilt that projects a long translucent pink-violet energy blade, surrounded by fine electric arcs and plasma light. - Continuity notes: Psychic rather than purely physical. Its strength depends upon Angora's focus, conviction, and mental discipline. It can release a powerful mental energy blast. - Reference image: ../reference-images/angora-psychic-sword-and-shield.jpg Key Item: Angora's Wooden Shield - First appears: Issue 1, &quot;Clifford and Angora's First Adventure&quot; - Visual identifiers: Round wooden shield with a dark metal rim, metal rivets, central metal boss bearing an understated elven tree motif, and believable scratches, dents, and travel wear. - Continuity notes: Angora's primary defensive equipment and a consistent part of her grounded fighter's stance. - Reference image: ../reference-images/angora-psychic-sword-and-shield.jpg</p>
+        <h3>Issue Summaries</h3><p>Issue Summaries Issue 1: Clifford and Angora's First Adventure - Folder: series/clifford-and-angora/issues/issue-01/ - Creation date: 2026-08-01 - Logline: When Clifford's unreliable magical music repeatedly creates trouble, the gentle goliath bard and the battle-hungry elf Angora survive angry tieflings and shark bandits by discovering that their real strength lies in the heart and mind they encourage in each other. - Plot summary: Clifford meets Angora in a lively tavern and offers to summon a creature worthy of testing her fighting skill. The harmless visitor takes offense at Angora's offer of friendship and summons twelve tiefling women, while Clifford accidentally insults them with a reversed sacred song. Angora frightens them away with her psychic sword, and the new companions visit a magical library to improve their abilities. At a nearby river, shark bandits ambush them for Angora's sword. Clifford's supposed strengthening tune weakens the blade, but his terrible second performance distracts the attackers long enough for Angora to focus her mental power. Her psychic blast misses the bandits and detonates in the river, terrifying them into retreat. Clifford and Angora end the adventure by affirming that his power comes from his heart and hers from her mind. - Continuity changes: Clifford and Angora become traveling companions. Clifford accepts that he needs musical instruction, and Angora begins consciously drawing her fighting strength from mental focus. - New characters: Clifford; Angora. - New settings: The tavern; the magical library; the river and surrounding woodland. - New key items: Clifford's magical lute; Angora's psychic sword; Angora's wooden shield. - Reference images added: clifford-character.jpg ; angora-character.jpg ; clifford-magical-lute.jpg ; angora-psychic-sword-and-shield.jpg .</p>
+        <h3>Issues</h3>
+        <ul>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/clifford-and-angora-issue-01/">Clifford and Angora's First Adventure</a> <span>2026-08-01 · 8 pages · Issue #1 of Clifford and Angora</span></li>
+        </ul>
+      </section>
+      <!-- SEO_CONTENT_END -->
+    </main>
+  </body>
+</html>
