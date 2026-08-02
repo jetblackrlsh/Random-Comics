@@ -125,6 +125,42 @@ node --check web-app/scripts/build-share-pages.mjs
 node --check web-app/scripts/build-pages-site.mjs
 ```
 
+## Cloud-Run Workflow (Supplemental)
+
+This section is only for constrained cloud workspaces. It does not replace or change the existing desktop workflow. In a normal full local checkout with working Git authentication, use the standard comic, web-app, and Git steps above exactly as written.
+
+### Cloud Checkout And Working Files
+
+- A cloud workspace may start without the repository and may have limited time, storage, bandwidth, or Git credentials. Check the current directory and repository state before assuming the project is already available.
+- Because this repository contains a large archive of comic images, prefer a partial clone and sparse checkout when a full clone would be wasteful. Include `AGENTS.md`, `PROMPTING.md`, `.github/`, `skills/`, `web-app/`, any applicable `series/` workflow or continuity files, and the comic folders needed for the task.
+- Read all applicable repo instructions and skill files from the checked-out commit before creating assets. Do not infer the workflow from memory.
+- A brand-new comic folder may be outside the current sparse-checkout patterns. Add that path to the sparse checkout when practical. If the files are intentionally present but Git still treats them as outside the sparse definition, stage only their explicit paths with `git add --sparse`; never use a broad force-add.
+- Treat temporary downloads, generated-image staging folders, PDF renders, and contact sheets as disposable working files. Copy every finished source page into the comic's tracked `assets/comic-pages/` directory as soon as it is accepted.
+
+### Cloud Image Generation And Assembly
+
+- Continue to use `image_gen` for all required comic imagery. A long generation may return a resumable job or wait handle; resume that job instead of starting a duplicate generation.
+- Use the actual output path reported by the image tool. Cloud image results may be materialized under the workspace rather than the tool's nominal generation directory, so verify the file exists before copying it.
+- Save and name each accepted page immediately, keep a page-to-filename map, and send brief progress updates during long runs so the task is recoverable if the session is interrupted.
+- Image generation may return a portrait page whose raw dimensions are not exactly 4:5. Inspect the raw page for legibility and composition, then use the repo's assembler to perform its intended 4:5 normalization. Do not crop story content, redraw panels, or add text afterward with code.
+- Before publishing, inspect a contact sheet plus representative full-size pages, including the cover, an early page, a middle page, and the final page. Verify the assembled PDF's page count, page order, and 4:5 page size.
+
+### Sparse-Checkout Catalog Safety
+
+- `web-app/scripts/build-catalog.mjs` discovers comics by scanning folders that are present in the working tree. In a sparse checkout, running it while most comic folders are absent can replace `web-app/comics.json` with an incomplete archive. Never commit or publish a catalog produced from an incomplete working tree.
+- If all comic and series metadata is present, run the standard three web-app build commands above without modification.
+- If a complete metadata checkout is impractical, preserve the existing `web-app/comics.json`, add or update only the intended entry using the current catalog schema, and assert that every pre-existing catalog entry and its ordering remain unchanged. Then run `build-share-pages.mjs` and run `build-pages-site.mjs` with `WEB_APP_EXTERNAL_ASSETS=1` when the staged Pages site should reference repository-hosted assets.
+- Treat that targeted catalog edit as a cloud-only fallback. The GitHub Pages workflow performs a full checkout and must run the authoritative `build-catalog.mjs` during deployment.
+- Compare catalog counts and identifiers before and after the cloud update. The expected difference for one new standalone comic is exactly one new comic entry, with no removed or rewritten existing entries.
+
+### Cloud Validation And Publishing
+
+- Run the applicable repo checks, `git diff --check`, and `git status --short --branch` before publishing. Review the staged file list explicitly; sparse checkouts make broad staging especially risky.
+- Check Git authentication before relying on `git push`. If direct push is unavailable in the cloud, use the connected GitHub write tools or Git Data API instead of placing credentials in commands or files.
+- Before any API-based publish, read the current remote `main` commit and confirm it is still the expected parent. Never force-update `main`. For binary comic assets, create base64 Git blobs and publish one complete tree/commit, or use an equivalent connector operation that preserves every unchanged path.
+- An API-created commit may have a different commit SHA from a local commit even when both trees are identical. Treat the remote SHA as the published source of truth. A disposable cloud checkout may then appear diverged; do not repair that with a destructive reset. Fetch or make a fresh partial clone for later work.
+- After publishing, verify the GitHub Pages workflow run associated with the exact remote commit reaches `success`. Then open the deepest public comic URL and confirm the title, every page image, and the PDF link load from the deployed site. A committed file alone is not proof that the comic is live.
+
 ## Git Hygiene
 
 - Check `git status --short --branch` before staging or committing.
