@@ -10885,6 +10885,62 @@
       "issueNumber": null,
       "issueLabel": "Standalone issue",
       "url": "comics/the-last-witness/"
+    },
+    {
+      "slug": "clifford-and-angoras-first-adventure",
+      "folder": "clifford-and-angoras-first-adventure",
+      "title": "Clifford and Angora's First Adventure",
+      "publishedDate": "2026-08-01",
+      "summary": "When Clifford's unreliable magical music repeatedly creates trouble, the gentle goliath bard and the battle-hungry elf Angora survive angry tieflings and shark bandits by discovering that their real strength lies not in perfect technique, but in the heart and mind they encourage in each other.",
+      "cover": "../clifford-and-angoras-first-adventure/assets/comic-pages/page-01-cover.png",
+      "pdf": "../clifford-and-angoras-first-adventure/output/pdf/clifford-and-angoras-first-adventure.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../clifford-and-angoras-first-adventure/assets/comic-pages/page-01-cover.png",
+          "alt": "Clifford and Angora's First Adventure comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../clifford-and-angoras-first-adventure/assets/comic-pages/page-02.png",
+          "alt": "Clifford and Angora's First Adventure comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../clifford-and-angoras-first-adventure/assets/comic-pages/page-03.png",
+          "alt": "Clifford and Angora's First Adventure comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../clifford-and-angoras-first-adventure/assets/comic-pages/page-04.png",
+          "alt": "Clifford and Angora's First Adventure comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../clifford-and-angoras-first-adventure/assets/comic-pages/page-05.png",
+          "alt": "Clifford and Angora's First Adventure comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../clifford-and-angoras-first-adventure/assets/comic-pages/page-06.png",
+          "alt": "Clifford and Angora's First Adventure comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../clifford-and-angoras-first-adventure/assets/comic-pages/page-07.png",
+          "alt": "Clifford and Angora's First Adventure comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../clifford-and-angoras-first-adventure/assets/comic-pages/page-08.png",
+          "alt": "Clifford and Angora's First Adventure comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
+      "url": "comics/clifford-and-angoras-first-adventure/"
     }
   ]
 }
