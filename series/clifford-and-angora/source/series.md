@@ -33,3 +33,7 @@ Warm, adventurous high-fantasy comedy with sincere friendship at its center. Dan
 - Angora's sword is psychic rather than merely physical. Its strength depends upon focus, conviction, and mental discipline.
 - Clifford believes Angora's greatest fighting power is in her mind. Angora believes Clifford's true music is in his heart.
 - Their friendship is collaborative and nonjudgmental: each recognizes genuine value in the other's imperfect efforts.
+- In Issue #2, Clifford's lute becomes a living companion with two small wooden legs. Clifford and Angora recruit the Tavern Champion after he defeats Angora.
+- In Issue #3, Angora recovers an ancient Elvish strength spell, their champion wins the All-Star Arena, and the companions use their fortune to found a warrior academy.
+- In Issues #4 and #5, the academy becomes an international institution dedicated to returning trained warriors to their homelands. A Rival Headmaster reveals that an ancient horde is returning after more than a thousand years.
+- The Swamp Witch remains an allied but unpredictable ancient spellcaster whose failures and successes repeatedly change the companions' fate.

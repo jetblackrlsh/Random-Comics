@@ -19,3 +19,40 @@
 - Abilities: Skilled shield fighter whose psychic sword answers to focus, conviction, and mental discipline. She can channel its power into a pink-violet energy blast.
 - Continuity notes: She begins Issue #1 seeking a worthy opponent. By the end, she has internalized the magical library's lesson that her greatest fighting power comes from her mind.
 - Reference image: `../reference-images/angora-character.jpg`
+
+## Character: The Swamp Witch
+
+- First appears: Issue #2, "The Living Lute"
+- Role: Recurring supporting spellcaster, unreliable magical mentor, and eventual ally of Clifford and Angora's academy.
+- Visual identifiers: Elderly human woman with a deeply lined face, sharp gray eyes, long tangled silver hair, layered moss-green and peat-brown robes, reed charms, bone beads, a crooked walking staff, and herb-stained weathered hands. Her magic appears as smoky turquoise and amber light.
+- Personality: Guarded about her history, confident in old magic, willing to help, and visibly frustrated when her spells misfire.
+- Abilities: Tuning, repair, identification, protection, and ancient mind-vision magic, all of which can produce severe unintended effects.
+- Continuity notes: Her attempt to tune Clifford's lute gives it life. She travels with the companions through the arena and academy crises and ultimately restores the rulers' faith with a truthful shared vision.
+- Reference image: `../reference-images/swamp-witch-character.png`
+
+## Character: The Tavern Champion
+
+- First appears: Issue #2, "The Living Lute"
+- Role: Recurring supporting fighter, Clifford and Angora's first represented gladiator, and foundational champion of their academy.
+- Visual identifiers: Massive middle-aged human pit fighter with deep brown weathered skin, shaved head, thick dark beard, scar over one eyebrow, battered bronze-and-leather arena armor, red sash, heavy boots, and a broad iron practice sword.
+- Personality: Proud, physically confident, eager for fame, and receptive to Clifford's theatrical business pitch.
+- Abilities: Extraordinary strength and arena experience. Ancient Elvish magic later heals and empowers him while surrounding his body with a protective barrier.
+- Continuity notes: Defeats Angora and shatters her shield, pays Clifford and Angora an advance, wins the All-Star Arena, and defeats most foreign challengers sent to the academy.
+- Reference image: `../reference-images/tavern-champion-character.png`
+
+## Character: Rigarchu
+
+- First appears: Issue #3, "The All-Star Arena"
+- Role: Minor named foreign gladiator and arrogant tournament rival.
+- Visual identifiers: Lean athletic man in his late twenties with sharp cheekbones, short black hair gathered into a topknot, lacquered crimson-and-black lamellar armor, gold lightning motifs, and flexible arena boots.
+- Continuity notes: Kicks the magically weakened Tavern Champion behind the knee before the tournament and is later defeated fairly inside the arena.
+
+## Character: The Rival Headmaster
+
+- First appears: Issue #5, "The Returning Horde"
+- Role: Recurring scholar-warrior, former institutional rival, keeper of ancient military knowledge, and potential academy leader.
+- Visual identifiers: Dark-skinned elf woman in her late forties with a tall athletic build, long sharply pointed ears, stern amber eyes, high cheekbones, black-and-silver braided hair gathered into a crown, and a thin scar along her jaw. She wears midnight-blue scholar's robes over articulated silver scale armor, a white mantle, leather scroll cases, and carries a straight ceremonial spear etched with ancient runes.
+- Personality: Disciplined, protective of knowledge, authoritative, initially suspicious, and ultimately motivated by preparation rather than pride.
+- Abilities: Mastery of forgotten warrior traditions, ancient histories, and the threat records surrounding the returning horde.
+- Continuity notes: Blocks Clifford and Angora from reaching the magical library, then reveals that an ancient horde is returning and that shared knowledge may be the world's only defense.
+- Reference image: `../reference-images/rival-headmaster-character.png`

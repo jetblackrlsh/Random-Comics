@@ -4,8 +4,15 @@
 
 - First appears: Issue #1, "Clifford and Angora's First Adventure"
 - Visual identifiers: Very large ornate wooden lute proportioned for Clifford's giant hands, with carved gold filigree, a curled decorative headstock, multiple strings, visible travel wear, and green-gold musical notes and ribbon-like sound trails when magic is active.
-- Continuity notes: Channels learned magical songs. The result depends upon Clifford's accuracy and understanding; mistakes can reverse, distort, weaken, summon, insult, or otherwise misapply a spell.
+- Continuity notes: Channels learned magical songs. The result depends upon Clifford's accuracy and understanding; mistakes can reverse, distort, weaken, summon, insult, or otherwise misapply a spell. In Issue #2, the Swamp Witch gives the lute two wooden legs, independent movement, emotions, and a living bond with Clifford.
 - Reference image: `../reference-images/clifford-magical-lute.jpg`
+
+## Key Item: The Living Magical Lute
+
+- First appears: Issue #2, "The Living Lute"
+- Visual identifiers: Clifford's established giant ornate brown wooden lute with carved gold filigree, curled decorative headstock, and golden strings, now supported by two small articulated wooden legs. It communicates through hopping, trembling, posture, and musical sounds without a face or written symbols.
+- Continuity notes: Initially frightened after Angora accidentally cracks its body. Clifford and Angora heal it through the Tune of the Astral Blade. It thereafter accompanies Clifford willingly and can launch itself as a magical combat weapon.
+- Reference image: `../reference-images/living-magical-lute.png`
 
 ## Key Item: Angora's Psychic Sword
 
@@ -18,5 +25,5 @@
 
 - First appears: Issue #1, "Clifford and Angora's First Adventure"
 - Visual identifiers: Round wooden shield with a dark metal rim, metal rivets, central metal boss bearing an understated elven tree motif, and believable scratches, dents, and travel wear.
-- Continuity notes: Angora's primary defensive equipment and a consistent part of her grounded fighter's stance.
+- Continuity notes: Angora's primary defensive equipment and a consistent part of her grounded fighter's stance. The Tavern Champion shatters it in Issue #2, the Swamp Witch further fragments it, and Clifford reconstructs it through the Tune of the Astral Blade. A faint psychic sheen protects the repaired shield afterward.
 - Reference image: `../reference-images/angora-psychic-sword-and-shield.jpg`
