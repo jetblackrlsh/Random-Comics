@@ -37,3 +37,10 @@
 - Visual identifiers: Expansive stone training campus constructed around an arena, with open practice courtyards, wooden dummies and obstacle frames, barracks, workshops, a study hall, and banners from many fictional nations. Architecture combines practical military design with warm communal spaces.
 - Continuity notes: Founded with All-Star Arena winnings and royal payments. Its mission is to train elite students who return home to teach their nations. By Issue #5, it becomes the foundation of an international alliance against the returning horde.
 - Reference image: `../reference-images/warrior-academy-setting.png`
+
+## Setting: The Rival Artificer's Castle
+
+- First appears: Issue #7, "The Artificer's Warning"
+- Visual identifiers: Distant black-stone fortress built into a jagged eastern mountain, reinforced with worn brass machinery, blue-lit defensive conduits, rotating gearwork gates, narrow bridges, and patrol terraces occupied by robot soldiers. Medieval masonry remains dominant, with tactile magitech added rather than modern technology.
+- Continuity notes: The Rival Artificer guards the stolen ancient Horde text here. Issue #7 reveals the castle through the Winged Cauldron Companion's vision, and Clifford and Angora begin traveling toward it.
+- Reference image: `../reference-images/rival-artificer-castle-setting.png`

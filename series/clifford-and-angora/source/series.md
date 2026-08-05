@@ -37,3 +37,6 @@ Warm, adventurous high-fantasy comedy with sincere friendship at its center. Dan
 - In Issue #3, Angora recovers an ancient Elvish strength spell, their champion wins the All-Star Arena, and the companions use their fortune to found a warrior academy.
 - In Issues #4 and #5, the academy becomes an international institution dedicated to returning trained warriors to their homelands. A Rival Headmaster reveals that an ancient horde is returning after more than a thousand years.
 - The Swamp Witch remains an allied but unpredictable ancient spellcaster whose failures and successes repeatedly change the companions' fate.
+- In Issue #6, students from the allied schools prove the value of teamwork against a young kobold, accidentally provoking an underground colony into invading the academy.
+- In Issue #7, a Tiefling Artificer ends the invasion with protected Robot Companions, joins the academy as a teacher, strengthens Angora's sword, and reveals that the ancient Horde text was stolen by a rival artificer.
+- Clifford begins learning how to create a magical band of living instrument companions. Angora carries a mysterious glowing stone whose future purpose remains unknown.

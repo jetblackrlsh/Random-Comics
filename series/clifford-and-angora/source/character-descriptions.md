@@ -56,3 +56,28 @@
 - Abilities: Mastery of forgotten warrior traditions, ancient histories, and the threat records surrounding the returning horde.
 - Continuity notes: Blocks Clifford and Angora from reaching the magical library, then reveals that an ancient horde is returning and that shared knowledge may be the world's only defense.
 - Reference image: `../reference-images/rival-headmaster-character.png`
+
+## Character: Young Kobolds
+
+- First appears: Issue #6, "The Kobold Uprising"
+- Role: A nearby underground colony whose young become both the academy's training challenge and its accidental invaders.
+- Visual identifiers: Small child-height reptilian humanoids with bright pink skin, hyena-like heads, rounded black noses, large alert ears, clawed feet, long tails, and irregular plates of black volcanic-rock natural armor across the crown, shoulders, spine, forearms, and tail. They wear loose cream-colored trousers.
+- Abilities: Breathe short blasts of orange fire and rapidly construct crude traps from shell, wood, rope, tools, and battlefield debris.
+- Continuity notes: Two allied students defeat one young kobold without killing it. The surrounding colony erupts beneath the academy to defend the fallen creature, then retreats when the Tiefling Artificer's protected machines prevent them from dismantling the robot army.
+- Reference image: `../reference-images/young-kobold-character.png`
+
+## Character: The Tiefling Artificer
+
+- First appears: Issue #6, "The Kobold Uprising"
+- Role: Recurring inventor, future-seer, new academy teacher, and former opponent of the Rival Artificer.
+- Visual identifiers: Androgynous adult tiefling with pinkish-purple skin, two large swept horns, angular friendly features, and flowing white hair marked by one bold black skunk-like streak. Golden workshop goggles rest on their forehead. They wear a forest-green shirt beneath layered brown utility belts, brown shoulder guards, a high brown leather collar, sturdy gloves, heavy boots, and a rugged brown split workshop apron. Their enormous gold-and-brass arcane cannon has a triangular barrel framing a bright blue energy orb.
+- Personality: Inventive, generous, theatrically confident around machines, eager to teach, but deeply frightened by repeated defeats at their rival's hands.
+- Abilities: Builds and awakens enchanted machines, communicates with living magic, protects constructs from sabotage, reads possible futures through the Winged Cauldron Companion, and combines blue-gold engineering with other forms of magic.
+- Continuity notes: Arrives during the kobold invasion, saves the academy with protected Robot Companions, teaches Clifford how to begin creating a magical instrument band, strengthens Angora's psychic sword, and reveals that a rival stole the Horde text.
+- Reference image: `../reference-images/tiefling-artificer-character.png`
+
+## Character: The Rival Artificer
+
+- First appears: Issue #7, "The Artificer's Warning"
+- Role: Offscreen antagonist who stole the ancient Horde text and commands robot soldiers from a distant castle.
+- Continuity notes: The Tiefling Artificer has confronted this rival repeatedly and remains too frightened by those defeats to return. Clifford and Angora travel east to face the rival in the artificer's place.

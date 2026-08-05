@@ -59,3 +59,27 @@
 - New settings: None.
 - New key items: The forbidden chronicle of the ancient horde.
 - Reference images added: `rival-headmaster-character.png`.
+
+## Issue #6: The Kobold Uprising
+
+- Folder: `series/clifford-and-angora/issues/issue-06/`
+- Creation date: 2026-08-04
+- Logline: When the allied academies test their students against a newly hatched kobold, Clifford and Angora prove that teamwork can overcome fear - only to discover that an entire underground colony has come to defend the defeated creature.
+- Plot summary: Clifford asks the Rival Headmaster to explain the returning Horde while students from both academies gather around an egg supplied by the Swamp Witch. A small pink kobold hatches, breathes fire, and knocks down a student who attacks alone. Clifford restores the fighter's courage through music, and Angora calls a second student forward. The pair defeat the kobold without killing it by exchanging positions and splitting its attention. Clifford celebrates their cooperation, but the Swamp Witch reveals that kobold eggs lie throughout the area. Dozens of young kobolds erupt beneath the academy to defend the fallen creature, and a heavily armed horned stranger approaches during the invasion.
+- Continuity changes: The Rival Headmaster's school and Clifford and Angora's academy begin training as one alliance. Their students prove that coordinated teamwork can defeat a dangerous enemy. An underground kobold colony invades the academy.
+- New characters: Young Kobolds; the Tiefling Artificer, seen at a distance.
+- New settings: None.
+- New key items: None.
+- Reference images added: `young-kobold-character.png`; `tiefling-artificer-character.png`.
+
+## Issue #7: The Artificer's Warning
+
+- Folder: `series/clifford-and-angora/issues/issue-07/`
+- Creation date: 2026-08-04
+- Logline: A mysterious tiefling inventor saves the academy with an army of enchanted machines, strengthens Angora's failing psychic sword, and reveals that the only text capable of stopping the Horde was stolen by the rival they are too frightened to face again.
+- Plot summary: The Tiefling Artificer arrives during the kobold invasion and explains that their Winged Cauldron Companion has shown them a future threatened by the Horde. They summon a large family of enchanted Robot Companions whose protective magic prevents the kobolds from dismantling them and drives the colony underground. Angora invites the inventor to teach at the academy, while Clifford begins learning how to create a band of living instrument machines. The artificer discovers that Angora's sword is weakening because it senses the Horde. Clifford's Tune of the Astral Blade and the artificer's blue-gold machinery strengthen it, producing a mysterious glowing stone. The artificer reveals that a feared rival stole the ancient Horde text and guards it within a mechanized castle. The Rival Headmaster remains to defend the academy, and the winged cauldron guides Clifford and Angora east.
+- Continuity changes: The Tiefling Artificer joins the academy as a teacher. Clifford begins learning to build magical instrument companions. Angora's psychic sword is strengthened, and she gains the Mysterious Glowing Stone. Clifford and Angora depart to recover the stolen Horde text.
+- New characters: The Winged Cauldron Companion; the Rival Artificer.
+- New settings: The Rival Artificer's Castle.
+- New key items: The Winged Cauldron Companion; the Artificer's Robot Companions; the Mysterious Glowing Stone.
+- Reference images added: `winged-cauldron-companion.png`; `artificer-robot-companions.png`; `mysterious-glowing-stone.png`; `rival-artificer-castle-setting.png`.
