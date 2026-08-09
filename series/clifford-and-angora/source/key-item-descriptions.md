@@ -48,3 +48,17 @@
 - Visual identifiers: Palm-sized irregular charcoal-gray stone threaded with bright violet crystalline veins, encircled by a thin golden band of artificer energy, and pulsing faintly with blue-white inner light.
 - Continuity notes: Appears beside Angora's strengthened sword after the weapon flies into the sky and strikes the academy grounds. The Tiefling Artificer says it will be needed later, and Angora secures it inside her knapsack.
 - Reference image: `../reference-images/mysterious-glowing-stone.png`
+
+## Key Item: The Horde Chronicle
+
+- First appears: Issue #5, "The Returning Horde"
+- Visual identifiers: Large ancient dark-leather book reinforced with tarnished brass corners, thick uneven parchment, a circular interlocking-dragon emblem pressed into the cover, dim blue runes along the spine, and a heavy mechanical clasp.
+- Continuity notes: Stolen from the magical library by the Rival Artificer and recovered by the Dwarf Rogue in Issue #9. Its oldest pages preserve the spell that allows the Swamp Witch to banish the Dragonborn Horde in Issue #11.
+- Reference image: `../reference-images/horde-chronicle-key-item.webp`
+
+## Key Item: The Rival Artificer's Robot Army
+
+- First appears: Issue #8, "The Demon Child"
+- Visual identifiers: Intimidating fortress machines built from black iron, worn brass, riveted dark wood, and cold blue energy cores. The force includes tall humanoid soldiers with shield-like chests, multi-legged patrol units, and compact blue-lensed flying sentry drones.
+- Continuity notes: Guards the Rival Artificer's castle, detects the Dwarf Rogue during the library heist, attacks the academy beside the Dragonborn Horde, and battles the Tiefling Artificer's more individualistic flying cauldron machines.
+- Reference image: `../reference-images/rival-artificer-robot-army.webp`

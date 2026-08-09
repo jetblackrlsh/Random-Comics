@@ -83,3 +83,51 @@
 - New settings: The Rival Artificer's Castle.
 - New key items: The Winged Cauldron Companion; the Artificer's Robot Companions; the Mysterious Glowing Stone.
 - Reference images added: `winged-cauldron-companion.png`; `artificer-robot-companions.png`; `mysterious-glowing-stone.png`; `rival-artificer-castle-setting.png`.
+
+## Issue #8: The Demon Child
+
+- Folder: `series/clifford-and-angora/issues/issue-08/`
+- Creation date: 2026-08-08
+- Logline: On the road to the mechanized fortress, Clifford and Angora hire a dwarf thief and spare a demonic shapeshifting child before finally confronting the Dragonborn rival who stole the Horde chronicle.
+- Plot summary: Clifford and Angora hire a skilled Dwarf Rogue to infiltrate the Rival Artificer's castle. A seemingly abandoned baby transforms into a demon, and Angora becomes unnaturally weak while Clifford's magic strengthens only her sword. The hidden rogue breaks the transformation spell with a precise crossbow shot, causing the creature to become a baby again. Clifford chooses mercy, puts it to sleep, and carries it onward. At the fortress, the Rival Artificer is revealed as an orange-and-blue Dragonborn wizard-artificer commanding an army of machines.
+- Continuity changes: The Dwarf Rogue joins the expedition. The party protects a dangerous changeling child. The Rival Artificer's Dragonborn identity and robot army are revealed.
+- New characters: The Dwarf Rogue; the Changeling; the revealed Rival Artificer.
+- New settings: None.
+- New key items: The Rival Artificer's Robot Army.
+- Reference images added: `dwarf-rogue-character.webp`; `changeling-three-forms-character.webp`; `rival-artificer-character.webp`; `rival-artificer-robot-army.webp`.
+
+## Issue #9: The Angel's Test
+
+- Folder: `series/clifford-and-angora/issues/issue-09/`
+- Creation date: 2026-08-08
+- Logline: When the fortress heist collapses and Angora falls, the demonic child reveals its angelic true form, repays the heroes' compassion, and helps them escape with the Horde chronicle before a flying army pursues them home.
+- Plot summary: Clifford distracts the Rival Artificer while the Dwarf Rogue enters the library. Sentry drones detect him, and Angora collapses before the robot army. The changeling becomes an immense many-winged fey, explains that the party passed a test of compassion, protects Angora, and smashes the machines with a gust. A Dragonborn army appears. The Winged Cauldron clears the library drones, the rogue retrieves the Horde Chronicle, and a Pegasus carries the party away. The Dragonborn Horde flies after them toward the academy.
+- Continuity changes: The Changeling becomes the party's protector. The Horde Chronicle is recovered. The Dragonborn Horde begins pursuing the heroes home.
+- New characters: The Dragonborn Horde; the Pegasus.
+- New settings: None.
+- New key items: The Horde Chronicle, physically recovered.
+- Reference images added: `dragonborn-horde-character.webp`; `horde-chronicle-key-item.webp`; `pegasus-character.webp`.
+
+## Issue #10: The Horde Comes Home
+
+- Folder: `series/clifford-and-angora/issues/issue-10/`
+- Creation date: 2026-08-08
+- Logline: The heroes return with the Horde chronicle but accidentally lead the flying Dragonborn army to their academy, where the Tiefling Artificer must finally confront the former master who taught them everything.
+- Plot summary: The Dragonborn Horde follows the escaping party to the academy, fulfilling Clifford's accidental visions and the Rival Headmaster's warning. Clifford rallies the united students, but Dragonborn fire, the Rival Artificer's spells, and robot soldiers overwhelm them. The Tiefling Artificer returns, blasts the rival, and summons an army of flying robot cauldrons. The Dragonborn recovers and reveals that they were once the Tiefling's master.
+- Continuity changes: The Horde attacks the academy. The Tiefling Artificer confronts their fear. The Rival Artificer is revealed as the Tiefling's former master.
+- New characters: None.
+- New settings: None.
+- New key items: Flying robot cauldron army.
+- Reference images added: None.
+
+## Issue #11: The Horde Banished
+
+- Folder: `series/clifford-and-angora/issues/issue-11/`
+- Creation date: 2026-08-08
+- Logline: As the academy falls, Clifford discovers a banishment spell inside the stolen chronicle and entrusts the forgotten words to the Swamp Witch, whose peaceful magic sends the Dragonborn Horde home.
+- Plot summary: Clifford and the Rival Headmaster discover a dimensional banishment spell inside the Horde Chronicle. Angora sends a frightened adult academy courier to summon the Swamp Witch. The witch returns, speaks the ancient language, and spreads supernatural calm across the Horde. The Dragonborn descend, sleep, and vanish, leaving only grass and flowers. The academy survives through the combined contributions of its entire alliance. The Swamp Witch warns that banishment did not destroy the dimensional doorway.
+- Continuity changes: The Dragonborn Horde is banished. The academy survives. The possibility of reopening the dimensional door remains.
+- New characters: None.
+- New settings: None.
+- New key items: None.
+- Reference images added: None.

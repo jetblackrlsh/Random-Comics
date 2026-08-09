@@ -79,5 +79,45 @@
 ## Character: The Rival Artificer
 
 - First appears: Issue #7, "The Artificer's Warning"
-- Role: Offscreen antagonist who stole the ancient Horde text and commands robot soldiers from a distant castle.
-- Continuity notes: The Tiefling Artificer has confronted this rival repeatedly and remains too frightened by those defeats to return. Clifford and Angora travel east to face the rival in the artificer's place.
+- Role: Dragonborn wizard-artificer antagonist, commander of the Dragonborn Horde and robot army, and former master of the Tiefling Artificer.
+- Visual identifiers: Relatively short but imposing Dragonborn with orange scales crossed by vivid blue stripes, a jagged head surrounded by many sharp horns, glowing blue eyes, and black claws. They wear elaborate purple-and-gold wizard robes and a purple cape, a necklace set with one blue and one red magical stone, and carry a crystal staff whose crown coils around an open circle. A strange brown living pouch marked with blue-purple and red coloration hangs at their side.
+- Personality: Supremely confident, theatrical, secretive, and convinced that superior knowledge makes every opponent predictable.
+- Abilities: Magic Missile and other powerful spells, broad arcane knowledge, machine construction and command, a spellbook used to learn spells and secrets, and leadership over both robot soldiers and flying Dragonborn warriors.
+- Continuity notes: Stole the ancient Horde chronicle and guarded it inside a mechanized mountain castle. Issue #8 reveals their Dragonborn identity. Issue #10 reveals that they taught the Tiefling Artificer everything the former student knows.
+- Reference image: `../reference-images/rival-artificer-character.webp`
+
+## Character: The Dwarf Rogue
+
+- First appears: Issue #8, "The Demon Child"
+- Role: Stealth specialist hired by Clifford and Angora to steal the Horde chronicle.
+- Visual identifiers: Short Black dwarf man with brown eyes, compact strong build, braided full beard, light-purple headband beneath a dark-purple hood, dark-purple tunic with blue-and-yellow underlayers, matching sleeves, lighter-purple gloves, and a Displacer Beast cloak with two predatory tendril-like extensions. He wears worn golden winged shoes and carries a silver crescent hook dagger with jagged edge and gold inlay plus a wooden crossbow fitted with a silver bolt.
+- Personality: Practical, observant, professionally confident, quiet, and willing to risk himself after terms are clear.
+- Abilities: Stealth, spying, sneak attacks, dodging, deflection, rapid movement, infiltration, crossbow marksmanship, and use of his magical winged shoes.
+- Continuity notes: Saves Angora from the demonic changeling, infiltrates the Rival Artificer's library, and recovers the Horde chronicle.
+- Reference image: `../reference-images/dwarf-rogue-character.webp`
+
+## Character: The Changeling
+
+- First appears: Issue #8, "The Demon Child"
+- Role: Supernatural shapeshifter, tester of compassion, and eventual protector of Clifford and Angora.
+- Visual identifiers: The same being has three forms linked by recognizable blue-violet eyes: a helpless human infant wrapped in worn cream cloth; a lean charcoal-skinned horned demon-child with claws and ember-lit eyes; and an immense pale-gold fey guardian with a serene androgynous face, many enormous white-and-gold feathered wings, and numerous luminous eyes within the feathers.
+- Personality: Unreadable and frightening at first, then calm, protective, grateful, and deeply concerned with whether powerful travelers show mercy toward the helpless.
+- Abilities: Shapeshifting, immense winged fey form, protective shelter, supernatural calm, and colossal gusts capable of destroying robot formations.
+- Continuity notes: Attacks the party as a demon, becomes a baby when defeated, and is protected by Clifford. In Issue #9 it reveals the ordeal as a test, saves Angora, and enables the party's escape.
+- Reference image: `../reference-images/changeling-three-forms-character.webp`
+
+## Character: The Dragonborn Horde
+
+- First appears: Issue #9, "The Angel's Test"
+- Role: Flying extradimensional army loyal to the Rival Artificer and the ancient enemy the academy was created to oppose.
+- Visual identifiers: Dragonborn warriors with varied orange, bronze, rust, and ember scales, many bearing blue markings that echo their leader. They wear worn purple, black, and brass armor, carry medieval weapons, possess powerful wings, and breathe orange fire.
+- Continuity notes: Pursue the heroes from the eastern fortress to the academy, overwhelm its defenders, and are peacefully banished to their home dimension by the Swamp Witch in Issue #11.
+- Reference image: `../reference-images/dragonborn-horde-character.webp`
+
+## Character: The Pegasus
+
+- First appears: Issue #9, "The Angel's Test"
+- Role: Magical rescue mount summoned during the party's escape from the eastern fortress.
+- Visual identifiers: Enormous white warhorse with broad feathered wings, silver-gray mane, dark intelligent eyes, practical brown-and-silver fantasy tack, worn saddle blankets, and subtle pale-blue light along its feathers.
+- Continuity notes: Carries Clifford, Angora, the Dwarf Rogue, changeling, Winged Cauldron, and recovered chronicle away from the Rival Artificer's castle and back to the academy.
+- Reference image: `../reference-images/pegasus-character.webp`

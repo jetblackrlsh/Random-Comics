@@ -40,3 +40,7 @@ Warm, adventurous high-fantasy comedy with sincere friendship at its center. Dan
 - In Issue #6, students from the allied schools prove the value of teamwork against a young kobold, accidentally provoking an underground colony into invading the academy.
 - In Issue #7, a Tiefling Artificer ends the invasion with protected Robot Companions, joins the academy as a teacher, strengthens Angora's sword, and reveals that the ancient Horde text was stolen by a rival artificer.
 - Clifford begins learning how to create a magical band of living instrument companions. Angora carries a mysterious glowing stone whose future purpose remains unknown.
+- In Issue #8, Clifford and Angora hire the Dwarf Rogue, spare a dangerous changeling child, and discover that the Rival Artificer is an orange-and-blue Dragonborn wizard commanding machines.
+- In Issue #9, the changeling reveals an angelic fey form, the rogue recovers the Horde Chronicle, and the Dragonborn Horde pursues the heroes back to the academy.
+- In Issue #10, the Horde invades the academy, the Tiefling Artificer returns with flying cauldron machines, and the Rival Artificer is revealed as their former master.
+- In Issue #11, the Swamp Witch uses the recovered chronicle to banish the Dragonborn Horde, while warning that the dimensional doorway may be opened again.
