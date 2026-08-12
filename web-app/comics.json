@@ -11733,6 +11733,62 @@
       "issueNumber": null,
       "issueLabel": "Standalone issue",
       "url": "comics/the-unmakers-rematch/"
+    },
+    {
+      "slug": "driftweb-laser-animals",
+      "folder": "driftweb-laser-animals",
+      "title": "Driftweb and the Laser Animals",
+      "publishedDate": "2026-08-12",
+      "summary": "When a web-parachuting street hero is blown into a secret kingdom above the clouds, he must survive its laser-eyed animal guardians, earn their trust, and help them stop an underground monster king—only to discover that his new allies define heroism more ruthlessly than he does.",
+      "cover": "../driftweb-laser-animals/assets/comic-pages/page-01-cover.webp",
+      "pdf": "../driftweb-laser-animals/output/pdf/driftweb-and-the-laser-animals.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../driftweb-laser-animals/assets/comic-pages/page-01-cover.webp",
+          "alt": "Driftweb and the Laser Animals comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../driftweb-laser-animals/assets/comic-pages/page-02.webp",
+          "alt": "Driftweb and the Laser Animals comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../driftweb-laser-animals/assets/comic-pages/page-03.webp",
+          "alt": "Driftweb and the Laser Animals comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../driftweb-laser-animals/assets/comic-pages/page-04.webp",
+          "alt": "Driftweb and the Laser Animals comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../driftweb-laser-animals/assets/comic-pages/page-05.webp",
+          "alt": "Driftweb and the Laser Animals comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../driftweb-laser-animals/assets/comic-pages/page-06.webp",
+          "alt": "Driftweb and the Laser Animals comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../driftweb-laser-animals/assets/comic-pages/page-07.webp",
+          "alt": "Driftweb and the Laser Animals comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../driftweb-laser-animals/assets/comic-pages/page-08.webp",
+          "alt": "Driftweb and the Laser Animals comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
+      "url": "comics/driftweb-laser-animals/"
     }
   ]
 }

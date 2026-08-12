@@ -1,0 +1,375 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="../../">
+    <!-- APP_META_START -->
+    <title>Driftweb and the Laser Animals | Random Comics</title>
+    <meta name="description" content="When a web-parachuting street hero is blown into a secret kingdom above the clouds, he must survive its laser-eyed animal guardians, earn their trust, and help them stop an...">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/driftweb-laser-animals/">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Random Comics">
+    <meta property="og:title" content="Driftweb and the Laser Animals | Random Comics">
+    <meta property="og:description" content="When a web-parachuting street hero is blown into a secret kingdom above the clouds, he must survive its laser-eyed animal guardians, earn their trust, and help them stop an...">
+    <meta property="og:url" content="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/driftweb-laser-animals/">
+    <meta property="og:image" content="https://jetblackrlsh.github.io/Random-Comics/driftweb-laser-animals/assets/comic-pages/page-01-cover.webp">
+    <meta property="og:image:alt" content="Driftweb and the Laser Animals | Random Comics cover art">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Driftweb and the Laser Animals | Random Comics">
+    <meta name="twitter:description" content="When a web-parachuting street hero is blown into a secret kingdom above the clouds, he must survive its laser-eyed animal guardians, earn their trust, and help them stop an...">
+    <meta name="twitter:image" content="https://jetblackrlsh.github.io/Random-Comics/driftweb-laser-animals/assets/comic-pages/page-01-cover.webp">
+    <meta name="twitter:image:alt" content="Driftweb and the Laser Animals | Random Comics cover art">
+    <meta property="article:published_time" content="2026-08-12">
+    <link rel="alternate" type="application/rss+xml" title="Random Comics RSS Feed" href="https://jetblackrlsh.github.io/Random-Comics/web-app/rss.xml">
+    <!-- APP_META_END -->
+    <!-- STRUCTURED_DATA_START -->
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"ComicIssue","name":"Driftweb and the Laser Animals","headline":"Driftweb and the Laser Animals","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/comics/driftweb-laser-animals/","description":"When a web-parachuting street hero is blown into a secret kingdom above the clouds, he must survive its laser-eyed animal guardians, earn their trust, and help them stop an underground monster king—only to discover that his new allies define heroism more ruthlessly than he does.","datePublished":"2026-08-12","image":"https://jetblackrlsh.github.io/Random-Comics/driftweb-laser-animals/assets/comic-pages/page-01-cover.webp","numberOfPages":8,"isPartOf":{"@type":"CreativeWorkSeries","name":"Random Comics","url":"https://jetblackrlsh.github.io/Random-Comics/web-app/"}}</script>
+    <!-- STRUCTURED_DATA_END -->
+    <link rel="preload" href="assets/site-background.png" as="image">
+    <link rel="icon" href="assets/random-comics-logo.png">
+    <link rel="sitemap" type="application/xml" href="sitemap.xml">
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body data-initial-route="comic:driftweb-laser-animals">
+    <div class="background-art" aria-hidden="true"></div>
+    <header class="site-header">
+        <a class="brand" href="./" data-route="home" aria-label="Random Comics home">
+        <img src="assets/random-comics-logo.png" alt="Random Comics">
+      </a>
+      <nav class="top-nav" aria-label="Primary navigation">
+        <a href="./" data-route="home">Read</a>
+        <a href="advanced-search/" data-route="advanced-search">Advanced Search</a>
+        <a href="about/" data-route="about">About</a>
+        <a href="ai-limitations/" data-route="ai-limitations">AI Limitations</a>
+        <a class="follow-link" href="follow/" data-route="follow">Follow</a>
+        <a href="other-comics/" data-route="other-comics">Other Comics</a>
+        <a class="review-link" href="https://docs.google.com/forms/d/e/1FAIpQLSftkXOkOSMjwOXjS4pFpF81lE4lF02NcWHECy4tesJy9V-9Dg/viewform?usp=publish-editor" target="_blank" rel="noopener">Review</a>
+        <a class="support-link" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="reader-layout" id="readerView">
+        <aside class="control-panel" aria-label="Comic controls">
+          <div class="intro-copy">
+            <h1>Random Comics</h1>
+            <p>Browse standalone stories and series issues, read vertically, share a favorite issue, or download it for later.</p>
+          </div>
+
+          <a class="follow-cta" href="follow/" data-route="follow">Follow for updates</a>
+
+          <label class="search-wrap" for="comicSearch">
+            <span>Search by title, date, or series</span>
+            <input id="comicSearch" type="search" autocomplete="off" placeholder="Try 2026, Deca-Form, or a series">
+          </label>
+
+          <div class="jump-actions" aria-label="Jump to comic">
+            <button type="button" id="earliestButton">Earliest</button>
+            <button type="button" id="latestButton">Latest</button>
+          </div>
+
+          <div class="comic-list" id="comicList" aria-label="Comics"></div>
+        </aside>
+
+        <article class="reader-panel" aria-live="polite">
+          <div class="reader-toolbar">
+            <div>
+              <p class="publish-date" id="comicDate"></p>
+              <h2 id="comicTitle">Loading comics...</h2>
+            </div>
+            <div class="reader-actions" aria-label="Selected comic actions">
+              <button class="icon-button reader-mode-button" type="button" id="readerModeButton" aria-pressed="false">Reader Mode</button>
+              <a class="icon-button" id="downloadButton" href="#" download>Download</a>
+              <button class="icon-button" type="button" id="shareButton">Share</button>
+              <a class="icon-button review" href="https://docs.google.com/forms/d/e/1FAIpQLSftkXOkOSMjwOXjS4pFpF81lE4lF02NcWHECy4tesJy9V-9Dg/viewform?usp=publish-editor" target="_blank" rel="noopener">Review</a>
+              <a class="icon-button support" href="https://donate.stripe.com/bJeeVd7LZfaWbCH78dbV602" target="_blank" rel="noopener">Support</a>
+            </div>
+          </div>
+          <p class="comic-summary" id="comicSummary"></p>
+          <div class="page-strip" id="pageStrip"></div>
+        </article>
+      </section>
+
+      <section class="about-view" id="aboutView" hidden>
+        <div class="about-copy">
+          <h1>About Random Comics</h1>
+          <p>Random Comics is a home for standalone one-shots, strange experiments, and comic series that grow beyond a single issue.</p>
+          <p>Some comics are based on dreams. Some come from sudden shower thoughts, weird news, superhero concepts, game-inspired ideas, or random sparks of imagination that demanded to become something real. Some ideas only need one finished comic. Others may build into recurring characters, settings, and issue-to-issue continuity.</p>
+          <p>The comics collected here may vary in tone, style, length, format, and genre. You might find superhero action, sci-fi weirdness, dream logic, horror, comedy, mythic strangeness, standalone stories, or the beginning of a larger series.</p>
+          <p>Think of this as a creative sketchbook turned into a comic archive: a place where spontaneous ideas can become finished stories, whether they stand alone or keep expanding.</p>
+          <p>Not every comic needs a universe.</p>
+          <p>But when a strange little story grows into one, Random Comics has room for that too.</p>
+        </div>
+      </section>
+
+      <section class="ai-limitations-view" id="aiLimitationsView" hidden>
+        <div class="ai-limitations-copy">
+          <h1>AI Limitations</h1>
+          <p>All of the comics and stories on Random Comics are created utilizing AI as part of the creative process.</p>
+          <p>That process can introduce visual inconsistencies, mistakes, awkward details, and story clarity issues. Characters may not look perfectly identical from page to page. Objects may shift. Text may be imperfect. Some scenes may explain too much, too little, or not quite land the way a fully controlled traditional production would.</p>
+          <p>Random Comics does not try to hide that AI is part of how these comics are made. The archive keeps many of those mistakes, inconsistencies, and rough edges as part of the finished work.</p>
+          <p>Readers are invited to accept the AI nature of these comics and appreciate them for what they are: strange, experimental, imperfect stories made with a developing creative technology.</p>
+          <p>As AI tools improve, visual mistakes and story issues will likely decrease over time. For now, the limitations are part of the texture of the project.</p>
+        </div>
+      </section>
+
+      <section class="follow-view" id="followView" hidden>
+        <div class="follow-copy">
+          <h1>Follow Random Comics</h1>
+          <p>Get new comic releases by email when the archive updates.</p>
+          <div class="followit--follow-form-container" attr-a attr-b attr-c attr-d attr-e attr-f>
+            <form action="https://api.follow.it/subscription-form/aGlRcUxKVXNNVCtnVTVNbnNwaERaczZ4WFQ4Um1GdFY2cm9wSmhKSGhKdi9MUE1TWk9VU3k2U3N0TnRZUkhkY3JtUG1jUk5aUzJBUUtQUFFValBaOHlsT3AwRlQ2MGplWGJ2d0g5aEhhR045eGFVZCt1MExpYllSWlRvYW5FRXV8RWF4OWhNaXY2WTRJZHQ1UzY4aGJmYlU2a1QrVkRDT2xWekVVNytaQTJoVT0=/8" method="post">
+              <div class="form-preview">
+                <div class="preview-heading">
+                  <h5>Get new comics by email</h5>
+                </div>
+                <div class="preview-input-field">
+                  <input type="email" name="email" required placeholder="Enter your email" spellcheck="false">
+                </div>
+                <div class="preview-submit-button">
+                  <button type="submit">Subscribe</button>
+                </div>
+              </div>
+            </form>
+            <a href="https://follow.it" class="powered-by-line">Powered by <img src="https://follow.it/images/colored-logo.svg" alt="follow.it" height="17"></a>
+          </div>
+        </div>
+      </section>
+
+      <section class="other-comics-view" id="otherComicsView" hidden>
+        <div class="other-comics-copy">
+          <h1>Other Comics</h1>
+          <p>Read more comic projects from Nicholas Benson.</p>
+          <div class="other-comics-grid" aria-label="Other comics">
+            <a class="comic-site-card" href="https://planet-man.randomcomics.art/" target="_blank" rel="noopener">
+              <span>Planet-Man Comics</span>
+              <small>Superhero comic adventures and series releases.</small>
+            </a>
+            <a class="comic-site-card" href="https://dreamcomics.randomcomics.art/" target="_blank" rel="noopener">
+              <span>Dream Comics</span>
+              <small>Dream-inspired comics and surreal story experiments.</small>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="advanced-search-view" id="advancedSearchView" hidden>
+        <div class="advanced-search-shell">
+          <div class="advanced-search-heading">
+            <div>
+              <h1>Advanced Search</h1>
+              <p>Search the full archive by date, series, issue title, issue description, and issue number.</p>
+            </div>
+            <p class="advanced-search-count" id="advancedSearchCount">Loading comics...</p>
+          </div>
+
+          <details class="advanced-filter-panel" id="advancedFilterPanel" open>
+            <summary>
+              <span>Search and filters</span>
+              <span class="advanced-filter-summary" id="advancedFilterSummary">No filters active</span>
+            </summary>
+
+            <form class="advanced-filter-grid" id="advancedSearchForm">
+              <label>
+                <span>Issue title</span>
+                <input id="advancedTitleSearch" type="search" autocomplete="off" placeholder="Search titles">
+              </label>
+              <label>
+                <span>Issue description</span>
+                <input id="advancedDescriptionSearch" type="search" autocomplete="off" placeholder="Search descriptions">
+              </label>
+              <label>
+                <span>Series name</span>
+                <select id="advancedSeriesFilter">
+                  <option value="">All series and standalones</option>
+                </select>
+              </label>
+              <label>
+                <span>Issue number</span>
+                <input id="advancedIssueNumber" type="number" min="1" step="1" inputmode="numeric" placeholder="Any issue">
+              </label>
+              <label>
+                <span>Published from</span>
+                <input id="advancedDateFrom" type="date">
+              </label>
+              <label>
+                <span>Published through</span>
+                <input id="advancedDateTo" type="date">
+              </label>
+              <label class="advanced-sort-control">
+                <span>Order results</span>
+                <select id="advancedSort">
+                  <option value="date-desc">Publishing date: High to Low</option>
+                  <option value="date-asc">Publishing date: Low to High</option>
+                  <option value="title-asc">ABC Order</option>
+                  <option value="title-desc">Reverse ABC Order</option>
+                  <option value="issue-asc">Issue Number Order</option>
+                  <option value="issue-desc">Reverse Issue Number Order</option>
+                  <option value="series-asc">Series Order</option>
+                  <option value="series-desc">Reverse Series Order</option>
+                </select>
+              </label>
+              <button class="advanced-reset-button" type="reset" id="advancedResetButton">Reset filters</button>
+            </form>
+          </details>
+
+          <div class="advanced-gallery" id="advancedGallery" aria-label="Advanced search comic gallery"></div>
+        </div>
+      </section>
+
+      <!-- SEO_CONTENT_START -->
+      <section class="seo-content comic-seo-content" aria-label="Driftweb and the Laser Animals comic details">
+        <h2>Driftweb and the Laser Animals</h2>
+        <p>Standalone issue</p>
+        <p>When a web-parachuting street hero is blown into a secret kingdom above the clouds, he must survive its laser-eyed animal guardians, earn their trust, and help them stop an underground monster king—only to discover that his new allies define heroism more ruthlessly than he does.</p>
+        <figure>
+          <img src="../driftweb-laser-animals/assets/comic-pages/page-01-cover.webp" alt="Driftweb and the Laser Animals cover art" loading="eager" decoding="async">
+          <figcaption>Published 2026-08-12 · 8 pages · Standalone issue</figcaption>
+        </figure>
+        <p><a href="https://jetblackrlsh.github.io/Random-Comics/driftweb-laser-animals/output/pdf/driftweb-and-the-laser-animals.pdf">Download Driftweb and the Laser Animals as a PDF</a></p>
+        <h3>More Random Comics</h3>
+        <ul>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/deca-form-island-retirement/">Deca-Form: Island Retirement</a> <span>2026-05-10 · 9 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/bun-bun-lightless-god/">Bun-Bun and the Lightless God</a> <span>2026-05-11 · 8 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/figure-fiddler-dust-demon/">Figure Fiddler: Dust Demon</a> <span>2026-05-11 · 8 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/particle-patriot-time-displacement/">Particle Patriot: Time Displacement</a> <span>2026-05-11 · 8 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/n7-hoax-file/">N-7: The Hoax File</a> <span>2026-05-12 · 8 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/the-dark-above/">The Dark Above</a> <span>2026-05-12 · 8 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/section-10-files/">The Section 10 Files</a> <span>2026-05-12 · 8 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/anamorphis-uap/">Anamorphis UAP</a> <span>2026-05-13 · 8 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/the-three-hands-issue-03/">The Battery Problem</a> <span>2026-05-13 · 8 pages · Issue #3 of The Three Hands</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/the-three-hands-issue-04/">The King's Three Hands</a> <span>2026-05-13 · 8 pages · Issue #4 of The Three Hands</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/the-three-hands-issue-02/">The Limits of Lucid Light</a> <span>2026-05-13 · 8 pages · Issue #2 of The Three Hands</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/the-three-hands-issue-01/">The Promise of Lucid Light</a> <span>2026-05-13 · 8 pages · Issue #1 of The Three Hands</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/backrooms-lucid-light/">Backrooms Lucid Light</a> <span>2026-05-14 · 9 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/generic-man-issue-01/">Nothing Special</a> <span>2026-05-14 · 8 pages · Issue #1 of Generic Man</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/spark-of-lucid-light/">Spark of Lucid Light</a> <span>2026-05-14 · 8 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/captain-galaxy-living-castle/">Captain Galaxy: The Living Castle</a> <span>2026-05-15 · 8 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-caster-issue-01/">Channel Zero</a> <span>2026-05-15 · 8 pages · Issue #1 of Dream Caster</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/divine-repo-issue-01/">Past Due Miracle</a> <span>2026-05-16 · 9 pages · Issue #1 of Divine Repo</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/quest-series-issue-01/">The God That Wasn't</a> <span>2026-05-16 · 9 pages · Issue #1 of Quest Series</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/storyverse-comics-issue-01/">The Map That Feared the Ending</a> <span>2026-05-16 · 8 pages · Issue #1 of Storyverse Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/storyverse-comics-issue-02/">Trigger Discipline</a> <span>2026-05-17 · 8 pages · Issue #2 of Storyverse Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/probably-dreaming-issue-01/">Probably Dreaming: Bite Me at 4:30</a> <span>2026-05-18 · 9 pages · Issue #1 of Probably Dreaming</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/power-flux-issue-01/">The Selfish Wish</a> <span>2026-05-18 · 8 pages · Issue #1 of Power Flux</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/sugarblade-starfang-issue-01/">The Dark Magic Candy Golem</a> <span>2026-05-19 · 8 pages · Issue #1 of Sugarblade &amp; Starfang</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/probably-dreaming-issue-02/">Probably Dreaming: Fangs for the Dream</a> <span>2026-05-20 · 8 pages · Issue #2 of Probably Dreaming</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/pop-the-imp-issue-01/">The Spinach Sailor Rescue</a> <span>2026-05-21 · 8 pages · Issue #1 of Pop The Imp</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-action-comics-issue-01/">Body of Fire</a> <span>2026-05-22 · 8 pages · Issue #1 of Superhero Action Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-action-comics-issue-02/">Crystal Hell</a> <span>2026-05-23 · 9 pages · Issue #2 of Superhero Action Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/super-school-rpg-cai-adaptation-issue-04/">Gravity Redemption</a> <span>2026-05-24 · 8 pages · Issue #4 of Super School RPG CAI Adaptation</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/super-school-rpg-cai-adaptation-issue-02/">Lava Leviathan Co-Op</a> <span>2026-05-24 · 8 pages · Issue #2 of Super School RPG CAI Adaptation</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/super-school-rpg-cai-adaptation-issue-03/">Shadowgarde Field Trip</a> <span>2026-05-24 · 8 pages · Issue #3 of Super School RPG CAI Adaptation</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/super-school-rpg-cai-adaptation-issue-01/">The Cosmic Debut</a> <span>2026-05-24 · 8 pages · Issue #1 of Super School RPG CAI Adaptation</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/wild-zone-guardians-issue-01/">Off-World Observer</a> <span>2026-05-25 · 8 pages · Issue #1 of Wild Zone Guardians</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/super-school-rpg-cai-adaptation-issue-05/">Reality Breakers Recap</a> <span>2026-05-25 · 8 pages · Issue #5 of Super School RPG CAI Adaptation</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/wild-zone-guardians-issue-02/">The First Cleansing</a> <span>2026-05-25 · 8 pages · Issue #2 of Wild Zone Guardians</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/wild-zone-guardians-issue-04/">False Hunger</a> <span>2026-05-26 · 8 pages · Issue #4 of Wild Zone Guardians</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/wild-zone-guardians-issue-03/">No Time To Rest</a> <span>2026-05-26 · 8 pages · Issue #3 of Wild Zone Guardians</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/nexus-nights-issue-03/">Keep It Steady</a> <span>2026-05-27 · 8 pages · Issue #3 of Nexus Nights</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/starborn-sisters-issue-02/">Seeds Above the Shore</a> <span>2026-05-27 · 8 pages · Issue #2 of Starborn Sisters</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/nexus-nights-issue-02/">Small Hand Wiggles</a> <span>2026-05-27 · 8 pages · Issue #2 of Nexus Nights</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/starborn-sisters-issue-01/">The First Starfall</a> <span>2026-05-27 · 8 pages · Issue #1 of Starborn Sisters</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/starborn-sisters-issue-03/">The Teacher's Crown</a> <span>2026-05-27 · 8 pages · Issue #3 of Starborn Sisters</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/nexus-nights-issue-01/">Tourist Processing</a> <span>2026-05-27 · 8 pages · Issue #1 of Nexus Nights</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-action-comics-issue-03/">The God Who Turned Away</a> <span>2026-05-28 · 8 pages · Issue #3 of Superhero Action Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/starborn-sisters-issue-05/">The Place Between Worlds</a> <span>2026-05-28 · 8 pages · Issue #5 of Starborn Sisters</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/starborn-sisters-issue-04/">Through the Broken Belt</a> <span>2026-05-28 · 8 pages · Issue #4 of Starborn Sisters</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/super-cowboy-issue-01/">I Called Your Bluff</a> <span>2026-05-29 · 8 pages · Issue #1 of Super Cowboy</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/super-cowboy-issue-02/">Lightning Rode With Me</a> <span>2026-05-30 · 8 pages · Issue #2 of Super Cowboy</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/faith-force-issue-02/">Armor Fed By Hell</a> <span>2026-05-31 · 8 pages · Issue #2 of Faith Force</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/super-cowboy-issue-03/">Stained Glass Souls</a> <span>2026-05-31 · 8 pages · Issue #3 of Super Cowboy</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/faith-force-issue-03/">The God Tree Ultimatum</a> <span>2026-05-31 · 8 pages · Issue #3 of Faith Force</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/faith-force-issue-01/">The Portal That Would Not Close</a> <span>2026-05-31 · 8 pages · Issue #1 of Faith Force</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/faith-force-issue-04/">Guardian Angels Of Earth</a> <span>2026-06-01 · 8 pages · Issue #4 of Faith Force</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/manager-of-monsters/">Manager Of Monsters</a> <span>2026-06-01 · 8 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-action-comics-issue-04/">Sky Iron Harvest</a> <span>2026-06-01 · 8 pages · Issue #4 of Superhero Action Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-04/">Hydrohero Womandroid</a> <span>2026-06-02 · 8 pages · Issue #4 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-02/">Monsters Beneath Our Streets</a> <span>2026-06-02 · 8 pages · Issue #2 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-01/">The Demon at the Door</a> <span>2026-06-02 · 8 pages · Issue #1 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-action-comics-issue-05/">The Soulforge Knight</a> <span>2026-06-02 · 8 pages · Issue #5 of Superhero Action Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-03/">The Voice That Broke The Hall</a> <span>2026-06-02 · 8 pages · Issue #3 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-06/">No Powers Needed</a> <span>2026-06-03 · 8 pages · Issue #6 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-05/">The Birthday Prophecy</a> <span>2026-06-03 · 8 pages · Issue #5 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-10/">The Puppet Signal</a> <span>2026-06-03 · 8 pages · Issue #10 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-09/">The Sponge Gate</a> <span>2026-06-03 · 8 pages · Issue #9 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-07/">The Strongest Human</a> <span>2026-06-03 · 8 pages · Issue #7 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-08/">The Web Between Worlds</a> <span>2026-06-03 · 8 pages · Issue #8 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-12/">The Heart Beneath The Metal</a> <span>2026-06-04 · 8 pages · Issue #12 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-11/">What If? Mandroid Failed</a> <span>2026-06-04 · 8 pages · Issue #11 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-13/">The Brimstone Confession</a> <span>2026-06-05 · 8 pages · Issue #13 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-15/">The Last Portal</a> <span>2026-06-05 · 8 pages · Issue #15 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-14/">The Pigeon In The Backrooms</a> <span>2026-06-05 · 8 pages · Issue #14 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-16/">Guardian Demon</a> <span>2026-06-06 · 8 pages · Issue #16 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-17/">A Smile Is Real</a> <span>2026-06-07 · 8 pages · Issue #17 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-19/">Possible Future: The Super Champions of Mandroid</a> <span>2026-06-07 · 8 pages · Issue #19 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-18/">The Armorer of Ainrete</a> <span>2026-06-07 · 8 pages · Issue #18 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-action-comics-issue-06/">The Seekers and Makiko</a> <span>2026-06-08 · 8 pages · Issue #6 of Superhero Action Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-20/">Beyond Norio's Shadow</a> <span>2026-06-09 · 8 pages · Issue #20 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-21/">God Queen of the Deep</a> <span>2026-06-10 · 8 pages · Issue #21 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-22/">Mandroid Men Origins</a> <span>2026-06-11 · 8 pages · Issue #22 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/40r53-last-free-ride/">40R53's Last Free Ride</a> <span>2026-06-12 · 8 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-23/">Emperor Rex</a> <span>2026-06-12 · 9 pages · Issue #23 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/northeast-pond-lights-file/">The Pond Lights File</a> <span>2026-06-12 · 8 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/fangs-of-zarkon-issue-01/">The Throne Can Wait</a> <span>2026-06-13 · 10 pages · Issue #1 of Fangs of Zarkon</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-action-comics-issue-07/">Venom in the Machine</a> <span>2026-06-14 · 8 pages · Issue #7 of Superhero Action Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-mandroid-issue-24/">The Demon in the Scanner</a> <span>2026-06-15 · 8 pages · Issue #24 of Superhero Mandroid</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-anime-chronicles-issue-01/">Armor Against the Eye</a> <span>2026-06-16 · 9 pages · Issue #1 of Dream Anime Chronicles</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-anime-chronicles-issue-02/">The Honor of Falling</a> <span>2026-06-17 · 9 pages · Issue #2 of Dream Anime Chronicles</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/eyes-above-the-storm/">Eyes Above the Storm</a> <span>2026-06-18 · 8 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-anime-chronicles-issue-03/">Feathers for the Crowd</a> <span>2026-06-18 · 9 pages · Issue #3 of Dream Anime Chronicles</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-anime-chronicles-issue-04/">The World That Still Breathed</a> <span>2026-06-19 · 9 pages · Issue #4 of Dream Anime Chronicles</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/grand-dale-first-road/">Grand Dale: The First Road</a> <span>2026-06-20 · 8 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-anime-chronicles-issue-05/">The Essence That Imagined Back</a> <span>2026-06-20 · 9 pages · Issue #5 of Dream Anime Chronicles</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-anime-chronicles-issue-06/">The Bracelet That Chose Both</a> <span>2026-06-21 · 9 pages · Issue #6 of Dream Anime Chronicles</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-anime-chronicles-issue-07/">The God Who Forgot Tomorrow</a> <span>2026-06-22 · 9 pages · Issue #7 of Dream Anime Chronicles</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/monomyth-comics-issue-01/">The Machine Who Chose the Door</a> <span>2026-06-23 · 18 pages · Issue #1 of Monomyth Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-anime-chronicles-issue-08/">The Warlord Who Waited</a> <span>2026-06-23 · 9 pages · Issue #8 of Dream Anime Chronicles</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/american-monomyth-comics-issue-01/">The Invisible Giants</a> <span>2026-06-24 · 22 pages · Issue #1 of American Monomyth Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-anime-chronicles-issue-09/">The Tornado That Asked Why</a> <span>2026-06-24 · 9 pages · Issue #9 of Dream Anime Chronicles</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-anime-chronicles-issue-10/">The Champion of Pie</a> <span>2026-06-25 · 9 pages · Issue #10 of Dream Anime Chronicles</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/american-monomyth-comics-issue-02/">The Mind That Froze Hell</a> <span>2026-06-25 · 22 pages · Issue #2 of American Monomyth Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-anime-chronicles-issue-11/">The Slayer Who Studied Gate</a> <span>2026-06-26 · 9 pages · Issue #11 of Dream Anime Chronicles</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-anime-chronicles-issue-12/">The Bear Who Closed the Door</a> <span>2026-06-27 · 9 pages · Issue #12 of Dream Anime Chronicles</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/american-monomyth-comics-issue-03/">The Last Hour of Y-Man</a> <span>2026-06-27 · 22 pages · Issue #3 of American Monomyth Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-anime-chronicles-issue-13/">The Inventor Who Bet on Balance</a> <span>2026-06-28 · 9 pages · Issue #13 of Dream Anime Chronicles</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/american-monomyth-comics-issue-04/">The Pestbright Piper</a> <span>2026-06-28 · 22 pages · Issue #4 of American Monomyth Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-anime-chronicles-issue-14/">The Gauntlet That Chose Mercy</a> <span>2026-06-29 · 9 pages · Issue #14 of Dream Anime Chronicles</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/american-monomyth-comics-issue-05/">The Master Rod</a> <span>2026-06-30 · 22 pages · Issue #5 of American Monomyth Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-anime-chronicles-issue-15/">The Temple That Answered Back</a> <span>2026-06-30 · 9 pages · Issue #15 of Dream Anime Chronicles</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/american-monomyth-comics-issue-06/">The Dragon Blade of Moon Lantern Temple</a> <span>2026-07-01 · 22 pages · Issue #6 of American Monomyth Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-anime-chronicles-issue-16/">The Show That Needed A Battery</a> <span>2026-07-01 · 9 pages · Issue #16 of Dream Anime Chronicles</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/american-monomyth-comics-issue-07/">The Orange Hero of Candy World</a> <span>2026-07-02 · 22 pages · Issue #7 of American Monomyth Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/american-monomyth-comics-issue-08/">The Angel Who Remembered Eden</a> <span>2026-07-03 · 22 pages · Issue #8 of American Monomyth Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/american-monomyth-comics-issue-09/">The Vines Beneath Cyberdon</a> <span>2026-07-03 · 22 pages · Issue #9 of American Monomyth Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/dream-anime-chronicles-issue-17/">The Vigilante Who Renovated Hope</a> <span>2026-07-04 · 9 pages · Issue #17 of Dream Anime Chronicles</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/american-monomyth-comics-issue-10/">The Ice Walls of Everbite</a> <span>2026-07-05 · 22 pages · Issue #10 of American Monomyth Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/american-monomyth-comics-issue-11/">The World Inside the Chaos Crystal</a> <span>2026-07-06 · 22 pages · Issue #11 of American Monomyth Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/american-monomyth-comics-issue-12/">The Arrows Above Witch High</a> <span>2026-07-08 · 22 pages · Issue #12 of American Monomyth Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/american-monomyth-comics-issue-13/">The Equal World Split</a> <span>2026-07-09 · 22 pages · Issue #13 of American Monomyth Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/superhero-action-comics-issue-08/">The Last Bloodline</a> <span>2026-07-10 · 8 pages · Issue #8 of Superhero Action Comics</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/hollow-meridian/">The Hollow Meridian</a> <span>2026-07-18 · 22 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/chain-of-embers/">Chain of Embers</a> <span>2026-07-24 · 13 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/lucid-sun/">Lucid Sun</a> <span>2026-07-26 · 8 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/the-last-witness/">The Last Witness</a> <span>2026-07-29 · 8 pages · Standalone issue</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/clifford-and-angora-issue-01/">Clifford and Angora's First Adventure</a> <span>2026-08-01 · 8 pages · Issue #1 of Clifford and Angora</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/clifford-and-angora-issue-04/">The Academy Challenge</a> <span>2026-08-02 · 8 pages · Issue #4 of Clifford and Angora</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/clifford-and-angora-issue-03/">The All-Star Arena</a> <span>2026-08-02 · 8 pages · Issue #3 of Clifford and Angora</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/clifford-and-angora-issue-02/">The Living Lute</a> <span>2026-08-02 · 8 pages · Issue #2 of Clifford and Angora</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/clifford-and-angora-issue-05/">The Returning Horde</a> <span>2026-08-02 · 8 pages · Issue #5 of Clifford and Angora</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/clifford-and-angora-issue-07/">The Artificer's Warning</a> <span>2026-08-04 · 8 pages · Issue #7 of Clifford and Angora</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/clifford-and-angora-issue-06/">The Kobold Uprising</a> <span>2026-08-04 · 8 pages · Issue #6 of Clifford and Angora</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/clifford-and-angora-issue-09/">The Angel's Test</a> <span>2026-08-08 · 8 pages · Issue #9 of Clifford and Angora</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/clifford-and-angora-issue-08/">The Demon Child</a> <span>2026-08-08 · 8 pages · Issue #8 of Clifford and Angora</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/clifford-and-angora-issue-11/">The Horde Banished</a> <span>2026-08-08 · 8 pages · Issue #11 of Clifford and Angora</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/clifford-and-angora-issue-10/">The Horde Comes Home</a> <span>2026-08-08 · 8 pages · Issue #10 of Clifford and Angora</span></li>
+          <li><a href="https://jetblackrlsh.github.io/Random-Comics/web-app/comics/the-unmakers-rematch/">Fortune's Thread: The Unmaker's Rematch</a> <span>2026-08-09 · 8 pages · Standalone issue</span></li>
+        </ul>
+      </section>
+      <!-- SEO_CONTENT_END -->
+    </main>
+  </body>
+</html>
