@@ -11789,6 +11789,62 @@
       "issueNumber": null,
       "issueLabel": "Standalone issue",
       "url": "comics/driftweb-laser-animals/"
+    },
+    {
+      "slug": "dungeon-starforge-for-the-patron",
+      "folder": "dungeon-starforge-for-the-patron",
+      "title": "Dungeon Starforge: For the Patron!",
+      "publishedDate": "2026-08-14",
+      "summary": "An earnest young Warlock reads every treasure and narrow victory inside the Procedural Starforge as proof of his patron's favor—until an Ancient Silver Dragon, two inert weapons, and one missed Eldritch Blast end the run for good.",
+      "cover": "../dungeon-starforge-for-the-patron/assets/comic-pages/page-01-cover.webp",
+      "pdf": "../dungeon-starforge-for-the-patron/output/pdf/dungeon-starforge-for-the-patron.pdf",
+      "pages": [
+        {
+          "number": 1,
+          "path": "../dungeon-starforge-for-the-patron/assets/comic-pages/page-01-cover.webp",
+          "alt": "Dungeon Starforge: For the Patron! comic page 1"
+        },
+        {
+          "number": 2,
+          "path": "../dungeon-starforge-for-the-patron/assets/comic-pages/page-02.webp",
+          "alt": "Dungeon Starforge: For the Patron! comic page 2"
+        },
+        {
+          "number": 3,
+          "path": "../dungeon-starforge-for-the-patron/assets/comic-pages/page-03.webp",
+          "alt": "Dungeon Starforge: For the Patron! comic page 3"
+        },
+        {
+          "number": 4,
+          "path": "../dungeon-starforge-for-the-patron/assets/comic-pages/page-04.webp",
+          "alt": "Dungeon Starforge: For the Patron! comic page 4"
+        },
+        {
+          "number": 5,
+          "path": "../dungeon-starforge-for-the-patron/assets/comic-pages/page-05.webp",
+          "alt": "Dungeon Starforge: For the Patron! comic page 5"
+        },
+        {
+          "number": 6,
+          "path": "../dungeon-starforge-for-the-patron/assets/comic-pages/page-06.webp",
+          "alt": "Dungeon Starforge: For the Patron! comic page 6"
+        },
+        {
+          "number": 7,
+          "path": "../dungeon-starforge-for-the-patron/assets/comic-pages/page-07.webp",
+          "alt": "Dungeon Starforge: For the Patron! comic page 7"
+        },
+        {
+          "number": 8,
+          "path": "../dungeon-starforge-for-the-patron/assets/comic-pages/page-08.webp",
+          "alt": "Dungeon Starforge: For the Patron! comic page 8"
+        }
+      ],
+      "pageCount": 8,
+      "series": null,
+      "issueNumber": null,
+      "issueLabel": "Standalone issue",
+      "url": "comics/dungeon-starforge-for-the-patron/"
     }
   ]
 }
